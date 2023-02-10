@@ -1,0 +1,1 @@
+103  null../results/KMeans-MV.MOPNAR-A.association_complicaciones_filtered/result0s0.tra

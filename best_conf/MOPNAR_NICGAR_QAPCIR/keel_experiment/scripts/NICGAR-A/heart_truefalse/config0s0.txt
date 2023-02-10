@@ -1,0 +1,12 @@
+algorithm = NICGAR
+inputData = "../datasets/heart_truefalse/heart_truefalse.dat" 
+outputData = "../results/NICGAR-A.heart_truefalse/result0s0.tra" "../results/NICGAR-A.heart_truefalse/result0s0.tst" "../results/NICGAR-A.heart_truefalse/result0s0e0.txt"  
+
+seed = 1343278692
+Number of Evaluations = 100000
+Population Size = 100
+Probability of Mutation = 0.1
+The factor of amplitude for each attribute of the dataset = 3.0
+Niching Threshold = 0.5
+Quality Threshold = 0.85
+Percent Update = 5.0

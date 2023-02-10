@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat" "../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat" 
+outputData = "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

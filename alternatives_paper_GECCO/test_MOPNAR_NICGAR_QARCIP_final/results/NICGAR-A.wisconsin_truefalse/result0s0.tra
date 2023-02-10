@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="CellSize" value="
+NOT [1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="CellShape" value="
+NOT [1.0, 3.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="BareNuclei" value="
+NOT [1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="NormalNucleoli" value="
+NOT [1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="EpithelialSize" value="
+NOT [1.0, 2.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="CellSize" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CellShape" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="BlandChromatin" value="
+NOT [1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MarginalAdhesion" value="
+NOT [1.0, 2.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="BareNuclei" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="CellSize" value="
+[2.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CellShape" value="
+[2.0, 6.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="BlandChromatin" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="EpithelialSize" value="
+[1.0, 2.0]" /></consequents>
+</rule>
+</association_rules>

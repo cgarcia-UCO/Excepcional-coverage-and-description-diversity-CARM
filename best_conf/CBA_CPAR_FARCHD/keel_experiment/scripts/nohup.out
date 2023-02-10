@@ -1,0 +1,3781 @@
+*** BEGIN OF EXPERIMENT Thu Jan 12 12:57:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/australian_truefalse_c/config0s0.txt Opening the file: ../datasets/australian_truefalse_c/australian_truefalse_c.dat.
+ >> processing: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/australian_truefalse_c/australian_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 12:57:31 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 12:57:31 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/australian_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat" "../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat.
+ >> processing: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 12:57:33 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 12:57:33 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/australian_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> processing: A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 5680
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 12:59:08 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 12:59:08 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/australian_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> processing: A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.australian_truefalse_c/KMeans-MV.UniformFrequency-Ds0.australian_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 12:59:11 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 12:59:11 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/australian_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat.
+ >> processing: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.australian_truefalse_c/KMeans-MVs0.australian_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:00 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:00 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/balance_truefalse_c/config0s0.txt Opening the file: ../datasets/balance_truefalse_c/balance_truefalse_c.dat.
+ >> processing: Left-weight, Left-distance, Right-weight, Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/balance_truefalse_c/balance_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:05 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:05 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/balance_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat" "../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat.
+ >> processing: Left-weight, Left-distance, Right-weight, Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:06 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:06 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/balance_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> processing: Left-weight,Left-distance,Right-weight,Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 81
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:08 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:08 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/balance_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> processing: Left-weight,Left-distance,Right-weight,Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:09 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:09 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/balance_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat.
+ >> processing: Left-weight, Left-distance, Right-weight, Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:18 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:18 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/car_truefalse_c/config0s0.txt Opening the file: ../datasets/car_truefalse_c/car_truefalse_c.dat.
+ >> processing: Buying, Maint, Doors, Persons, Lug_boot, Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/car_truefalse_c/car_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:19 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:19 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/car_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat" "../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat.
+ >> processing: Buying, Maint, Doors, Persons, Lug_boot, Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:21 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:21 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/car_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> processing: Buying,Maint,Doors,Persons,Lug_boot,Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 242
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:25 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:25 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/car_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> processing: Buying,Maint,Doors,Persons,Lug_boot,Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.car_truefalse_c/KMeans-MV.UniformFrequency-Ds0.car_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:01:28 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:01:28 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/car_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat.
+ >> processing: Buying, Maint, Doors, Persons, Lug_boot, Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.car_truefalse_c/KMeans-MVs0.car_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:03:10 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:03:10 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/chess_truefalse_c/config0s0.txt Opening the file: ../datasets/chess_truefalse_c/chess_truefalse_c.dat.
+ >> processing: Bkblk, Bknwy, Bkon8, Bkona, Bkspr, Bkxbq, Bkxcr, Bkxwp, Blxwp, Bxqsq, Cntxt, Dsopp, Dwipd, Hdchk, Katri5, Mulch, Qxmsq, R2ar8, Reskd, Reskr, Rimmx, Rkxwp, Rxmsq, Simpl, Skach, Skewr, Skrxp, Spcop, Stlmt, Thrsk, Wkcti, Wkna8, Wknck, Wkovl, Wkpos, Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/chess_truefalse_c/chess_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:03:11 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:03:11 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/chess_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat" "../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat.
+ >> processing: Bkblk, Bknwy, Bkon8, Bkona, Bkspr, Bkxbq, Bkxcr, Bkxwp, Blxwp, Bxqsq, Cntxt, Dsopp, Dwipd, Hdchk, Katri5, Mulch, Qxmsq, R2ar8, Reskd, Reskr, Rimmx, Rkxwp, Rxmsq, Simpl, Skach, Skewr, Skrxp, Spcop, Stlmt, Thrsk, Wkcti, Wkna8, Wknck, Wkovl, Wkpos, Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:03:15 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:03:15 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/chess_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> processing: Bkblk,Bknwy,Bkon8,Bkona,Bkspr,Bkxbq,Bkxcr,Bkxwp,Blxwp,Bxqsq,Cntxt,Dsopp,Dwipd,Hdchk,Katri5,Mulch,Qxmsq,R2ar8,Reskd,Reskr,Rimmx,Rkxwp,Rxmsq,Simpl,Skach,Skewr,Skrxp,Spcop,Stlmt,Thrsk,Wkcti,Wkna8,Wknck,Wkovl,Wkpos,Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 2942
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:03:24 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:03:24 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/chess_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> processing: Bkblk,Bknwy,Bkon8,Bkona,Bkspr,Bkxbq,Bkxcr,Bkxwp,Blxwp,Bxqsq,Cntxt,Dsopp,Dwipd,Hdchk,Katri5,Mulch,Qxmsq,R2ar8,Reskd,Reskr,Rimmx,Rkxwp,Rxmsq,Simpl,Skach,Skewr,Skrxp,Spcop,Stlmt,Thrsk,Wkcti,Wkna8,Wknck,Wkovl,Wkpos,Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.chess_truefalse_c/KMeans-MV.UniformFrequency-Ds0.chess_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:03:26 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:03:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/chess_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat.
+ >> processing: Bkblk, Bknwy, Bkon8, Bkona, Bkspr, Bkxbq, Bkxcr, Bkxwp, Blxwp, Bxqsq, Cntxt, Dsopp, Dwipd, Hdchk, Katri5, Mulch, Qxmsq, R2ar8, Reskd, Reskr, Rimmx, Rkxwp, Rxmsq, Simpl, Skach, Skewr, Skrxp, Spcop, Stlmt, Thrsk, Wkcti, Wkna8, Wknck, Wkovl, Wkpos, Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.chess_truefalse_c/KMeans-MVs0.chess_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:44:32 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:44:32 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/german_truefalse_c/config0s0.txt Opening the file: ../datasets/german_truefalse_c/german_truefalse_c.dat.
+ >> processing: StatusAccount, DurationMonth, CreditHistory, Purpose, CreditAmount, SavingsAccount, EmploymentSince, InstallmentRate, StatusAndSex, Guarantors, ResidenceSince, Property, Age, InstallmentPlans, Housing, NCredits, Job, NPeopleMain, Telephone, ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/german_truefalse_c/german_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:45:15 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:45:15 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/german_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat" "../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat.
+ >> processing: StatusAccount, DurationMonth, CreditHistory, Purpose, CreditAmount, SavingsAccount, EmploymentSince, InstallmentRate, StatusAndSex, Guarantors, ResidenceSince, Property, Age, InstallmentPlans, Housing, NCredits, Job, NPeopleMain, Telephone, ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:45:19 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:45:19 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/german_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> processing: StatusAccount,DurationMonth,CreditHistory,Purpose,CreditAmount,SavingsAccount,EmploymentSince,InstallmentRate,StatusAndSex,Guarantors,ResidenceSince,Property,Age,InstallmentPlans,Housing,NCredits,Job,NPeopleMain,Telephone,ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 8288
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:46:00 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:46:00 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/german_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> processing: StatusAccount,DurationMonth,CreditHistory,Purpose,CreditAmount,SavingsAccount,EmploymentSince,InstallmentRate,StatusAndSex,Guarantors,ResidenceSince,Property,Age,InstallmentPlans,Housing,NCredits,Job,NPeopleMain,Telephone,ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.german_truefalse_c/KMeans-MV.UniformFrequency-Ds0.german_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:46:07 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:46:07 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/german_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat.
+ >> processing: StatusAccount, DurationMonth, CreditHistory, Purpose, CreditAmount, SavingsAccount, EmploymentSince, InstallmentRate, StatusAndSex, Guarantors, ResidenceSince, Property, Age, InstallmentPlans, Housing, NCredits, Job, NPeopleMain, Telephone, ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.german_truefalse_c/KMeans-MVs0.german_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:56:27 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:56:27 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/glass_truefalse_c/config0s0.txt Opening the file: ../datasets/glass_truefalse_c/glass_truefalse_c.dat.
+ >> processing: RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/glass_truefalse_c/glass_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:56:33 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:56:33 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/glass_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat" "../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat.
+ >> processing: RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:56:34 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:56:34 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/glass_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> processing: RI,Na,Mg,Al,Si,K,Ca,Ba,Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 4904
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:56:43 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:56:43 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/glass_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> processing: RI,Na,Mg,Al,Si,K,Ca,Ba,Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.glass_truefalse_c/KMeans-MV.UniformFrequency-Ds0.glass_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:56:44 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:56:44 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/glass_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat.
+ >> processing: RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.glass_truefalse_c/KMeans-MVs0.glass_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:57:00 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:57:00 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/heart_truefalse_c/config0s0.txt Opening the file: ../datasets/heart_truefalse_c/heart_truefalse_c.dat.
+ >> processing: Age, Sex, ChestPainType, RestBloodPressure, SerumCholestoral, FastingBloodSugar, ResElectrocardiographic, MaxHeartRate, ExerciseInduced, Oldpeak, Slope, MajorVessels, Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/heart_truefalse_c/heart_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:57:06 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:57:06 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/heart_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat" "../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat.
+ >> processing: Age, Sex, ChestPainType, RestBloodPressure, SerumCholestoral, FastingBloodSugar, ResElectrocardiographic, MaxHeartRate, ExerciseInduced, Oldpeak, Slope, MajorVessels, Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:57:07 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:57:07 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/heart_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> processing: Age,Sex,ChestPainType,RestBloodPressure,SerumCholestoral,FastingBloodSugar,ResElectrocardiographic,MaxHeartRate,ExerciseInduced,Oldpeak,Slope,MajorVessels,Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 3113
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:58:38 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:58:38 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/heart_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> processing: Age,Sex,ChestPainType,RestBloodPressure,SerumCholestoral,FastingBloodSugar,ResElectrocardiographic,MaxHeartRate,ExerciseInduced,Oldpeak,Slope,MajorVessels,Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.heart_truefalse_c/KMeans-MV.UniformFrequency-Ds0.heart_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:58:40 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:58:40 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/heart_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat.
+ >> processing: Age, Sex, ChestPainType, RestBloodPressure, SerumCholestoral, FastingBloodSugar, ResElectrocardiographic, MaxHeartRate, ExerciseInduced, Oldpeak, Slope, MajorVessels, Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.heart_truefalse_c/KMeans-MVs0.heart_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:59:38 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:59:38 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/hepatitis_truefalse_c/config0s0.txt Opening the file: ../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat.
+ >> processing: Age, Sex, Steroid, Antivirals, Fatigue, Malaise, Anorexia, LiverBig, LiverFirm, SpleenPalpable, Spiders, Ascites, Varices, Bilirubin, AlkPhosphate, Sgot, AlbuMin, ProTime, Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:59:40 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:59:40 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/hepatitis_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat" "../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat.
+ >> processing: Age, Sex, Steroid, Antivirals, Fatigue, Malaise, Anorexia, LiverBig, LiverFirm, SpleenPalpable, Spiders, Ascites, Varices, Bilirubin, AlkPhosphate, Sgot, AlbuMin, ProTime, Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 13:59:41 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 13:59:41 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/hepatitis_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> processing: Age,Sex,Steroid,Antivirals,Fatigue,Malaise,Anorexia,LiverBig,LiverFirm,SpleenPalpable,Spiders,Ascites,Varices,Bilirubin,AlkPhosphate,Sgot,AlbuMin,ProTime,Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 2369
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:10 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:10 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/hepatitis_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> processing: Age,Sex,Steroid,Antivirals,Fatigue,Malaise,Anorexia,LiverBig,LiverFirm,SpleenPalpable,Spiders,Ascites,Varices,Bilirubin,AlkPhosphate,Sgot,AlbuMin,ProTime,Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.hepatitis_truefalse_c/KMeans-MV.UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:11 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:11 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/hepatitis_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat.
+ >> processing: Age, Sex, Steroid, Antivirals, Fatigue, Malaise, Anorexia, LiverBig, LiverFirm, SpleenPalpable, Spiders, Ascites, Varices, Bilirubin, AlkPhosphate, Sgot, AlbuMin, ProTime, Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.hepatitis_truefalse_c/KMeans-MVs0.hepatitis_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:25 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:25 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/iris_truefalse_c/config0s0.txt Opening the file: ../datasets/iris_truefalse_c/iris_truefalse_c.dat.
+ >> processing: SepalLength, SepalWidth, PetalLength, PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/iris_truefalse_c/iris_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:28 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:28 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/iris_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat" "../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat.
+ >> processing: SepalLength, SepalWidth, PetalLength, PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:28 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:28 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/iris_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> processing: SepalLength,SepalWidth,PetalLength,PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 73
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:30 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:30 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/iris_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> processing: SepalLength,SepalWidth,PetalLength,PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.iris_truefalse_c/KMeans-MV.UniformFrequency-Ds0.iris_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:31 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:31 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/iris_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat.
+ >> processing: SepalLength, SepalWidth, PetalLength, PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.iris_truefalse_c/KMeans-MVs0.iris_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:36 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:36 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/tic-tac-toe_truefalse_c/config0s0.txt Opening the file: ../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat.
+ >> processing: TopLeft, TopMiddle, TopRight, MiddleLeft, MiddleMiddle, MiddleRight, BottomLeft, BottomMiddle, BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:37 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:37 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/tic-tac-toe_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat" "../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat.
+ >> processing: TopLeft, TopMiddle, TopRight, MiddleLeft, MiddleMiddle, MiddleRight, BottomLeft, BottomMiddle, BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:39 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:39 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/tic-tac-toe_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> processing: TopLeft,TopMiddle,TopRight,MiddleLeft,MiddleMiddle,MiddleRight,BottomLeft,BottomMiddle,BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 1932
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:56 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:56 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/tic-tac-toe_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> processing: TopLeft,TopMiddle,TopRight,MiddleLeft,MiddleMiddle,MiddleRight,BottomLeft,BottomMiddle,BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_truefalse_c/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:00:59 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:00:59 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/tic-tac-toe_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat.
+ >> processing: TopLeft, TopMiddle, TopRight, MiddleLeft, MiddleMiddle, MiddleRight, BottomLeft, BottomMiddle, BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.tic-tac-toe_truefalse_c/KMeans-MVs0.tic-tac-toe_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:03:21 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:03:21 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/wine_truefalse_c/config0s0.txt Opening the file: ../datasets/wine_truefalse_c/wine_truefalse_c.dat.
+ >> processing: Alcohol, MalicAcid, Ash, AlcalinityOfAsh, Magnesium, TotalPhenols, flavanoids, NonflavanoidsPhenols, Proanthocyanins, ColorIntensity, Hue, OD280/OD315, Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wine_truefalse_c/wine_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:03:25 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:03:25 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/wine_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat" "../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat.
+ >> processing: Alcohol, MalicAcid, Ash, AlcalinityOfAsh, Magnesium, TotalPhenols, flavanoids, NonflavanoidsPhenols, Proanthocyanins, ColorIntensity, Hue, OD280/OD315, Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:03:26 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:03:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/wine_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> processing: Alcohol,MalicAcid,Ash,AlcalinityOfAsh,Magnesium,TotalPhenols,flavanoids,NonflavanoidsPhenols,Proanthocyanins,ColorIntensity,Hue,OD280/OD315,Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 15095
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:04:48 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:04:48 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/wine_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> processing: Alcohol,MalicAcid,Ash,AlcalinityOfAsh,Magnesium,TotalPhenols,flavanoids,NonflavanoidsPhenols,Proanthocyanins,ColorIntensity,Hue,OD280/OD315,Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wine_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wine_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:04:49 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:04:49 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/wine_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat.
+ >> processing: Alcohol, MalicAcid, Ash, AlcalinityOfAsh, Magnesium, TotalPhenols, flavanoids, NonflavanoidsPhenols, Proanthocyanins, ColorIntensity, Hue, OD280/OD315, Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.wine_truefalse_c/KMeans-MVs0.wine_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:02 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:05:02 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/MV-KMeans.jar ./KMeans-MV/wisconsin_truefalse_c/config0s0.txt Opening the file: ../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat.
+ >> processing: ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c-tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:10 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:05:10 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./KMeans-MV.UniformFrequency-D/wisconsin_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat" "../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tst.dat" 
+Line: outputData = "../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/result1s0e0.txt"  
+Line: seed = 1343278692
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat.
+ >> processing: ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:12 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:05:12 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CBA2.jar ./KMeans-MV.UniformFrequency-D.CBA2-C/wisconsin_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> processing: ClumpThickness,CellSize,CellShape,MarginalAdhesion,EpithelialSize,BareNuclei,BlandChromatin,NormalNucleoli,Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Number of rule generated in Apriori: 284
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:18 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:05:18 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-CPAR.jar ./KMeans-MV.UniformFrequency-D.CPAR-C/wisconsin_truefalse_c/config0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> processing: ClumpThickness,CellSize,CellShape,MarginalAdhesion,EpithelialSize,BareNuclei,BlandChromatin,NormalNucleoli,Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.UniformFrequency-D.wisconsin_truefalse_c/KMeans-MV.UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:19 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:05:19 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Clas-Fuzzy-FARCHD.jar ./KMeans-MV.Fuzzy-FARCHD-C/wisconsin_truefalse_c/config0s0.txt Executing Algorithm.
+
+Reading the training set: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat.
+ >> processing: ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the validation set: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Reading the test set: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tst.dat
+Opening the file: ../datasets/KMeans-MV.wisconsin_truefalse_c/KMeans-MVs0.wisconsin_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Building classifier
+Algorithm Finished
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:05:52 CET 2023
+
+Experiment completed successfully

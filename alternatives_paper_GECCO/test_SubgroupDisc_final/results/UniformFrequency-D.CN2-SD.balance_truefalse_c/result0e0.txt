@@ -1,0 +1,34 @@
+
+Rule 1: IF  Left-weight > 1.0 AND Right-weight <= 1.0 AND Left-distance > 1.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 2: IF  Right-weight > 1.0 AND Left-weight <= 1.0 AND Right-distance > 1.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 3: IF  Left-weight > 1.0 AND Right-distance <= 1.0 AND Left-distance > 1.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 4: IF  Left-distance <= 1.0 AND Right-weight > 1.0 AND Right-distance > 1.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 5: IF  Left-weight <> 3.0 AND Right-weight = 3.0 AND Left-distance <> 3.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 6: IF  Right-weight <= 2.0 AND Left-weight > 2.0 AND Right-distance <= 2.0 THEN Balance_scale -> False     [ 0.9888888888888889 0.011111111111111112]
+Rule 7: IF  Right-weight > 3.0 AND Left-weight <= 3.0 AND Left-distance <= 3.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 8: IF  Left-weight <= 2.0 AND Right-distance > 2.0 AND Left-distance <= 2.0 THEN Balance_scale -> False     [ 0.9888888888888889 0.011111111111111112]
+Rule 9: IF  Left-distance > 3.0 AND Right-distance <= 3.0 AND Right-weight <= 3.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 10: IF  Left-distance = 3.0 AND Right-weight <> 3.0 AND Right-distance <> 3.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 11: IF  Left-distance <= 1.0 AND Right-distance > 1.0 AND Right-weight > 0.0 THEN Balance_scale -> False     [ 0.975 0.025]
+Rule 12: IF  Left-distance = 2.0 AND Right-weight <> 2.0 AND Right-distance <> 2.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 13: IF  Right-weight = 0.0 AND Left-weight <> 0.0 AND Left-distance <> 0.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 14: IF  Right-weight = 2.0 AND Left-weight <> 2.0 AND Left-distance <> 2.0 THEN Balance_scale -> False     [ 1.0 0.0]
+Rule 15: IF  Left-distance = 0.0 AND Right-distance <> 0.0 AND Right-weight <> 0.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 16: IF  Right-distance = 0.0 AND Left-weight <> 0.0 AND Left-distance <> 0.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 17: IF  Left-weight = 0.0 AND Right-distance <> 0.0 AND Right-weight <> 0.0 THEN Balance_scale -> False     [ 0.9875 0.0125]
+Rule 18: IF  Left-distance <= 3.0 AND Right-distance <= 3.0 AND Left-weight <= 3.0 AND Right-weight <= 3.0 THEN Balance_scale -> True     [ 0.875 0.125]
+Rule 19: IF  Right-distance > 3.0 AND Left-weight > 3.0 THEN Balance_scale -> True     [ 0.8 0.2]
+Rule 20: IF  Right-weight > 2.0 AND Left-weight <> 2.0 AND Left-distance <> 2.0 AND Right-distance <> 2.0 THEN Balance_scale -> True     [ 0.8828125 0.1171875]
+Rule 21: IF  Right-weight <> 3.0 AND Left-weight <> 3.0 AND Left-distance <> 3.0 AND Right-distance <> 3.0 THEN Balance_scale -> True     [ 0.890625 0.109375]
+
+####Average results for test data####
+Avg. Rule length: 21
+Avg. Number of attributes by rule: 3.0952380952380953
+Avg. Coverage: 0.1619047619047619
+Avg. Support Completo: 0.9568
+Avg. Significance: 9.227754301674473
+Avg. Unusualness: 0.017789914285516788
+
+Accuracy Training: 0.9216
+Accuracy Test: 0.9216;
+  Time; 25

@@ -1,0 +1,8 @@
+algorithm = Classif. Predictive Association Rules
+inputData = "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/KMeans-MV.UniformFrequency-Ds0.complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/KMeans-MV.UniformFrequency-Ds0.complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/KMeans-MV.UniformFrequency-Ds0.complicaciones_filtered1tst.dat" ""../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/result1s0e0.txt" " 
+outputData = "../results/KMeans-MV.UniformFrequency-D.CPAR-C.complicaciones_filtered/result0.tra" "../results/KMeans-MV.UniformFrequency-D.CPAR-C.complicaciones_filtered/result0.tst" "../results/KMeans-MV.UniformFrequency-D.CPAR-C.complicaciones_filtered/result0e0.txt"  "../results/KMeans-MV.UniformFrequency-D.CPAR-C.complicaciones_filtered/result0e1.txt"  
+
+Number of rules combining for every example (delta) = 0.05
+Minimum Gain = 0.7
+Weight decay factor (alfa) = 0.66
+Number of rules used in prediction = 5

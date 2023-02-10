@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.complicaciones_filtered/KMeans-MVs0.complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.complicaciones_filtered/KMeans-MVs0.complicaciones_filtered1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/KMeans-MV.UniformFrequency-Ds0.complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/KMeans-MV.UniformFrequency-Ds0.complicaciones_filtered1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.complicaciones_filtered/result1s0e0.txt"  
+
+seed = 1343278692
+numIntervals = 10

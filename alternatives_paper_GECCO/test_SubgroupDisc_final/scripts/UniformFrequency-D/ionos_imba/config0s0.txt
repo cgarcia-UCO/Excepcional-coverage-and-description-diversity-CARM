@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/ionos_imba/ionos_imba.dat" "../datasets/ionos_imba/ionos_imba.dat" 
+outputData = "../datasets/UniformFrequency-D.ionos_imba/UniformFrequency-Ds0.ionos_imba1tra.dat" "../datasets/UniformFrequency-D.ionos_imba/UniformFrequency-Ds0.ionos_imba1tst.dat" "../datasets/UniformFrequency-D.ionos_imba/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

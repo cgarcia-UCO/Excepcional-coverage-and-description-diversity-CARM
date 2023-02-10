@@ -1,0 +1,1 @@
+6  ../datasets/australian_truefalse/australian_truefalse.dat../results/NICGAR-A.australian_truefalse/result0s0.tra

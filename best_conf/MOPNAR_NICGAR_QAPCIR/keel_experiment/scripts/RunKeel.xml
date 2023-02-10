@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/australian_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/australian_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/australian_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/balance_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/balance_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/balance_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/car_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/car_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/car_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/chess_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/chess_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/chess_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/german_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/german_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/german_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/glass_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/glass_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/glass_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/heart_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/heart_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/heart_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/hepatitis_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/hepatitis_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/hepatitis_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/iris_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/iris_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/iris_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/tic-tac-toe_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/tic-tac-toe_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/tic-tac-toe_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/wine_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/wine_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/wine_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./MOPNAR-A/wisconsin_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./NICGAR-A/wisconsin_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./QAR_CIP_NSGAII-A/wisconsin_truefalse/config0s0.txt</scriptFile>
+  </sentence>
+</execution>
+

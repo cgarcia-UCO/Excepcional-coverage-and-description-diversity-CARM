@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/australian_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/australian_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/australian_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/australian_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/australian_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/balance_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/balance_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/balance_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/balance_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/balance_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/car_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/car_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/car_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/car_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/car_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/chess_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/chess_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/chess_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/chess_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/chess_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/german_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/german_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/german_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/german_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/german_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/glass_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/glass_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/glass_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/glass_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/glass_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/heart_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/heart_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/heart_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/heart_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/heart_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/hepatitis_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/hepatitis_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/hepatitis_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/hepatitis_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/hepatitis_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/iris_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/iris_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/iris_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/iris_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/iris_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/tic-tac-toe_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/tic-tac-toe_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/tic-tac-toe_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/tic-tac-toe_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/tic-tac-toe_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/wine_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/wine_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/wine_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/wine_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/wine_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/wisconsin_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D/wisconsin_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CBA2.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CBA2-C/wisconsin_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-CPAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.UniformFrequency-D.CPAR-C/wisconsin_truefalse_c/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./KMeans-MV.Fuzzy-FARCHD-C/wisconsin_truefalse_c/config0s0.txt</scriptFile>
+  </sentence>
+</execution>
+

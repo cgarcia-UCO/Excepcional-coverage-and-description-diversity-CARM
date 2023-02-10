@@ -1,0 +1,53 @@
+Cut point 0 of attribute 0 : 1.5
+Cut point 1 of attribute 0 : 2.0
+Cut point 2 of attribute 0 : 3.5
+Cut point 3 of attribute 0 : 4.5
+Cut point 4 of attribute 0 : 5.5
+Cut point 5 of attribute 0 : 7.5
+Cut point 6 of attribute 0 : 9.0
+Number of cut points of attribute 0 : 7
+Cut point 0 of attribute 1 : 1.5
+Cut point 1 of attribute 1 : 2.5
+Cut point 2 of attribute 1 : 3.0
+Cut point 3 of attribute 1 : 5.0
+Cut point 4 of attribute 1 : 9.5
+Number of cut points of attribute 1 : 5
+Cut point 0 of attribute 2 : 1.5
+Cut point 1 of attribute 2 : 2.0
+Cut point 2 of attribute 2 : 3.5
+Cut point 3 of attribute 2 : 6.5
+Cut point 4 of attribute 2 : 8.5
+Number of cut points of attribute 2 : 5
+Cut point 0 of attribute 3 : 1.5
+Cut point 1 of attribute 3 : 2.5
+Cut point 2 of attribute 3 : 3.5
+Cut point 3 of attribute 3 : 4.0
+Cut point 4 of attribute 3 : 8.5
+Number of cut points of attribute 3 : 5
+Cut point 0 of attribute 4 : 1.0
+Cut point 1 of attribute 4 : 2.5
+Cut point 2 of attribute 4 : 3.5
+Cut point 3 of attribute 4 : 4.0
+Cut point 4 of attribute 4 : 6.5
+Number of cut points of attribute 4 : 5
+Cut point 0 of attribute 5 : 1.5
+Cut point 1 of attribute 5 : 2.5
+Cut point 2 of attribute 5 : 4.5
+Cut point 3 of attribute 5 : 8.5
+Cut point 4 of attribute 5 : 9.0
+Number of cut points of attribute 5 : 5
+Cut point 0 of attribute 6 : 1.5
+Cut point 1 of attribute 6 : 2.5
+Cut point 2 of attribute 6 : 3.5
+Cut point 3 of attribute 6 : 4.5
+Cut point 4 of attribute 6 : 5.0
+Cut point 5 of attribute 6 : 7.5
+Number of cut points of attribute 6 : 6
+Cut point 0 of attribute 7 : 1.5
+Cut point 1 of attribute 7 : 2.0
+Cut point 2 of attribute 7 : 5.5
+Cut point 3 of attribute 7 : 9.5
+Number of cut points of attribute 7 : 4
+Cut point 0 of attribute 8 : 1.5
+Cut point 1 of attribute 8 : 3.5
+Number of cut points of attribute 8 : 2

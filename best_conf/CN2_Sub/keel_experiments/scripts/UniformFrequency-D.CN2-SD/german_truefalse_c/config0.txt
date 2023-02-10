@@ -1,0 +1,9 @@
+algorithm = CN2 Algorithm for Subgroup Discovery
+inputData = "../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tst.dat" ""../datasets/UniformFrequency-D.german_truefalse_c/result1s0e0.txt" " 
+outputData = "../results/UniformFrequency-D.CN2-SD.german_truefalse_c/result0.tra" "../results/UniformFrequency-D.CN2-SD.german_truefalse_c/result0.tst" "../results/UniformFrequency-D.CN2-SD.german_truefalse_c/result0e0.txt"  
+
+Nu_Value = 0.5
+Percentage_Examples_To_Cover = 0.95
+Star_Size = 5
+Use_multiplicative_weigths = YES
+Use_Disjunt_Selectors = NO

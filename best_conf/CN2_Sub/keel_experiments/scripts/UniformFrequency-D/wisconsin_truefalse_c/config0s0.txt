@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat" "../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat" 
+outputData = "../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.wisconsin_truefalse_c/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

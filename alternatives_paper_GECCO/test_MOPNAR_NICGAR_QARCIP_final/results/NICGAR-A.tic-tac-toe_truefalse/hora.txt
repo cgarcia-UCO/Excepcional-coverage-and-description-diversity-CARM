@@ -1,0 +1,1 @@
+00:00:11  ../results/NICGAR-A.tic-tac-toe_truefalse/result0s0.tra

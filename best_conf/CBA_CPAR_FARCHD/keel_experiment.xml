@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph objective="0" IDExperiment="6" typeExperiment="0">
+    <experimentSeed>12345678</experimentSeed>
+    <nameGraph>my_graph</nameGraph>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="0" typeNode="0" xsi:type="data-set">
+        <positionNode positionX="97" positionY="188"/>
+        <Description>
+            <subType>0</subType>
+            <name>australian_truefalse_c</name>
+            <name>balance_truefalse_c</name>
+            <name>car_truefalse_c</name>
+            <name>chess_truefalse_c</name>
+            <name>german_truefalse_c</name>
+            <name>glass_truefalse_c</name>
+            <name>heart_truefalse_c</name>
+            <name>hepatitis_truefalse_c</name>
+            <name>iris_truefalse_c</name>
+            <name>tic-tac-toe_truefalse_c</name>
+            <name>wine_truefalse_c</name>
+            <name>wisconsin_truefalse_c</name>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <path>/data/</path>
+            <jarName>australian_truefalse_c.jar</jarName>
+            <jarName>balance_truefalse_c.jar</jarName>
+            <jarName>car_truefalse_c.jar</jarName>
+            <jarName>chess_truefalse_c.jar</jarName>
+            <jarName>german_truefalse_c.jar</jarName>
+            <jarName>glass_truefalse_c.jar</jarName>
+            <jarName>heart_truefalse_c.jar</jarName>
+            <jarName>hepatitis_truefalse_c.jar</jarName>
+            <jarName>iris_truefalse_c.jar</jarName>
+            <jarName>tic-tac-toe_truefalse_c.jar</jarName>
+            <jarName>wine_truefalse_c.jar</jarName>
+            <jarName>wisconsin_truefalse_c.jar</jarName>
+        </Description>
+        <Files>
+            <string xsi:type="java:java.lang.String">australian_truefalse_c.dat,australian_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">balance_truefalse_c.dat,balance_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">car_truefalse_c.dat,car_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">chess_truefalse_c.dat,chess_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">german_truefalse_c.dat,german_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">glass_truefalse_c.dat,glass_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">heart_truefalse_c.dat,heart_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">hepatitis_truefalse_c.dat,hepatitis_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">iris_truefalse_c.dat,iris_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">tic-tac-toe_truefalse_c.dat,tic-tac-toe_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">wine_truefalse_c.dat,wine_truefalse_c-tst.dat</string>
+        </Files>
+        <Files>
+            <string xsi:type="java:java.lang.String">wisconsin_truefalse_c.dat,wisconsin_truefalse_c-tst.dat</string>
+        </Files>
+    </Node>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="1" typeNode="1" xsi:type="algorithm">
+        <positionNode positionX="235" positionY="142"/>
+        <Description>
+            <subType>4</subType>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <name>KMeans-MV</name>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+            <jarName>MV-KMeans.jar</jarName>
+        </Description>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>K-means Imputation</AlgorithmType>
+            <numParameters>3</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>0</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>k</descriptions>
+            <descriptions>error</descriptions>
+            <descriptions>iterations</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">1000</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <defaultValue>100</defaultValue>
+            <defaultValue>100</defaultValue>
+            <value>10</value>
+            <value>100</value>
+            <value>100</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+    </Node>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="2" typeNode="1" xsi:type="algorithm">
+        <positionNode positionX="374" positionY="116"/>
+        <Description>
+            <subType>4</subType>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <name>UniformFrequency-D</name>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <path>file:./algorithm/preprocess/</path>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+            <jarName>Disc-UniformFrequency.jar</jarName>
+        </Description>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Uniform Frequency Discretizer</AlgorithmType>
+            <numParameters>1</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>1</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>numIntervals</descriptions>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>10</defaultValue>
+            <value>10</value>
+            <hidden>0</hidden>
+        </Parameters>
+    </Node>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="3" typeNode="1" xsi:type="algorithm">
+        <positionNode positionX="533" positionY="36"/>
+        <Description>
+            <subType>5</subType>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <name>CBA2-C</name>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+            <jarName>Clas-CBA2.jar</jarName>
+        </Description>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classification Based on Associations</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Minimum support</descriptions>
+            <descriptions>Minimum confidence</descriptions>
+            <descriptions>Wether pruning rules or not? (1:yes, 0:no)</descriptions>
+            <descriptions>Maximum candidate rules (0: no limited)</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">10000000</string>
+            </domain>
+            <defaultValue>0.01</defaultValue>
+            <defaultValue>0.5</defaultValue>
+            <defaultValue>1</defaultValue>
+            <defaultValue>80000</defaultValue>
+            <value>0.01</value>
+            <value>0.5</value>
+            <value>1</value>
+            <value>80000</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+    </Node>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="4" typeNode="1" xsi:type="algorithm">
+        <positionNode positionX="531" positionY="140"/>
+        <Description>
+            <subType>5</subType>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <name>CPAR-C</name>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+            <jarName>Clas-CPAR.jar</jarName>
+        </Description>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>Classif. Predictive Association Rules</AlgorithmType>
+            <numParameters>4</numParameters>
+            <Probabilistic>false</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of rules combining for every example (delta)</descriptions>
+            <descriptions>Minimum Gain</descriptions>
+            <descriptions>Weight decay factor (alfa)</descriptions>
+            <descriptions>Number of rules used in prediction</descriptions>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.7</defaultValue>
+            <defaultValue>0.66</defaultValue>
+            <defaultValue>5</defaultValue>
+            <value>0.05</value>
+            <value>0.7</value>
+            <value>0.66</value>
+            <value>5</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+    </Node>
+    <Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        IDNode="5" typeNode="1" xsi:type="algorithm">
+        <positionNode positionX="529" positionY="259"/>
+        <Description>
+            <subType>5</subType>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <name>Fuzzy-FARCHD-C</name>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <path>file:./algorithm/methods/</path>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+            <jarName>Clas-Fuzzy-FARCHD.jar</jarName>
+        </Description>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+        <Parameters>
+            <AlgorithmType>FARCHD</AlgorithmType>
+            <numParameters>10</numParameters>
+            <Probabilistic>true</Probabilistic>
+            <numOutputs>2</numOutputs>
+            <numInputs>0</numInputs>
+            <numExecutions>1</numExecutions>
+            <descriptions>Number of Linguistic Values</descriptions>
+            <descriptions>Minimum Support</descriptions>
+            <descriptions>Maximum Confidence</descriptions>
+            <descriptions>Depth of the trees (Depthmax)</descriptions>
+            <descriptions>Parameter K of the prescreening</descriptions>
+            <descriptions>Maximum number of evaluacions</descriptions>
+            <descriptions>Population size</descriptions>
+            <descriptions>Parameter alpha</descriptions>
+            <descriptions>Bits per gen</descriptions>
+            <descriptions>Type of inference</descriptions>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>real</parameterType>
+            <parameterType>integer</parameterType>
+            <parameterType>integer</parameterType>
+            <domain>
+                <string xsi:type="java:java.lang.String">2</string>
+                <string xsi:type="java:java.lang.String">9</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">10</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1</string>
+                <string xsi:type="java:java.lang.String">5</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">1000</string>
+                <string xsi:type="java:java.lang.String">1000000</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">5</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0.0</string>
+                <string xsi:type="java:java.lang.String">10.0</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">10</string>
+                <string xsi:type="java:java.lang.String">100</string>
+            </domain>
+            <domain>
+                <string xsi:type="java:java.lang.String">0</string>
+                <string xsi:type="java:java.lang.String">1</string>
+            </domain>
+            <defaultValue>5</defaultValue>
+            <defaultValue>0.05</defaultValue>
+            <defaultValue>0.8</defaultValue>
+            <defaultValue>3</defaultValue>
+            <defaultValue>2</defaultValue>
+            <defaultValue>15000</defaultValue>
+            <defaultValue>50</defaultValue>
+            <defaultValue>0.15</defaultValue>
+            <defaultValue>30</defaultValue>
+            <defaultValue>1</defaultValue>
+            <value>5</value>
+            <value>0.05</value>
+            <value>0.8</value>
+            <value>3</value>
+            <value>2</value>
+            <value>15000</value>
+            <value>50</value>
+            <value>0.15</value>
+            <value>30</value>
+            <value>1</value>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+            <hidden>0</hidden>
+        </Parameters>
+    </Node>
+    <Edge>
+        <originNode>0</originNode>
+        <destinyNode>1</destinyNode>
+    </Edge>
+    <Edge>
+        <originNode>1</originNode>
+        <destinyNode>2</destinyNode>
+    </Edge>
+    <Edge>
+        <originNode>2</originNode>
+        <destinyNode>3</destinyNode>
+    </Edge>
+    <Edge>
+        <originNode>2</originNode>
+        <destinyNode>4</destinyNode>
+    </Edge>
+    <Edge>
+        <originNode>1</originNode>
+        <destinyNode>5</destinyNode>
+    </Edge>
+</Graph>

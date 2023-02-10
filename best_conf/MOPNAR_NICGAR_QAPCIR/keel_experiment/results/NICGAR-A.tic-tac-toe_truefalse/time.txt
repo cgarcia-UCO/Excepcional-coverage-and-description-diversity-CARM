@@ -1,0 +1,1 @@
+11  ../datasets/tic-tac-toe_truefalse/tic-tac-toe_truefalse.dat../results/NICGAR-A.tic-tac-toe_truefalse/result0s0.tra

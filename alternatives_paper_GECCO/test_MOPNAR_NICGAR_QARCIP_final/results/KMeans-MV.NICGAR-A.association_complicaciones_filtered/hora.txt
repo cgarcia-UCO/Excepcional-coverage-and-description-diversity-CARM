@@ -1,0 +1,1 @@
+00:03:34  ../results/KMeans-MV.NICGAR-A.association_complicaciones_filtered/result0s0.tra

@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/complicaciones_filtered/complicaciones_filtered.dat" "../datasets/complicaciones_filtered/complicaciones_filtered.dat" 
+outputData = "../datasets/UniformFrequency-D.complicaciones_filtered/UniformFrequency-Ds0.complicaciones_filtered1tra.dat" "../datasets/UniformFrequency-D.complicaciones_filtered/UniformFrequency-Ds0.complicaciones_filtered1tst.dat" "../datasets/UniformFrequency-D.complicaciones_filtered/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="P_SODIO" value="
+[139.36363636363637, 139.36363636363637]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="P_UREA" value="
+[38.20181818181818, 38.20181818181818]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 7145.632183908046]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[22.235294117647058, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="DEMORA_QUIR_NEOADY" value="
+[42.03703703703704, 42.03703703703704]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[22.235294117647058, 22.235294117647058]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="P_TIPO_IQ" value="
+'Menor'" /></antecedents>
+<consequents>
+<attribute name="ANASTOMOSIS" value="
+'No_Aplicable'" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="ESTADO_N" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_T" value="
+'No_Aplicable'" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="IMC" value="
+[23.78, 23.78]" /></antecedents>
+<consequents>
+<attribute name="P_HB" value="
+[9.9, 9.9]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="P_SODIO" value="
+[139.34426229508196, 139.34426229508196]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 6337.027027027027]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="EXERESIS_MESORRECTO" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="ESTADO_N" value="
+'pN0'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="VARIAS_PIEZAS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /></antecedents>
+<consequents>
+<attribute name="P_HB" value="
+[11.338181818181821, 11.338181818181821]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="CIRUJANO" value="
+'16'" /><attribute name="CEA" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="MXH_RESECADAS" value="
+'No'" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 7145.632183908046]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[22.235294117647058, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="TAMANO_PIEZA" value="
+[20.0, 20.0]" /><attribute name="M_CIRCUNFEREN" value="
+[1.2, 1.2]" /></antecedents>
+<consequents>
+<attribute name="P_UREA" value="
+[17.0, 17.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="C_EPIDURAL" value="
+'FALSE'" /><attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 7145.632183908046]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[22.235294117647058, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="P_TIPO_IQ" value="
+'Menor'" /><attribute name="ESTR_MAS_PROX_CRM" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="ANASTOMOSIS" value="
+'No_Aplicable'" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="P_LEUCOCITOS" value="
+[6600.0, 6600.0]" /><attribute name="M_CIRCUNFEREN" value="
+[1.2, 1.2]" /></antecedents>
+<consequents>
+<attribute name="P_UREA" value="
+[17.0, 17.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="ASA" value="
+'II'" /><attribute name="P_TIPO_IQ" value="
+'Menor'" /></antecedents>
+<consequents>
+<attribute name="ANASTOMOSIS" value="
+'No_Aplicable'" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="INVASION_VASCULAR" value="
+'No_Aplicable'" /><attribute name="ESTADO_N" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_T" value="
+'No_Aplicable'" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="INVASION_LINFATICA" value="
+'Si'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="EXERESIS_MESORRECTO" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="P_LEUCOCITOS" value="
+[5000.0, 7700.0]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[16.666666666666668, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="DISTANCIA_ANO" value="
+[31.0, 31.0]" /><attribute name="MARGEN_REFLEXION" value="
+'Debajo_'" /></antecedents>
+<consequents>
+<attribute name="PROCEDIMIENTO" value="
+'Proctocolectomia_Restauradora'" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="DISTANCIA_ANO" value="
+[31.0, 31.0]" /><attribute name="DEMORA_DX" value="
+[10.0, 10.0]" /></antecedents>
+<consequents>
+<attribute name="PROCEDIMIENTO" value="
+'Proctocolectomia_Restauradora'" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="CEA" value="
+[0.0, 0.0]" /><attribute name="TIEMPO_OPERATORIO" value="
+[125.23529411764706, 125.23529411764706]" /></antecedents>
+<consequents>
+<attribute name="P_SODIO" value="
+[139.33333333333334, 139.33333333333334]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="VARIAS_PIEZAS" value="
+'No'" /><attribute name="ESCISION_LOCAL" value="
+'FALSE'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="MESTASTASIS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="ESCISION_LOCAL" value="
+'FALSE'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="P_N_IQ_MES" value="
+[2.0, 2.0]" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.9666666666666666, 1.9666666666666666]" /></antecedents>
+<consequents>
+<attribute name="TAMANO_PIEZA" value="
+[25.376923076923077, 25.376923076923077]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="P_DISNEA" value="
+'No'" /><attribute name="VARIAS_PIEZAS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.9666666666666666, 1.9666666666666666]" /></antecedents>
+<consequents>
+<attribute name="TAMANO_PIEZA" value="
+[25.376923076923077, 25.376923076923077]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /><attribute name="INVASION_SEROSA" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="P_HB" value="
+[11.338181818181821, 11.338181818181821]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="P_PERDIDA_HEMATICA" value="
+'<100_ml'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.9666666666666666, 1.9666666666666666]" /></antecedents>
+<consequents>
+<attribute name="TAMANO_PIEZA" value="
+[25.376923076923077, 25.376923076923077]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="COLONOSCOPIA" value="
+'Incompleta'" /><attribute name="P_SODIO" value="
+[139.34426229508196, 139.34426229508196]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 6337.027027027027]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="P_SODIO" value="
+[139.34426229508196, 139.34426229508196]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 6337.027027027027]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="COLONOSCOPIA" value="
+'Completa'" /><attribute name="GRADO_DIFERENCIADO" value="
+'Bien'" /><attribute name="ESPESOR_MESO_A_CM" value="
+[4.033333333333333, 4.033333333333333]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="ASA" value="
+'III'" /><attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="C_EPIDURAL" value="
+'FALSE'" /><attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 7145.632183908046]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[22.235294117647058, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="ASA" value="
+'III'" /><attribute name="IMC" value="
+[27.456930693069314, 27.456930693069314]" /><attribute name="ESPESOR_MESO_P_CM" value="
+[2.5, 2.5]" /></antecedents>
+<consequents>
+<attribute name="MARGEN_DISTAL" value="
+[9.7, 9.7]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="MESTASTASIS" value="
+'No'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="GRADO_DIFERENCIADO" value="
+'Moderado'" /><attribute name="INVASION_LINFATICA" value="
+'Si'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="INVASION_LINFATICA" value="
+'Si'" /><attribute name="AP_TIPO_HISTOLOGICO" value="
+'Adenocarcinoma'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="P_UREA" value="
+[38.8235294117647, 38.8235294117647]" /><attribute name="P_POTASIO" value="
+[3.9163934426229514, 3.9163934426229514]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 6337.027027027027]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="INVASION_LINFATICA" value="
+'Si'" /><attribute name="MESTASTASIS" value="
+'No'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="EXERESIS_MESORRECTO" value="
+'No_Aplicable'" /><attribute name="P_CONTAMINACION" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="P_CONTAMINACION" value="
+'No'" /><attribute name="P_LEUCOCITOS" value="
+[5000.0, 7700.0]" /></antecedents>
+<consequents>
+<attribute name="DEMORA_NEODYUVANC" value="
+[16.666666666666668, 24.91304347826087]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="CEA" value="
+[0.0, 0.0]" /><attribute name="TIEMPO_OPERATORIO" value="
+[125.23529411764706, 125.23529411764706]" /><attribute name="ESPESOR_MESO_A_CM" value="
+[3.3103896103896107, 4.0]" /></antecedents>
+<consequents>
+<attribute name="P_SODIO" value="
+[139.33333333333334, 139.33333333333334]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="CEA" value="
+[0.0, 0.0]" /><attribute name="TIEMPO_OPERATORIO" value="
+[125.23529411764706, 125.23529411764706]" /><attribute name="PRESENTADO_SCCCR" value="
+'Si'" /></antecedents>
+<consequents>
+<attribute name="P_SODIO" value="
+[139.33333333333334, 139.33333333333334]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="P_CONTAMINACION" value="
+'No'" /><attribute name="VARIAS_PIEZAS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="SINCRONICO" value="
+'No'" /><attribute name="P_CONTAMINACION" value="
+'No'" /><attribute name="VARIAS_PIEZAS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="MESTASTASIS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="ENDOPROTESIS" value="
+'FALSE'" /><attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /><attribute name="DEMORA_QUIR_NEOADY" value="
+[49.0, 63.0]" /></antecedents>
+<consequents>
+<attribute name="P_HB" value="
+[11.338181818181821, 11.338181818181821]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="ASA" value="
+'III'" /><attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="VARIAS_PIEZAS" value="
+'No'" /><attribute name="MESTASTASIS" value="
+'No'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="GRADO_DIFERENCIADO" value="
+'Moderado'" /><attribute name="INVASION_LINFATICA" value="
+'Si'" /><attribute name="MESTASTASIS" value="
+'No'" /><attribute name="GANGLIOS_AFECTADOS" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ESTADO_N" value="
+'pN1'" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="EXERESIS_MESORRECTO" value="
+'No_Aplicable'" /><attribute name="P_CONTAMINACION" value="
+'No'" /><attribute name="RESCATE" value="
+'FALSE'" /></antecedents>
+<consequents>
+<attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="P_CARDIACO" value="
+'No_ICC'" /><attribute name="P_DISNEA" value="
+'No'" /><attribute name="P_LEUCOCITOS" value="
+[3434.7169811320755, 3434.7169811320755]" /><attribute name="TUMOR_SINCRONICO" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="P_HB" value="
+[11.338181818181821, 11.338181818181821]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="MESTASTASIS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="SINCRONICO" value="
+'No'" /><attribute name="P_CONTAMINACION" value="
+'No'" /><attribute name="P_HB" value="
+[9.1, 13.6]" /><attribute name="VARIAS_PIEZAS" value="
+'No'" /></antecedents>
+<consequents>
+<attribute name="SECCION_TUMORAL" value="
+'No_Aplicable_(Varias_Piezas_=_No)'" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="DIAGNOSTICO" value="
+'Cancer_Primario'" /><attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="P_SODIO" value="
+[139.34426229508196, 139.34426229508196]" /><attribute name="TIEMPO_OPERATORIO" value="
+[162.1969696969697, 162.1969696969697]" /><attribute name="MXH_RESECADAS" value="
+'No_Aplicable'" /><attribute name="ESPESOR_MAXIMO" value="
+[0.5, 3.5]" /></antecedents>
+<consequents>
+<attribute name="P_LEUCOCITOS" value="
+[6337.027027027027, 6337.027027027027]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="ASA" value="
+'III'" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /><attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /><attribute name="POLIPECTOMIA_ENDOSC" value="
+'FALSE'" /><attribute name="MXH_RESECADAS" value="
+'No_Aplicable'" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="COLONOSCOPIA" value="
+'Completa'" /><attribute name="ASA" value="
+'III'" /><attribute name="GRADO_DIFERENCIADO" value="
+'Bien'" /><attribute name="INVASION_PERINEURAL" value="
+'No'" /><attribute name="ESPESOR_MESO_A_CM" value="
+[4.033333333333333, 4.033333333333333]" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="P_N_IQ_MES" value="
+[0.0, 0.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /><attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="CEA" value="
+[0.0, 0.0]" /><attribute name="TIEMPO_OPERATORIO" value="
+[125.23529411764706, 125.23529411764706]" /><attribute name="ESTADO_DONUTS" value="
+'Libre'" /><attribute name="ESPESOR_MESO_A_CM" value="
+[3.3103896103896107, 4.0]" /><attribute name="PRESENTADO_SCCCR" value="
+'Si'" /></antecedents>
+<consequents>
+<attribute name="P_SODIO" value="
+[139.33333333333334, 139.33333333333334]" /></consequents>
+</rule>
+<rule id="73">
+<antecedents>
+<attribute name="TME_TRANSANAL" value="
+'No_Aplicable'" /><attribute name="INVASION_LINFATICA" value="
+'No'" /><attribute name="ESTADO_N" value="
+'pN0'" /><attribute name="MESTASTASIS" value="
+'No'" /><attribute name="INVAS_MESORR_MM" value="
+[0.0, 0.5743119266055046]" /></antecedents>
+<consequents>
+<attribute name="ESTR_MAS_PROX_CRM" value="
+'Tumor_Primario'" /></consequents>
+</rule>
+<rule id="74">
+<antecedents>
+<attribute name="NEOADYUVANCIA" value="
+'FALSE'" /><attribute name="P_UREA" value="
+[33.0, 40.53968253968254]" /><attribute name="P_POTASIO" value="
+[3.9384615384615387, 4.0]" /><attribute name="DEMORA_NEODYUVANC" value="
+[46.0, 46.0]" /><attribute name="ESTADO_MESORRECTO" value="
+'No_aplicable'" /><attribute name="POLIPECTOMIA_ENDOSC" value="
+'FALSE'" /></antecedents>
+<consequents>
+<attribute name="P_FC" value="
+[78.31818181818181, 78.31818181818181]" /></consequents>
+</rule>
+</association_rules>

@@ -1,0 +1,1 @@
+00:00:02  ../results/QAR_CIP_NSGAII-A.wisconsin_truefalse/result0s0.tra

@@ -1,0 +1,12 @@
+algorithm = NICGAR
+inputData = "../datasets/KMeans-MV.association_complicaciones_filtered/KMeans-MVs0.association_complicaciones_filtered1tra.dat" 
+outputData = "../results/KMeans-MV.NICGAR-A.association_complicaciones_filtered/result0s0.tra" "../results/KMeans-MV.NICGAR-A.association_complicaciones_filtered/result0s0.tst" "../results/KMeans-MV.NICGAR-A.association_complicaciones_filtered/result0s0e0.txt"  
+
+seed = 390706926
+Number of Evaluations = 100000
+Population Size = 100
+Probability of Mutation = 0.1
+The factor of amplitude for each attribute of the dataset = 3.0
+Niching Threshold = 0.5
+Quality Threshold = 0.85
+Percent Update = 5.0

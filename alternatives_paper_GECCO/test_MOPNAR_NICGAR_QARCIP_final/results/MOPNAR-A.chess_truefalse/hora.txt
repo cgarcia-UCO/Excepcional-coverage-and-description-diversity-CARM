@@ -1,0 +1,1 @@
+00:00:21  ../results/MOPNAR-A.chess_truefalse/result0s0.tra

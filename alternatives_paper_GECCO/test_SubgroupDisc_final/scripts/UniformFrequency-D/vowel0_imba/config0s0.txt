@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/vowel0_imba/vowel0_imba.dat" "../datasets/vowel0_imba/vowel0_imba.dat" 
+outputData = "../datasets/UniformFrequency-D.vowel0_imba/UniformFrequency-Ds0.vowel0_imba1tra.dat" "../datasets/UniformFrequency-D.vowel0_imba/UniformFrequency-Ds0.vowel0_imba1tst.dat" "../datasets/UniformFrequency-D.vowel0_imba/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

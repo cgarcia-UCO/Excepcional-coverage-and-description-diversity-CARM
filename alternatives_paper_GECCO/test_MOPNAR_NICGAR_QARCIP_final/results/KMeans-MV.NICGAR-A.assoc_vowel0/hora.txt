@@ -1,0 +1,1 @@
+00:00:49  ../results/KMeans-MV.NICGAR-A.assoc_vowel0/result0s0.tra

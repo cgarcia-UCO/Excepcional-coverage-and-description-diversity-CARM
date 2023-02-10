@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/heart_truefalse_c/heart_truefalse_c.dat" "../datasets/heart_truefalse_c/heart_truefalse_c.dat" 
+outputData = "../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.heart_truefalse_c/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

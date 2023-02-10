@@ -1,0 +1,8 @@
+{Buying=low,Persons=4,Safety=high} => {Acceptability=True}
+{Buying=low,Persons=more,Safety=high} => {Acceptability=True}
+{Buying=med,Persons=4,Safety=high} => {Acceptability=True}
+{Buying=med,Persons=more,Safety=high} => {Acceptability=True}
+{Maint=low,Persons=4,Safety=high} => {Acceptability=True}
+{Maint=low,Persons=more,Safety=high} => {Acceptability=True}
+{Maint=med,Persons=4,Safety=high} => {Acceptability=True}
+{Maint=med,Persons=more,Safety=high} => {Acceptability=True}

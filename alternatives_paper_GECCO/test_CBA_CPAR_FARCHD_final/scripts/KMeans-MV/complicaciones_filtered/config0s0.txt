@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/complicaciones_filtered/complicaciones_filtered-tra.dat" "../datasets/complicaciones_filtered/complicaciones_filtered-tst.dat" 
+outputData = "../datasets/KMeans-MV.complicaciones_filtered/KMeans-MVs0.complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.complicaciones_filtered/KMeans-MVs0.complicaciones_filtered1tst.dat" 
+
+seed = 1286082570
+k = 10
+error = 100
+iterations = 100

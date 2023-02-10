@@ -1,0 +1,1 @@
+00:00:46  ../results/KMeans-MV.NICGAR-A.assoc_pima/result0s0.tra

@@ -1,0 +1,1 @@
+00:00:14  ../results/KMeans-MV.MOPNAR-A.assoc_ionosphere/result0s0.tra

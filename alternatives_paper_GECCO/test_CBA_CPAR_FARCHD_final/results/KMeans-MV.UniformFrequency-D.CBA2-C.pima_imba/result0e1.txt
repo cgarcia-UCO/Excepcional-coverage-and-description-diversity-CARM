@@ -1,0 +1,521 @@
+@Number of rules: 258 Number of Antecedents by rule: 2.4591439688715955
+
+1: skin IS 3 AND age IS 1: tested_negative
+2: insu IS 3 AND age IS 1: tested_negative
+3: plas IS 0 AND age IS 1: tested_negative
+4: preg IS 1 AND mass IS 1: tested_negative
+5: plas IS 0 AND skin IS 0: tested_negative
+6: mass IS 2 AND age IS 1: tested_negative
+7: preg IS 1 AND plas IS 0: tested_negative
+8: preg IS 1 AND skin IS 2: tested_negative
+9: insu IS 0 AND mass IS 0 AND age IS 1: tested_negative
+10: pres IS 5 AND insu IS 2: tested_negative
+11: preg IS 2 AND insu IS 2: tested_negative
+12: plas IS 2 AND mass IS 0: tested_negative
+13: preg IS 1 AND pres IS 1 AND age IS 1: tested_negative
+14: preg IS 1 AND mass IS 2: tested_negative
+15: plas IS 2 AND pres IS 1: tested_negative
+16: pres IS 1 AND skin IS 3: tested_negative
+17: preg IS 0 AND plas IS 2: tested_negative
+18: preg IS 1 AND pedi IS 1: tested_negative
+19: preg IS 2 AND plas IS 0: tested_negative
+20: plas IS 0 AND age IS 3: tested_negative
+21: plas IS 1 AND pres IS 1: tested_negative
+22: plas IS 2 AND mass IS 1: tested_negative
+23: plas IS 4 AND mass IS 1: tested_negative
+24: pres IS 1 AND insu IS 3: tested_negative
+25: skin IS 2 AND mass IS 1: tested_negative
+26: skin IS 7 AND insu IS 3: tested_negative
+27: pedi IS 2 AND age IS 1: tested_negative
+28: insu IS 0 AND pedi IS 0 AND age IS 1: tested_negative
+29: preg IS 0 AND mass IS 0: tested_negative
+30: preg IS 2 AND mass IS 1: tested_negative
+31: plas IS 0 AND pres IS 1: tested_negative
+32: plas IS 5 AND insu IS 3: tested_negative
+33: skin IS 2 AND insu IS 3: tested_negative
+34: preg IS 2 AND pres IS 1 AND age IS 1: tested_negative
+35: preg IS 2 AND mass IS 0: tested_negative
+36: plas IS 1 AND pres IS 5: tested_negative
+37: plas IS 1 AND skin IS 3: tested_negative
+38: plas IS 1 AND mass IS 1: tested_negative
+39: pres IS 7 AND age IS 7: tested_negative
+40: mass IS 0 AND age IS 4: tested_negative
+41: plas IS 1 AND pedi IS 4: tested_negative
+42: pres IS 7 AND pedi IS 1: tested_negative
+43: skin IS 2 AND pedi IS 6: tested_negative
+44: skin IS 3 AND pedi IS 0: tested_negative
+45: mass IS 1 AND age IS 4: tested_negative
+46: plas IS 9 AND skin IS 8: tested_positive
+47: plas IS 9 AND insu IS 5: tested_positive
+48: skin IS 2 AND age IS 3: tested_negative
+49: plas IS 4 AND skin IS 3: tested_negative
+50: pres IS 0 AND skin IS 3: tested_negative
+51: pres IS 1 AND pedi IS 8: tested_negative
+52: pres IS 3 AND mass IS 2: tested_negative
+53: mass IS 2 AND pedi IS 6: tested_negative
+54: preg IS 1 AND plas IS 3: tested_negative
+55: preg IS 3 AND plas IS 2: tested_negative
+56: plas IS 2 AND pres IS 2: tested_negative
+57: plas IS 3 AND pedi IS 0: tested_negative
+58: plas IS 3 AND pedi IS 1: tested_negative
+59: plas IS 5 AND pres IS 7: tested_negative
+60: mass IS 2 AND age IS 3: tested_negative
+61: mass IS 3 AND pedi IS 0: tested_negative
+62: preg IS 2 AND insu IS 0 AND pedi IS 0: tested_negative
+63: preg IS 3 AND skin IS 0 AND mass IS 0: tested_negative
+64: preg IS 8 AND plas IS 0 AND age IS 7: tested_negative
+65: preg IS 8 AND pres IS 8 AND skin IS 0: tested_negative
+66: pres IS 3 AND insu IS 0 AND mass IS 1: tested_negative
+67: preg IS 4 AND pres IS 3: tested_negative
+68: plas IS 9 AND mass IS 5: tested_positive
+69: plas IS 9 AND pedi IS 8: tested_positive
+70: pres IS 2 AND pedi IS 3: tested_negative
+71: pres IS 8 AND pedi IS 0: tested_negative
+72: pres IS 9 AND skin IS 3: tested_negative
+73: insu IS 6 AND age IS 8: tested_positive
+74: mass IS 8 AND pedi IS 1: tested_negative
+75: pedi IS 1 AND age IS 9: tested_negative
+76: pedi IS 3 AND age IS 3: tested_negative
+77: preg IS 0 AND insu IS 4 AND age IS 1: tested_negative
+78: preg IS 2 AND insu IS 0 AND age IS 3: tested_negative
+79: plas IS 8 AND pres IS 9 AND skin IS 0: tested_positive
+80: skin IS 7 AND mass IS 8 AND age IS 4: tested_negative
+81: skin IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+82: insu IS 0 AND mass IS 7 AND age IS 4: tested_negative
+83: preg IS 3 AND pres IS 3: tested_negative
+84: preg IS 4 AND age IS 3: tested_negative
+85: plas IS 5 AND skin IS 3: tested_negative
+86: plas IS 5 AND mass IS 8: tested_negative
+87: plas IS 7 AND mass IS 2: tested_negative
+88: pres IS 0 AND pedi IS 4: tested_negative
+89: skin IS 5 AND mass IS 4: tested_negative
+90: preg IS 1 AND skin IS 0 AND age IS 4: tested_negative
+91: preg IS 2 AND plas IS 5 AND age IS 4: tested_negative
+92: preg IS 7 AND plas IS 9 AND age IS 7: tested_positive
+93: plas IS 8 AND insu IS 0 AND mass IS 4: tested_positive
+94: pres IS 3 AND insu IS 0 AND pedi IS 2: tested_negative
+95: insu IS 0 AND mass IS 4 AND age IS 6: tested_positive
+96: preg IS 4 AND mass IS 2: tested_negative
+97: preg IS 5 AND mass IS 2: tested_negative
+98: preg IS 5 AND age IS 5: tested_negative
+99: plas IS 3 AND insu IS 4: tested_negative
+100: plas IS 6 AND mass IS 9: tested_positive
+101: mass IS 4 AND age IS 9: tested_positive
+102: pedi IS 0 AND age IS 6: tested_negative
+103: preg IS 0 AND plas IS 7 AND mass IS 9: tested_positive
+104: preg IS 0 AND pres IS 8 AND age IS 4: tested_negative
+105: preg IS 1 AND plas IS 4 AND insu IS 5: tested_negative
+106: preg IS 3 AND pres IS 7 AND insu IS 0: tested_negative
+107: preg IS 8 AND pres IS 5 AND insu IS 4: tested_positive
+108: preg IS 8 AND pres IS 5 AND age IS 9: tested_negative
+109: preg IS 8 AND pres IS 9 AND pedi IS 2: tested_positive
+110: preg IS 8 AND skin IS 0 AND mass IS 2: tested_negative
+111: preg IS 8 AND insu IS 0 AND mass IS 7: tested_negative
+112: preg IS 8 AND mass IS 5 AND age IS 8: tested_positive
+113: plas IS 3 AND pres IS 5 AND skin IS 6: tested_negative
+114: plas IS 5 AND insu IS 0 AND mass IS 6: tested_negative
+115: plas IS 5 AND insu IS 5 AND pedi IS 6: tested_negative
+116: plas IS 7 AND pres IS 0 AND skin IS 0: tested_positive
+117: plas IS 8 AND pres IS 9 AND age IS 8: tested_positive
+118: plas IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+119: plas IS 9 AND pres IS 9 AND skin IS 4: tested_positive
+120: pres IS 0 AND skin IS 0 AND mass IS 9: tested_positive
+121: pres IS 5 AND skin IS 0 AND mass IS 4: tested_positive
+122: pres IS 5 AND skin IS 4 AND pedi IS 7: tested_negative
+123: pres IS 7 AND skin IS 0 AND pedi IS 5: tested_negative
+124: skin IS 7 AND insu IS 5 AND pedi IS 9: tested_positive
+125: insu IS 0 AND pedi IS 7 AND age IS 8: tested_positive
+126: preg IS 7 AND plas IS 8 AND insu IS 0 AND age IS 8: tested_positive
+127: preg IS 5 AND insu IS 5: tested_positive
+128: skin IS 5 AND pedi IS 9: tested_positive
+129: insu IS 5 AND age IS 5: tested_positive
+130: preg IS 0 AND pedi IS 9 AND age IS 3: tested_positive
+131: preg IS 3 AND skin IS 4 AND insu IS 5: tested_positive
+132: preg IS 4 AND plas IS 8 AND skin IS 0: tested_positive
+133: preg IS 7 AND pres IS 8 AND age IS 8: tested_positive
+134: preg IS 8 AND plas IS 6 AND pedi IS 7: tested_positive
+135: preg IS 8 AND pres IS 7 AND pedi IS 7: tested_positive
+136: preg IS 8 AND skin IS 7 AND pedi IS 7: tested_positive
+137: plas IS 4 AND mass IS 5 AND age IS 7: tested_positive
+138: plas IS 6 AND insu IS 5 AND pedi IS 9: tested_positive
+139: plas IS 7 AND pres IS 8 AND skin IS 8: tested_positive
+140: plas IS 7 AND skin IS 7 AND insu IS 5: tested_positive
+141: plas IS 8 AND pres IS 5 AND age IS 4: tested_positive
+142: plas IS 8 AND pres IS 7 AND pedi IS 8: tested_positive
+143: plas IS 8 AND insu IS 0 AND pedi IS 8: tested_positive
+144: plas IS 9 AND skin IS 0 AND pedi IS 0: tested_positive
+145: pres IS 0 AND skin IS 0 AND pedi IS 3: tested_positive
+146: pres IS 5 AND skin IS 0 AND mass IS 8: tested_positive
+147: pres IS 7 AND skin IS 0 AND pedi IS 0: tested_positive
+148: pres IS 7 AND skin IS 7 AND age IS 5: tested_positive
+149: pres IS 8 AND insu IS 0 AND mass IS 3: tested_positive
+150: pres IS 8 AND mass IS 9 AND age IS 8: tested_positive
+151: pres IS 9 AND mass IS 9 AND pedi IS 2: tested_positive
+152: pres IS 9 AND mass IS 9 AND pedi IS 7: tested_positive
+153: skin IS 0 AND pedi IS 4 AND age IS 4: tested_positive
+154: skin IS 4 AND insu IS 6 AND age IS 9: tested_positive
+155: skin IS 6 AND mass IS 6 AND age IS 6: tested_positive
+156: skin IS 7 AND insu IS 6 AND pedi IS 8: tested_positive
+157: preg IS 0 AND skin IS 7 AND pedi IS 6: tested_positive
+158: preg IS 1 AND plas IS 6 AND pres IS 9: tested_positive
+159: preg IS 1 AND pres IS 9 AND insu IS 4: tested_positive
+160: preg IS 1 AND insu IS 4 AND age IS 7: tested_positive
+161: preg IS 2 AND plas IS 8 AND mass IS 2: tested_positive
+162: preg IS 2 AND skin IS 7 AND mass IS 9: tested_positive
+163: preg IS 3 AND skin IS 4 AND age IS 6: tested_positive
+164: preg IS 3 AND mass IS 7 AND age IS 6: tested_positive
+165: preg IS 4 AND pres IS 5 AND mass IS 3: tested_positive
+166: preg IS 4 AND skin IS 0 AND mass IS 5: tested_positive
+167: preg IS 4 AND skin IS 0 AND age IS 9: tested_positive
+168: preg IS 7 AND pres IS 3 AND mass IS 8: tested_positive
+169: preg IS 8 AND plas IS 2 AND skin IS 7: tested_positive
+170: plas IS 4 AND pedi IS 3 AND age IS 7: tested_positive
+171: plas IS 5 AND insu IS 0 AND mass IS 5: tested_positive
+172: plas IS 6 AND pres IS 5 AND age IS 4: tested_positive
+173: plas IS 7 AND skin IS 0 AND age IS 1: tested_positive
+174: plas IS 7 AND skin IS 6 AND insu IS 4: tested_positive
+175: pres IS 2 AND skin IS 6 AND insu IS 5: tested_positive
+176: pres IS 2 AND insu IS 0 AND mass IS 5: tested_positive
+177: pres IS 5 AND skin IS 3 AND insu IS 4: tested_positive
+178: pres IS 5 AND skin IS 6 AND age IS 8: tested_positive
+179: pres IS 5 AND skin IS 8 AND age IS 9: tested_positive
+180: pres IS 5 AND pedi IS 6 AND age IS 4: tested_positive
+181: pres IS 7 AND skin IS 4 AND age IS 9: tested_positive
+182: pres IS 7 AND insu IS 0 AND pedi IS 4: tested_positive
+183: pres IS 7 AND insu IS 5 AND mass IS 9: tested_positive
+184: pres IS 8 AND skin IS 6 AND mass IS 6: tested_positive
+185: pres IS 8 AND insu IS 0 AND pedi IS 4: tested_positive
+186: pres IS 8 AND insu IS 5 AND age IS 8: tested_positive
+187: pres IS 9 AND mass IS 6 AND pedi IS 5: tested_positive
+188: skin IS 0 AND mass IS 7 AND pedi IS 0: tested_positive
+189: skin IS 0 AND pedi IS 0 AND age IS 7: tested_positive
+190: skin IS 4 AND insu IS 6 AND mass IS 4: tested_positive
+191: skin IS 4 AND mass IS 7 AND pedi IS 5: tested_positive
+192: insu IS 0 AND mass IS 3 AND pedi IS 9: tested_positive
+193: insu IS 0 AND pedi IS 9 AND age IS 7: tested_positive
+194: insu IS 6 AND mass IS 4 AND age IS 4: tested_positive
+195: preg IS 3 AND pres IS 5 AND skin IS 6 AND age IS 3: tested_positive
+196: preg IS 8 AND plas IS 6 AND insu IS 0 AND age IS 7: tested_positive
+197: skin IS 4 AND age IS 1: tested_negative
+198: plas IS 2 AND age IS 1: tested_negative
+199: pedi IS 5 AND age IS 1: tested_negative
+200: preg IS 1 AND age IS 3: tested_negative
+201: preg IS 2 AND skin IS 4: tested_negative
+202: preg IS 1 AND age IS 1: tested_negative
+203: pres IS 2 AND skin IS 4: tested_negative
+204: insu IS 2: tested_negative
+205: preg IS 2 AND plas IS 4: tested_negative
+206: plas IS 0: tested_negative
+207: plas IS 4 AND pedi IS 0: tested_negative
+208: pres IS 1 AND pedi IS 6: tested_negative
+209: mass IS 0: tested_negative
+210: preg IS 8 AND plas IS 8 AND age IS 8: tested_positive
+211: pres IS 9 AND insu IS 0 AND mass IS 9: tested_positive
+212: skin IS 2: tested_negative
+213: pres IS 9 AND mass IS 3: tested_negative
+214: pedi IS 7 AND age IS 4: tested_negative
+215: plas IS 1: tested_negative
+216: mass IS 1: tested_negative
+217: plas IS 6 AND pedi IS 0: tested_negative
+218: skin IS 6 AND mass IS 3: tested_negative
+219: skin IS 7 AND pedi IS 0: tested_negative
+220: plas IS 5 AND pres IS 5: tested_negative
+221: mass IS 7 AND age IS 4: tested_negative
+222: pres IS 6: tested_negative
+223: preg IS 4 AND skin IS 4: tested_negative
+224: preg IS 4 AND age IS 7: tested_negative
+225: pres IS 3 AND pedi IS 7: tested_negative
+226: mass IS 6 AND pedi IS 9: tested_positive
+227: preg IS 0 AND pres IS 8 AND insu IS 0: tested_negative
+228: age IS 1: tested_negative
+229: preg IS 5 AND mass IS 3: tested_negative
+230: preg IS 7 AND plas IS 7: tested_negative
+231: pres IS 7 AND pedi IS 8: tested_positive
+232: plas IS 4 AND insu IS 0 AND age IS 9: tested_negative
+233: plas IS 6 AND pres IS 5 AND skin IS 0: tested_positive
+234: pres IS 8 AND insu IS 0 AND pedi IS 2: tested_negative
+235: insu IS 0 AND mass IS 4 AND pedi IS 5: tested_negative
+236: insu IS 0 AND mass IS 4 AND age IS 7: tested_negative
+237: plas IS 9: tested_positive
+238: plas IS 6 AND insu IS 6: tested_negative
+239: insu IS 3: tested_negative
+240: skin IS 7 AND mass IS 8: tested_negative
+241: pres IS 9 AND mass IS 8: tested_negative
+242: insu IS 5 AND age IS 6: tested_positive
+243: preg IS 0 AND pres IS 7 AND skin IS 0: tested_negative
+244: preg IS 4 AND plas IS 4 AND insu IS 0: tested_negative
+245: preg IS 5 AND insu IS 0 AND pedi IS 3: tested_negative
+246: preg IS 7 AND insu IS 0 AND age IS 6: tested_positive
+247: skin IS 8 AND insu IS 6 AND mass IS 9: tested_positive
+248: preg IS 8 AND mass IS 3: tested_positive
+249: preg IS 2: tested_negative
+250: insu IS 0 AND mass IS 2: tested_negative
+251: preg IS 7 AND pres IS 5 AND insu IS 0: tested_positive
+252: insu IS 0 AND pedi IS 5 AND age IS 8: tested_positive
+253: plas IS 3: tested_negative
+254: plas IS 6 AND skin IS 6: tested_negative
+255: plas IS 6 AND pedi IS 8: tested_negative
+256: preg IS 7 AND pres IS 9 AND insu IS 0: tested_negative
+257: pres IS 3: tested_negative
+Default: tested_positive
+
+
+@supp and conf:
+
+1: supp: 0.037760416666666664 AND conf: 1.0
+2: supp: 0.03515625 AND conf: 1.0
+3: supp: 0.033854166666666664 AND conf: 1.0
+4: supp: 0.02734375 AND conf: 1.0
+5: supp: 0.02734375 AND conf: 1.0
+6: supp: 0.026041666666666668 AND conf: 1.0
+7: supp: 0.024739583333333332 AND conf: 1.0
+8: supp: 0.024739583333333332 AND conf: 1.0
+9: supp: 0.024739583333333332 AND conf: 1.0
+10: supp: 0.0234375 AND conf: 1.0
+11: supp: 0.022135416666666668 AND conf: 1.0
+12: supp: 0.020833333333333332 AND conf: 1.0
+13: supp: 0.020833333333333332 AND conf: 1.0
+14: supp: 0.01953125 AND conf: 1.0
+15: supp: 0.01953125 AND conf: 1.0
+16: supp: 0.01953125 AND conf: 1.0
+17: supp: 0.018229166666666668 AND conf: 1.0
+18: supp: 0.018229166666666668 AND conf: 1.0
+19: supp: 0.018229166666666668 AND conf: 1.0
+20: supp: 0.018229166666666668 AND conf: 1.0
+21: supp: 0.018229166666666668 AND conf: 1.0
+22: supp: 0.018229166666666668 AND conf: 1.0
+23: supp: 0.018229166666666668 AND conf: 1.0
+24: supp: 0.018229166666666668 AND conf: 1.0
+25: supp: 0.018229166666666668 AND conf: 1.0
+26: supp: 0.018229166666666668 AND conf: 1.0
+27: supp: 0.018229166666666668 AND conf: 1.0
+28: supp: 0.018229166666666668 AND conf: 1.0
+29: supp: 0.016927083333333332 AND conf: 1.0
+30: supp: 0.016927083333333332 AND conf: 1.0
+31: supp: 0.016927083333333332 AND conf: 1.0
+32: supp: 0.016927083333333332 AND conf: 1.0
+33: supp: 0.016927083333333332 AND conf: 1.0
+34: supp: 0.016927083333333332 AND conf: 1.0
+35: supp: 0.015625 AND conf: 1.0
+36: supp: 0.015625 AND conf: 1.0
+37: supp: 0.015625 AND conf: 1.0
+38: supp: 0.015625 AND conf: 1.0
+39: supp: 0.015625 AND conf: 1.0
+40: supp: 0.015625 AND conf: 1.0
+41: supp: 0.014322916666666666 AND conf: 1.0
+42: supp: 0.014322916666666666 AND conf: 1.0
+43: supp: 0.014322916666666666 AND conf: 1.0
+44: supp: 0.014322916666666666 AND conf: 1.0
+45: supp: 0.014322916666666666 AND conf: 1.0
+46: supp: 0.013020833333333334 AND conf: 1.0
+47: supp: 0.013020833333333334 AND conf: 1.0
+48: supp: 0.013020833333333334 AND conf: 1.0
+49: supp: 0.01171875 AND conf: 1.0
+50: supp: 0.01171875 AND conf: 1.0
+51: supp: 0.01171875 AND conf: 1.0
+52: supp: 0.01171875 AND conf: 1.0
+53: supp: 0.01171875 AND conf: 1.0
+54: supp: 0.010416666666666666 AND conf: 1.0
+55: supp: 0.010416666666666666 AND conf: 1.0
+56: supp: 0.010416666666666666 AND conf: 1.0
+57: supp: 0.010416666666666666 AND conf: 1.0
+58: supp: 0.010416666666666666 AND conf: 1.0
+59: supp: 0.010416666666666666 AND conf: 1.0
+60: supp: 0.010416666666666666 AND conf: 1.0
+61: supp: 0.010416666666666666 AND conf: 1.0
+62: supp: 0.010416666666666666 AND conf: 1.0
+63: supp: 0.010416666666666666 AND conf: 1.0
+64: supp: 0.010416666666666666 AND conf: 1.0
+65: supp: 0.010416666666666666 AND conf: 1.0
+66: supp: 0.010416666666666666 AND conf: 1.0
+67: supp: 0.009114583333333334 AND conf: 1.0
+68: supp: 0.009114583333333334 AND conf: 1.0
+69: supp: 0.009114583333333334 AND conf: 1.0
+70: supp: 0.009114583333333334 AND conf: 1.0
+71: supp: 0.009114583333333334 AND conf: 1.0
+72: supp: 0.009114583333333334 AND conf: 1.0
+73: supp: 0.009114583333333334 AND conf: 1.0
+74: supp: 0.009114583333333334 AND conf: 1.0
+75: supp: 0.009114583333333334 AND conf: 1.0
+76: supp: 0.009114583333333334 AND conf: 1.0
+77: supp: 0.009114583333333334 AND conf: 1.0
+78: supp: 0.009114583333333334 AND conf: 1.0
+79: supp: 0.009114583333333334 AND conf: 1.0
+80: supp: 0.009114583333333334 AND conf: 1.0
+81: supp: 0.009114583333333334 AND conf: 1.0
+82: supp: 0.009114583333333334 AND conf: 1.0
+83: supp: 0.0078125 AND conf: 1.0
+84: supp: 0.0078125 AND conf: 1.0
+85: supp: 0.0078125 AND conf: 1.0
+86: supp: 0.0078125 AND conf: 1.0
+87: supp: 0.0078125 AND conf: 1.0
+88: supp: 0.0078125 AND conf: 1.0
+89: supp: 0.0078125 AND conf: 1.0
+90: supp: 0.0078125 AND conf: 1.0
+91: supp: 0.0078125 AND conf: 1.0
+92: supp: 0.0078125 AND conf: 1.0
+93: supp: 0.0078125 AND conf: 1.0
+94: supp: 0.0078125 AND conf: 1.0
+95: supp: 0.0078125 AND conf: 1.0
+96: supp: 0.006510416666666667 AND conf: 1.0
+97: supp: 0.006510416666666667 AND conf: 1.0
+98: supp: 0.006510416666666667 AND conf: 1.0
+99: supp: 0.006510416666666667 AND conf: 1.0
+100: supp: 0.006510416666666667 AND conf: 1.0
+101: supp: 0.006510416666666667 AND conf: 1.0
+102: supp: 0.006510416666666667 AND conf: 1.0
+103: supp: 0.006510416666666667 AND conf: 1.0
+104: supp: 0.006510416666666667 AND conf: 1.0
+105: supp: 0.006510416666666667 AND conf: 1.0
+106: supp: 0.006510416666666667 AND conf: 1.0
+107: supp: 0.006510416666666667 AND conf: 1.0
+108: supp: 0.006510416666666667 AND conf: 1.0
+109: supp: 0.006510416666666667 AND conf: 1.0
+110: supp: 0.006510416666666667 AND conf: 1.0
+111: supp: 0.006510416666666667 AND conf: 1.0
+112: supp: 0.006510416666666667 AND conf: 1.0
+113: supp: 0.006510416666666667 AND conf: 1.0
+114: supp: 0.006510416666666667 AND conf: 1.0
+115: supp: 0.006510416666666667 AND conf: 1.0
+116: supp: 0.006510416666666667 AND conf: 1.0
+117: supp: 0.006510416666666667 AND conf: 1.0
+118: supp: 0.006510416666666667 AND conf: 1.0
+119: supp: 0.006510416666666667 AND conf: 1.0
+120: supp: 0.006510416666666667 AND conf: 1.0
+121: supp: 0.006510416666666667 AND conf: 1.0
+122: supp: 0.006510416666666667 AND conf: 1.0
+123: supp: 0.006510416666666667 AND conf: 1.0
+124: supp: 0.006510416666666667 AND conf: 1.0
+125: supp: 0.006510416666666667 AND conf: 1.0
+126: supp: 0.006510416666666667 AND conf: 1.0
+127: supp: 0.005208333333333333 AND conf: 1.0
+128: supp: 0.005208333333333333 AND conf: 1.0
+129: supp: 0.005208333333333333 AND conf: 1.0
+130: supp: 0.005208333333333333 AND conf: 1.0
+131: supp: 0.005208333333333333 AND conf: 1.0
+132: supp: 0.005208333333333333 AND conf: 1.0
+133: supp: 0.005208333333333333 AND conf: 1.0
+134: supp: 0.005208333333333333 AND conf: 1.0
+135: supp: 0.005208333333333333 AND conf: 1.0
+136: supp: 0.005208333333333333 AND conf: 1.0
+137: supp: 0.005208333333333333 AND conf: 1.0
+138: supp: 0.005208333333333333 AND conf: 1.0
+139: supp: 0.005208333333333333 AND conf: 1.0
+140: supp: 0.005208333333333333 AND conf: 1.0
+141: supp: 0.005208333333333333 AND conf: 1.0
+142: supp: 0.005208333333333333 AND conf: 1.0
+143: supp: 0.005208333333333333 AND conf: 1.0
+144: supp: 0.005208333333333333 AND conf: 1.0
+145: supp: 0.005208333333333333 AND conf: 1.0
+146: supp: 0.005208333333333333 AND conf: 1.0
+147: supp: 0.005208333333333333 AND conf: 1.0
+148: supp: 0.005208333333333333 AND conf: 1.0
+149: supp: 0.005208333333333333 AND conf: 1.0
+150: supp: 0.005208333333333333 AND conf: 1.0
+151: supp: 0.005208333333333333 AND conf: 1.0
+152: supp: 0.005208333333333333 AND conf: 1.0
+153: supp: 0.005208333333333333 AND conf: 1.0
+154: supp: 0.005208333333333333 AND conf: 1.0
+155: supp: 0.005208333333333333 AND conf: 1.0
+156: supp: 0.005208333333333333 AND conf: 1.0
+157: supp: 0.00390625 AND conf: 1.0
+158: supp: 0.00390625 AND conf: 1.0
+159: supp: 0.00390625 AND conf: 1.0
+160: supp: 0.00390625 AND conf: 1.0
+161: supp: 0.00390625 AND conf: 1.0
+162: supp: 0.00390625 AND conf: 1.0
+163: supp: 0.00390625 AND conf: 1.0
+164: supp: 0.00390625 AND conf: 1.0
+165: supp: 0.00390625 AND conf: 1.0
+166: supp: 0.00390625 AND conf: 1.0
+167: supp: 0.00390625 AND conf: 1.0
+168: supp: 0.00390625 AND conf: 1.0
+169: supp: 0.00390625 AND conf: 1.0
+170: supp: 0.00390625 AND conf: 1.0
+171: supp: 0.00390625 AND conf: 1.0
+172: supp: 0.00390625 AND conf: 1.0
+173: supp: 0.00390625 AND conf: 1.0
+174: supp: 0.00390625 AND conf: 1.0
+175: supp: 0.00390625 AND conf: 1.0
+176: supp: 0.00390625 AND conf: 1.0
+177: supp: 0.00390625 AND conf: 1.0
+178: supp: 0.00390625 AND conf: 1.0
+179: supp: 0.00390625 AND conf: 1.0
+180: supp: 0.00390625 AND conf: 1.0
+181: supp: 0.00390625 AND conf: 1.0
+182: supp: 0.00390625 AND conf: 1.0
+183: supp: 0.00390625 AND conf: 1.0
+184: supp: 0.00390625 AND conf: 1.0
+185: supp: 0.00390625 AND conf: 1.0
+186: supp: 0.00390625 AND conf: 1.0
+187: supp: 0.00390625 AND conf: 1.0
+188: supp: 0.00390625 AND conf: 1.0
+189: supp: 0.00390625 AND conf: 1.0
+190: supp: 0.00390625 AND conf: 1.0
+191: supp: 0.00390625 AND conf: 1.0
+192: supp: 0.00390625 AND conf: 1.0
+193: supp: 0.00390625 AND conf: 1.0
+194: supp: 0.00390625 AND conf: 1.0
+195: supp: 0.00390625 AND conf: 1.0
+196: supp: 0.00390625 AND conf: 1.0
+197: supp: 0.044270833333333336 AND conf: 0.9714285714285715
+198: supp: 0.03125 AND conf: 0.96
+199: supp: 0.028645833333333332 AND conf: 0.9565217391304347
+200: supp: 0.026041666666666668 AND conf: 0.9523809523809524
+201: supp: 0.026041666666666668 AND conf: 0.9523809523809524
+202: supp: 0.07161458333333333 AND conf: 0.9482758620689655
+203: supp: 0.01953125 AND conf: 0.9375
+204: supp: 0.09375 AND conf: 0.935064935064935
+205: supp: 0.018229166666666668 AND conf: 0.9333333333333333
+206: supp: 0.09505208333333333 AND conf: 0.9240506329113924
+207: supp: 0.015625 AND conf: 0.9230769230769231
+208: supp: 0.015625 AND conf: 0.9230769230769231
+209: supp: 0.09114583333333333 AND conf: 0.9210526315789473
+210: supp: 0.014322916666666666 AND conf: 0.9166666666666666
+211: supp: 0.014322916666666666 AND conf: 0.9166666666666666
+212: supp: 0.06510416666666667 AND conf: 0.9090909090909092
+213: supp: 0.013020833333333334 AND conf: 0.9090909090909092
+214: supp: 0.013020833333333334 AND conf: 0.9090909090909092
+215: supp: 0.09505208333333333 AND conf: 0.9012345679012346
+216: supp: 0.09244791666666667 AND conf: 0.89873417721519
+217: supp: 0.010416666666666666 AND conf: 0.8888888888888888
+218: supp: 0.010416666666666666 AND conf: 0.8888888888888888
+219: supp: 0.010416666666666666 AND conf: 0.8888888888888888
+220: supp: 0.01953125 AND conf: 0.8823529411764706
+221: supp: 0.018229166666666668 AND conf: 0.8750000000000001
+222: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+223: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+224: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+225: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+226: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+227: supp: 0.009114583333333334 AND conf: 0.8750000000000001
+228: supp: 0.1953125 AND conf: 0.8670520231213873
+229: supp: 0.0078125 AND conf: 0.8571428571428571
+230: supp: 0.0078125 AND conf: 0.8571428571428571
+231: supp: 0.0078125 AND conf: 0.8571428571428571
+232: supp: 0.0078125 AND conf: 0.8571428571428571
+233: supp: 0.0078125 AND conf: 0.8571428571428571
+234: supp: 0.0078125 AND conf: 0.8571428571428571
+235: supp: 0.0078125 AND conf: 0.8571428571428571
+236: supp: 0.0078125 AND conf: 0.8571428571428571
+237: supp: 0.08463541666666667 AND conf: 0.855263157894737
+238: supp: 0.014322916666666666 AND conf: 0.8461538461538461
+239: supp: 0.08463541666666667 AND conf: 0.8333333333333334
+240: supp: 0.01953125 AND conf: 0.8333333333333334
+241: supp: 0.013020833333333334 AND conf: 0.8333333333333334
+242: supp: 0.013020833333333334 AND conf: 0.8333333333333334
+243: supp: 0.006510416666666667 AND conf: 0.8333333333333334
+244: supp: 0.006510416666666667 AND conf: 0.8333333333333334
+245: supp: 0.006510416666666667 AND conf: 0.8333333333333334
+246: supp: 0.006510416666666667 AND conf: 0.8333333333333334
+247: supp: 0.006510416666666667 AND conf: 0.8333333333333334
+248: supp: 0.01171875 AND conf: 0.8181818181818182
+249: supp: 0.109375 AND conf: 0.8155339805825242
+250: supp: 0.048177083333333336 AND conf: 0.8043478260869565
+251: supp: 0.005208333333333333 AND conf: 0.7999999999999999
+252: supp: 0.005208333333333333 AND conf: 0.7999999999999999
+253: supp: 0.0546875 AND conf: 0.7924528301886792
+254: supp: 0.009114583333333334 AND conf: 0.7777777777777778
+255: supp: 0.0078125 AND conf: 0.75
+256: supp: 0.014322916666666666 AND conf: 0.7333333333333333
+257: supp: 0.07552083333333333 AND conf: 0.7073170731707317

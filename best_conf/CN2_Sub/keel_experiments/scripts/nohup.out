@@ -1,0 +1,3530 @@
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:38:36 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/australian_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/australian_truefalse_c/australian_truefalse_c.dat" "../datasets/australian_truefalse_c/australian_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.australian_truefalse_c/UniformFrequency-Ds0.australian_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.australian_truefalse_c/UniformFrequency-Ds0.australian_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.australian_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/australian_truefalse_c/australian_truefalse_c.dat.
+ >> processing: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/australian_truefalse_c/australian_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/australian_truefalse_c/australian_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:38:38 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:38:38 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/australian_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.australian_truefalse_c/UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> processing: A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14
+   > inputs attribute considered: A1.
+   > inputs attribute considered: A2.
+   > inputs attribute considered: A3.
+   > inputs attribute considered: A4.
+   > inputs attribute considered: A5.
+   > inputs attribute considered: A6.
+   > inputs attribute considered: A7.
+   > inputs attribute considered: A8.
+   > inputs attribute considered: A9.
+   > inputs attribute considered: A10.
+   > inputs attribute considered: A11.
+   > inputs attribute considered: A12.
+   > inputs attribute considered: A13.
+   > inputs attribute considered: A14.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.australian_truefalse_c/UniformFrequency-Ds0.australian_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.australian_truefalse_c/UniformFrequency-Ds0.australian_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 690
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [383 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A8 = 0.0) AND (A12 <= 1.0) AND (A4 <= 1.0)
+Porcentage of examples covered -> 79.11227154046998% Remaining:<80>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A8 = 0.0) AND (A4 <= 1.0) AND (A12 <= 1.0)
+Porcentage of examples covered -> 79.11227154046998% Remaining:<80>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A9 = 0.0) AND (A14 <= 4.0) AND (A4 <= 1.0) AND (A7 <> 9.0) AND (A13 <> 1.0)
+Porcentage of examples covered -> 93.47258485639686% Remaining:<25>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A8 = 0.0) AND (A4 <= 1.0)
+Porcentage of examples covered -> 93.47258485639686% Remaining:<25>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A14 <= 3.0) AND (A13 > 2.0) AND (A5 <= 7.0) AND (A7 <> 3.0) AND (A3 > 0.0) AND (A10 <> 4.0)
+Porcentage of examples covered -> 97.911227154047% Remaining:<8>
+
+ We search for the best complex for class True [307 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A9 > 0.0) AND (A8 <> 0.0) AND (A14 <> 2.0) AND (A13 <> 5.0)
+Porcentage of examples covered -> 58.95765472312704% Remaining:<126>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A8 > 0.0) AND (A4 = 1.0) AND (A7 <> 1.0) AND (A14 <> 2.0) AND (A12 = 1.0) AND (A5 <> 0.0) AND (A13 <> 4.0)
+Porcentage of examples covered -> 79.47882736156352% Remaining:<63>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A8 > 0.0) AND (A5 > 2.0) AND (A2 <> 7.0) AND (A13 <> 4.0) AND (A14 <> 1.0) AND (A10 <> 2.0) AND (A6 <> 2.0) AND (A3 <> 3.0)
+Porcentage of examples covered -> 87.62214983713355% Remaining:<38>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A14 > 3.0) AND (A8 > 0.0) AND (A2 <> 1.0) AND (A13 <> 6.0) AND (A5 <> 1.0)
+Porcentage of examples covered -> 87.94788273615634% Remaining:<37>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+
+Complex Found:
+(A5 > 3.0) AND (A3 <> 8.0) AND (A14 <> 4.0) AND (A2 <> 2.0) AND (A7 <> 6.0) AND (A13 <> 2.0) AND (A6 <= 4.0)
+Porcentage of examples covered -> 95.43973941368078% Remaining:<14>
+
+
+ Porcentaje Aciertos: 622 ... total datos: 690
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 10
+NÂº Atributos por regla medio: 5.0
+Cobertura: 0.3640579710144928
+Complejidad (support completo): 0.9681159420289855
+Relevancia: 169.46936645166343
+Atipicidad: 0.09074653024492639
+Acierto: 0.9014492753623189
+
+ Porcentaje Aciertos: 622 ... total datos: 690
+
+Indices en Test:
+
+ TamaÃ±o reglas: 10
+NÂº Atributos por regla medio: 5.0
+Cobertura: 0.3640579710144928
+Complejidad (support completo): 0.9681159420289855
+Relevancia: 169.46936645166343
+Atipicidad: 0.09074653024492639
+Acierto: 0.9014492753623189
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:44:34 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:44:34 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/balance_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/balance_truefalse_c/balance_truefalse_c.dat" "../datasets/balance_truefalse_c/balance_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.balance_truefalse_c/UniformFrequency-Ds0.balance_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.balance_truefalse_c/UniformFrequency-Ds0.balance_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.balance_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/balance_truefalse_c/balance_truefalse_c.dat.
+ >> processing: Left-weight, Left-distance, Right-weight, Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/balance_truefalse_c/balance_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/balance_truefalse_c/balance_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:44:35 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:44:35 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/balance_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.balance_truefalse_c/UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> processing: Left-weight,Left-distance,Right-weight,Right-distance
+   > inputs attribute considered: Left-weight.
+   > inputs attribute considered: Left-distance.
+   > inputs attribute considered: Right-weight.
+   > inputs attribute considered: Right-distance.
+ >> processing:  Balance_scale
+   > outputs attribute considered: Balance_scale.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.balance_truefalse_c/UniformFrequency-Ds0.balance_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.balance_truefalse_c/UniformFrequency-Ds0.balance_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 625
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [576 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-weight > 1.0) AND (Right-weight <= 1.0) AND (Left-distance > 1.0)
+Porcentage of examples covered -> 15.625% Remaining:<486>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight > 1.0) AND (Left-weight <= 1.0) AND (Right-distance > 1.0)
+Porcentage of examples covered -> 31.25% Remaining:<396>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-weight > 1.0) AND (Right-distance <= 1.0) AND (Left-distance > 1.0)
+Porcentage of examples covered -> 40.625% Remaining:<342>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance <= 1.0) AND (Right-weight > 1.0) AND (Right-distance > 1.0)
+Porcentage of examples covered -> 50.0% Remaining:<288>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-weight <> 3.0) AND (Right-weight = 3.0) AND (Left-distance <> 3.0)
+Porcentage of examples covered -> 56.076388888888886% Remaining:<253>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight <= 2.0) AND (Left-weight > 2.0) AND (Right-distance <= 2.0)
+Porcentage of examples covered -> 62.5% Remaining:<216>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight > 3.0) AND (Left-weight <= 3.0) AND (Left-distance <= 3.0)
+Porcentage of examples covered -> 68.75% Remaining:<180>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-weight <= 2.0) AND (Right-distance > 2.0) AND (Left-distance <= 2.0)
+Porcentage of examples covered -> 74.47916666666666% Remaining:<147>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance > 3.0) AND (Right-distance <= 3.0) AND (Right-weight <= 3.0)
+Porcentage of examples covered -> 78.99305555555556% Remaining:<121>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance = 3.0) AND (Right-weight <> 3.0) AND (Right-distance <> 3.0)
+Porcentage of examples covered -> 83.33333333333334% Remaining:<96>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance <= 1.0) AND (Right-distance > 1.0) AND (Right-weight > 0.0)
+Porcentage of examples covered -> 85.24305555555556% Remaining:<85>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance = 2.0) AND (Right-weight <> 2.0) AND (Right-distance <> 2.0)
+Porcentage of examples covered -> 87.32638888888889% Remaining:<73>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight = 0.0) AND (Left-weight <> 0.0) AND (Left-distance <> 0.0)
+Porcentage of examples covered -> 89.58333333333334% Remaining:<60>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight = 2.0) AND (Left-weight <> 2.0) AND (Left-distance <> 2.0)
+Porcentage of examples covered -> 91.66666666666666% Remaining:<48>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance = 0.0) AND (Right-distance <> 0.0) AND (Right-weight <> 0.0)
+Porcentage of examples covered -> 92.70833333333334% Remaining:<42>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-distance = 0.0) AND (Left-weight <> 0.0) AND (Left-distance <> 0.0)
+Porcentage of examples covered -> 94.09722222222221% Remaining:<34>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-weight = 0.0) AND (Right-distance <> 0.0) AND (Right-weight <> 0.0)
+Porcentage of examples covered -> 95.3125% Remaining:<27>
+
+ We search for the best complex for class True [49 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Left-distance <= 3.0) AND (Right-distance <= 3.0) AND (Left-weight <= 3.0) AND (Right-weight <= 3.0)
+Porcentage of examples covered -> 65.3061224489796% Remaining:<17>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-distance > 3.0) AND (Left-weight > 3.0)
+Porcentage of examples covered -> 75.51020408163265% Remaining:<12>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight > 2.0) AND (Left-weight <> 2.0) AND (Left-distance <> 2.0) AND (Right-distance <> 2.0)
+Porcentage of examples covered -> 89.79591836734694% Remaining:<5>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(Right-weight <> 3.0) AND (Left-weight <> 3.0) AND (Left-distance <> 3.0) AND (Right-distance <> 3.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 576 ... total datos: 625
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 21
+NÂº Atributos por regla medio: 3.0952380952380953
+Cobertura: 0.1619047619047619
+Complejidad (support completo): 0.9568
+Relevancia: 9.227754301674473
+Atipicidad: 0.017789914285516788
+Acierto: 0.9216
+
+ Porcentaje Aciertos: 576 ... total datos: 625
+
+Indices en Test:
+
+ TamaÃ±o reglas: 21
+NÂº Atributos por regla medio: 3.0952380952380953
+Cobertura: 0.1619047619047619
+Complejidad (support completo): 0.9568
+Relevancia: 9.227754301674473
+Atipicidad: 0.017789914285516788
+Acierto: 0.9216
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:45:01 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:45:01 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/car_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/car_truefalse_c/car_truefalse_c.dat" "../datasets/car_truefalse_c/car_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.car_truefalse_c/UniformFrequency-Ds0.car_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.car_truefalse_c/UniformFrequency-Ds0.car_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.car_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/car_truefalse_c/car_truefalse_c.dat.
+ >> processing: Buying, Maint, Doors, Persons, Lug_boot, Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/car_truefalse_c/car_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/car_truefalse_c/car_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:45:04 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:45:04 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/car_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.car_truefalse_c/UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> processing: Buying,Maint,Doors,Persons,Lug_boot,Safety
+   > inputs attribute considered: Buying.
+   > inputs attribute considered: Maint.
+   > inputs attribute considered: Doors.
+   > inputs attribute considered: Persons.
+   > inputs attribute considered: Lug_boot.
+   > inputs attribute considered: Safety.
+ >> processing:  Acceptability
+   > outputs attribute considered: Acceptability.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.car_truefalse_c/UniformFrequency-Ds0.car_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.car_truefalse_c/UniformFrequency-Ds0.car_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1728
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [1210 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Persons = 0.0)
+Porcentage of examples covered -> 47.603305785123965% Remaining:<634>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Safety = 0.0)
+Porcentage of examples covered -> 79.33884297520662% Remaining:<250>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Persons = 0.0)
+Porcentage of examples covered -> 79.33884297520662% Remaining:<250>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Safety = 0.0)
+Porcentage of examples covered -> 79.33884297520662% Remaining:<250>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Buying <= 1.0) AND (Maint <= 1.0)
+Porcentage of examples covered -> 92.23140495867769% Remaining:<94>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Safety <= 1.0) AND (Lug_boot <= 1.0)
+Porcentage of examples covered -> 99.00826446280992% Remaining:<12>
+
+ We search for the best complex for class True [518 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Persons > 0.0) AND (Safety > 0.0) AND (Buying > 0.0)
+Porcentage of examples covered -> 86.10038610038609% Remaining:<72>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+
+Complex Found:
+(Persons > 0.0) AND (Maint > 0.0) AND (Safety > 0.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 1652 ... total datos: 1728
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 6
+NÂº Atributos por regla medio: 2.0
+Cobertura: 0.33796296296296297
+Complejidad (support completo): 0.9930555555555556
+Relevancia: 356.7043053210613
+Atipicidad: 0.10870203565102377
+Acierto: 0.9560185185185185
+
+ Porcentaje Aciertos: 1652 ... total datos: 1728
+
+Indices en Test:
+
+ TamaÃ±o reglas: 6
+NÂº Atributos por regla medio: 2.0
+Cobertura: 0.33796296296296297
+Complejidad (support completo): 0.9930555555555556
+Relevancia: 356.7043053210613
+Atipicidad: 0.12165188154311361
+Acierto: 0.9560185185185185
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:48:10 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:48:10 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/chess_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/chess_truefalse_c/chess_truefalse_c.dat" "../datasets/chess_truefalse_c/chess_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.chess_truefalse_c/UniformFrequency-Ds0.chess_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.chess_truefalse_c/UniformFrequency-Ds0.chess_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.chess_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/chess_truefalse_c/chess_truefalse_c.dat.
+ >> processing: Bkblk, Bknwy, Bkon8, Bkona, Bkspr, Bkxbq, Bkxcr, Bkxwp, Blxwp, Bxqsq, Cntxt, Dsopp, Dwipd, Hdchk, Katri5, Mulch, Qxmsq, R2ar8, Reskd, Reskr, Rimmx, Rkxwp, Rxmsq, Simpl, Skach, Skewr, Skrxp, Spcop, Stlmt, Thrsk, Wkcti, Wkna8, Wknck, Wkovl, Wkpos, Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/chess_truefalse_c/chess_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/chess_truefalse_c/chess_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 14:48:19 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 14:48:20 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/chess_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.chess_truefalse_c/UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> processing: Bkblk,Bknwy,Bkon8,Bkona,Bkspr,Bkxbq,Bkxcr,Bkxwp,Blxwp,Bxqsq,Cntxt,Dsopp,Dwipd,Hdchk,Katri5,Mulch,Qxmsq,R2ar8,Reskd,Reskr,Rimmx,Rkxwp,Rxmsq,Simpl,Skach,Skewr,Skrxp,Spcop,Stlmt,Thrsk,Wkcti,Wkna8,Wknck,Wkovl,Wkpos,Wtoeg
+   > inputs attribute considered: Bkblk.
+   > inputs attribute considered: Bknwy.
+   > inputs attribute considered: Bkon8.
+   > inputs attribute considered: Bkona.
+   > inputs attribute considered: Bkspr.
+   > inputs attribute considered: Bkxbq.
+   > inputs attribute considered: Bkxcr.
+   > inputs attribute considered: Bkxwp.
+   > inputs attribute considered: Blxwp.
+   > inputs attribute considered: Bxqsq.
+   > inputs attribute considered: Cntxt.
+   > inputs attribute considered: Dsopp.
+   > inputs attribute considered: Dwipd.
+   > inputs attribute considered: Hdchk.
+   > inputs attribute considered: Katri5.
+   > inputs attribute considered: Mulch.
+   > inputs attribute considered: Qxmsq.
+   > inputs attribute considered: R2ar8.
+   > inputs attribute considered: Reskd.
+   > inputs attribute considered: Reskr.
+   > inputs attribute considered: Rimmx.
+   > inputs attribute considered: Rkxwp.
+   > inputs attribute considered: Rxmsq.
+   > inputs attribute considered: Simpl.
+   > inputs attribute considered: Skach.
+   > inputs attribute considered: Skewr.
+   > inputs attribute considered: Skrxp.
+   > inputs attribute considered: Spcop.
+   > inputs attribute considered: Stlmt.
+   > inputs attribute considered: Thrsk.
+   > inputs attribute considered: Wkcti.
+   > inputs attribute considered: Wkna8.
+   > inputs attribute considered: Wknck.
+   > inputs attribute considered: Wkovl.
+   > inputs attribute considered: Wkpos.
+   > inputs attribute considered: Wtoeg.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.chess_truefalse_c/UniformFrequency-Ds0.chess_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.chess_truefalse_c/UniformFrequency-Ds0.chess_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 3196
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [1669 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+New Star created of size 21
+New Star created of size 22
+New Star created of size 23
+New Star created of size 24
+New Star created of size 25
+New Star created of size 26
+New Star created of size 27
+New Star created of size 28
+New Star created of size 29
+New Star created of size 30
+New Star created of size 31
+New Star created of size 32
+New Star created of size 33
+New Star created of size 34
+New Star created of size 35
+New Star created of size 36
+
+Complex Found:
+(Wknck = 0.0) AND (Bxqsq = 0.0) AND (Wkna8 = 0.0) AND (Hdchk = 0.0) AND (Spcop = 0.0)
+Porcentage of examples covered -> 71.59976033553026% Remaining:<474>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+New Star created of size 21
+New Star created of size 22
+New Star created of size 23
+New Star created of size 24
+New Star created of size 25
+New Star created of size 26
+New Star created of size 27
+New Star created of size 28
+New Star created of size 29
+New Star created of size 30
+New Star created of size 31
+New Star created of size 32
+New Star created of size 33
+New Star created of size 34
+New Star created of size 35
+New Star created of size 36
+
+Complex Found:
+(Rimmx > 0.0)
+Porcentage of examples covered -> 97.06411024565608% Remaining:<49>
+
+ We search for the best complex for class True [1527 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+New Star created of size 21
+New Star created of size 22
+New Star created of size 23
+New Star created of size 24
+New Star created of size 25
+New Star created of size 26
+New Star created of size 27
+New Star created of size 28
+New Star created of size 29
+New Star created of size 30
+New Star created of size 31
+New Star created of size 32
+New Star created of size 33
+New Star created of size 34
+New Star created of size 35
+New Star created of size 36
+
+Complex Found:
+(Wknck > 0.0) AND (Rimmx = 0.0)
+Porcentage of examples covered -> 56.4505566470203% Remaining:<665>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+New Star created of size 21
+New Star created of size 22
+New Star created of size 23
+New Star created of size 24
+New Star created of size 25
+New Star created of size 26
+New Star created of size 27
+New Star created of size 28
+New Star created of size 29
+New Star created of size 30
+New Star created of size 31
+New Star created of size 32
+New Star created of size 33
+New Star created of size 34
+New Star created of size 35
+New Star created of size 36
+
+Complex Found:
+(Rimmx = 0.0) AND (Bxqsq <> 0.0)
+Porcentage of examples covered -> 82.97314996725605% Remaining:<260>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+New Star created of size 21
+New Star created of size 22
+New Star created of size 23
+New Star created of size 24
+New Star created of size 25
+New Star created of size 26
+New Star created of size 27
+New Star created of size 28
+New Star created of size 29
+New Star created of size 30
+New Star created of size 31
+New Star created of size 32
+New Star created of size 33
+New Star created of size 34
+New Star created of size 35
+New Star created of size 36
+
+Complex Found:
+(Rimmx = 0.0) AND (Bkxbq = 0.0) AND (Katri5 <> 1.0) AND (Qxmsq = 0.0)
+Porcentage of examples covered -> 98.5592665356909% Remaining:<22>
+
+
+ Porcentaje Aciertos: 2995 ... total datos: 3196
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 5
+NÂº Atributos por regla medio: 2.8
+Cobertura: 0.2953066332916145
+Complejidad (support completo): 0.977784730913642
+Relevancia: 798.5280396786194
+Atipicidad: 0.12270473528221312
+Acierto: 0.9371088861076345
+
+ Porcentaje Aciertos: 2995 ... total datos: 3196
+
+Indices en Test:
+
+ TamaÃ±o reglas: 5
+NÂº Atributos por regla medio: 2.8
+Cobertura: 0.2953066332916145
+Complejidad (support completo): 0.977784730913642
+Relevancia: 798.5280396786194
+Atipicidad: 0.12270473528221312
+Acierto: 0.9371088861076345
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:11:48 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:11:48 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/german_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/german_truefalse_c/german_truefalse_c.dat" "../datasets/german_truefalse_c/german_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.german_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/german_truefalse_c/german_truefalse_c.dat.
+ >> processing: StatusAccount, DurationMonth, CreditHistory, Purpose, CreditAmount, SavingsAccount, EmploymentSince, InstallmentRate, StatusAndSex, Guarantors, ResidenceSince, Property, Age, InstallmentPlans, Housing, NCredits, Job, NPeopleMain, Telephone, ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/german_truefalse_c/german_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/german_truefalse_c/german_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:11:49 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:11:49 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/german_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> processing: StatusAccount,DurationMonth,CreditHistory,Purpose,CreditAmount,SavingsAccount,EmploymentSince,InstallmentRate,StatusAndSex,Guarantors,ResidenceSince,Property,Age,InstallmentPlans,Housing,NCredits,Job,NPeopleMain,Telephone,ForeignWorker
+   > inputs attribute considered: StatusAccount.
+   > inputs attribute considered: DurationMonth.
+   > inputs attribute considered: CreditHistory.
+   > inputs attribute considered: Purpose.
+   > inputs attribute considered: CreditAmount.
+   > inputs attribute considered: SavingsAccount.
+   > inputs attribute considered: EmploymentSince.
+   > inputs attribute considered: InstallmentRate.
+   > inputs attribute considered: StatusAndSex.
+   > inputs attribute considered: Guarantors.
+   > inputs attribute considered: ResidenceSince.
+   > inputs attribute considered: Property.
+   > inputs attribute considered: Age.
+   > inputs attribute considered: InstallmentPlans.
+   > inputs attribute considered: Housing.
+   > inputs attribute considered: NCredits.
+   > inputs attribute considered: Job.
+   > inputs attribute considered: NPeopleMain.
+   > inputs attribute considered: Telephone.
+   > inputs attribute considered: ForeignWorker.
+ >> processing:  Customer
+   > outputs attribute considered: Customer.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.german_truefalse_c/UniformFrequency-Ds0.german_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 1000
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [700 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(StatusAccount > 1.0) AND (InstallmentPlans <> 1.0) AND (Guarantors <= 1.0)
+Porcentage of examples covered -> 50.142857142857146% Remaining:<349>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(StatusAccount > 0.0) AND (CreditHistory <= 2.0) AND (CreditAmount <= 8.0) AND (DurationMonth <> 9.0) AND (InstallmentPlans <= 1.0)
+Porcentage of examples covered -> 74.14285714285714% Remaining:<181>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(DurationMonth <= 3.0) AND (CreditHistory <= 2.0) AND (CreditAmount <= 7.0) AND (InstallmentPlans <= 1.0) AND (Purpose <> 1.0)
+Porcentage of examples covered -> 84.0% Remaining:<112>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(StatusAccount > 1.0) AND (EmploymentSince <= 2.0) AND (DurationMonth <> 4.0)
+Porcentage of examples covered -> 85.28571428571429% Remaining:<103>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(Purpose <> 3.0) AND (DurationMonth <= 7.0) AND (CreditHistory <= 2.0) AND (CreditAmount <> 4.0) AND (SavingsAccount <= 3.0) AND (Job <= 2.0) AND (Guarantors <= 1.0) AND (StatusAccount <= 2.0)
+Porcentage of examples covered -> 90.57142857142857% Remaining:<66>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(SavingsAccount <> 1.0) AND (CreditAmount > 0.0) AND (DurationMonth <> 3.0) AND (NCredits <= 1.0) AND (Purpose <> 7.0) AND (Guarantors <> 1.0)
+Porcentage of examples covered -> 95.14285714285714% Remaining:<34>
+
+ We search for the best complex for class True [300 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(CreditHistory > 0.0) AND (InstallmentRate <> 1.0) AND (Guarantors <> 1.0) AND (ResidenceSince > 0.0) AND (StatusAccount <> 2.0) AND (CreditAmount <> 5.0) AND (Job <= 2.0) AND (DurationMonth <> 5.0) AND (SavingsAccount <> 3.0)
+Porcentage of examples covered -> 45.33333333333333% Remaining:<164>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(Age <= 5.0) AND (Purpose <> 4.0) AND (CreditAmount <> 7.0) AND (InstallmentPlans <= 1.0) AND (DurationMonth <> 3.0) AND (ForeignWorker = 0.0) AND (CreditHistory <> 3.0)
+Porcentage of examples covered -> 75.33333333333333% Remaining:<74>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(CreditHistory > 0.0) AND (EmploymentSince <> 2.0) AND (Guarantors <> 1.0) AND (Purpose <= 7.0) AND (Age <> 3.0) AND (DurationMonth <> 1.0) AND (ForeignWorker = 0.0) AND (StatusAccount <= 2.0) AND (SavingsAccount <> 2.0)
+Porcentage of examples covered -> 88.66666666666667% Remaining:<34>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(Property > 1.0) AND (CreditAmount <> 6.0) AND (SavingsAccount > 0.0) AND (EmploymentSince <> 3.0) AND (ResidenceSince > 0.0) AND (Age <> 4.0) AND (NCredits <= 1.0) AND (DurationMonth <> 0.0) AND (ForeignWorker = 0.0) AND (StatusAndSex <= 2.0) AND (Purpose <> 6.0)
+Porcentage of examples covered -> 94.0% Remaining:<18>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+New Star created of size 20
+
+Complex Found:
+(StatusAndSex > 0.0) AND (Age <> 7.0) AND (Guarantors <> 1.0) AND (SavingsAccount <> 3.0) AND (Purpose <= 8.0) AND (DurationMonth <> 0.0) AND (CreditAmount <> 3.0)
+Porcentage of examples covered -> 96.33333333333334% Remaining:<11>
+
+
+ Porcentaje Aciertos: 734 ... total datos: 1000
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 11
+NÂº Atributos por regla medio: 6.636363636363637
+Cobertura: 0.3448181818181818
+Complejidad (support completo): 0.955
+Relevancia: 47.279135567391855
+Atipicidad: 0.05675303344915464
+Acierto: 0.734
+
+ Porcentaje Aciertos: 734 ... total datos: 1000
+
+Indices en Test:
+
+ TamaÃ±o reglas: 11
+NÂº Atributos por regla medio: 6.636363636363637
+Cobertura: 0.3448181818181818
+Complejidad (support completo): 0.955
+Relevancia: 47.279135567391855
+Atipicidad: 0.05675303344915464
+Acierto: 0.734
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:23 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:23 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/glass_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/glass_truefalse_c/glass_truefalse_c.dat" "../datasets/glass_truefalse_c/glass_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.glass_truefalse_c/UniformFrequency-Ds0.glass_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.glass_truefalse_c/UniformFrequency-Ds0.glass_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.glass_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/glass_truefalse_c/glass_truefalse_c.dat.
+ >> processing: RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/glass_truefalse_c/glass_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/glass_truefalse_c/glass_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:23 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:23 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/glass_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.glass_truefalse_c/UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> processing: RI,Na,Mg,Al,Si,K,Ca,Ba,Fe
+   > inputs attribute considered: RI.
+   > inputs attribute considered: Na.
+   > inputs attribute considered: Mg.
+   > inputs attribute considered: Al.
+   > inputs attribute considered: Si.
+   > inputs attribute considered: K.
+   > inputs attribute considered: Ca.
+   > inputs attribute considered: Ba.
+   > inputs attribute considered: Fe.
+ >> processing:  TypeGlass
+   > outputs attribute considered: TypeGlass.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.glass_truefalse_c/UniformFrequency-Ds0.glass_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.glass_truefalse_c/UniformFrequency-Ds0.glass_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 214
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [192 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Mg > 2.0)
+Porcentage of examples covered -> 78.125% Remaining:<42>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Mg > 2.0)
+Porcentage of examples covered -> 78.125% Remaining:<42>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Mg <> 2.0) AND (Ca <= 7.0) AND (Si > 0.0) AND (Al > 0.0)
+Porcentage of examples covered -> 90.10416666666666% Remaining:<19>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Ca <= 7.0) AND (RI > 0.0) AND (Al <> 7.0)
+Porcentage of examples covered -> 92.1875% Remaining:<15>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Al <= 5.0) AND (RI <> 7.0) AND (Na <> 5.0) AND (Ca > 0.0)
+Porcentage of examples covered -> 96.875% Remaining:<6>
+
+ We search for the best complex for class True [22 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Mg <= 2.0) AND (Ba = 0.0) AND (RI <> 9.0) AND (Fe <> 3.0) AND (Al <> 4.0) AND (Ca <> 6.0)
+Porcentage of examples covered -> 86.36363636363636% Remaining:<3>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Fe = 0.0) AND (Mg <= 2.0) AND (Ba = 0.0) AND (RI <> 3.0) AND (Al <> 4.0) AND (Si <> 8.0) AND (K <> 1.0) AND (Ca <> 6.0)
+Porcentage of examples covered -> 90.9090909090909% Remaining:<2>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(Mg <= 2.0) AND (RI <> 9.0) AND (Fe <> 3.0) AND (K <> 1.0) AND (Si <> 8.0) AND (Ca <> 3.0) AND (Al <> 4.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 210 ... total datos: 214
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 7
+NÂº Atributos por regla medio: 4.714285714285714
+Cobertura: 0.403871829105474
+Complejidad (support completo): 0.9719626168224299
+Relevancia: 44.08431419049498
+Atipicidad: 0.1284325099029174
+Acierto: 0.9813084112149533
+
+ Porcentaje Aciertos: 210 ... total datos: 214
+
+Indices en Test:
+
+ TamaÃ±o reglas: 7
+NÂº Atributos por regla medio: 4.714285714285714
+Cobertura: 0.403871829105474
+Complejidad (support completo): 0.9719626168224299
+Relevancia: 44.08431419049498
+Atipicidad: 0.11626359316745447
+Acierto: 0.9813084112149533
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:26 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/heart_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/heart_truefalse_c/heart_truefalse_c.dat" "../datasets/heart_truefalse_c/heart_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.heart_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/heart_truefalse_c/heart_truefalse_c.dat.
+ >> processing: Age, Sex, ChestPainType, RestBloodPressure, SerumCholestoral, FastingBloodSugar, ResElectrocardiographic, MaxHeartRate, ExerciseInduced, Oldpeak, Slope, MajorVessels, Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/heart_truefalse_c/heart_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/heart_truefalse_c/heart_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:26 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/heart_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> processing: Age,Sex,ChestPainType,RestBloodPressure,SerumCholestoral,FastingBloodSugar,ResElectrocardiographic,MaxHeartRate,ExerciseInduced,Oldpeak,Slope,MajorVessels,Thal
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: ChestPainType.
+   > inputs attribute considered: RestBloodPressure.
+   > inputs attribute considered: SerumCholestoral.
+   > inputs attribute considered: FastingBloodSugar.
+   > inputs attribute considered: ResElectrocardiographic.
+   > inputs attribute considered: MaxHeartRate.
+   > inputs attribute considered: ExerciseInduced.
+   > inputs attribute considered: Oldpeak.
+   > inputs attribute considered: Slope.
+   > inputs attribute considered: MajorVessels.
+   > inputs attribute considered: Thal.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.heart_truefalse_c/UniformFrequency-Ds0.heart_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 270
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [150 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(Thal = 0.0) AND (Oldpeak <= 5.0) AND (MajorVessels <> 3.0) AND (MaxHeartRate <> 0.0)
+Porcentage of examples covered -> 73.33333333333333% Remaining:<40>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(ChestPainType <> 3.0) AND (SerumCholestoral <> 7.0) AND (MajorVessels <> 3.0) AND (Oldpeak <= 6.0)
+Porcentage of examples covered -> 89.33333333333333% Remaining:<16>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(MajorVessels = 0.0) AND (ExerciseInduced = 0.0) AND (SerumCholestoral <> 7.0)
+Porcentage of examples covered -> 94.66666666666667% Remaining:<8>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(Thal <> 2.0) AND (MaxHeartRate > 0.0) AND (Oldpeak <= 6.0) AND (Age <> 5.0) AND (MajorVessels <> 3.0)
+Porcentage of examples covered -> 95.33333333333334% Remaining:<7>
+
+ We search for the best complex for class True [120 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(MajorVessels > 0.0) AND (ChestPainType = 3.0) AND (RestBloodPressure <> 4.0) AND (Age <> 3.0)
+Porcentage of examples covered -> 47.5% Remaining:<63>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(Slope > 0.0) AND (MaxHeartRate <> 9.0) AND (RestBloodPressure <> 0.0) AND (ChestPainType <> 1.0) AND (SerumCholestoral <> 4.0)
+Porcentage of examples covered -> 75.0% Remaining:<30>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(ChestPainType = 3.0) AND (SerumCholestoral <> 3.0) AND (MaxHeartRate <> 9.0) AND (Age <> 8.0) AND (Thal <> 1.0) AND (RestBloodPressure <> 6.0)
+Porcentage of examples covered -> 85.0% Remaining:<18>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(MajorVessels > 0.0) AND (ChestPainType <> 2.0) AND (Oldpeak <> 2.0) AND (MaxHeartRate <> 5.0)
+Porcentage of examples covered -> 90.83333333333333% Remaining:<11>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(Thal > 0.0) AND (RestBloodPressure > 1.0) AND (SerumCholestoral > 1.0) AND (Slope <= 1.0) AND (Age <> 4.0) AND (MaxHeartRate <> 6.0)
+Porcentage of examples covered -> 95.0% Remaining:<6>
+
+
+ Porcentaje Aciertos: 245 ... total datos: 270
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 9
+NÂº Atributos por regla medio: 4.555555555555555
+Cobertura: 0.3530864197530864
+Complejidad (support completo): 0.9518518518518518
+Relevancia: 55.53404416155302
+Atipicidad: 0.09875465326065681
+Acierto: 0.9074074074074074
+
+ Porcentaje Aciertos: 245 ... total datos: 270
+
+Indices en Test:
+
+ TamaÃ±o reglas: 9
+NÂº Atributos por regla medio: 4.555555555555555
+Cobertura: 0.3530864197530864
+Complejidad (support completo): 0.9518518518518518
+Relevancia: 55.53404416155302
+Atipicidad: 0.09875465326065681
+Acierto: 0.9074074074074074
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:33 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:33 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/hepatitis_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat" "../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.hepatitis_truefalse_c/UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.hepatitis_truefalse_c/UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.hepatitis_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat.
+ >> processing: Age, Sex, Steroid, Antivirals, Fatigue, Malaise, Anorexia, LiverBig, LiverFirm, SpleenPalpable, Spiders, Ascites, Varices, Bilirubin, AlkPhosphate, Sgot, AlbuMin, ProTime, Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/hepatitis_truefalse_c/hepatitis_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:33 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:33 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/hepatitis_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.hepatitis_truefalse_c/UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> processing: Age,Sex,Steroid,Antivirals,Fatigue,Malaise,Anorexia,LiverBig,LiverFirm,SpleenPalpable,Spiders,Ascites,Varices,Bilirubin,AlkPhosphate,Sgot,AlbuMin,ProTime,Histology
+   > inputs attribute considered: Age.
+   > inputs attribute considered: Sex.
+   > inputs attribute considered: Steroid.
+   > inputs attribute considered: Antivirals.
+   > inputs attribute considered: Fatigue.
+   > inputs attribute considered: Malaise.
+   > inputs attribute considered: Anorexia.
+   > inputs attribute considered: LiverBig.
+   > inputs attribute considered: LiverFirm.
+   > inputs attribute considered: SpleenPalpable.
+   > inputs attribute considered: Spiders.
+   > inputs attribute considered: Ascites.
+   > inputs attribute considered: Varices.
+   > inputs attribute considered: Bilirubin.
+   > inputs attribute considered: AlkPhosphate.
+   > inputs attribute considered: Sgot.
+   > inputs attribute considered: AlbuMin.
+   > inputs attribute considered: ProTime.
+   > inputs attribute considered: Histology.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.hepatitis_truefalse_c/UniformFrequency-Ds0.hepatitis_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.hepatitis_truefalse_c/UniformFrequency-Ds0.hepatitis_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 80
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [67 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(ProTime > 2.0) AND (Bilirubin <> 6.0) AND (AlkPhosphate <= 8.0)
+Porcentage of examples covered -> 74.6268656716418% Remaining:<17>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(AlbuMin > 4.0) AND (ProTime <> 5.0)
+Porcentage of examples covered -> 88.05970149253731% Remaining:<8>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(Histology = 0.0) AND (Bilirubin <> 7.0)
+Porcentage of examples covered -> 94.02985074626866% Remaining:<4>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(ProTime > 1.0) AND (Age <> 6.0) AND (AlbuMin <> 4.0)
+Porcentage of examples covered -> 95.52238805970148% Remaining:<3>
+
+ We search for the best complex for class True [13 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(Histology > 0.0) AND (Sgot <> 7.0) AND (Age <> 8.0) AND (ProTime <> 4.0) AND (Anorexia = 1.0) AND (AlkPhosphate <> 3.0) AND (AlbuMin <> 5.0)
+Porcentage of examples covered -> 92.3076923076923% Remaining:<1>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+New Star created of size 14
+New Star created of size 15
+New Star created of size 16
+New Star created of size 17
+New Star created of size 18
+New Star created of size 19
+
+Complex Found:
+(ProTime <= 2.0) AND (Anorexia = 1.0) AND (Sex = 0.0) AND (Fatigue <> 1.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 80 ... total datos: 80
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 6
+NÂº Atributos por regla medio: 3.5
+Cobertura: 0.4583333333333333
+Complejidad (support completo): 0.9625
+Relevancia: 22.143006965763036
+Atipicidad: 0.15233240905063983
+Acierto: 1.0
+
+ Porcentaje Aciertos: 80 ... total datos: 80
+
+Indices en Test:
+
+ TamaÃ±o reglas: 6
+NÂº Atributos por regla medio: 3.5
+Cobertura: 0.4583333333333333
+Complejidad (support completo): 0.9625
+Relevancia: 22.143006965763036
+Atipicidad: 0.15233240905063983
+Acierto: 1.0
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/iris_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/iris_truefalse_c/iris_truefalse_c.dat" "../datasets/iris_truefalse_c/iris_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.iris_truefalse_c/UniformFrequency-Ds0.iris_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.iris_truefalse_c/UniformFrequency-Ds0.iris_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.iris_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/iris_truefalse_c/iris_truefalse_c.dat.
+ >> processing: SepalLength, SepalWidth, PetalLength, PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/iris_truefalse_c/iris_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/iris_truefalse_c/iris_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/iris_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.iris_truefalse_c/UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> processing: SepalLength,SepalWidth,PetalLength,PetalWidth
+   > inputs attribute considered: SepalLength.
+   > inputs attribute considered: SepalWidth.
+   > inputs attribute considered: PetalLength.
+   > inputs attribute considered: PetalWidth.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.iris_truefalse_c/UniformFrequency-Ds0.iris_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.iris_truefalse_c/UniformFrequency-Ds0.iris_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 150
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [100 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(PetalLength <= 6.0) AND (PetalWidth <= 6.0)
+Porcentage of examples covered -> 95.0% Remaining:<5>
+
+ We search for the best complex for class True [50 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(PetalWidth > 6.0)
+Porcentage of examples covered -> 92.0% Remaining:<4>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+
+Complex Found:
+(PetalLength > 6.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 145 ... total datos: 150
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 3
+NÂº Atributos por regla medio: 1.3333333333333333
+Cobertura: 0.4311111111111111
+Complejidad (support completo): 0.9666666666666667
+Relevancia: 80.52538419800665
+Atipicidad: 0.20872912163494892
+Acierto: 0.9666666666666667
+
+ Porcentaje Aciertos: 145 ... total datos: 150
+
+Indices en Test:
+
+ TamaÃ±o reglas: 3
+NÂº Atributos por regla medio: 1.3333333333333333
+Cobertura: 0.4311111111111111
+Complejidad (support completo): 0.9666666666666667
+Relevancia: 80.52538419800665
+Atipicidad: 0.20872912163494892
+Acierto: 0.9666666666666667
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:35 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/tic-tac-toe_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat" "../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat.
+ >> processing: TopLeft, TopMiddle, TopRight, MiddleLeft, MiddleMiddle, MiddleRight, BottomLeft, BottomMiddle, BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/tic-tac-toe_truefalse_c/tic-tac-toe_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:18:36 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:18:36 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/tic-tac-toe_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> processing: TopLeft,TopMiddle,TopRight,MiddleLeft,MiddleMiddle,MiddleRight,BottomLeft,BottomMiddle,BottomRight
+   > inputs attribute considered: TopLeft.
+   > inputs attribute considered: TopMiddle.
+   > inputs attribute considered: TopRight.
+   > inputs attribute considered: MiddleLeft.
+   > inputs attribute considered: MiddleMiddle.
+   > inputs attribute considered: MiddleRight.
+   > inputs attribute considered: BottomLeft.
+   > inputs attribute considered: BottomMiddle.
+   > inputs attribute considered: BottomRight.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.tic-tac-toe_truefalse_c/UniformFrequency-Ds0.tic-tac-toe_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 958
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [626 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(MiddleMiddle > 0.0)
+Porcentage of examples covered -> 76.35782747603834% Remaining:<148>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(TopRight <> 1.0) AND (MiddleMiddle <> 0.0) AND (BottomLeft <> 1.0)
+Porcentage of examples covered -> 76.35782747603834% Remaining:<148>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(TopLeft <> 1.0) AND (MiddleMiddle > 0.0) AND (BottomRight > 0.0)
+Porcentage of examples covered -> 76.35782747603834% Remaining:<148>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomRight > 0.0) AND (TopRight <> 1.0) AND (MiddleLeft <> 1.0)
+Porcentage of examples covered -> 85.3035143769968% Remaining:<92>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(TopLeft <> 1.0) AND (BottomLeft <> 1.0) AND (MiddleRight > 0.0)
+Porcentage of examples covered -> 93.29073482428115% Remaining:<42>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(MiddleMiddle > 1.0)
+Porcentage of examples covered -> 93.29073482428115% Remaining:<42>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(TopRight = 0.0) AND (TopLeft <> 1.0) AND (TopMiddle <> 1.0)
+Porcentage of examples covered -> 96.00638977635782% Remaining:<25>
+
+ We search for the best complex for class True [332 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomLeft > 0.0) AND (MiddleMiddle <= 1.0) AND (TopRight > 0.0)
+Porcentage of examples covered -> 27.710843373493976% Remaining:<240>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomRight <> 1.0) AND (TopLeft > 0.0) AND (MiddleMiddle <= 1.0)
+Porcentage of examples covered -> 50.602409638554214% Remaining:<164>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomLeft > 0.0) AND (BottomMiddle <> 2.0)
+Porcentage of examples covered -> 72.59036144578313% Remaining:<91>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomMiddle <> 1.0) AND (TopMiddle <= 1.0) AND (TopLeft <> 0.0)
+Porcentage of examples covered -> 84.33734939759037% Remaining:<52>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomRight <> 1.0) AND (MiddleLeft > 0.0) AND (MiddleRight <> 1.0)
+Porcentage of examples covered -> 92.7710843373494% Remaining:<24>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomRight <> 1.0) AND (TopLeft > 0.0) AND (MiddleMiddle <= 1.0)
+Porcentage of examples covered -> 92.7710843373494% Remaining:<24>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BottomLeft > 0.0) AND (MiddleRight <= 1.0) AND (MiddleLeft <= 1.0)
+Porcentage of examples covered -> 93.97590361445783% Remaining:<20>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(TopRight > 0.0) AND (BottomMiddle <> 1.0) AND (BottomRight <> 2.0) AND (TopMiddle <= 1.0)
+Porcentage of examples covered -> 95.78313253012048% Remaining:<14>
+
+
+ Porcentaje Aciertos: 783 ... total datos: 958
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 14
+NÂº Atributos por regla medio: 2.7142857142857144
+Cobertura: 0.25
+Complejidad (support completo): 0.9592901878914405
+Relevancia: 69.82891029119862
+Atipicidad: 0.05343055505425483
+Acierto: 0.8173277661795407
+
+ Porcentaje Aciertos: 783 ... total datos: 958
+
+Indices en Test:
+
+ TamaÃ±o reglas: 14
+NÂº Atributos por regla medio: 2.7142857142857144
+Cobertura: 0.25
+Complejidad (support completo): 0.9592901878914405
+Relevancia: 69.82891029119862
+Atipicidad: 0.05452234768117399
+Acierto: 0.8173277661795407
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:19:21 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:19:21 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/wine_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/wine_truefalse_c/wine_truefalse_c.dat" "../datasets/wine_truefalse_c/wine_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.wine_truefalse_c/UniformFrequency-Ds0.wine_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.wine_truefalse_c/UniformFrequency-Ds0.wine_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.wine_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/wine_truefalse_c/wine_truefalse_c.dat.
+ >> processing: Alcohol, MalicAcid, Ash, AlcalinityOfAsh, Magnesium, TotalPhenols, flavanoids, NonflavanoidsPhenols, Proanthocyanins, ColorIntensity, Hue, OD280/OD315, Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wine_truefalse_c/wine_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wine_truefalse_c/wine_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:19:21 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:19:21 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/wine_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.wine_truefalse_c/UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> processing: Alcohol,MalicAcid,Ash,AlcalinityOfAsh,Magnesium,TotalPhenols,flavanoids,NonflavanoidsPhenols,Proanthocyanins,ColorIntensity,Hue,OD280/OD315,Proline
+   > inputs attribute considered: Alcohol.
+   > inputs attribute considered: MalicAcid.
+   > inputs attribute considered: Ash.
+   > inputs attribute considered: AlcalinityOfAsh.
+   > inputs attribute considered: Magnesium.
+   > inputs attribute considered: TotalPhenols.
+   > inputs attribute considered: flavanoids.
+   > inputs attribute considered: NonflavanoidsPhenols.
+   > inputs attribute considered: Proanthocyanins.
+   > inputs attribute considered: ColorIntensity.
+   > inputs attribute considered: Hue.
+   > inputs attribute considered: OD280/OD315.
+   > inputs attribute considered: Proline.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.wine_truefalse_c/UniformFrequency-Ds0.wine_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.wine_truefalse_c/UniformFrequency-Ds0.wine_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 178
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [130 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(OD280/OD315 > 2.0) AND (flavanoids > 0.0)
+Porcentage of examples covered -> 93.84615384615384% Remaining:<8>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(flavanoids > 2.0) AND (Hue > 0.0)
+Porcentage of examples covered -> 96.15384615384616% Remaining:<5>
+
+ We search for the best complex for class True [48 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+New Star created of size 10
+New Star created of size 11
+New Star created of size 12
+New Star created of size 13
+
+Complex Found:
+(OD280/OD315 <= 3.0) AND (ColorIntensity > 2.0) AND (Hue <= 4.0)
+Porcentage of examples covered -> 100.0% Remaining:<0>
+
+
+ Porcentaje Aciertos: 178 ... total datos: 178
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 3
+NÂº Atributos por regla medio: 2.3333333333333335
+Cobertura: 0.548689138576779
+Complejidad (support completo): 0.9719101123595506
+Relevancia: 90.01163017769504
+Atipicidad: 0.2157144004806563
+Acierto: 1.0
+
+ Porcentaje Aciertos: 178 ... total datos: 178
+
+Indices en Test:
+
+ TamaÃ±o reglas: 3
+NÂº Atributos por regla medio: 2.3333333333333335
+Cobertura: 0.548689138576779
+Complejidad (support completo): 0.9719101123595506
+Relevancia: 90.01163017769504
+Atipicidad: 0.2157144004806563
+Acierto: 1.0
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:19:23 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:19:23 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/Disc-UniformFrequency.jar ./UniformFrequency-D/wisconsin_truefalse_c/config0s0.txt Line: algorithm = Uniform Frequency Discretizer
+The name is: Uniform Frequency Discretizer
+Returning from processAlgorithmName
+Line: inputData = "../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat" "../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat" 
+Line: outputData = "../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat" "../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat" "../datasets/UniformFrequency-D.wisconsin_truefalse_c/result1s0e0.txt"  
+Line: seed = 1286082570
+paramName: seed
+Line: numIntervals = 10
+paramName: numIntervals
+Parameters parsed
+Opening the file: ../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat.
+ >> processing: ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/wisconsin_truefalse_c/wisconsin_truefalse_c.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:19:24 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Jan 12 18:19:24 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/CN2SD.jar ./UniformFrequency-D.CN2-SD/wisconsin_truefalse_c/config0.txt Launching CN2SD.
+Executing CN2SD
+Opening the file: ../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> processing: ClumpThickness,CellSize,CellShape,MarginalAdhesion,EpithelialSize,BareNuclei,BlandChromatin,NormalNucleoli,Mitoses
+   > inputs attribute considered: ClumpThickness.
+   > inputs attribute considered: CellSize.
+   > inputs attribute considered: CellShape.
+   > inputs attribute considered: MarginalAdhesion.
+   > inputs attribute considered: EpithelialSize.
+   > inputs attribute considered: BareNuclei.
+   > inputs attribute considered: BlandChromatin.
+   > inputs attribute considered: NormalNucleoli.
+   > inputs attribute considered: Mitoses.
+ >> processing:  Class
+   > outputs attribute considered: Class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+Opening the file: ../datasets/UniformFrequency-D.wisconsin_truefalse_c/UniformFrequency-Ds0.wisconsin_truefalse_c1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 683
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of classes=2
+
+Generating datasets
+
+ Extracting rules for the different classes:
+
+ We search for the best complex for class False [444 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BareNuclei <= 1.0) AND (CellSize <= 3.0) AND (EpithelialSize <> 4.0) AND (ClumpThickness <= 6.0)
+Porcentage of examples covered -> 90.76576576576578% Remaining:<41>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(CellSize <= 1.0) AND (ClumpThickness <= 5.0) AND (NormalNucleoli <= 2.0) AND (BareNuclei <> 4.0)
+Porcentage of examples covered -> 96.17117117117117% Remaining:<17>
+
+ We search for the best complex for class True [239 examples remaining]
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(CellSize > 0.0) AND (BlandChromatin > 1.0) AND (CellShape > 0.0)
+Porcentage of examples covered -> 94.97907949790795% Remaining:<12>
+
+New Star created of size 2
+New Star created of size 3
+New Star created of size 4
+New Star created of size 5
+New Star created of size 6
+New Star created of size 7
+New Star created of size 8
+New Star created of size 9
+
+Complex Found:
+(BareNuclei > 0.0) AND (CellShape > 0.0)
+Porcentage of examples covered -> 98.74476987447699% Remaining:<3>
+
+
+ Porcentaje Aciertos: 662 ... total datos: 683
+
+Indices en Train: 
+
+ TamaÃ±o reglas: 4
+NÂº Atributos por regla medio: 3.25
+Cobertura: 0.4787701317715959
+Complejidad (support completo): 0.9707174231332357
+Relevancia: 331.5263442303274
+Atipicidad: 0.20228686070656104
+Acierto: 0.9692532942898975
+
+ Porcentaje Aciertos: 662 ... total datos: 683
+
+Indices en Test:
+
+ TamaÃ±o reglas: 4
+NÂº Atributos por regla medio: 3.25
+Cobertura: 0.4787701317715959
+Complejidad (support completo): 0.9707174231332357
+Relevancia: 331.5263442303274
+Atipicidad: 0.20228686070656104
+Acierto: 0.9692532942898975
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Jan 12 18:19:32 CET 2023
+
+Experiment completed successfully

@@ -1,0 +1,8 @@
+{Sgot=[14,44),AlbuMin=[2.1,3.8)} => {Class=True}
+{AlkPhosphate=[75.3,106),AlbuMin=[2.1,3.8),ProTime=[0,52)} => {Class=True}
+{Age=[44.7,72],AlbuMin=[2.1,3.8),ProTime=[0,52)} => {Class=True}
+{Bilirubin=[1.2,4.8],AlkPhosphate=[75.3,106),AlbuMin=[2.1,3.8)} => {Class=True}
+{Age=[44.7,72],Bilirubin=[1.2,4.8],AlbuMin=[2.1,3.8)} => {Class=True}
+{Bilirubin=[1.2,4.8],AlkPhosphate=[75.3,106),ProTime=[0,52)} => {Class=True}
+{Age=[44.7,72],Bilirubin=[1.2,4.8],AlbuMin=[2.1,3.8),ProTime=[0,52)} => {Class=True}
+{Age=[44.7,72],Bilirubin=[1.2,4.8],Sgot=[44,80.7),ProTime=[0,52)} => {Class=True}
