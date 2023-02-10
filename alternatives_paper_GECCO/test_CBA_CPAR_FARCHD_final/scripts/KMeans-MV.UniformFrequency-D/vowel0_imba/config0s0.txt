@@ -1,6 +1,0 @@
-algorithm = Uniform Frequency Discretizer
-inputData = "../datasets/KMeans-MV.vowel0_imba/KMeans-MVs0.vowel0_imba1tra.dat" "../datasets/KMeans-MV.vowel0_imba/KMeans-MVs0.vowel0_imba1tst.dat" 
-outputData = "../datasets/KMeans-MV.UniformFrequency-D.vowel0_imba/KMeans-MV.UniformFrequency-Ds0.vowel0_imba1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.vowel0_imba/KMeans-MV.UniformFrequency-Ds0.vowel0_imba1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.vowel0_imba/result1s0e0.txt"  
-
-seed = 1343278692
-numIntervals = 10

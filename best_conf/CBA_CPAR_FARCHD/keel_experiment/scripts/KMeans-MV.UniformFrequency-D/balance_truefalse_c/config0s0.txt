@@ -1,6 +1,0 @@
-algorithm = Uniform Frequency Discretizer
-inputData = "../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tra.dat" "../datasets/KMeans-MV.balance_truefalse_c/KMeans-MVs0.balance_truefalse_c1tst.dat" 
-outputData = "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/KMeans-MV.UniformFrequency-Ds0.balance_truefalse_c1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.balance_truefalse_c/result1s0e0.txt"  
-
-seed = 1343278692
-numIntervals = 10

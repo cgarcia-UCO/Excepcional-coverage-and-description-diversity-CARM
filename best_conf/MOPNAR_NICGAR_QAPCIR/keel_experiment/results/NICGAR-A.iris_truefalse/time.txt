@@ -1,1 +1,0 @@
-2  ../datasets/iris_truefalse/iris_truefalse.dat../results/NICGAR-A.iris_truefalse/result0s0.tra

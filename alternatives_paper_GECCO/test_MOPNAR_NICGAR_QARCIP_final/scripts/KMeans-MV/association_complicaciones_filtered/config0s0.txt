@@ -1,8 +1,0 @@
-algorithm = K-means Imputation
-inputData = "../datasets/association_complicaciones_filtered/association_complicaciones_filtered.dat" "../datasets/association_complicaciones_filtered/association_complicaciones_filtered.dat" 
-outputData = "../datasets/KMeans-MV.association_complicaciones_filtered/KMeans-MVs0.association_complicaciones_filtered1tra.dat" "../datasets/KMeans-MV.association_complicaciones_filtered/KMeans-MVs0.association_complicaciones_filtered1tst.dat" 
-
-seed = 1286082570
-k = 10
-error = 100
-iterations = 100

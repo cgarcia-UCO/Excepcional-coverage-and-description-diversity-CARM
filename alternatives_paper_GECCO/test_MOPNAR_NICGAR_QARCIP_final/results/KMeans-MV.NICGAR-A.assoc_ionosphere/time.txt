@@ -1,1 +1,0 @@
-47  ../datasets/KMeans-MV.assoc_ionosphere/KMeans-MVs0.assoc_ionosphere1tra.dat../results/KMeans-MV.NICGAR-A.assoc_ionosphere/result0s0.tra

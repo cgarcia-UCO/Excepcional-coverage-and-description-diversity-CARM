@@ -1,8 +1,0 @@
-algorithm = K-means Imputation
-inputData = "../datasets/ionos_imba/ionos_imba-tra.dat" "../datasets/ionos_imba/ionos_imba-tst.dat" 
-outputData = "../datasets/KMeans-MV.ionos_imba/KMeans-MVs0.ionos_imba1tra.dat" "../datasets/KMeans-MV.ionos_imba/KMeans-MVs0.ionos_imba1tst.dat" 
-
-seed = 1286082570
-k = 10
-error = 100
-iterations = 100

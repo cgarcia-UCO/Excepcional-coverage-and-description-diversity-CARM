@@ -1,8 +1,0 @@
-algorithm = K-means Imputation
-inputData = "../datasets/assoc_pima/assoc_pima.dat" "../datasets/assoc_pima/assoc_pima.dat" 
-outputData = "../datasets/KMeans-MV.assoc_pima/KMeans-MVs0.assoc_pima1tra.dat" "../datasets/KMeans-MV.assoc_pima/KMeans-MVs0.assoc_pima1tst.dat" 
-
-seed = 1286082570
-k = 10
-error = 100
-iterations = 100

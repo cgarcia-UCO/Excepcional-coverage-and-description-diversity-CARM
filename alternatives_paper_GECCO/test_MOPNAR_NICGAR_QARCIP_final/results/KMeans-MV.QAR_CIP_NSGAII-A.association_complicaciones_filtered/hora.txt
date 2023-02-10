@@ -1,1 +1,0 @@
-00:01:38  ../results/KMeans-MV.QAR_CIP_NSGAII-A.association_complicaciones_filtered/result0s0.tra

@@ -1,7 +1,0 @@
-numpy
-scipy
-matplotlib
-pandas
-scikit-learn>=0.23.2
-imblearn
-tqdm

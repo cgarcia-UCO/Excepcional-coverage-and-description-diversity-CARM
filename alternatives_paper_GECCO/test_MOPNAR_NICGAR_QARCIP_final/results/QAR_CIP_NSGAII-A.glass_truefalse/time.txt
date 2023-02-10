@@ -1,1 +1,0 @@
-1  ../datasets/glass_truefalse/glass_truefalse.dat../results/QAR_CIP_NSGAII-A.glass_truefalse/result0s0.tra

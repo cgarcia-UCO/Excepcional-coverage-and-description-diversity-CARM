@@ -1,1 +1,0 @@
-98  ../datasets/KMeans-MV.association_complicaciones_filtered/KMeans-MVs0.association_complicaciones_filtered1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.association_complicaciones_filtered/result0s0.tra

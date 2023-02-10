@@ -1,1 +1,0 @@
-21  null../results/MOPNAR-A.chess_truefalse/result0s0.tra

@@ -1,6 +1,0 @@
-algorithm = Uniform Frequency Discretizer
-inputData = "../datasets/pima_imba/pima_imba.dat" "../datasets/pima_imba/pima_imba.dat" 
-outputData = "../datasets/UniformFrequency-D.pima_imba/UniformFrequency-Ds0.pima_imba1tra.dat" "../datasets/UniformFrequency-D.pima_imba/UniformFrequency-Ds0.pima_imba1tst.dat" "../datasets/UniformFrequency-D.pima_imba/result1s0e0.txt"  
-
-seed = 1286082570
-numIntervals = 10

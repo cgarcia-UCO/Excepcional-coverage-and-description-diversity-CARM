@@ -1,1 +1,0 @@
-00:00:01  ../results/MOPNAR-A.iris_truefalse/result0s0.tra

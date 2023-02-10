@@ -1,1 +1,0 @@
-15  null../results/KMeans-MV.MOPNAR-A.assoc_pima/result0s0.tra

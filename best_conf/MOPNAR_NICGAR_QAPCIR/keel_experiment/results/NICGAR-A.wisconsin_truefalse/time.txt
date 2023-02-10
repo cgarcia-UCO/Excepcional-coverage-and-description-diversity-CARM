@@ -1,1 +1,0 @@
-7  ../datasets/wisconsin_truefalse/wisconsin_truefalse.dat../results/NICGAR-A.wisconsin_truefalse/result0s0.tra

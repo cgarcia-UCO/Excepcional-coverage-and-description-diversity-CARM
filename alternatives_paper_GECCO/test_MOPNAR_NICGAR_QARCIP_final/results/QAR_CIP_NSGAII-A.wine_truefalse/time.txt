@@ -1,1 +1,0 @@
-1  ../datasets/wine_truefalse/wine_truefalse.dat../results/QAR_CIP_NSGAII-A.wine_truefalse/result0s0.tra

@@ -1,1 +1,0 @@
-4  ../datasets/car_truefalse/car_truefalse.dat../results/QAR_CIP_NSGAII-A.car_truefalse/result0s0.tra

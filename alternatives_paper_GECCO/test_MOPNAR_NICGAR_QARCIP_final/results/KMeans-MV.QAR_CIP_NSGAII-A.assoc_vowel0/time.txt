@@ -1,1 +1,0 @@
-19  ../datasets/KMeans-MV.assoc_vowel0/KMeans-MVs0.assoc_vowel01tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.assoc_vowel0/result0s0.tra

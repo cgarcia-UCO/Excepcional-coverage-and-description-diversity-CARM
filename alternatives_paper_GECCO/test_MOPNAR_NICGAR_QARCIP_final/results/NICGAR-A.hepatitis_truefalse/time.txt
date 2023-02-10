@@ -1,1 +1,0 @@
-4  ../datasets/hepatitis_truefalse/hepatitis_truefalse.dat../results/NICGAR-A.hepatitis_truefalse/result0s0.tra

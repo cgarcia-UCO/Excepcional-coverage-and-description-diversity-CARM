@@ -1,9 +1,0 @@
-algorithm = CN2 Algorithm for Subgroup Discovery
-inputData = "../datasets/UniformFrequency-D.ionos_imba/UniformFrequency-Ds0.ionos_imba1tra.dat" "../datasets/UniformFrequency-D.ionos_imba/UniformFrequency-Ds0.ionos_imba1tra.dat" "../datasets/UniformFrequency-D.ionos_imba/UniformFrequency-Ds0.ionos_imba1tst.dat" ""../datasets/UniformFrequency-D.ionos_imba/result1s0e0.txt" " 
-outputData = "../results/0-UniformFrequency-D.CN2-SD.ionos_imba/result0.tra" "../results/0-UniformFrequency-D.CN2-SD.ionos_imba/result0.tst" "../results/0-UniformFrequency-D.CN2-SD.ionos_imba/result0e0.txt"  
-
-Nu_Value = 0.5
-Percentage_Examples_To_Cover = 0.95
-Star_Size = 5
-Use_multiplicative_weigths = YES
-Use_Disjunt_Selectors = NO

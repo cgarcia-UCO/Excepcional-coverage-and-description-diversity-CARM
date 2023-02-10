@@ -1,1 +1,0 @@
-12  ../datasets/german_truefalse/german_truefalse.dat../results/NICGAR-A.german_truefalse/result0s0.tra

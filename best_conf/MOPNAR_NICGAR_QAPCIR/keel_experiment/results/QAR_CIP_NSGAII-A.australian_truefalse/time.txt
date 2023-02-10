@@ -1,1 +1,0 @@
-3  ../datasets/australian_truefalse/australian_truefalse.dat../results/QAR_CIP_NSGAII-A.australian_truefalse/result0s0.tra
