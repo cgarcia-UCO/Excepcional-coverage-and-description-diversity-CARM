@@ -3,9 +3,10 @@ This repository contains the rules produced by the algorithms tested in the GECC
 
 You just have to unzip data.zip, create a virtual environment, install the required libraries, and run the corresponding program:
 
-   unzip data.zip
-   virtualenv venv
-   pip install -r requirements.txt
-   source venv/bin/activate
-   python scripts/results2latex.py
-
+'''bash
+unzip data.zip
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python scripts/results2latex.py
+'''
