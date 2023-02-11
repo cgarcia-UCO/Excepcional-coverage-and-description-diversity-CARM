@@ -10,3 +10,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 python scripts/results2latex.py
 ```
+Afterwards, open Generated_results.html or Original_results.html
