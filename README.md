@@ -11,8 +11,3 @@ pip install -r requirements.txt
 python scripts/apriori2latex.py
 python scripts/results2latex.py
 ```
-
-We are sorry. Currently, this works just on unix-like systems, because of the used paths formats. We are working to make it work on windows as well
-
-
-
