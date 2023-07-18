@@ -9,7 +9,7 @@ This repository contains the rules produced by the algorithms tested in the subm
 1. Unzip data.zip
 2. Open Generated_results.html
 
-## You want you generate the figures yourself?
+## You really want you generate the figures yourself
 
 You just have to unzip data.zip, create a virtual environment, install the required libraries, and run the python scripts. Afterwards, you can open Generated_results.html, for the results generated with the available data (no colorectal dataset) or Original_results.html, for the original results.
 
