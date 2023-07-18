@@ -7,7 +7,7 @@ You just have to unzip data.zip, create a virtual environment, install the requi
 unzip data.zip
 virtualenv venv
 
-# The sofware needs to import package apt to check the requirements below
+# The sofware needs to import package apt to check the requirements below IMPORTANT NOTICE
 sed -i "s/include-system-site-packages = false/include-system-site-packages = true/g" venv/pyvenv.cfg
 
 source venv/bin/activate
