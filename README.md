@@ -5,7 +5,7 @@ You just have to unzip data.zip, create a virtual environment, install the requi
 
 ```bash
 unzip data.zip
-virtualenv venv
+virtualenv --system-site-packages venv  # --system-site-packages are needed to check the requirements below
 source venv/bin/activate
 pip install -r requirements.txt
 python scripts/apriori2latex.py
