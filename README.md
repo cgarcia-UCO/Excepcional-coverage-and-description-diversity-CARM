@@ -2,10 +2,12 @@
 This repository contains the rules produced by the algorithms tested in the submission "Exceptional coverage and description diversity for mining non-dominated class association rules with genetic programming", together with the scripts that process them and generate the tables and figures.
 
 ## Figures and tables in the submission
-Open Original_results.html
+1. Unzip data.zip
+2. Open Original_results.html
 
 ## Figures and tables generated from the available data (no colorectal dataset)
-Open Generated_results.html
+1. Unzip data.zip
+2. Open Generated_results.html
 
 ## You want you generate the figures yourself?
 
