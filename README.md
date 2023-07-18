@@ -18,7 +18,7 @@ python scripts/results2latex.py
 
 **IMPORTANT NOTICE:** This sofware has been tested on three ubuntu 22.04 systems. In any case, be aware that the software is provided "as is", without warranty of any kind, express or implied. Please, read the license.
 
-In addition, the program tries to apply the non-parametric version of the Scott-Knott-ESD statistical test (available at https://github.com/klainfo/ScottKnottESD). The software will try to locate it, or ask you if it should try to install it locally. For such installation, the software requires the following tools:
+In addition, the program tries to apply the non-parametric version of the Scott-Knott-ESD statistical test (available at https://github.com/klainfo/ScottKnottESD). The software will try to locate it, or ask you if it should try to install it locally. For such installation, the software checks that the following tools are installed (this needs to use package apt):
 - R
 - cmake
 - libcurl4-openssl-dev
