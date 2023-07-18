@@ -6,7 +6,10 @@ You just have to unzip data.zip, create a virtual environment, install the requi
 ```bash
 unzip data.zip
 virtualenv venv
-sed -i "s/include-system-site-packages = false/include-system-site-packages = true/g" venv/pyvenv.cfg  # The sofware nees to import package apt
+
+# The sofware needs to import package apt to check the requirements below
+sed -i "s/include-system-site-packages = false/include-system-site-packages = true/g" venv/pyvenv.cfg
+
 source venv/bin/activate
 pip install -r requirements.txt
 python scripts/apriori2latex.py
