@@ -1,4 +1,4 @@
-# Exceptional coverage and description diversity in class association rule mining
+# Exceptional coverage and description diversity in non-dominated class association rules
 This repository contains the rules produced by the algorithms tested in the submission "Exceptional coverage and description diversity for mining non-dominated class association rules with genetic programming", together with the scripts that process them and generate the tables and figures.
 
 ## Figures and tables in the submission
