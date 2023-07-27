@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.3333333333333333" antecedent_support="0.3333333333333333" consequent_support="0.3333333333333333" confidence="1.0" lift="3.0" conviction="Infinity" certainFactor="1.0" netConf="0.9999999999999999" yulesQ="1.0" nAnts="1"/>
+<rule id="1" rule_support="0.3" antecedent_support="0.30666666666666664" consequent_support="0.3333333333333333" confidence="0.9782608695652174" lift="2.9347826086956523" conviction="30.666666666666725" certainFactor="0.9673913043478259" netConf="0.9301839464882944" yulesQ="0.9977578475336322" nAnts="1"/>
+<rule id="2" rule_support="0.3" antecedent_support="0.3" consequent_support="0.36" confidence="1.0" lift="2.7777777777777777" conviction="Infinity" certainFactor="1.0" netConf="0.9142857142857144" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.22" antecedent_support="0.22666666666666666" consequent_support="0.32" confidence="0.9705882352941178" lift="3.033088235294118" conviction="23.12000000000004" certainFactor="0.9567474048442908" netConf="0.8412778904665316" yulesQ="0.9910394265232974" nAnts="1"/>
+<rule id="4" rule_support="0.36" antecedent_support="0.37333333333333335" consequent_support="0.4533333333333333" confidence="0.9642857142857142" lift="2.1271008403361344" conviction="15.306666666666631" certainFactor="0.9346689895470381" netConf="0.8153495440729481" yulesQ="0.9871205151793929" nAnts="1"/>
+<rule id="5" rule_support="0.18666666666666668" antecedent_support="0.2" consequent_support="0.31333333333333335" confidence="0.9333333333333333" lift="2.978723404255319" conviction="10.299999999999999" certainFactor="0.9029126213592233" netConf="0.7749999999999998" yulesQ="0.9734822051639916" nAnts="1"/>
+<rule id="6" rule_support="0.06666666666666667" antecedent_support="0.08" consequent_support="0.07333333333333333" confidence="0.8333333333333333" lift="11.363636363636363" conviction="5.559999999999999" certainFactor="0.8201438848920862" netConf="0.8260869565217391" yulesQ="0.9970845481049563" nAnts="1"/>
+</values>

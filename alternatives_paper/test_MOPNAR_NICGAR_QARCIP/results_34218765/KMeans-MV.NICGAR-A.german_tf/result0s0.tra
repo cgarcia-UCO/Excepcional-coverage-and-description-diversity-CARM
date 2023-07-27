@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Housing" value="
+A153" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A124" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Housing" value="
+NOT A153" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+NOT A124" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A32" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="CreditAmount" value="
+[10127.0, 10366.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [4.0, 47.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+A32" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="CreditAmount" value="
+NOT [1550.0, 18424.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+[4.0, 15.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Job" value="
+A174" /></antecedents>
+<consequents>
+<attribute name="Telephone" value="
+A192" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Job" value="
+A171" /></antecedents>
+<consequents>
+<attribute name="EmploymentSince" value="
+NOT A75" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="CreditAmount" value="
+[15857.0, 15945.0]" /></antecedents>
+<consequents>
+<attribute name="EmploymentSince" value="
+NOT A75" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="CreditAmount" value="
+[3990.0, 9055.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [4.0, 23.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="CreditAmount" value="
+[14421.0, 14896.0]" /></antecedents>
+<consequents>
+<attribute name="Customer" value="
+True" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="EmploymentSince" value="
+A75" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+NOT [19.0, 34.0]" /></consequents>
+</rule>
+</association_rules>

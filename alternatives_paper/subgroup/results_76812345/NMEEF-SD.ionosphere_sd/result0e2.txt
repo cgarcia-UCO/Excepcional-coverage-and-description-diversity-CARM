@@ -1,0 +1,301 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-NMEEF for Subgroup Discovery
+Input file name training: ../datasets/ionosphere_sd/ionosphere_sd.dat
+Rules file name: ../results/NMEEF-SD.ionosphere_sd/result0e0.txt
+Tracking file name: ../results/NMEEF-SD.ionosphere_sd/result0e2.txt
+Representation of the Rules: CAN
+Strict dominance: YES
+Random generator seed: 76812345
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 50
+Cross probability: 0.6
+Mutation probability: 0.1
+Diversity: CROWDING
+Perform ReInitCob: yes
+Percentage of the ReInitCob: 0.5
+Minimum confidence threshold: 0.6
+Number of objetives: 2
+	Objetive 1: COMP
+	Objetive 2: UNUS
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable a01:
+	Label 0: -0.5 0.0 0.5
+	Label 1: 0.0 0.5 1.0
+	Label 2: 0.5 1.0 1.5
+Fuzzy sets parameters for variable a02:
+	Label 0: 0.0 0.0 0.0
+	Label 1: 0.0 0.0 0.0
+	Label 2: 0.0 0.0 0.0
+Fuzzy sets parameters for variable a03:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a04:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a05:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a06:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a07:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a08:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a09:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a10:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a11:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a12:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a13:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a14:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a15:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a16:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a17:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a18:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a19:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a20:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a21:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a22:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a23:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a24:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a25:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a26:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a27:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a28:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a29:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a30:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a31:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a32:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a33:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+Fuzzy sets parameters for variable a34:
+	Label 0: -2.0 -1.0 0.0
+	Label 1: -1.0 0.0 1.0
+	Label 2: 0.0 1.0 2.0
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 351
+Number of variables: 34
+@relation ionosphere
+@attribute a01 real[0.0,1.0]
+@attribute a02 real[0.0,0.0]
+@attribute a03 real[-1.0,1.0]
+@attribute a04 real[-1.0,1.0]
+@attribute a05 real[-1.0,1.0]
+@attribute a06 real[-1.0,1.0]
+@attribute a07 real[-1.0,1.0]
+@attribute a08 real[-1.0,1.0]
+@attribute a09 real[-1.0,1.0]
+@attribute a10 real[-1.0,1.0]
+@attribute a11 real[-1.0,1.0]
+@attribute a12 real[-1.0,1.0]
+@attribute a13 real[-1.0,1.0]
+@attribute a14 real[-1.0,1.0]
+@attribute a15 real[-1.0,1.0]
+@attribute a16 real[-1.0,1.0]
+@attribute a17 real[-1.0,1.0]
+@attribute a18 real[-1.0,1.0]
+@attribute a19 real[-1.0,1.0]
+@attribute a20 real[-1.0,1.0]
+@attribute a21 real[-1.0,1.0]
+@attribute a22 real[-1.0,1.0]
+@attribute a23 real[-1.0,1.0]
+@attribute a24 real[-1.0,1.0]
+@attribute a25 real[-1.0,1.0]
+@attribute a26 real[-1.0,1.0]
+@attribute a27 real[-1.0,1.0]
+@attribute a28 real[-1.0,1.0]
+@attribute a29 real[-1.0,1.0]
+@attribute a30 real[-1.0,1.0]
+@attribute a31 real[-1.0,1.0]
+@attribute a32 real[-1.0,1.0]
+@attribute a33 real[-1.0,1.0]
+@attribute a34 real[-1.0,1.0]
+@attribute class{b,g}
+@inputs a01, a02, a03, a04, a05, a06, a07, a08, a09, a10, a11, a12, a13, a14, a15, a16, a17, a18, a19, a20, a21, a22, a23, a24, a25, a26, a27, a28, a29, a30, a31, a32, a33, a34
+@outputs class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable a01: 0.25  0.75  1.25  
+	Variable a02: 0.0  0.0  0.0  
+	Variable a03: -0.5  0.5  1.5  
+	Variable a04: -0.5  0.5  1.5  
+	Variable a05: -0.5  0.5  1.5  
+	Variable a06: -0.5  0.5  1.5  
+	Variable a07: -0.5  0.5  1.5  
+	Variable a08: -0.5  0.5  1.5  
+	Variable a09: -0.5  0.5  1.5  
+	Variable a10: -0.5  0.5  1.5  
+	Variable a11: -0.5  0.5  1.5  
+	Variable a12: -0.5  0.5  1.5  
+	Variable a13: -0.5  0.5  1.5  
+	Variable a14: -0.5  0.5  1.5  
+	Variable a15: -0.5  0.5  1.5  
+	Variable a16: -0.5  0.5  1.5  
+	Variable a17: -0.5  0.5  1.5  
+	Variable a18: -0.5  0.5  1.5  
+	Variable a19: -0.5  0.5  1.5  
+	Variable a20: -0.5  0.5  1.5  
+	Variable a21: -0.5  0.5  1.5  
+	Variable a22: -0.5  0.5  1.5  
+	Variable a23: -0.5  0.5  1.5  
+	Variable a24: -0.5  0.5  1.5  
+	Variable a25: -0.5  0.5  1.5  
+	Variable a26: -0.5  0.5  1.5  
+	Variable a27: -0.5  0.5  1.5  
+	Variable a28: -0.5  0.5  1.5  
+	Variable a29: -0.5  0.5  1.5  
+	Variable a30: -0.5  0.5  1.5  
+	Variable a31: -0.5  0.5  1.5  
+	Variable a32: -0.5  0.5  1.5  
+	Variable a33: -0.5  0.5  1.5  
+	Variable a34: -0.5  0.5  1.5  
+Information Gain of the variables:
+	Variable a01: 0.09128904
+	Variable a02: 0.0
+	Variable a03: 0.13999897
+	Variable a04: 0.15473998
+	Variable a05: 0.15368778
+	Variable a06: 0.094518006
+	Variable a07: 0.0805552
+	Variable a08: 0.10388917
+	Variable a09: 0.058349133
+	Variable a10: 0.059209466
+	Variable a11: 0.07147753
+	Variable a12: 0.0640443
+	Variable a13: 0.103906274
+	Variable a14: 0.097186804
+	Variable a15: 0.13527799
+	Variable a16: 0.083957076
+	Variable a17: 0.091845036
+	Variable a18: 0.09306598
+	Variable a19: 0.090500474
+	Variable a20: 0.10626131
+	Variable a21: 0.093707204
+	Variable a22: 0.09284967
+	Variable a23: 0.08228105
+	Variable a24: 0.09770322
+	Variable a25: 0.072483
+	Variable a26: 0.0853523
+	Variable a27: 0.035410583
+	Variable a28: 0.13807237
+	Variable a29: 0.0739544
+	Variable a30: 0.09273994
+	Variable a31: 0.08145189
+	Variable a32: 0.09959918
+	Variable a33: 0.060386777
+	Variable a34: 0.07196832
+
+--------------------------------------------
+|                 Class 0                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 181
+	Number of Evaluations = 10045
+
+--------------------------------------------
+|                 Class 1                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 122
+	Number of Evaluations = 10009

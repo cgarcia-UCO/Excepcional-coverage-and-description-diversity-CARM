@@ -1,0 +1,34 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Safety = low
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Safety = med
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Lug_boot = small
+	Variable Safety = low
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Safety = high
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Maint = med
+	Variable Persons = 4
+	Variable Safety = high
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Persons = 4
+	Variable Safety = high
+   Consecuent: True
+

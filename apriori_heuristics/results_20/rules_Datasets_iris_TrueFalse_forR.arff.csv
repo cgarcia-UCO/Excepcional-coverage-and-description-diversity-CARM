@@ -1,0 +1,8 @@
+PetalWidth>=1.75
+PetalLength>=4.75
+PetalLength>=4.75 & PetalLength>=5.05
+SepalLength>=6.15 & SepalLength< 7.05 & SepalWidth>=2.4 & SepalLength< 6.55
+SepalLength>=6.15 & SepalLength>=7.05
+PetalLength>=4.75 & PetalLength< 5.05 & SepalLength< 6.5
+PetalLength>=4.75 & PetalLength< 5.05 & SepalWidth< 3.05
+PetalWidth< 1.75 & PetalLength>=4.95 & PetalWidth< 1.55

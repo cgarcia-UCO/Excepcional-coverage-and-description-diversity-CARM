@@ -1,0 +1,108 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 2 	 (331.0 648.0 965.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+

@@ -1,0 +1,17 @@
+GENERATED RULE 0
+	Antecedent
+		Variable F1 = Label 1 	 (-1.274 1.9 5.074)
+		Variable F3 = Label 1 	 (-1.409 0.4840001 2.377)
+	Consecuent: negative
+
+GENERATED RULE 1
+	Antecedent
+		Variable F2 = Label 1 	 (-2.487 -0.528 1.431)
+	Consecuent: negative
+
+GENERATED RULE 2
+	Antecedent
+		Variable F1 = Label 1 	 (-1.274 1.9 5.074)
+		Variable F2 = Label 1 	 (-2.487 -0.528 1.431)
+	Consecuent: negative
+

@@ -1,0 +1,81 @@
+@Number of rules: 78 Number of Antecedents by rule: 1.2337662337662338
+
+1: PetalWidth IS 1: False
+2: PetalWidth IS 1: False
+3: PetalWidth IS 1: False
+4: PetalWidth IS 1: False
+5: PetalWidth IS 1: False
+6: PetalWidth IS 1: False
+7: PetalLength IS 1: False
+8: PetalLength IS 1: False
+9: PetalLength IS 1: False
+10: PetalLength IS 1: False
+11: PetalLength IS 1: False
+12: PetalLength IS 1: False
+13: PetalLength IS 3: False
+14: PetalLength IS 3: False
+15: PetalLength IS 3: False
+16: PetalLength IS 3: False
+17: PetalLength IS 3: False
+18: PetalLength IS 3: False
+19: PetalWidth IS 4: False
+20: PetalWidth IS 4: False
+21: PetalWidth IS 4: False
+22: PetalWidth IS 4: False
+23: PetalWidth IS 4: False
+24: PetalWidth IS 4: False
+25: PetalWidth IS 4: False
+26: PetalLength IS 8: True
+27: PetalLength IS 8: True
+28: PetalLength IS 8: True
+29: PetalLength IS 8: True
+30: PetalLength IS 8: True
+31: PetalLength IS 8: True
+32: PetalWidth IS 8: True
+33: PetalWidth IS 8: True
+34: PetalWidth IS 8: True
+35: PetalLength IS 4: False
+36: PetalLength IS 4: False
+37: PetalLength IS 4: False
+38: PetalWidth IS 2: False
+39: PetalWidth IS 2: False
+40: PetalWidth IS 9: True
+41: PetalWidth IS 9: True
+42: PetalLength IS 9: True
+43: PetalLength IS 9: True
+44: PetalLength IS 9: True
+45: PetalLength IS 9: True
+46: PetalLength IS 9: True
+47: PetalWidth IS 3: False
+48: PetalWidth IS 3: False
+49: PetalLength IS 5 AND PetalWidth IS 6: False
+50: PetalLength IS 5 AND PetalWidth IS 6: False
+51: PetalLength IS 5 AND PetalWidth IS 6: False
+52: PetalLength IS 5 AND PetalWidth IS 6: False
+53: PetalLength IS 5 AND PetalWidth IS 6: False
+54: SepalLength IS 6 AND PetalWidth IS 7: True
+55: PetalLength IS 6 AND PetalWidth IS 6: False
+56: PetalLength IS 6 AND PetalWidth IS 6: False
+57: SepalLength IS 8 AND PetalWidth IS 6: False
+58: PetalLength IS 6 AND PetalWidth IS 6: False
+59: PetalWidth IS 7: True
+60: SepalLength IS 5 AND PetalLength IS 7: True
+61: SepalLength IS 5 AND PetalLength IS 7: True
+62: PetalWidth IS 7: True
+63: PetalWidth IS 7: True
+64: PetalWidth IS 7: True
+65: PetalLength IS 7 AND PetalWidth IS 8: True
+66: PetalLength IS 7 AND PetalWidth IS 9: True
+67: SepalLength IS 7 AND PetalLength IS 7: True
+68: PetalLength IS 7 AND PetalWidth IS 9: True
+69: PetalWidth IS 6: False
+70: PetalWidth IS 6: False
+71: PetalWidth IS 6: False
+72: PetalWidth IS 6: False
+73: SepalWidth IS 2 AND PetalLength IS 7: True
+74: PetalLength IS 7: True
+75: PetalLength IS 7: True
+76: PetalLength IS 7: True
+77: SepalWidth IS 6 AND PetalLength IS 6: False
+
+

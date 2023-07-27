@@ -1,0 +1,20 @@
+GENERATED RULE 0
+   Antecedent
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+   Consecuent: True
+

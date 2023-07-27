@@ -1,0 +1,109 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bxqsq = f
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Simpl = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkona = f
+	Variable Bkxcr = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Simpl = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkna8 = f
+	Variable Wkovl = f
+	Variable Wtoeg = n
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Bxqsq = f
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskd = f
+	Variable Simpl = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Stlmt = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable R2ar8 = f
+	Variable Reskd = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Spcop = f
+	Variable Thrsk = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable R2ar8 = f
+	Variable Reskd = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Spcop = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable R2ar8 = f
+	Variable Reskd = f
+	Variable Rimmx = f
+	Variable Spcop = f
+	Variable Thrsk = f
+	Variable Wkna8 = f
+	Variable Wtoeg = n
+   Consecuent: True
+

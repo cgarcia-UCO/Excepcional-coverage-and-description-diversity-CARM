@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/australian_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/australian_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/balance_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/balance_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/car_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/car_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/chess_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/chess_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/data_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/data_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/german_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/german_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/glass_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/glass_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/heart_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/heart_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/hepatitis_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/hepatitis_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/ionosphere_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/ionosphere_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/iris_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/iris_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/pima_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/pima_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/tic-tac-toe_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/tic-tac-toe_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/vowel0_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/vowel0_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/wine_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/wine_tf_sd/config0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Disc-UniformFrequency.jar</executableFile>
+    <scriptFile>./UniformFrequency-D/wisconsin_tf_sd/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/CN2SD.jar</executableFile>
+    <scriptFile>./UniformFrequency-D.CN2-SD/wisconsin_tf_sd/config0.txt</scriptFile>
+  </sentence>
+</execution>
+

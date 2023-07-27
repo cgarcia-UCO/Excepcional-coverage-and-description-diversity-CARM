@@ -1,0 +1,1 @@
+12  ../datasets/KMeans-MV.vowel0/KMeans-MVs0.vowel01tra.dat../results/KMeans-MV.NICGAR-A.vowel0/result0s0.tra

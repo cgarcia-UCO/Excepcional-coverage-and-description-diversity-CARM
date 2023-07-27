@@ -1,0 +1,15 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+

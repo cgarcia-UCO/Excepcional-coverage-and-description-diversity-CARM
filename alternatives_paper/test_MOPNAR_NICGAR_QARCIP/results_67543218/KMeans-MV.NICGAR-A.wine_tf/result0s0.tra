@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="OD280/OD315" value="
+[1.27, 2.15]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+NOT [1.5701, 5.1]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3401, 2.7798999999999996]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+NOT [0.9801, 2.6999]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Hue" value="
+NOT [0.7801, 1.8]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="flavanoids" value="
+[2.25, 3.25]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[2.35, 3.02]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="OD280/OD315" value="
+[2.23, 4.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="ColorIntensity" value="
+[1.95, 3.21]" /></antecedents>
+<consequents>
+<attribute name="Alcohol" value="
+[11.64, 12.7]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Proline" value="
+NOT [278.0, 1034.9999]" /></antecedents>
+<consequents>
+<attribute name="Alcohol" value="
+NOT [11.0, 13.5599]" /></consequents>
+</rule>
+</association_rules>

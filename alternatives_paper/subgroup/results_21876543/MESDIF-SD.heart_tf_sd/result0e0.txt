@@ -1,0 +1,39 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (5.0 29.0 53.0)
+	Variable ChestPainType = Label 0 	 (-0.5 1.0 2.5)
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable MaxHeartRate = Label 1 	 (71.0 136.5 202.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable MaxHeartRate = Label 1 	 (71.0 136.5 202.0)
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+	Variable MajorVessels = Label 1 	 (0.0 1.5 3.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable MaxHeartRate = Label 1 	 (71.0 136.5 202.0)
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+   Consecuent: True
+

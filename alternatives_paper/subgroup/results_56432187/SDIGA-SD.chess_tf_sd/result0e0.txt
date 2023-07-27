@@ -1,0 +1,10 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Wkpos = t
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Wkpos = t
+   Consecuent: True
+

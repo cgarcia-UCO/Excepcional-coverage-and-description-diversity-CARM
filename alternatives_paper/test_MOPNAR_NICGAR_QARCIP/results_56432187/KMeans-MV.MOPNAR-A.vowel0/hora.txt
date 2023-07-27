@@ -1,0 +1,1 @@
+00:00:04  ../results/KMeans-MV.MOPNAR-A.vowel0/result0s0.tra

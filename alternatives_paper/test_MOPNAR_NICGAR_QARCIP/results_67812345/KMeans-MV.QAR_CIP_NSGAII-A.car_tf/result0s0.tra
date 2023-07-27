@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Safety" value="
+low" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+False" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Persons" value="
+2" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+False" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Acceptability" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Safety" value="
+high" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+True" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Buying" value="
+med" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+True" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Buying" value="
+low" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+True" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Maint" value="
+low" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+True" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Maint" value="
+med" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+True" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Maint" value="
+high" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /><attribute name="Acceptability" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Buying" value="
+vhigh" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Buying" value="
+high" /><attribute name="Persons" value="
+4" /><attribute name="Safety" value="
+high" /><attribute name="Acceptability" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Maint" value="
+vhigh" /></consequents>
+</rule>
+</association_rules>

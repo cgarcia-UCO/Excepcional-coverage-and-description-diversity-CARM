@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+NOT x" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+x" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="TopMiddle" value="
+NOT x" /><attribute name="MiddleLeft" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="BottomRight" value="
+x" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="TopLeft" value="
+x" /><attribute name="BottomLeft" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="MiddleRight" value="
+NOT x" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+x" /><attribute name="BottomLeft" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+x" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+NOT b" /><attribute name="BottomRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT x" /><attribute name="MiddleMiddle" value="
+NOT b" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="MiddleLeft" value="
+NOT x" /><attribute name="BottomMiddle" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="TopRight" value="
+NOT o" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+x" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT o" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+x" /><attribute name="BottomRight" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+NOT o" /><attribute name="BottomRight" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="BottomRight" value="
+NOT o" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="MiddleMiddle" value="
+NOT o" /><attribute name="BottomLeft" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="TopMiddle" value="
+NOT x" /><attribute name="MiddleLeft" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="BottomRight" value="
+NOT o" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="BottomLeft" value="
+NOT o" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT x" /><attribute name="TopRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="BottomMiddle" value="
+x" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="TopRight" value="
+NOT x" /><attribute name="BottomRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="MiddleLeft" value="
+x" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="BottomLeft" value="
+NOT x" /><attribute name="BottomRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="TopMiddle" value="
+NOT o" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="TopMiddle" value="
+NOT x" /><attribute name="MiddleRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="BottomLeft" value="
+NOT o" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="BottomRight" value="
+x" /></antecedents>
+<consequents>
+<attribute name="MiddleLeft" value="
+NOT x" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="BottomLeft" value="
+x" /><attribute name="BottomRight" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="TopMiddle" value="
+NOT x" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="TopRight" value="
+x" /><attribute name="BottomRight" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="MiddleLeft" value="
+NOT x" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="BottomLeft" value="
+NOT o" /><attribute name="BottomRight" value="
+x" /></antecedents>
+<consequents>
+<attribute name="TopMiddle" value="
+NOT x" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT x" /><attribute name="MiddleMiddle" value="
+NOT x" /><attribute name="BottomRight" value="
+NOT x" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT o" /><attribute name="BottomRight" value="
+NOT o" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+NOT o" /><attribute name="BottomRight" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="MiddleMiddle" value="
+NOT o" /><attribute name="BottomLeft" value="
+NOT o" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="TopRight" value="
+NOT o" /><attribute name="BottomLeft" value="
+NOT o" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+o" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="TopLeft" value="
+NOT x" /><attribute name="BottomRight" value="
+NOT x" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MiddleMiddle" value="
+NOT o" /></consequents>
+</rule>
+</association_rules>

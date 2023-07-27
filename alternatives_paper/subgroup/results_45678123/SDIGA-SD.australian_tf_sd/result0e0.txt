@@ -1,0 +1,27 @@
+GENERATED RULE 0
+   Antecedent
+	Variable A8 = 0
+	Variable A14 = Label 0 	 (-49999.0 1.0 50001.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable A2 = Label 2 	 (4020.5 8025.0 12029.5)
+	Variable A4 = 1
+	Variable A5 = Label 2 	 (7.5 14.0 20.5)
+	Variable A9 = 0
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable A7 = Label 0 	 (-7207.5 0.0 7207.5)
+	Variable A10 = Label 0 	 (-33.5 0.0 33.5)
+	Variable A14 = Label 0 	 (-49999.0 1.0 50001.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable A8 = 1
+	Variable A13 = Label 0 	 (-1000.0 0.0 1000.0)
+   Consecuent: True
+

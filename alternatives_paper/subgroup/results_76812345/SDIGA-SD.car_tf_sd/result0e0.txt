@@ -1,0 +1,44 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Persons = 2
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Safety = low
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Buying = vhigh
+   Consecuent: False
+
+GENERATED RULE 3
+   Antecedent
+	Variable Lug_boot = small
+   Consecuent: False
+
+GENERATED RULE 4
+   Antecedent
+	Variable Buying = high
+	Variable Doors = 3
+	Variable Persons = 4
+	Variable Lug_boot = med
+	Variable Safety = med
+   Consecuent: False
+
+GENERATED RULE 5
+   Antecedent
+	Variable Maint = vhigh
+   Consecuent: False
+
+GENERATED RULE 6
+   Antecedent
+	Variable Lug_boot = med
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Safety = high
+   Consecuent: True
+

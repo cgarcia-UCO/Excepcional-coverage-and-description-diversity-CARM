@@ -1,0 +1,90 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Sex = Label 2 	 (1.5 2.0 2.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable Histology = Label 1 	 (1.0 1.5 2.0)
+   Consecuent: True
+

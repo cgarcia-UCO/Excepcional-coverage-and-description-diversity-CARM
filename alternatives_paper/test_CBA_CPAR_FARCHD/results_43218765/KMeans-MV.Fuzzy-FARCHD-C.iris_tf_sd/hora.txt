@@ -1,0 +1,1 @@
+00:00:02  ../datasets/KMeans-MV.iris_tf_sd/KMeans-MVs0.iris_tf_sd1tra.dat

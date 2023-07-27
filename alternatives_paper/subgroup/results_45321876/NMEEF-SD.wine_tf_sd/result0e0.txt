@@ -1,0 +1,10 @@
+GENERATED RULE 0
+	Antecedent
+		Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+	Consecuent: False
+
+GENERATED RULE 0
+	Antecedent
+		Variable flavanoids = Label 0 	 (-2.1 0.3 2.6999998)
+	Consecuent: True
+

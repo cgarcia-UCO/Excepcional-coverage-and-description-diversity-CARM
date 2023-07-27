@@ -1,0 +1,123 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Dwipd = l
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Stlmt = f
+	Variable Wkna8 = f
+	Variable Wkovl = f
+	Variable Wtoeg = n
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Dwipd = l
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Stlmt = f
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkspr = f
+	Variable Blxwp = f
+	Variable Dwipd = l
+	Variable Mulch = f
+	Variable Qxmsq = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Stlmt = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable Rkxwp = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable R2ar8 = f
+	Variable Rkxwp = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable Rkxwp = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+   Consecuent: True
+

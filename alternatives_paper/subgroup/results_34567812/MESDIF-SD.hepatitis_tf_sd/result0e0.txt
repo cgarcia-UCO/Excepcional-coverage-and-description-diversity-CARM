@@ -1,0 +1,92 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.19010416666666666" antecedent_support="0.21875" consequent_support="0.3619791666666667" confidence="0.869047619047619" lift="2.40082219938335" conviction="4.872159090909089" certainFactor="0.7947521865889213" netConf="0.649047619047619" yulesQ="0.9184636118598382" nAnts="1"/>
+<rule id="1" rule_support="0.296875" antecedent_support="0.4869791666666667" consequent_support="0.296875" confidence="0.6096256684491979" lift="2.0534759358288768" conviction="1.801155821917808" certainFactor="0.4448009506833036" netConf="0.6096256684491979" yulesQ="1.0" nAnts="1"/>
+<rule id="2" rule_support="0.5078125" antecedent_support="0.7018229166666666" consequent_support="0.5078125" confidence="0.7235621521335808" lift="1.4248608534322822" conviction="1.7804635067114096" certainFactor="0.4383484995729895" netConf="0.7235621521335809" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.3815104166666667" antecedent_support="0.5533854166666666" consequent_support="0.43359375" confidence="0.6894117647058824" lift="1.5899947005829362" conviction="1.8236564867424245" certainFactor="0.45165111561866134" netConf="0.5727936889041333" yulesQ="0.8877300417822858" nAnts="1"/>
+<rule id="4" rule_support="0.12630208333333334" antecedent_support="0.15755208333333334" consequent_support="0.3489583333333333" confidence="0.8016528925619835" lift="2.297273960774639" conviction="3.282335069444445" certainFactor="0.6953388429752065" netConf="0.537356138311597" yulesQ="0.8367411886387144" nAnts="1"/>
+<rule id="5" rule_support="0.0013020833333333333" antecedent_support="0.0013020833333333333" consequent_support="0.22135416666666666" confidence="1.0" lift="4.51764705882353" conviction="Infinity" certainFactor="1.0" netConf="0.7796610169491526" yulesQ="1.0" nAnts="1"/>
+<rule id="6" rule_support="0.22005208333333334" antecedent_support="0.265625" consequent_support="0.4908854166666667" confidence="0.8284313725490197" lift="1.6876267748478702" conviction="2.9674107142857147" certainFactor="0.6630058673085604" netConf="0.4596370463078849" yulesQ="0.7841171935235158" nAnts="1"/>
+</values>

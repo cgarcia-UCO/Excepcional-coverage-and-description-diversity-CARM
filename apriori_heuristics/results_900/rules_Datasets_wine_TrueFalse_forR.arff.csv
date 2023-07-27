@@ -1,0 +1,632 @@
+flavanoids< 1.4 & ColorIntensity>=3.725
+flavanoids< 1.4 & Ash>=2.04 & Alcohol>=12.1 & Proanthocyanins>=0.485
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & Alcohol>=12.1
+flavanoids< 1.4 & Ash>=2.04 & Alcohol>=12.1
+flavanoids< 1.4 & Hue< 0.898
+OD280_OD315< 2.115 & ColorIntensity>=3.56 & flavanoids< 1.4
+flavanoids< 1.4 & MalicAcid>=1.64 & Alcohol>=12.02
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25
+OD280_OD315< 2.115 & AlcalinityOfAsh>=17.25
+OD280_OD315< 2.115 & Hue< 0.898
+flavanoids< 1.4 & MalicAcid>=1.64
+OD280_OD315< 2.115 & MalicAcid>=1.64
+OD280_OD315< 2.115 & Ash>=2.06
+flavanoids< 1.4 & Magnesium< 128
+Hue< 0.785 & Proline>=397.5
+Hue< 0.785 & ColorIntensity>=3.97
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Alcohol>=12.12 & Proline>=393.5 & Proline< 957.5
+OD280_OD315< 2.115
+flavanoids< 1.4
+flavanoids< 1.235
+OD280_OD315< 2.115 & Ash>=2.06 & OD280_OD315< 1.925
+Hue< 0.785 & TotalPhenols< 2.61
+flavanoids< 1.4 & Alcohol>=12.41 & flavanoids< 1.235
+flavanoids< 1.4 & Ash>=2.04 & flavanoids< 0.975
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & flavanoids< 0.975
+Hue< 0.785 & Alcohol>=12.04
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Alcohol>=12.12 & Ash>=2.135
+Hue< 0.785 & Ash>=2.14
+flavanoids< 1.4 & flavanoids< 0.975
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Alcohol>=12.12 & Proline>=397.5 & Proline< 957.5
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Proline< 957.5
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & Ash>=2.275
+TotalPhenols< 1.84 & ColorIntensity>=3.825
+flavanoids< 0.955
+Hue< 0.785 & Alcohol>=12.04 & Magnesium>=87
+flavanoids< 1.4 & MalicAcid>=1.64 & flavanoids< 0.975
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Ash>=2.14 & Proline>=397.5 & Ash< 2.865
+Hue< 0.785
+OD280_OD315< 1.945
+flavanoids< 1.4 & Magnesium>=88.5 & Magnesium< 128
+OD280_OD315< 1.875
+Hue< 0.785 & Magnesium>=87
+OD280_OD315< 2.115 & Ash>=2.06 & NonflavanoidsPhenols< 0.54
+flavanoids< 1.4 & Alcohol>=12.78
+flavanoids< 1.4 & Proline>=515
+Hue< 0.785 & Ash>=2.14 & Alcohol>=12.44
+Hue< 0.785 & Ash>=2.14 & Magnesium>=87
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25
+flavanoids< 1.4 & Ash>=2.275
+OD280_OD315< 2.115 & TotalPhenols< 1.94
+OD280_OD315< 2.115 & Ash>=2.06 & Proline>=517.5
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Alcohol>=12.12 & Ash>=2.14
+TotalPhenols< 1.84 & MalicAcid>=2.215 & Alcohol>=12.02 & Proline>=393.5
+OD280_OD315< 2.475
+flavanoids< 1.4 & Magnesium>=88.5
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Proline>=397.5 & Proline< 957.5 & Magnesium>=87.5
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Magnesium>=83
+OD280_OD315< 2.115 & Magnesium>=88.5
+OD280_OD315< 2.115 & Proline>=517.5
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Proline>=397.5 & Proline< 957.5
+OD280_OD315< 2.475 & Alcohol>=12.8
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Proline< 842.5 & Magnesium>=87.5 & Ash< 2.865
+Proanthocyanins< 1.305 & Ash>=2.145 & Alcohol>=12.18 & Proanthocyanins>=0.485 & Proline< 980
+OD280_OD315< 2.115 & OD280_OD315< 1.81
+OD280_OD315< 1.81
+MalicAcid>=2.455 & Proanthocyanins< 1.59
+Alcohol>=12.43 & TotalPhenols< 2.01
+ColorIntensity>=3.845 & Proline< 727.5 & Ash>=2.175
+MalicAcid>=2.455 & ColorIntensity>=3.825
+TotalPhenols< 1.84 & Alcohol>=12.18 & Magnesium>=85
+Proanthocyanins< 1.305 & Ash>=2.145 & Proline>=400 & Proanthocyanins>=0.485 & Proline< 980
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25
+Proanthocyanins< 1.305 & Ash>=2.145 & Alcohol>=12.18 & Proanthocyanins>=0.485 & Alcohol< 13.97
+OD280_OD315< 1.945 & TotalPhenols< 1.905
+MalicAcid>=2.455 & Alcohol>=12.12 & Alcohol< 14.19 & Ash>=2.14
+OD280_OD315< 2.115 & Alcohol>=12.7 & OD280_OD315< 1.925
+flavanoids< 1.4 & Proline>=525
+TotalPhenols< 1.84 & Magnesium>=85.5 & Ash>=2.01 & Ash< 2.73
+AlcalinityOfAsh>=19.45 & Proline>=468 & Magnesium>=85.5 & Proline< 842.5 & Ash< 2.865
+Hue< 0.745
+Proanthocyanins< 1.305 & Alcohol>=12.18 & Proanthocyanins>=0.485 & Proline< 965 & Proline>=476
+Hue< 0.915 & Alcohol>=12.79 & AlcalinityOfAsh>=19.2
+Hue< 0.915 & AlcalinityOfAsh>=19.25 & Alcohol>=12.79
+MalicAcid>=2.455 & ColorIntensity>=5.26
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Proline< 842.5 & Proline>=517.5 & Ash< 2.865
+OD280_OD315< 2.115 & OD280_OD315< 1.81 & TotalPhenols< 2.01
+Proanthocyanins< 1.325 & ColorIntensity>=3.825
+TotalPhenols< 1.84 & MalicAcid>=2.215
+TotalPhenols< 1.84 & Alcohol>=12.18
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Ash>=2.18
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Ash>=2.185
+MalicAcid>=2.455 & AlcalinityOfAsh>=19.75 & ColorIntensity>=3.825
+TotalPhenols< 1.84 & MalicAcid>=2.215 & Alcohol>=12.02 & NonflavanoidsPhenols< 0.605
+MalicAcid>=2.455 & Proanthocyanins< 1.325 & ColorIntensity>=3.825
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols< 0.59
+ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395
+MalicAcid>=2.455 & Ash>=2.14 & Ash< 2.865 & Magnesium>=85.5
+ColorIntensity>=3.845 & Proline< 727.5
+AlcalinityOfAsh>=19.75 & ColorIntensity>=3.825
+Proanthocyanins< 1.305 & Proline>=460 & Proanthocyanins>=0.485 & Proline< 965
+Proanthocyanins< 1.305 & Alcohol>=12.18 & Ash>=2.185
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25
+Hue< 0.915 & AlcalinityOfAsh>=19.2
+Hue< 0.915 & AlcalinityOfAsh>=19.25
+Ash>=2.245 & TotalPhenols< 2.425 & Alcohol>=12.34
+ColorIntensity>=3.975 & AlcalinityOfAsh>=19.8
+NonflavanoidsPhenols>=0.395 & Proline>=505 & AlcalinityOfAsh>=17.35 & Magnesium>=84.5 & Magnesium< 122
+NonflavanoidsPhenols>=0.395 & Proline>=505 & AlcalinityOfAsh>=17.35 & Magnesium>=84.5 & Ash< 2.83
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Proline>=400
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18
+MalicAcid>=2.215 & AlcalinityOfAsh>=18.25
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Ash>=2.285
+TotalPhenols< 1.84 & Proanthocyanins< 1.555
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35 & Magnesium< 122 & Magnesium>=85.5
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Ash>=2.135 & MalicAcid>=2.925
+AlcalinityOfAsh>=19.25 & ColorIntensity>=3.475
+TotalPhenols< 1.84 & Magnesium>=85.5
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35 & Magnesium< 122
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35 & Proline< 1005
+Proanthocyanins< 1.305 & Alcohol>=12.18 & Proanthocyanins>=0.485 & Alcohol< 13.97 & Magnesium>=82.5
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & NonflavanoidsPhenols< 0.565
+Proanthocyanins< 1.305 & Ash>=2.145 & Proanthocyanins>=0.485
+AlcalinityOfAsh>=19.45 & Proline>=468 & Proline< 842.5 & Ash>=2.045 & Ash< 2.865
+Proline< 882.5 & Alcohol>=12.44 & Magnesium>=87.5 & Proline< 730 & Proline>=471.5
+OD280_OD315< 1.945 & NonflavanoidsPhenols>=0.385
+Proanthocyanins< 1.305 & Alcohol>=12.18 & Proanthocyanins>=0.485 & Alcohol< 13.97
+TotalPhenols< 1.84 & Magnesium>=85
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Magnesium>=83 & MalicAcid>=2.925
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Proline>=449 & TotalPhenols< 1.71
+TotalPhenols< 1.84 & Alcohol>=12.78
+ColorIntensity>=7.075 & AlcalinityOfAsh>=17.95
+ColorIntensity>=7.075 & Proline< 962.5
+Proanthocyanins< 1.265 & Ash>=2.245 & TotalPhenols< 2.425 & Alcohol>=12.34
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Magnesium< 123.5 & Magnesium>=87.5
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Magnesium>=87.5 & NonflavanoidsPhenols>=0.32
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Ash>=2.185
+Hue< 0.915 & Alcohol>=12.79
+MalicAcid>=2.455 & Proanthocyanins< 1.325
+Proanthocyanins< 1.265 & Ash>=2.245 & TotalPhenols< 2.425
+TotalPhenols< 2.05 & Magnesium>=87.5
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25
+MalicAcid>=2.455 & AlcalinityOfAsh>=19.45
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & Proline< 935 & Proline>=517.5
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Magnesium>=91
+Proline< 882.5 & Alcohol>=12.44 & Ash>=2.06 & Proline< 704.5 & Proline>=517.5
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Proline>=512.5
+MalicAcid>=2.925 & AlcalinityOfAsh>=19.25 & ColorIntensity>=3.475
+Hue< 0.785 & Hue< 0.685
+MalicAcid>=2.925 & TotalPhenols< 2.05 & Magnesium>=87.5
+TotalPhenols< 1.84 & AlcalinityOfAsh>=18.25
+Proanthocyanins< 1.305 & Ash>=2.185
+MalicAcid>=2.455 & Magnesium>=87.5
+NonflavanoidsPhenols>=0.395 & Proline>=505 & Proline< 935 & Ash< 2.83
+NonflavanoidsPhenols>=0.395 & Proline>=505 & AlcalinityOfAsh>=17.35 & Proline< 1005
+ColorIntensity>=3.975 & Proline< 676.5
+TotalPhenols< 1.84 & Proline>=517.5
+TotalPhenols< 1.84
+NonflavanoidsPhenols>=0.395 & Proline>=505 & AlcalinityOfAsh>=17.35 & Ash< 2.83 & NonflavanoidsPhenols>=0.425
+MalicAcid>=2.925 & TotalPhenols< 2.05
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Magnesium>=91
+Proanthocyanins< 1.3 & AlcalinityOfAsh>=17.25
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & Magnesium>=87.5
+Proanthocyanins< 1.305 & Alcohol>=12.18
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Proanthocyanins< 1.245
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Ash>=2.04 & Ash>=2.275
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & AlcalinityOfAsh>=18.25 & Proanthocyanins< 1.325
+MalicAcid>=2.455 & Proanthocyanins< 1.325 & AlcalinityOfAsh>=19.45
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & NonflavanoidsPhenols>=0.32
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols>=0.395
+Proanthocyanins< 1.265 & TotalPhenols< 2.425 & Alcohol>=12.34
+Proline< 882.5 & Alcohol>=12.44 & Proline>=412.5 & Proline< 704.5 & Alcohol>=12.75
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & Magnesium>=84.5
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33
+Proanthocyanins< 1.265 & TotalPhenols< 2.425
+Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Magnesium>=91
+MalicAcid>=2.925 & ColorIntensity>=3.475
+ColorIntensity>=3.975 & AlcalinityOfAsh>=19.8 & Magnesium< 110.5
+Proanthocyanins< 1.265 & Ash>=2.245 & Alcohol>=12.34
+TotalPhenols< 1.84 & Proline>=517.5 & Ash< 2.73 & Ash>=2.235
+TotalPhenols< 2.335 & Ash>=2.335 & Magnesium>=86 & Proline>=395
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485
+flavanoids< 1.4 & Proline< 670
+MalicAcid>=2.455 & AlcalinityOfAsh>=19.75
+TotalPhenols< 2.01 & Proline>=535
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Magnesium>=91
+Proanthocyanins< 1.265 & Ash>=2.245
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43
+ColorIntensity>=3.975 & Proline< 676.5 & Proline>=520
+NonflavanoidsPhenols>=0.395 & Proline>=505 & Proline< 935 & NonflavanoidsPhenols>=0.425
+Proanthocyanins< 1.325 & AlcalinityOfAsh>=19.45
+MalicAcid>=2.455 & ColorIntensity>=3.825 & Ash>=2.335
+TotalPhenols< 2.335 & Ash>=2.335 & Magnesium>=86
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & Magnesium>=87.5
+Proanthocyanins< 1.265 & Alcohol>=12.34
+MalicAcid>=2.455 & Ash>=2.285
+ColorIntensity>=7.075 & Alcohol< 13.85
+TotalPhenols< 2.335 & Ash>=2.335 & Proline>=395
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & Magnesium>=91.5
+ColorIntensity>=7.075 & NonflavanoidsPhenols>=0.33
+ColorIntensity>=7.4 & AlcalinityOfAsh>=19.2
+MalicAcid>=2.925 & Magnesium>=87.5 & Proline>=489
+MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & Magnesium>=91.5
+ColorIntensity>=7.075
+MalicAcid>=2.925 & AlcalinityOfAsh>=19.25
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & Magnesium>=87.5 & MalicAcid>=2.925
+TotalPhenols< 1.84 & AlcalinityOfAsh>=18.25 & Magnesium>=91.5
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Alcohol>=12.12 & MalicAcid< 3.75
+MalicAcid>=2.455 & ColorIntensity>=3.825 & Magnesium< 101.5
+TotalPhenols< 1.84 & MalicAcid>=2.215 & Magnesium>=91.5
+Proanthocyanins< 1.265 & Ash>=2.295
+MalicAcid>=2.925 & ColorIntensity>=5.41
+TotalPhenols< 2.335 & Ash>=2.335
+MalicAcid>=2.925 & Magnesium>=87.5
+MalicAcid>=2.925 & Proline>=489
+Proanthocyanins< 1.305 & Magnesium>=87.5
+TotalPhenols< 1.84 & Magnesium>=91.5
+AlcalinityOfAsh< 23.8 & TotalPhenols< 2.01 & Proline>=535
+TotalPhenols< 1.84 & AlcalinityOfAsh>=17 & AlcalinityOfAsh< 22.9 & AlcalinityOfAsh< 22.25
+ColorIntensity>=7.4
+Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8
+MalicAcid>=2.455 & Magnesium>=91
+ColorIntensity>=7.55
+flavanoids< 1.4 & Proline< 670 & Proline>=515
+Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8 & Ash>=2.295
+MalicAcid>=2.925 & Proline< 727.5 & Magnesium>=87.5 & Proline>=489
+NonflavanoidsPhenols>=0.425 & Proline>=537.5 & Proline< 995
+NonflavanoidsPhenols>=0.46 & Hue< 0.965
+MalicAcid>=2.455 & Ash>=2.335
+NonflavanoidsPhenols>=0.46 & ColorIntensity>=3.99
+TotalPhenols< 2.05 & Ash>=2.335
+Proanthocyanins< 1.305 & NonflavanoidsPhenols>=0.33
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols< 1.6
+Hue< 0.915 & AlcalinityOfAsh< 22.75 & AlcalinityOfAsh>=19.25 & Alcohol>=12.79
+ColorIntensity>=7.075 & Alcohol< 13.57
+OD280_OD315< 2.115 & OD280_OD315< 1.81 & Magnesium< 99
+Hue< 0.635
+MalicAcid>=2.925 & Proline< 727.5 & Proline>=489
+MalicAcid>=2.925 & Proline< 727.5 & Magnesium>=87.5
+NonflavanoidsPhenols>=0.425 & Proanthocyanins< 1.59
+NonflavanoidsPhenols>=0.425 & Proline>=537.5
+NonflavanoidsPhenols>=0.46 & Hue< 0.965 & TotalPhenols>=1.465
+NonflavanoidsPhenols>=0.395 & Magnesium>=85.5 & Ash< 2.76 & NonflavanoidsPhenols>=0.46
+MalicAcid>=2.455 & Ash>=2.14 & Ash< 2.865 & MalicAcid< 4.515 & MalicAcid< 3.75
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35 & Alcohol>=13.11
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & Magnesium>=87.5 & Magnesium< 99.5
+Proline< 655 & ColorIntensity>=5.375
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Magnesium>=93
+NonflavanoidsPhenols>=0.49 & ColorIntensity>=3.825 & Proline>=517.5
+Proanthocyanins< 1.025 & ColorIntensity>=3.825
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Proanthocyanins< 1.025
+Proanthocyanins< 1.025 & AlcalinityOfAsh>=18.25
+MalicAcid>=2.925 & TotalPhenols< 2.05 & Ash>=2.335
+Proanthocyanins< 1.305 & TotalPhenols< 1.57
+OD280_OD315< 1.585
+Proline< 670 & Alcohol>=12.77
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Alcohol>=12.75 & Alcohol>=12.96 & Alcohol>=13.07
+TotalPhenols< 1.84 & Magnesium>=85.5 & TotalPhenols< 1.595
+NonflavanoidsPhenols>=0.49 & ColorIntensity>=3.825
+MalicAcid>=2.925 & Proline< 727.5
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & Magnesium< 99.5
+NonflavanoidsPhenols>=0.46 & ColorIntensity>=3.99 & Ash< 2.655
+flavanoids< 1.4 & Proline< 670 & Proline>=525
+Proanthocyanins< 1.305 & Magnesium>=87.5 & AlcalinityOfAsh>=20.25
+OD280_OD315< 1.81 & Magnesium< 98
+OD280_OD315< 2.115 & Ash>=2.47
+NonflavanoidsPhenols>=0.395 & Magnesium>=85.5 & Magnesium< 99 & NonflavanoidsPhenols>=0.435
+MalicAcid>=2.455 & Magnesium>=87.5 & Magnesium< 99.5
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & NonflavanoidsPhenols>=0.46
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Magnesium>=93
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=20.25
+NonflavanoidsPhenols>=0.46 & Hue< 0.965 & NonflavanoidsPhenols< 0.605
+MalicAcid>=2.455 & Alcohol>=12.12 & Alcohol< 14.19 & Alcohol>=13.25
+Proanthocyanins< 1.555 & NonflavanoidsPhenols>=0.435
+TotalPhenols< 1.84 & MalicAcid>=2.215 & Proline>=641
+Proanthocyanins< 1.025 & AlcalinityOfAsh>=18.75
+Hue< 0.785 & NonflavanoidsPhenols>=0.475
+OD280_OD315< 1.57
+TotalPhenols< 1.57
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & Proanthocyanins< 1.025
+NonflavanoidsPhenols>=0.49 & Proline>=517.5
+NonflavanoidsPhenols>=0.425 & Alcohol>=13.11
+NonflavanoidsPhenols>=0.395 & AlcalinityOfAsh>=17.35 & AlcalinityOfAsh< 21.55 & AlcalinityOfAsh>=18.25
+Magnesium< 99 & Proanthocyanins< 1.3
+MalicAcid>=2.925 & Ash>=2.335
+NonflavanoidsPhenols>=0.46 & Hue< 0.965 & Ash>=2.335
+NonflavanoidsPhenols>=0.46 & Hue< 0.965 & TotalPhenols>=1.465 & NonflavanoidsPhenols< 0.605
+MalicAcid>=2.925 & NonflavanoidsPhenols>=0.46
+TotalPhenols< 1.84 & Proline>=641
+NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & AlcalinityOfAsh>=17.25
+ColorIntensity>=7.075 & ColorIntensity>=7.55 & Magnesium< 106.5
+NonflavanoidsPhenols>=0.44 & Magnesium< 99 & Proanthocyanins< 1.3
+OD280_OD315< 2.115 & Alcohol>=13.43
+Proanthocyanins< 1.305 & Alcohol>=12.18 & Magnesium>=93
+NonflavanoidsPhenols>=0.475 & MalicAcid>=1.6
+NonflavanoidsPhenols>=0.44 & TotalPhenols< 2.01
+NonflavanoidsPhenols>=0.425 & Proanthocyanins< 1.59 & Ash>=2.315
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & NonflavanoidsPhenols>=0.46
+NonflavanoidsPhenols>=0.44 & Proanthocyanins>=0.715 & Proanthocyanins< 1.3
+ColorIntensity< 7.075 & Proanthocyanins< 1.025 & ColorIntensity>=3.825
+NonflavanoidsPhenols>=0.44 & Proanthocyanins< 1.3
+ColorIntensity< 7.075 & Proanthocyanins< 1.025 & AlcalinityOfAsh>=18.25
+OD280_OD315< 2.115 & OD280_OD315< 1.81 & Magnesium>=99 & Magnesium>=101.5
+Proline< 655 & ColorIntensity>=5.375 & Proline>=512.5
+MalicAcid>=2.455 & ColorIntensity>=3.825 & Magnesium< 101.5 & Ash>=2.335
+Proanthocyanins< 1.025
+MalicAcid>=2.455 & MalicAcid< 3.57
+AlcalinityOfAsh>=21.25 & Alcohol>=12.56
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Magnesium>=99.5
+NonflavanoidsPhenols>=0.475 & Alcohol>=12.61 & MalicAcid>=1.6
+NonflavanoidsPhenols>=0.44 & Magnesium< 99 & Magnesium>=88.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & NonflavanoidsPhenols>=0.435
+ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395 & Ash< 2.37
+Proline< 666 & Alcohol>=13.08 & Magnesium>=87.5
+NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & Proanthocyanins>=0.715
+ColorIntensity>=7.075 & ColorIntensity>=7.55 & ColorIntensity>=8.955
+Hue< 0.785 & AlcalinityOfAsh>=21.75
+TotalPhenols< 1.84 & Magnesium>=99.5
+NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & Proline< 727.5 & Ash>=2.175
+MalicAcid>=2.455 & Alcohol>=12.12 & Alcohol< 14.19 & Alcohol< 13.25 & Magnesium>=91.5
+AlcalinityOfAsh>=18.25 & Proanthocyanins< 0.88
+ColorIntensity>=9.05
+TotalPhenols< 1.84 & NonflavanoidsPhenols>=0.435
+AlcalinityOfAsh>=21.25 & Magnesium>=92.5 & Alcohol>=12.56
+Proline< 666 & Alcohol>=13.08
+NonflavanoidsPhenols>=0.395 & AlcalinityOfAsh>=17.35 & Ash< 2.76 & NonflavanoidsPhenols>=0.525
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Alcohol>=12.12 & MalicAcid>=3.75 & MalicAcid>=3.875
+Proline< 676.5 & Alcohol>=13.17
+NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395
+MalicAcid>=2.455 & Magnesium< 101.5 & Ash>=2.335
+Proline< 727.5 & Alcohol>=13.34
+AlcalinityOfAsh>=19.45 & Ash>=2.045 & Ash< 2.865 & AlcalinityOfAsh< 20.2 & Ash< 2.575
+Hue< 0.915 & AlcalinityOfAsh>=22.75
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & Proline< 727.5 & Proline>=506 & ColorIntensity>=4.86
+TotalPhenols< 1.84 & Magnesium>=85.5 & TotalPhenols>=1.595 & TotalPhenols>=1.615
+NonflavanoidsPhenols>=0.475 & Alcohol>=12.61
+NonflavanoidsPhenols>=0.395 & Ash< 2.76 & NonflavanoidsPhenols>=0.46 & Ash>=2.47
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Proanthocyanins>=1.025 & Magnesium>=87.5 & AlcalinityOfAsh>=20.25
+flavanoids< 1.4 & TotalPhenols< 1.43
+ColorIntensity>=9.4
+MalicAcid>=2.925 & Proline< 727.5 & Alcohol>=13.34
+Proanthocyanins< 1.305 & NonflavanoidsPhenols>=0.485
+TotalPhenols< 1.84 & TotalPhenols< 1.595 & TotalPhenols< 1.465 & TotalPhenols< 1.43
+AlcalinityOfAsh>=21.8 & Alcohol>=13.08
+TotalPhenols< 1.43
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Proanthocyanins>=1.025 & Proanthocyanins>=1.055
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Proanthocyanins>=1.245 & AlcalinityOfAsh>=19.2
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=18.25 & Proanthocyanins>=1.245 & Magnesium>=91
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Alcohol>=13.11 & Proline< 995
+NonflavanoidsPhenols>=0.46 & Hue< 0.965 & AlcalinityOfAsh< 20.35
+NonflavanoidsPhenols>=0.395 & Alcohol>=12.43 & AlcalinityOfAsh>=17.35 & Alcohol< 13.11 & Alcohol< 13.01
+TotalPhenols< 1.84 & TotalPhenols>=1.595 & TotalPhenols>=1.615 & NonflavanoidsPhenols>=0.435
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & Proanthocyanins>=1.025 & Proanthocyanins>=1.055
+MalicAcid>=2.925 & Alcohol>=13.34
+Alcohol>=12.44 & Alcohol< 13.62 & Magnesium>=84.5 & Alcohol< 12.98 & Alcohol>=12.75
+ColorIntensity>=7.075 & ColorIntensity>=7.55 & ColorIntensity< 8.955 & ColorIntensity< 8.68
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Alcohol>=12.75 & Alcohol< 12.96
+Proanthocyanins>=1.305 & Proanthocyanins< 1.565 & Alcohol>=13.09 & Proline< 860
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proline>=537.5 & Magnesium< 122 & Magnesium>=92
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & Alcohol< 13 & ColorIntensity>=4.8 & ColorIntensity< 5.725
+TotalPhenols< 1.84 & TotalPhenols< 1.595 & TotalPhenols>=1.465
+NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395 & Ash< 2.37
+flavanoids< 1.4 & Magnesium>=88.5 & Magnesium< 128 & NonflavanoidsPhenols< 0.355
+NonflavanoidsPhenols>=0.395 & NonflavanoidsPhenols>=0.49 & NonflavanoidsPhenols< 0.54
+Alcohol>=12.44 & Alcohol< 13.62 & Alcohol< 12.98 & Alcohol>=12.78
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proline>=537.5 & Proline< 995
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Alcohol>=13.11
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.6 & NonflavanoidsPhenols>=0.435
+MalicAcid>=2.455 & ColorIntensity< 5.26 & Proanthocyanins< 1.325 & AlcalinityOfAsh>=19.45
+NonflavanoidsPhenols< 0.395 & Proline< 862.5 & Ash>=2.315 & Alcohol>=12.54 & Proline< 682.5
+ColorIntensity< 7.075 & NonflavanoidsPhenols>=0.49 & ColorIntensity>=3.825 & Proline>=517.5
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & Alcohol< 13 & Ash>=2.225 & ColorIntensity>=4.76
+MalicAcid>=2.455 & ColorIntensity< 5.26 & Proanthocyanins< 1.325 & ColorIntensity>=3.825
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & flavanoids>=0.975 & Magnesium>=88.5 & flavanoids>=1.055
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Magnesium>=85.5 & Proline< 715
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Ash>=2.325 & Alcohol< 13.66 & Magnesium< 128.5
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Magnesium>=92.5 & Alcohol>=12.56 & Proline< 867.5
+MalicAcid>=2.455 & Ash>=2.14 & Ash< 2.865 & MalicAcid>=4.515
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Alcohol>=12.34 & Magnesium< 99
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Proline>=493 & Proline< 670
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Alcohol>=12.34 & AlcalinityOfAsh>=17.25 & TotalPhenols< 2.615
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Alcohol>=12.34 & Proanthocyanins>=0.715 & TotalPhenols< 2.615
+Ash>=2.14 & MalicAcid>=4.515
+flavanoids< 1.4 & Proline< 670 & TotalPhenols< 1.43
+NonflavanoidsPhenols< 0.395 & Proline< 862.5 & Magnesium>=103.5 & Magnesium< 124.5 & Ash>=2.195
+ColorIntensity< 7.075 & NonflavanoidsPhenols>=0.49 & ColorIntensity>=3.825
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Magnesium>=85.5
+AlcalinityOfAsh>=19.45 & AlcalinityOfAsh< 20.2 & Ash< 2.4
+MalicAcid>=2.455 & ColorIntensity< 5.26 & AlcalinityOfAsh>=19.75 & ColorIntensity>=3.825
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & Magnesium>=88.5
+flavanoids< 1.4 & flavanoids>=0.975 & Magnesium>=88.5 & Magnesium< 128 & Proanthocyanins>=0.625
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & flavanoids>=0.975 & Ash>=2.275
+Proline< 670 & TotalPhenols< 1.43
+NonflavanoidsPhenols>=0.395 & AlcalinityOfAsh>=17.35 & AlcalinityOfAsh>=21.55 & NonflavanoidsPhenols>=0.49
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & Proline< 676.5 & Ash>=2.195
+ColorIntensity>=7.075 & ColorIntensity>=7.55 & Magnesium>=106.5 & Magnesium>=109.5
+TotalPhenols>=1.84 & TotalPhenols< 2.335 & Alcohol>=12.43 & Ash>=2.245
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Ash>=2.04 & Ash< 2.275 & TotalPhenols< 1.65
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Alcohol>=12.34 & MalicAcid>=1.6
+Hue>=0.785 & MalicAcid>=2.925 & AlcalinityOfAsh>=19.25 & ColorIntensity>=3.475
+Hue>=0.785 & MalicAcid>=2.925 & Proline< 727.5 & Magnesium>=87.5 & Proline>=489
+flavanoids< 1.4 & MalicAcid>=1.64 & flavanoids>=0.975 & Ash>=2.295
+OD280_OD315< 2.115 & Ash>=2.06 & NonflavanoidsPhenols>=0.54 & OD280_OD315< 1.875
+ColorIntensity>=4.85 & Magnesium< 88.5
+MalicAcid>=4.515
+Hue>=0.785 & MalicAcid>=2.925 & Proanthocyanins< 1.175
+TotalPhenols>=1.84 & ColorIntensity>=7.4 & AlcalinityOfAsh>=19.2
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Ash>=2.325 & Magnesium< 128.5 & Magnesium>=103
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Ash>=2.325 & Proline< 867.5 & NonflavanoidsPhenols>=0.215
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Ash>=2.325 & Alcohol< 13.66 & NonflavanoidsPhenols>=0.215
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & AlcalinityOfAsh>=19.8 & Ash< 2.405
+TotalPhenols< 1.84 & AlcalinityOfAsh>=17 & AlcalinityOfAsh>=22.9
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & Ash>=2.245 & TotalPhenols< 2.425 & Alcohol>=12.34
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & Proline>=515 & Proanthocyanins>=0.77 & Alcohol< 13.84
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & Proline>=515 & Proanthocyanins>=0.77 & TotalPhenols< 2.46
+TotalPhenols>=1.84 & ColorIntensity>=7.4 & TotalPhenols< 2.84
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & Magnesium>=86.5 & Alcohol>=12.47
+Hue>=0.785 & MalicAcid>=2.925 & TotalPhenols< 2.05 & Magnesium>=87.5
+flavanoids< 1.4 & flavanoids>=0.975 & Magnesium>=88.5 & Magnesium< 128 & NonflavanoidsPhenols< 0.355
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Proline>=535 & Proline< 715
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & NonflavanoidsPhenols< 0.54 & OD280_OD315>=1.825
+flavanoids< 1.4 & Ash>=2.04 & flavanoids>=0.975 & Ash>=2.3
+flavanoids< 1.4 & AlcalinityOfAsh>=17.25 & flavanoids>=0.975 & flavanoids>=1.055
+NonflavanoidsPhenols< 0.395 & Proline< 862.5 & Magnesium>=103.5 & Magnesium< 124.5 & NonflavanoidsPhenols< 0.315
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Proline>=417.5 & Proline< 867.5
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Magnesium>=92.5 & Magnesium< 128.5
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Magnesium>=92.5 & Alcohol>=12.56
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Alcohol>=13.08
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & NonflavanoidsPhenols< 0.46 & NonflavanoidsPhenols< 0.415
+flavanoids< 1.4 & flavanoids>=0.975 & Magnesium>=88.5 & Magnesium< 128 & flavanoids>=1.095
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & NonflavanoidsPhenols< 0.32 & Magnesium>=93
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Ash>=2.325 & NonflavanoidsPhenols>=0.215
+Proanthocyanins>=1.305 & Proanthocyanins< 1.565 & Magnesium>=100.5 & Proline< 855
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & Proline< 676.5 & Magnesium>=90
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Ash>=2.135 & MalicAcid< 2.925 & Ash>=2.285
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & Magnesium>=83 & MalicAcid< 2.925 & NonflavanoidsPhenols< 0.565
+TotalPhenols< 1.84 & Alcohol< 12.78 & Proanthocyanins< 1.145 & Alcohol>=12.02
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & TotalPhenols< 2.425 & Proanthocyanins>=0.77 & TotalPhenols>=1.895
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & AlcalinityOfAsh>=18.25 & Proanthocyanins>=1.325 & TotalPhenols>=1.465
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Alcohol>=12.34 & TotalPhenols< 2.425
+Hue>=0.785 & MalicAcid>=2.925 & NonflavanoidsPhenols>=0.46
+MalicAcid>=2.455 & Proanthocyanins< 1.59 & MalicAcid< 2.925 & NonflavanoidsPhenols< 0.565
+Ash>=2.63 & Proline< 670 & Alcohol>=12.77
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Proanthocyanins>=1.325 & TotalPhenols>=1.465
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Magnesium>=92.5 & Proanthocyanins< 1.585
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Magnesium>=92.5 & NonflavanoidsPhenols>=0.515
+MalicAcid>=2.455 & ColorIntensity< 5.26 & ColorIntensity>=3.825 & Magnesium< 101.5 & Ash>=2.335
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8 & Proline>=496
+TotalPhenols>=1.84 & TotalPhenols< 2.335 & Alcohol>=12.43 & Proline>=511 & TotalPhenols< 2.075
+Hue>=0.785 & Proanthocyanins< 1.025 & AlcalinityOfAsh>=18.75
+Hue>=0.785 & MalicAcid>=2.925 & AlcalinityOfAsh>=19.25 & MalicAcid< 3.78
+Hue>=0.785 & MalicAcid>=2.925 & TotalPhenols< 2.05 & Ash>=2.335
+flavanoids< 1.4 & flavanoids>=0.975 & NonflavanoidsPhenols< 0.28 & NonflavanoidsPhenols>=0.155
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & Alcohol>=12.56 & Alcohol< 13.66
+TotalPhenols< 1.84 & Alcohol< 12.78 & Alcohol>=12.18 & Magnesium>=85
+TotalPhenols>=1.84 & TotalPhenols< 2.335 & Ash>=2.335 & Magnesium>=86 & Proline>=395
+AlcalinityOfAsh>=21.8 & Ash>=2.63 & AlcalinityOfAsh< 26
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & NonflavanoidsPhenols< 0.32 & Ash>=2.185
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & AlcalinityOfAsh>=19.8 & Magnesium< 110.5
+MalicAcid>=2.455 & ColorIntensity< 5.26 & ColorIntensity>=3.825 & Magnesium< 101.5
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & Ash>=2.245 & TotalPhenols< 2.425
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & Magnesium>=86.5
+Hue>=0.785 & MalicAcid>=2.925 & TotalPhenols< 2.05
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & Proline>=515
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & Proline>=525
+Ash>=2.63 & Proline< 670 & Proline>=513
+NonflavanoidsPhenols< 0.395 & Proline< 862.5 & Ash>=2.315 & Ash< 2.41
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & Proline< 676.5 & Proline>=520
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8 & Ash>=2.295
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8 & TotalPhenols< 2.435
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & MalicAcid>=2.545
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & TotalPhenols< 2.825 & Proanthocyanins>=0.715 & Proanthocyanins< 1.3
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Magnesium< 99 & Magnesium>=88.5
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & Alcohol>=12.78
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & Ash>=2.335
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & TotalPhenols>=1.465 & NonflavanoidsPhenols< 0.605
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & NonflavanoidsPhenols< 0.28
+Proanthocyanins>=1.025 & Proanthocyanins< 1.305 & NonflavanoidsPhenols>=0.485
+AlcalinityOfAsh>=21.8 & Proline< 645 & Ash>=2.63 & AlcalinityOfAsh< 26
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Proline>=645 & Proline< 790
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Proanthocyanins< 1.585 & Ash>=2.315 & Proanthocyanins>=1.405
+Proanthocyanins< 1.305 & Proanthocyanins>=0.485 & NonflavanoidsPhenols< 0.46 & NonflavanoidsPhenols< 0.25
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395 & Ash< 2.37
+MalicAcid< 2.455 & Proline< 666 & Alcohol>=12.75 & MalicAcid>=1.665
+MalicAcid>=2.455 & AlcalinityOfAsh>=18.25 & Magnesium>=87.5 & NonflavanoidsPhenols< 0.32 & AlcalinityOfAsh>=19.75
+TotalPhenols>=1.84 & AlcalinityOfAsh>=23.8 & Alcohol>=12.43 & Ash>=2.605 & TotalPhenols< 2.475
+TotalPhenols>=1.84 & Proanthocyanins< 1.265 & AlcalinityOfAsh>=19.8 & Magnesium>=90
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Magnesium< 99 & Proanthocyanins< 1.3
+Hue< 0.785 & Hue>=0.685 & NonflavanoidsPhenols>=0.475
+Hue>=0.785 & Proanthocyanins< 1.025 & Hue< 0.935
+Hue>=0.785 & MalicAcid>=2.925 & Ash>=2.525 & Hue< 0.905
+Hue>=0.785 & MalicAcid>=2.925 & Proline< 727.5 & Alcohol>=13.34
+Hue>=0.785 & MalicAcid>=2.925 & MalicAcid< 3.75 & Hue< 0.91
+flavanoids< 1.4 & flavanoids>=0.975 & TotalPhenols< 2.565 & Proanthocyanins< 1.305 & TotalPhenols< 1.57
+OD280_OD315< 2.115 & Alcohol< 12.7 & OD280_OD315< 1.585
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Magnesium>=85.5 & OD280_OD315>=1.945
+AlcalinityOfAsh>=21.8 & Proline>=645 & Proline< 790
+Proanthocyanins< 1.305 & NonflavanoidsPhenols< 0.25
+Proanthocyanins>=1.265 & Proline< 666 & Alcohol>=13.08 & Magnesium>=87.5
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & AlcalinityOfAsh>=17.25
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & Proanthocyanins>=0.715
+Proline< 882.5 & Alcohol>=12.44 & Ash>=2.06 & Proline>=704.5 & Magnesium< 107.5
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & AlcalinityOfAsh>=19.8 & ColorIntensity< 5.85
+Proline< 882.5 & Alcohol>=12.44 & Proline>=704.5 & Magnesium< 107.5
+Hue>=0.685 & Hue< 0.745
+Proline< 645 & Ash>=2.63 & AlcalinityOfAsh< 26
+MalicAcid>=2.455 & MalicAcid< 2.925 & NonflavanoidsPhenols< 0.565
+Ash>=2.63 & Magnesium< 99.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Proanthocyanins>=1.325
+Proline< 882.5 & Alcohol>=12.44 & Magnesium>=87.5 & Proline>=730 & Magnesium< 107.5
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proanthocyanins< 1.59 & Ash>=2.265 & Ash>=2.315
+Proline< 882.5 & Alcohol>=12.44 & Proline>=730 & Magnesium< 107.5
+AlcalinityOfAsh>=23.8 & Proline>=516 & AlcalinityOfAsh< 25.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.6 & Magnesium>=99.5
+NonflavanoidsPhenols>=0.395 & Ash< 2.76 & NonflavanoidsPhenols< 0.46 & Ash< 2.49 & NonflavanoidsPhenols< 0.415
+NonflavanoidsPhenols< 0.395 & Proline< 862.5 & Alcohol>=12.68 & Alcohol< 12.91
+NonflavanoidsPhenols< 0.395 & AlcalinityOfAsh>=21.25 & NonflavanoidsPhenols>=0.215 & AlcalinityOfAsh>=23.25
+Proanthocyanins>=1.305 & Proanthocyanins< 1.565 & Magnesium>=100.5 & Ash< 2.625
+ColorIntensity>=7.075 & NonflavanoidsPhenols< 0.33 & Alcohol< 13.57
+MalicAcid>=2.455 & NonflavanoidsPhenols>=0.33 & Magnesium>=87.5 & MalicAcid< 2.925 & Magnesium< 99.5
+TotalPhenols< 1.84 & Alcohol< 12.78 & Alcohol>=12.18 & Proline>=581
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols>=0.59 & Magnesium>=91.5
+flavanoids< 1.4 & Alcohol>=12.41 & flavanoids>=1.235 & Alcohol>=12.78
+OD280_OD315< 2.115 & Ash>=2.06 & OD280_OD315>=1.925 & Magnesium>=88.5
+OD280_OD315< 2.115 & Ash>=2.06 & OD280_OD315>=1.925 & Proline>=517.5
+Proline< 666 & Proline>=635
+AlcalinityOfAsh< 27.75 & AlcalinityOfAsh>=24.25 & TotalPhenols< 2.125
+Ash>=2.63 & Magnesium< 99.5 & Alcohol>=12.63
+NonflavanoidsPhenols>=0.59 & MalicAcid>=2.975
+OD280_OD315< 2.115 & OD280_OD315>=1.925 & Magnesium>=88.5
+AlcalinityOfAsh>=24.25 & TotalPhenols< 2.125
+TotalPhenols< 1.84 & TotalPhenols>=1.71 & Magnesium< 102.5
+TotalPhenols< 1.84 & TotalPhenols>=1.77
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Proanthocyanins< 1.585 & Proanthocyanins>=1.405 & AlcalinityOfAsh>=22.9
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & NonflavanoidsPhenols< 0.32 & NonflavanoidsPhenols< 0.25
+ColorIntensity< 7.075 & NonflavanoidsPhenols< 0.49 & ColorIntensity>=3.975 & NonflavanoidsPhenols>=0.395 & ColorIntensity< 5.34
+MalicAcid< 2.455 & NonflavanoidsPhenols>=0.475 & Proline>=557.5 & Proline< 670
+MalicAcid>=2.455 & ColorIntensity< 5.26 & ColorIntensity>=3.825 & MalicAcid>=4.38
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & AlcalinityOfAsh>=22.25 & Alcohol>=13.08 & TotalPhenols< 2.875
+TotalPhenols< 1.84 & Proline>=517.5 & Ash< 2.73 & Ash< 2.235 & TotalPhenols>=1.465
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & Proline< 666 & Alcohol>=13.08 & Magnesium>=87.5
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & Proline< 666 & Alcohol>=13.08 & TotalPhenols< 2.875
+TotalPhenols< 1.84 & Alcohol< 12.78 & Alcohol>=12.18 & Ash>=2.3
+Hue>=0.785 & Hue< 0.915 & Ash>=2.595
+Hue< 0.785 & Ash>=2.14 & Alcohol< 12.44 & Magnesium>=87
+Hue>=0.785 & Hue< 0.915 & Alcohol>=12.52 & Alcohol< 13.67 & Alcohol>=13.43
+Hue>=0.785 & MalicAcid>=2.925 & ColorIntensity>=5.41
+flavanoids< 1.4 & Alcohol>=12.41 & flavanoids>=1.235 & Magnesium>=111
+TotalPhenols>=1.84 & Ash>=2.63 & Proline< 670 & Proline>=513
+MalicAcid>=2.215 & NonflavanoidsPhenols>=0.605 & TotalPhenols>=1.71
+Hue< 0.785 & Hue>=0.685 & AlcalinityOfAsh>=21.75
+AlcalinityOfAsh< 19.45 & AlcalinityOfAsh>=17.45 & Ash< 2.355 & Ash>=2.245 & Alcohol>=12.14
+AlcalinityOfAsh< 19.45 & AlcalinityOfAsh>=17.45 & Ash< 2.355 & Ash>=2.245 & Proline>=495
+MalicAcid>=2.455 & ColorIntensity< 5.26 & ColorIntensity>=3.825 & MalicAcid< 4.38 & MalicAcid< 3.58
+TotalPhenols>=1.84 & TotalPhenols< 2.335 & Alcohol>=12.43 & TotalPhenols< 2.01
+MalicAcid>=2.215 & NonflavanoidsPhenols>=0.605
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proanthocyanins< 1.59 & AlcalinityOfAsh< 22.9 & AlcalinityOfAsh< 20.8
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & Magnesium< 107.5 & ColorIntensity>=4.85 & Magnesium< 88.5
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & Ash>=2.63 & Proline< 670 & Alcohol>=12.77
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols>=0.59 & MalicAcid>=2.975
+Hue>=0.785 & Hue< 0.915 & AlcalinityOfAsh>=22.75
+flavanoids< 1.4 & Alcohol< 12.41 & flavanoids< 0.955
+flavanoids< 1.4 & flavanoids>=0.975 & flavanoids>=1.055 & flavanoids< 1.235
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Magnesium>=85.5 & OD280_OD315< 1.945 & TotalPhenols< 1.905
+OD280_OD315< 2.115 & OD280_OD315>=1.81 & Magnesium>=85.5 & OD280_OD315< 1.945 & NonflavanoidsPhenols>=0.385
+NonflavanoidsPhenols>=0.605 & TotalPhenols>=1.71
+OD280_OD315>=2.115 & flavanoids< 0.795
+MalicAcid< 2.455 & ColorIntensity>=9.4
+Alcohol< 12.44 & Alcohol>=12.18 & Alcohol< 12.27 & Ash>=2.16
+AlcalinityOfAsh>=19.45 & Alcohol>=12.52 & Proline< 842.5 & Proline< 517.5 & AlcalinityOfAsh< 20.35
+NonflavanoidsPhenols>=0.395 & Proline< 505 & AlcalinityOfAsh< 20.35 & AlcalinityOfAsh>=19.25
+Proanthocyanins>=1.305 & Proanthocyanins< 1.565 & Alcohol>=13.09 & Alcohol< 13.27
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Proline< 512.5 & Magnesium>=92
+Proanthocyanins< 1.305 & AlcalinityOfAsh>=18.25 & Alcohol>=12.18 & Proline< 512.5 & Proanthocyanins< 0.88
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proanthocyanins< 1.59 & AlcalinityOfAsh>=22.9
+ColorIntensity>=7.075 & Alcohol>=13.85 & ColorIntensity>=9.05
+ColorIntensity< 7.075 & ColorIntensity>=3.845 & ColorIntensity< 5.94 & ColorIntensity>=5.44 & ColorIntensity< 5.59
+MalicAcid< 2.455 & ColorIntensity< 9.4 & Proline< 655 & ColorIntensity>=5.375 & Proline>=512.5
+TotalPhenols< 1.84 & Proline< 517.5 & Ash>=2.45
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Proline>=449 & TotalPhenols>=1.71 & Magnesium< 102.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & Proline>=449 & TotalPhenols>=1.71 & TotalPhenols>=1.77
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & Ash>=2.63 & Proline< 670 & Proline>=513
+TotalPhenols< 1.84 & MalicAcid>=2.215 & AlcalinityOfAsh>=18.25 & NonflavanoidsPhenols>=0.59 & Proline>=641
+TotalPhenols< 1.84 & MalicAcid>=2.215 & Alcohol>=12.02 & NonflavanoidsPhenols>=0.605 & TotalPhenols>=1.71
+TotalPhenols>=1.84 & ColorIntensity< 7.4 & NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & AlcalinityOfAsh>=17.25
+TotalPhenols>=1.84 & ColorIntensity< 7.4 & NonflavanoidsPhenols>=0.46 & Proanthocyanins< 1.3 & Proanthocyanins>=0.715
+Hue< 0.785 & Alcohol>=12.04 & Magnesium< 87 & Hue< 0.635
+Hue< 0.785 & Magnesium< 87 & Hue< 0.635
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & AlcalinityOfAsh< 20.35
+Hue< 0.785 & Hue>=0.685 & NonflavanoidsPhenols< 0.475 & AlcalinityOfAsh>=21.75
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & TotalPhenols>=1.43 & TotalPhenols>=1.96
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & TotalPhenols< 1.43
+flavanoids< 1.4 & MalicAcid< 1.64 & MalicAcid>=1.215 & TotalPhenols>=1.465
+OD280_OD315< 2.115 & MalicAcid< 1.64 & OD280_OD315< 1.57
+OD280_OD315< 2.115 & Alcohol>=12.7 & OD280_OD315>=1.925 & Alcohol>=13.43
+OD280_OD315< 2.115 & OD280_OD315< 1.81 & TotalPhenols>=2.01 & Magnesium< 98
+OD280_OD315< 2.115 & Ash>=2.06 & OD280_OD315>=1.925 & Alcohol>=13.43
+OD280_OD315< 2.115 & Ash>=2.06 & OD280_OD315>=1.925 & Ash>=2.47
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.71 & Magnesium< 102.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.77
+ColorIntensity< 7.075 & Proanthocyanins>=1.025 & Proanthocyanins< 1.305 & NonflavanoidsPhenols>=0.485
+NonflavanoidsPhenols>=0.395 & Alcohol< 12.43 & Alcohol>=12.18 & Ash>=2.31
+Alcohol>=12.44 & Alcohol>=13.62 & Magnesium< 99.5 & Alcohol< 14.37 & Alcohol>=14.12
+AlcalinityOfAsh< 19.45 & AlcalinityOfAsh>=17.45 & Ash< 2.355 & Ash>=2.245 & Ash>=2.31
+NonflavanoidsPhenols>=0.395 & Alcohol< 12.43 & Alcohol>=12.18 & Proline>=458
+Proanthocyanins>=1.305 & Proanthocyanins>=1.565 & Proline< 676.5 & Alcohol>=13.17
+Proanthocyanins>=1.305 & AlcalinityOfAsh>=21.8 & Proline< 645 & Ash>=2.63 & AlcalinityOfAsh< 26
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Magnesium>=92.5 & NonflavanoidsPhenols< 0.515 & Ash< 2.65
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Proanthocyanins>=1.59 & NonflavanoidsPhenols>=0.51 & Proanthocyanins>=1.815
+Proanthocyanins>=1.305 & NonflavanoidsPhenols>=0.425 & Magnesium>=92.5 & NonflavanoidsPhenols< 0.515 & Proanthocyanins< 1.585
+MalicAcid< 2.455 & Proanthocyanins< 0.985 & MalicAcid>=1.3
+MalicAcid< 2.455 & Proline< 666 & Proline>=635
+MalicAcid< 2.455 & Proanthocyanins>=0.985 & Proline< 666 & Proline>=635
+MalicAcid< 2.455 & NonflavanoidsPhenols>=0.475 & Alcohol>=12.42 & Alcohol>=12.61 & MalicAcid>=1.6
+MalicAcid< 2.455 & NonflavanoidsPhenols>=0.475 & Magnesium>=84.5 & MalicAcid>=1.6
+TotalPhenols>=1.84 & AlcalinityOfAsh< 23.8 & TotalPhenols< 2.01 & Alcohol>=12.46
+TotalPhenols>=1.84 & AlcalinityOfAsh< 23.8 & TotalPhenols< 2.01 & Proline>=535 & Proline< 665
+TotalPhenols>=1.84 & AlcalinityOfAsh>=23.8 & AlcalinityOfAsh< 27.75 & AlcalinityOfAsh>=24.25 & TotalPhenols< 2.125
+TotalPhenols>=1.84 & Proanthocyanins>=1.265 & Ash>=2.63 & Magnesium< 99.5 & Alcohol>=12.63
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & Magnesium< 99 & Proanthocyanins>=1.3 & Magnesium>=88.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.6 & NonflavanoidsPhenols< 0.435 & Magnesium>=99.5
+TotalPhenols< 1.84 & Proanthocyanins< 1.555 & TotalPhenols>=1.6 & NonflavanoidsPhenols< 0.435 & TotalPhenols>=1.665
+TotalPhenols>=1.84 & NonflavanoidsPhenols>=0.44 & MalicAcid< 2.545 & Magnesium< 99 & MalicAcid< 1.87
+TotalPhenols>=1.84 & ColorIntensity< 7.4 & NonflavanoidsPhenols>=0.46 & ColorIntensity>=3.99 & Ash< 2.655
+Hue>=0.785 & Hue< 0.915 & Ash< 2.595 & Alcohol>=12.79 & AlcalinityOfAsh>=19.2
+Hue>=0.785 & Hue< 0.915 & AlcalinityOfAsh< 22.75 & AlcalinityOfAsh>=19.25 & Alcohol>=12.79
+Hue>=0.785 & NonflavanoidsPhenols>=0.46 & Hue< 0.965 & AlcalinityOfAsh>=20.35 & AlcalinityOfAsh>=23
+flavanoids< 1.4 & flavanoids>=0.975 & Proline< 670 & NonflavanoidsPhenols>=0.28 & Proline>=525
+OD280_OD315>=2.115 & Proanthocyanins< 0.82
+OD280_OD315>=2.115 & OD280_OD315< 2.475 & Alcohol>=12.8

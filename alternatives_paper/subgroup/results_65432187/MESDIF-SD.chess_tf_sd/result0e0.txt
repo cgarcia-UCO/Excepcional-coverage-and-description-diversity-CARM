@@ -1,0 +1,131 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkxcr = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Wkcti = f
+	Variable Wkovl = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkxcr = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Wkcti = f
+	Variable Wkovl = f
+	Variable Wtoeg = n
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkxcr = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Skach = f
+	Variable Spcop = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = t
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = b
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Simpl = t
+	Variable Skach = t
+	Variable Skewr = t
+	Variable Skrxp = t
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+	Variable Wkpos = t
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkon8 = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = t
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = b
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Simpl = t
+	Variable Skach = t
+	Variable Skewr = t
+	Variable Skrxp = t
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+	Variable Wkpos = t
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = t
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = b
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Simpl = t
+	Variable Skach = t
+	Variable Skewr = t
+	Variable Skrxp = t
+	Variable Stlmt = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+	Variable Wkpos = t
+	Variable Wtoeg = n
+   Consecuent: True
+

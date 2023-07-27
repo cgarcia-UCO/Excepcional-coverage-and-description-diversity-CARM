@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/hepatitis_tf/hepatitis_tf.dat" "../datasets/hepatitis_tf/hepatitis_tf.dat" 
+outputData = "../datasets/KMeans-MV.hepatitis_tf/KMeans-MVs0.hepatitis_tf1tra.dat" "../datasets/KMeans-MV.hepatitis_tf/KMeans-MVs0.hepatitis_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

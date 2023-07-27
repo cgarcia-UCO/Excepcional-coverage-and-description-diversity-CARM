@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="a19" value="
+[-0.43707, 0.0]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+[-0.28269, 0.17959]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="a25" value="
+[-6.9E-4, 0.15103]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+[-3.0E-5, 0.1167]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="a34" value="
+NOT [-1.0, 0.27916]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+NOT [-0.6361, 0.16361]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="a34" value="
+NOT [-1.0, 0.31144]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+NOT [-0.5756600000000001, 0.16361]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.39055999999999996]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-0.92847, -0.33666]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="a04" value="
+NOT [0.09427, 0.6353800000000001]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-0.92847, -0.33666]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.39055999999999996]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-0.92847, -0.34807]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="a24" value="
+[0.68343, 0.76197]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.01697]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.21989999999999998]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.01697]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.51695]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.5788800000000001]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.57956]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, 0.5321]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.01697]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.17426]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.12756]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.1201]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.12756]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="a07" value="
+[-0.36393, 0.10526]" /></antecedents>
+<consequents>
+<attribute name="a33" value="
+[-0.19792, 0.25441]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="a07" value="
+[-0.32937, 0.03759]" /></antecedents>
+<consequents>
+<attribute name="a33" value="
+[-0.18494, 0.04749]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="a14" value="
+[0.86029, 0.93778]" /></antecedents>
+<consequents>
+<attribute name="a29" value="
+[-0.64962, -0.46422]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="a07" value="
+NOT [-1.0, 0.7899]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="a15" value="
+NOT [-1.0, -0.20029]" /></antecedents>
+<consequents>
+<attribute name="a12" value="
+NOT [-0.94843, -0.49873]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="a19" value="
+[0.76531, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a13" value="
+[0.81197, 1.0]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="a19" value="
+[-0.93641, -0.69318]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+[-0.93104, -0.7035]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="a23" value="
+NOT [-1.0, 0.75071]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.82101]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="a23" value="
+NOT [-1.0, 0.7499]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, 0.67925]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="a27" value="
+[-0.71844, -0.38798]" /></antecedents>
+<consequents>
+<attribute name="a29" value="
+[-0.72369, -0.46799]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="a18" value="
+[0.6221, 0.75517]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.71731, -0.63237]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="a27" value="
+[-0.71731, -0.66651]" /></antecedents>
+<consequents>
+<attribute name="a29" value="
+[-0.64962, -0.55147]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.39055999999999996]" /><attribute name="a24" value="
+NOT [-0.9748100000000001, -0.20892999999999998]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-0.92847, -0.33666]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="a02" value="
+[0.0, 0.0]" /><attribute name="a17" value="
+NOT [-0.9999, -0.39055999999999996]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-0.92847, -0.34807]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="a06" value="
+[0.03309, 0.33598]" /><attribute name="a12" value="
+NOT [-1.0, 0.12121]" /></antecedents>
+<consequents>
+<attribute name="a08" value="
+[0.14756, 0.4996]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="a24" value="
+[0.68343, 0.76197]" /><attribute name="a34" value="
+NOT [-1.0, 0.42457]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, -1.0E-4]" /><attribute name="a31" value="
+NOT [-1.0, 0.27859]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="a04" value="
+[0.06538, 0.13082]" /><attribute name="a24" value="
+[0.68343, 0.76197]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.57956]" /><attribute name="a31" value="
+NOT [-1.0, 0.27859]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.57956]" /><attribute name="a31" value="
+NOT [-1.0, 0.30986]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, 0.5321]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.57956]" /><attribute name="a17" value="
+NOT [-1.0, 0.39189]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, 0.5321]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="a17" value="
+NOT [-1.0, 0.33344]" /><attribute name="a24" value="
+[0.68343, 0.76197]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="a24" value="
+[0.68343, 0.76197]" /><attribute name="a31" value="
+NOT [-1.0, -0.25526]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="a21" value="
+NOT [-1.0, 0.09589]" /><attribute name="a24" value="
+[0.68343, 0.76197]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="a12" value="
+NOT [-1.0, -0.49873]" /><attribute name="a13" value="
+NOT [-1.0, 0.12756]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.1201]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="a13" value="
+NOT [-1.0, 0.5788800000000001]" /><attribute name="a24" value="
+[0.68343, 0.76197]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="a12" value="
+NOT [-1.0, -0.49873]" /><attribute name="a13" value="
+NOT [-1.0, 0.01697]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.17426]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="a12" value="
+NOT [-1.0, -0.49873]" /><attribute name="a13" value="
+NOT [-1.0, 0.12756]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.17426]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="a12" value="
+NOT [-1.0, -0.49873]" /><attribute name="a13" value="
+NOT [-1.0, 0.01697]" /></antecedents>
+<consequents>
+<attribute name="a15" value="
+NOT [-1.0, -0.21989999999999998]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="a24" value="
+[0.68343, 0.76197]" /><attribute name="a33" value="
+NOT [-1.0, -0.27349]" /></antecedents>
+<consequents>
+<attribute name="a22" value="
+[0.66975, 0.6882]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="a07" value="
+[-0.32937, 0.03759]" /><attribute name="a21" value="
+NOT [1.0E-4, 0.9999]" /></antecedents>
+<consequents>
+<attribute name="a33" value="
+[-0.18494, 0.04749]" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="a15" value="
+NOT [-1.0, -0.20029]" /><attribute name="a21" value="
+NOT [-0.9999, -0.36006]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.10315]" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="a15" value="
+NOT [-1.0, -0.20029]" /><attribute name="a21" value="
+NOT [-0.9999, -0.36006]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.09493]" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="a15" value="
+NOT [-1.0, -1.0E-4]" /><attribute name="a21" value="
+NOT [-0.9999, -0.26189999999999997]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.04718]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="a27" value="
+NOT [-1.0, 0.7803100000000001]" /><attribute name="a31" value="
+NOT [-1.0, 0.73926]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+NOT [-1.0, 0.75951]" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="a03" value="
+[0.74916, 1.0]" /><attribute name="a23" value="
+NOT [-1.0, 0.7499]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.7087600000000001]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="a12" value="
+[0.81152, 0.96748]" /><attribute name="a27" value="
+NOT [-0.16940000000000002, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a14" value="
+[0.71996, 0.9513]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="a14" value="
+[0.74676, 0.87493]" /><attribute name="a27" value="
+[-0.71844, -0.38798]" /></antecedents>
+<consequents>
+<attribute name="a29" value="
+[-0.72369, -0.46799]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="a15" value="
+NOT [-0.06817, 1.0]" /><attribute name="a18" value="
+[0.6221, 0.75517]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.71731, -0.63237]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="a21" value="
+NOT [1.0E-4, 0.84172]" /><attribute name="a23" value="
+NOT [-1.0, 0.75071]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.82101]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="a18" value="
+[0.6221, 0.71161]" /><attribute name="a21" value="
+NOT [-0.70153, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.70352, -0.63237]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="a18" value="
+[0.67647, 0.75517]" /><attribute name="a19" value="
+[-0.68358, -0.43707]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.71731, -0.66651]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="a18" value="
+[0.67647, 0.75517]" /><attribute name="a21" value="
+NOT [-0.55759, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.71731, -0.66651]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="a18" value="
+[0.6221, 0.67647]" /><attribute name="a19" value="
+NOT [-0.4999, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.67925, -0.63237]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="a18" value="
+[0.6221, 0.67647]" /><attribute name="a21" value="
+NOT [-0.73519, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.67925, -0.63237]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="a11" value="
+NOT [0.19127999999999998, 1.0]" /><attribute name="a18" value="
+[0.6221, 0.71161]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+[-0.70352, -0.63237]" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="a14" value="
+NOT [0.33646, 0.81785]" /><attribute name="a19" value="
+[-0.43707, 0.0]" /><attribute name="a24" value="
+NOT [-1.0, -0.02292]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+[-0.28269, 0.17959]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="a15" value="
+NOT [-1.0, -0.20029]" /><attribute name="a16" value="
+NOT [0.38878999999999997, 0.42871000000000004]" /><attribute name="a21" value="
+NOT [-0.9999, -0.36006]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+NOT [-0.9999, -0.10315]" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="a09" value="
+NOT [-1.0, 0.02414]" /><attribute name="a15" value="
+[-0.78751, -0.52735]" /><attribute name="a19" value="
+[-0.93641, -0.69318]" /></antecedents>
+<consequents>
+<attribute name="a17" value="
+[-0.93104, -0.7035]" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="a19" value="
+[0.79113, 1.0]" /><attribute name="a27" value="
+NOT [-1.0, 0.7803100000000001]" /><attribute name="a31" value="
+NOT [-1.0, 0.73926]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+NOT [-1.0, 0.75951]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="a07" value="
+[0.66667, 1.0]" /><attribute name="a23" value="
+NOT [-0.8427600000000001, 0.66393]" /><attribute name="a29" value="
+[0.5282, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+[0.66667, 1.0]" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="a02" value="
+[0.0, 0.0]" /><attribute name="a15" value="
+NOT [1.0E-4, 0.9999]" /><attribute name="a23" value="
+NOT [-1.0, 0.9999]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.9999]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="a14" value="
+[0.74676, 0.87493]" /><attribute name="a16" value="
+[0.67697, 0.90665]" /><attribute name="a27" value="
+[-0.71844, -0.38798]" /></antecedents>
+<consequents>
+<attribute name="a31" value="
+[-0.75321, -0.52823]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="a02" value="
+[0.0, 0.0]" /><attribute name="a23" value="
+NOT [-1.0, 0.9999]" /><attribute name="class" value="
+NOT g" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.9999]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="a21" value="
+NOT [1.0E-4, 0.84861]" /><attribute name="a23" value="
+NOT [-1.0, 0.75071]" /><attribute name="a29" value="
+NOT [1.0E-4, 0.7562800000000001]" /></antecedents>
+<consequents>
+<attribute name="a27" value="
+NOT [-1.0, 0.82373]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="a16" value="
+[-0.25099, 0.19964]" /><attribute name="a24" value="
+NOT [0.09230000000000001, 1.0]" /><attribute name="a27" value="
+NOT [-1.0, 0.7803100000000001]" /><attribute name="a29" value="
+[0.74089, 1.0]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+NOT [-1.0, 0.75951]" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="a05" value="
+[0.79704, 1.0]" /><attribute name="a15" value="
+[0.78342, 1.0]" /><attribute name="a16" value="
+[-0.25099, 0.47059]" /><attribute name="a17" value="
+NOT [-1.0, 0.42847]" /><attribute name="a31" value="
+NOT [-1.0, 0.73926]" /></antecedents>
+<consequents>
+<attribute name="a21" value="
+NOT [-1.0, 0.75951]" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="a08" value="
+NOT [0.22118, 1.0]" /><attribute name="a19" value="
+NOT [-1.0, 0.80009]" /><attribute name="a23" value="
+NOT [-1.0, 0.75071]" /><attribute name="a27" value="
+[0.79058, 1.0]" /><attribute name="a33" value="
+[0.75115, 1.0]" /><attribute name="class" value="
+NOT b" /></antecedents>
+<consequents>
+<attribute name="a31" value="
+[0.77863, 1.0]" /></consequents>
+</rule>
+</association_rules>

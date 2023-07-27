@@ -1,0 +1,23 @@
+
+Rule 1: IF  A8 = 0.0 AND A12 <= 1.0 AND A4 <= 1.0 THEN Class -> False     [ 0.946875 0.053125]
+Rule 2: IF  A8 = 0.0 AND A4 <= 1.0 AND A12 <= 1.0 THEN Class -> False     [ 0.946875 0.053125]
+Rule 3: IF  A9 = 0.0 AND A14 <= 4.0 AND A4 <= 1.0 AND A7 <> 9.0 AND A13 <> 1.0 THEN Class -> False     [ 0.8006134969325154 0.19938650306748465]
+Rule 4: IF  A8 = 0.0 AND A4 <= 1.0 THEN Class -> False     [ 0.9357798165137615 0.06422018348623854]
+Rule 5: IF  A14 <= 3.0 AND A13 > 2.0 AND A5 <= 7.0 AND A7 <> 3.0 AND A3 > 0.0 AND A10 <> 4.0 THEN Class -> False     [ 0.8346456692913385 0.16535433070866143]
+Rule 6: IF  A9 > 0.0 AND A8 <> 0.0 AND A14 <> 2.0 AND A13 <> 5.0 THEN Class -> True     [ 0.05235602094240838 0.9476439790575916]
+Rule 7: IF  A8 > 0.0 AND A4 = 1.0 AND A7 <> 1.0 AND A14 <> 2.0 AND A12 = 1.0 AND A5 <> 0.0 AND A13 <> 4.0 THEN Class -> True     [ 0.1085972850678733 0.8914027149321267]
+Rule 8: IF  A8 > 0.0 AND A5 > 2.0 AND A2 <> 7.0 AND A13 <> 4.0 AND A14 <> 1.0 AND A10 <> 2.0 AND A6 <> 2.0 AND A3 <> 3.0 THEN Class -> True     [ 0.12871287128712872 0.8712871287128713]
+Rule 9: IF  A14 > 3.0 AND A8 > 0.0 AND A2 <> 1.0 AND A13 <> 6.0 AND A5 <> 1.0 THEN Class -> True     [ 0.01639344262295082 0.9836065573770492]
+Rule 10: IF  A5 > 3.0 AND A3 <> 8.0 AND A14 <> 4.0 AND A2 <> 2.0 AND A7 <> 6.0 AND A13 <> 2.0 AND A6 <= 4.0 THEN Class -> True     [ 0.4148471615720524 0.5851528384279476]
+
+####Average results for test data####
+Avg. Rule length: 10
+Avg. Number of attributes by rule: 5.0
+Avg. Coverage: 0.3640579710144928
+Avg. Support Completo: 0.9681159420289855
+Avg. Significance: 169.46936645166343
+Avg. Unusualness: 0.09074653024492639
+
+Accuracy Training: 0.9014492753623189
+Accuracy Test: 0.9014492753623189;
+  Time; 95

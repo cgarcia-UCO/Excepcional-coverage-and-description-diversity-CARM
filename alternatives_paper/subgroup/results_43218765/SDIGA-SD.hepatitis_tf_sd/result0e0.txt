@@ -1,0 +1,15 @@
+GENERATED RULE 0
+   Antecedent
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+   Consecuent: True
+

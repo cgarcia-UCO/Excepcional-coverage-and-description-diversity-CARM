@@ -1,0 +1,161 @@
+@Number of rules: 78 Number of Antecedents by rule: 3.5324675324675323
+
+1: Persons IS 2: False
+2: Safety IS low: False
+3: Buying IS vhigh AND Maint IS vhigh: False
+4: Buying IS vhigh AND Maint IS high: False
+5: Buying IS high AND Maint IS vhigh: False
+6: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+7: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+8: Buying IS med AND Persons IS 4 AND Safety IS high: True
+9: Buying IS low AND Persons IS 4 AND Safety IS high: True
+10: Maint IS vhigh AND Lug_boot IS small AND Safety IS med: False
+11: Maint IS med AND Persons IS 4 AND Safety IS high: True
+12: Maint IS low AND Persons IS 4 AND Safety IS high: True
+13: Doors IS 2 AND Persons IS more AND Lug_boot IS small: False
+14: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+15: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+16: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+17: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+18: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+19: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+20: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+21: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+22: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+23: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+24: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+25: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+26: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+27: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+28: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+29: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+30: Buying IS high AND Maint IS high AND Persons IS 4 AND Safety IS high: True
+31: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+32: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+33: Buying IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+34: Buying IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+35: Buying IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+36: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+37: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+38: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+39: Buying IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+40: Buying IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+41: Buying IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+42: Maint IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+43: Maint IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+44: Maint IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+45: Maint IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+46: Maint IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+47: Maint IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+48: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+49: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+50: Buying IS med AND Maint IS med AND Persons IS more AND Safety IS med: True
+51: Buying IS med AND Maint IS low AND Persons IS more AND Safety IS med: True
+52: Buying IS low AND Maint IS high AND Persons IS more AND Safety IS med: True
+53: Buying IS low AND Maint IS med AND Persons IS more AND Safety IS med: True
+54: Buying IS low AND Maint IS low AND Persons IS more AND Safety IS med: True
+55: Doors IS 2 AND Lug_boot IS small: False
+56: Buying IS low AND Persons IS 4 AND Safety IS med: True
+57: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+58: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+59: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+60: Buying IS vhigh AND Doors IS 2: False
+61: Maint IS vhigh AND Doors IS 2: False
+62: Maint IS high AND Lug_boot IS small AND Safety IS med: False
+63: Buying IS vhigh: False
+64: Maint IS vhigh: False
+65: Buying IS med AND Doors IS 4 AND Persons IS 4 AND Safety IS med: True
+66: Buying IS med AND Doors IS 5more AND Persons IS 4 AND Safety IS med: True
+67: Maint IS med AND Doors IS 4 AND Persons IS 4 AND Safety IS med: True
+68: Maint IS med AND Doors IS 5more AND Persons IS 4 AND Safety IS med: True
+69: Maint IS low AND Doors IS 4 AND Persons IS 4 AND Safety IS med: True
+70: Maint IS low AND Doors IS 5more AND Persons IS 4 AND Safety IS med: True
+71: Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+72: Persons IS more AND Lug_boot IS big AND Safety IS med: True
+73: Doors IS 3 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+74: Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+75: Doors IS 4 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+76: Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+77: Doors IS 5more AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+Default: False
+
+
+@supp and conf:
+
+1: supp: 0.3333333333333333 AND conf: 1.0
+2: supp: 0.3333333333333333 AND conf: 1.0
+3: supp: 0.0625 AND conf: 1.0
+4: supp: 0.0625 AND conf: 1.0
+5: supp: 0.0625 AND conf: 1.0
+6: supp: 0.027777777777777776 AND conf: 1.0
+7: supp: 0.027777777777777776 AND conf: 1.0
+8: supp: 0.027777777777777776 AND conf: 1.0
+9: supp: 0.027777777777777776 AND conf: 1.0
+10: supp: 0.027777777777777776 AND conf: 1.0
+11: supp: 0.027777777777777776 AND conf: 1.0
+12: supp: 0.027777777777777776 AND conf: 1.0
+13: supp: 0.027777777777777776 AND conf: 1.0
+14: supp: 0.009259259259259259 AND conf: 1.0
+15: supp: 0.009259259259259259 AND conf: 1.0
+16: supp: 0.009259259259259259 AND conf: 1.0
+17: supp: 0.009259259259259259 AND conf: 1.0
+18: supp: 0.009259259259259259 AND conf: 1.0
+19: supp: 0.009259259259259259 AND conf: 1.0
+20: supp: 0.009259259259259259 AND conf: 1.0
+21: supp: 0.009259259259259259 AND conf: 1.0
+22: supp: 0.009259259259259259 AND conf: 1.0
+23: supp: 0.009259259259259259 AND conf: 1.0
+24: supp: 0.009259259259259259 AND conf: 1.0
+25: supp: 0.009259259259259259 AND conf: 1.0
+26: supp: 0.009259259259259259 AND conf: 1.0
+27: supp: 0.009259259259259259 AND conf: 1.0
+28: supp: 0.009259259259259259 AND conf: 1.0
+29: supp: 0.009259259259259259 AND conf: 1.0
+30: supp: 0.006944444444444444 AND conf: 1.0
+31: supp: 0.006944444444444444 AND conf: 1.0
+32: supp: 0.006944444444444444 AND conf: 1.0
+33: supp: 0.006944444444444444 AND conf: 1.0
+34: supp: 0.006944444444444444 AND conf: 1.0
+35: supp: 0.006944444444444444 AND conf: 1.0
+36: supp: 0.006944444444444444 AND conf: 1.0
+37: supp: 0.006944444444444444 AND conf: 1.0
+38: supp: 0.006944444444444444 AND conf: 1.0
+39: supp: 0.006944444444444444 AND conf: 1.0
+40: supp: 0.006944444444444444 AND conf: 1.0
+41: supp: 0.006944444444444444 AND conf: 1.0
+42: supp: 0.006944444444444444 AND conf: 1.0
+43: supp: 0.006944444444444444 AND conf: 1.0
+44: supp: 0.006944444444444444 AND conf: 1.0
+45: supp: 0.006944444444444444 AND conf: 1.0
+46: supp: 0.006944444444444444 AND conf: 1.0
+47: supp: 0.006944444444444444 AND conf: 1.0
+48: supp: 0.008680555555555556 AND conf: 0.9375000000000001
+49: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+50: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+51: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+52: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+53: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+54: supp: 0.00636574074074074 AND conf: 0.9166666666666666
+55: supp: 0.07291666666666667 AND conf: 0.8750000000000001
+56: supp: 0.024305555555555556 AND conf: 0.8750000000000001
+57: supp: 0.008101851851851851 AND conf: 0.875
+58: supp: 0.008101851851851851 AND conf: 0.875
+59: supp: 0.008101851851851851 AND conf: 0.875
+60: supp: 0.05439814814814815 AND conf: 0.8703703703703703
+61: supp: 0.05439814814814815 AND conf: 0.8703703703703703
+62: supp: 0.023726851851851853 AND conf: 0.8541666666666667
+63: supp: 0.20833333333333334 AND conf: 0.8333333333333334
+64: supp: 0.20833333333333334 AND conf: 0.8333333333333334
+65: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+66: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+67: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+68: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+69: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+70: supp: 0.005787037037037037 AND conf: 0.8333333333333334
+71: supp: 0.03009259259259259 AND conf: 0.8125
+72: supp: 0.03009259259259259 AND conf: 0.8125
+73: supp: 0.007523148148148148 AND conf: 0.8125
+74: supp: 0.007523148148148148 AND conf: 0.8125
+75: supp: 0.007523148148148148 AND conf: 0.8125
+76: supp: 0.007523148148148148 AND conf: 0.8125
+77: supp: 0.007523148148148148 AND conf: 0.8125

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.3333333333333333" antecedent_support="0.3333333333333333" consequent_support="0.3333333333333333" confidence="1.0" lift="3.0" conviction="Infinity" certainFactor="1.0" netConf="0.9999999999999999" yulesQ="1.0" nAnts="1"/>
+<rule id="1" rule_support="0.3" antecedent_support="0.30666666666666664" consequent_support="0.3333333333333333" confidence="0.9782608695652174" lift="2.9347826086956523" conviction="30.666666666666725" certainFactor="0.9673913043478259" netConf="0.9301839464882944" yulesQ="0.9977578475336322" nAnts="1"/>
+<rule id="2" rule_support="0.3" antecedent_support="0.3" consequent_support="0.36" confidence="1.0" lift="2.7777777777777777" conviction="Infinity" certainFactor="1.0" netConf="0.9142857142857144" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.21333333333333335" antecedent_support="0.22666666666666666" consequent_support="0.29333333333333333" confidence="0.9411764705882354" lift="3.2085561497326207" conviction="12.013333333333357" certainFactor="0.9167591564927859" netConf="0.8377281947261663" yulesQ="0.9856801909307876" nAnts="1"/>
+<rule id="4" rule_support="0.35333333333333333" antecedent_support="0.37333333333333335" consequent_support="0.44" confidence="0.9464285714285714" lift="2.1509740259740258" conviction="10.453333333333326" certainFactor="0.9043367346938775" netConf="0.8081306990881457" yulesQ="0.981994459833795" nAnts="1"/>
+<rule id="5" rule_support="0.17333333333333334" antecedent_support="0.2" consequent_support="0.2733333333333333" confidence="0.8666666666666667" lift="3.1707317073170733" conviction="5.449999999999999" certainFactor="0.8165137614678899" netConf="0.7416666666666666" yulesQ="0.956989247311828" nAnts="1"/>
+<rule id="6" rule_support="0.11333333333333333" antecedent_support="0.12666666666666668" consequent_support="0.22666666666666666" confidence="0.894736842105263" lift="3.9473684210526314" conviction="7.346666666666658" certainFactor="0.8638838475499091" netConf="0.7649658497388507" yulesQ="0.9655172413793103" nAnts="1"/>
+</values>

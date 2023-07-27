@@ -1,0 +1,39 @@
+GENERATED RULE 0
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Alcohol = Label 0 	 (9.05 11.0 12.95)
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+	Variable ColorIntensity = Label 0 	 (-4.7 1.2 7.1000004)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Ash = Label 1 	 (1.3 2.3 3.3)
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+	Variable Proanthocyanins = Label 2 	 (1.9999999 3.6 5.2)
+	Variable ColorIntensity = Label 0 	 (-4.7 1.2 7.1000004)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Ash = Label 1 	 (1.3 2.3 3.3)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Ash = Label 1 	 (1.3 2.3 3.3)
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+

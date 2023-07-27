@@ -1,0 +1,1 @@
+12  ../datasets/KMeans-MV.pima_assoc/KMeans-MVs0.pima_assoc1tra.dat../results/KMeans-MV.NICGAR-A.pima_assoc/result0s0.tra

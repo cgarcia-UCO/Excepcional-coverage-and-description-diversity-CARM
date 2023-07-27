@@ -1,0 +1,18 @@
+Rule 1: IF  Mg > 2 THEN TypeGlass -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  Ca <= 6 THEN TypeGlass -> False  
+[  0.97  0.03  ]
+
+Rule 3: IF  Al <= 5 THEN TypeGlass -> False  
+[  0.97  0.03  ]
+
+Rule 4: IF  RI <= 6 THEN TypeGlass -> False  
+[  0.95  0.05  ]
+
+Rule 5: IF  K > 0 THEN TypeGlass -> False  
+[  0.93  0.07  ]
+
+
+
+Time: 0.257

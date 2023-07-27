@@ -1,0 +1,22 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable F0 = Label 0 	 (-7.3459997 -5.211 -3.076)
+	Variable F3 = Label 2 	 (0.4840001 2.377 4.2700005)
+	Variable F5 = Label 1 	 (-0.836 0.7454999 2.327)
+	Variable F6 = Label 0 	 (-3.007 -1.537 -0.06699991)
+	Variable F8 = Label 2 	 (-0.15200007 1.309 2.77)
+	Variable F9 = Label 2 	 (-0.14199996 1.396 2.934)
+   Consecuent: positive
+
+GENERATED RULE 0
+   Antecedent
+	Variable F1 = Label 1 	 (-1.274 1.9 5.074)
+	Variable F3 = Label 1 	 (-1.409 0.4840001 2.377)
+   Consecuent: negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable F3 = Label 0 	 (-3.302 -1.409 0.4840001)
+   Consecuent: negative
+

@@ -1,0 +1,40 @@
+Rule 0: Lug_boot = med AND Safety = low THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 1: Lug_boot = small AND Safety = low THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 2: Persons = more AND Safety = low THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 3: Persons = 2 AND Safety = high THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 4: Persons = 2 AND Safety = med THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 5: Lug_boot = big AND Safety = low THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 6: Persons = 4 AND Safety = low THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 7: Persons = 2 AND Lug_boot = med THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 8: Persons = 2 AND Lug_boot = small THEN Acceptability = False
+[  1.00  0.00  ]
+
+
+Rule 9: Persons = 2 AND Lug_boot = big THEN Acceptability = False
+[  1.00  0.00  ]
+
+

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Generated results (without colorectal dataset, unless you use metrics_algs_original.pickle in the script)</title>
+        <style>
+        details summary {
+            font-weight: 800; /* peso de la tipografía cuando  no está desplegado */
+            cursor: pointer; /* cambia el cursor del puntero */
+        }
+    </style>
+</head>
+<body>
+    <h1>Paths to the rules</h1>
+    <p><ul>
+    <li>Apriori variants: apriori_heuristics/results_1/rules_apriori_...</li>
+    <li>Heu.Ops: apriori_heuristics/results_.../rules_Datasets_...
+    <li>CBA2: alternatives_paper/test_CBA_CPAR_FARCHD/results_.../KMeans-MV.UniformFrequency-D.CBA2...
+        <ul><li>Rules are encoded according to the information in alternatives_paper/test_CBA_CPAR_FARCHD/datasets/KMeans-MV.....</li></ul>
+    </li>
+    <li>CPAR: alternatives_paper/test_CBA_CPAR_FARCHD/results_.../KMeans-MV.UniformFrequency-D.CPAR...
+        <ul><li>Rules are encoded according to the information in alternatives_paper/test_CBA_CPAR_FARCHD/datasets/KMeans-MV.....</li></ul>
+    </li>
+    <li>FARCHD: alternatives_paper/test_CBA_CPAR_FARCHD/results_.../KMeans-MV.Fuzzy-FARCHD...</li>
+    <li>NICGAR: alternatives_paper/test_MOPNAR_NICGAR_QARCIP/results_.../KMeans-MV.NICGAR-...</li>
+    <li>MOPNAR: alternatives_paper/test_MOPNAR_NICGAR_QARCIP/results_.../KMeans-MV.MOPNAR-...</li>
+    <li>QAR-CIP: alternatives_paper/test_MOPNAR_NICGAR_QARCIP/results_.../KMeans-MV.QAR_CIP_NSGAII-...</li>
+    <li>CN2-SD: alternatives_paper/test_CN2/results/...
+        <ul><li>Rules are encoded according to the information in alternatives_paper/test_CN2/datasets/UniformFrequency-D...</li></ul>
+    </li>
+    <li>SD-Alg: alternatives_paper/subgroup/results.SD.Alg/UniformFrequency-D.SD-Algorithm-SD...</li>
+    <li>MESDIF: alternatives_paper/subgroup/results_.../MESDIF-SD...</li>
+    <li>SDIGA: alternatives_paper/subgroup/results_.../SDIGA-SD...</li>
+    <li>NMEEF: alternatives_paper/subgroup/results_.../NMEEF-SD...</li>
+    <li>SDMap: alternatives_paper/subgroup/results_.../UniformFrequency-D.SDMap-SD...</li>
+    <li>EXDERD: Rules are within zip files in bestconf/...</li>
+    </ul></p>
+
+    <h1><a href="generated_results/results_per_dataset.html">Results per dataset and global (without colorectal dataset, unless you use metrics_algs_original.pickle in the script)</a></h1>
+
+    <h1>Boxplots</h1>
+    <details>
+    <summary>Figures for the initial Apriori study</h1></summary>
+    <table width="100%">
+        <tr>
+            <td><iframe src="generated_results/num_rules_apriori_log.pdf" height="320px" width="100%"></iframe><p>Number of rules</p></td>
+            <td><iframe src="generated_results/global_coverage_apriori.pdf" height="320px" width="100%"></iframe><p>Overall coverage</p></td>
+        </tr>
+        <tr>
+            <td><iframe src="generated_results/mean_significance_apriori.pdf" height="320px" width="100%"></iframe><p>Significance</p></td>
+            <td><iframe src="generated_results/mean_wracc_apriori.pdf" height="320px" width="100%"></iframe><p>Unusualness</p></td>
+        </tr>
+    </table>
+    </details>
+
+    <details>
+    <summary>Description metrics(without colorectal dataset)</summary>
+    <table width="100%">
+        <tr>
+            <td><iframe src="generated_results/num_rules_log.pdf" height="320px" width="100%"></iframe><p>Number of rules</p></td>
+            <td><iframe src="generated_results/num_conditions_mean.pdf" height="320px" width="100%"></iframe><p>Mean length of the rules</p></td>
+        </tr>
+        <tr>
+            <td><iframe src="generated_results/ratio_used_features.pdf" height="320px" width="100%"></iframe><p>Feature coverage</p></td>
+            <td><iframe src="generated_results/max_feat_freq.pdf" height="320px" width="100%"></iframe><p>Maximal feature dominance</p></td>
+        </tr>
+    </table>
+    </details>
+
+    <details>
+    <summary>Essential quality metrics(without colorectal dataset)</summary>
+    <table width="100%">
+        <tr>
+            <td><iframe src="generated_results/coverage_mean.pdf" height="320px" width="100%"></iframe><p>Mean individual coverage</p></td>
+            <td><iframe src="generated_results/global_coverage.pdf" height="320px" width="100%"></iframe><p>Overall coverage</p></td>
+        </tr>
+        <tr>
+            <td><iframe src="generated_results/confidence_mean.pdf" height="320px" width="100%"></iframe><p>Mean confidence</p></td>
+            <td><iframe src="generated_results/confidence_min.pdf" height="320px" width="100%"></iframe><p>Min confidence</p></td>
+        </tr>
+    </table>
+    </details>
+
+    <details>
+    <summary>Interestingness related metrics(without colorectal dataset)</summary>
+    <table width="100%">
+        <tr>
+                    <td><iframe src="generated_results/mean_lift.pdf" height="320px" width="100%"></iframe><p>Lift</p></td>
+                    <td><iframe src="generated_results/mean_significance.pdf" height="320px" width="100%"></iframe><p>Significance</p></td>
+        </tr>
+        <tr>
+            <td><iframe src="generated_results/mean_wracc.pdf" height="320px" width="100%"></iframe><p>Unusualness</p></td>
+        </tr>
+    </table>
+    </details>
+</body>
+</html>

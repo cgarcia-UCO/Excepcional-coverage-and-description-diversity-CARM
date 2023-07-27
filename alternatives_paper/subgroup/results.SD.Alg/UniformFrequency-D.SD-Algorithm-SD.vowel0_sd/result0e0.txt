@@ -1,0 +1,18 @@
+Rule 1: IF  F1 > 2 AND F2 <= 8 THEN Class -> negative  
+[  0.00  1.00  ]
+
+Rule 2: IF  F1 > 2 AND F0 <> 0 THEN Class -> negative  
+[  0.00  1.00  ]
+
+Rule 3: IF  F1 > 2 AND F0 > 1 THEN Class -> negative  
+[  0.00  1.00  ]
+
+Rule 4: IF  F1 > 2 AND SpeakerNumber <> 4 THEN Class -> negative  
+[  0.00  1.00  ]
+
+Rule 5: IF  F3 <= 3 THEN Class -> negative  
+[  0.00  1.00  ]
+
+
+
+Time: 7.688

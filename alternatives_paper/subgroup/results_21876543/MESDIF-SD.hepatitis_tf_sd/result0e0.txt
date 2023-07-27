@@ -1,0 +1,82 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+

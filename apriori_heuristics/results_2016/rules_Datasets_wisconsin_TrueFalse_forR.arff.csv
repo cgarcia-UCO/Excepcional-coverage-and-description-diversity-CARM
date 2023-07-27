@@ -1,0 +1,86 @@
+CellShape>=2.5 & BareNuclei>=2.5
+BlandChromatin>=2.5 & EpithelialSize>=2.5
+CellSize>=2.5
+CellShape>=3.5 & BlandChromatin>=1.5
+CellSize>=2.5 & CellSize>=3.5
+BareNuclei>=2.5 & BlandChromatin>=2.5
+CellShape>=2.5
+CellShape>=3.5
+BareNuclei>=2.5
+BareNuclei>=2.5 & BlandChromatin>=2.5 & ClumpThickness>=3.5
+BareNuclei>=2.5 & BlandChromatin>=2.5 & EpithelialSize>=2.5
+BareNuclei>=2.5 & EpithelialSize>=2.5
+EpithelialSize>=2.5
+CellShape>=3.5 & MarginalAdhesion>=1.5
+BlandChromatin>=3.5
+BareNuclei>=2.5 & ClumpThickness>=4.5
+EpithelialSize>=2.5 & MarginalAdhesion>=1.5
+BlandChromatin>=3.5 & EpithelialSize>=2.5
+NormalNucleoli>=2.5
+EpithelialSize>=2.5 & ClumpThickness>=4.5
+CellShape>=3.5 & CellShape>=4.5
+CellSize>=4.5
+BareNuclei>=2.5 & NormalNucleoli>=1.5
+CellSize>=2.5 & CellShape>=2.5 & CellSize>=4.5
+EpithelialSize>=2.5 & NormalNucleoli>=2.5
+BareNuclei>=2.5 & BareNuclei>=5.5
+BareNuclei>=5.5
+BlandChromatin>=3.5 & ClumpThickness>=4.5
+EpithelialSize>=3.5 & BlandChromatin>=1.5
+NormalNucleoli>=2.5 & ClumpThickness>=4.5
+EpithelialSize>=2.5 & MarginalAdhesion>=2.5
+NormalNucleoli>=2.5 & MarginalAdhesion>=1.5
+EpithelialSize>=3.5
+NormalNucleoli>=1.5
+MarginalAdhesion>=2.5
+MarginalAdhesion>=1.5
+NormalNucleoli>=3.5
+MarginalAdhesion>=3.5
+EpithelialSize>=3.5 & NormalNucleoli>=2.5
+ClumpThickness>=6.5
+BareNuclei>=2.5 & MarginalAdhesion>=3.5
+NormalNucleoli>=3.5 & ClumpThickness>=4.5
+NormalNucleoli>=2.5 & MarginalAdhesion>=3.5
+EpithelialSize>=2.5 & ClumpThickness>=6.5
+MarginalAdhesion>=4.5
+Mitoses>=1.5 & BlandChromatin>=2.5
+Mitoses>=1.5
+MarginalAdhesion< 3.5 & ClumpThickness>=6.5
+CellSize>=2.5 & CellShape>=2.5 & CellSize< 4.5 & BareNuclei>=2.5
+BareNuclei>=2.5 & BareNuclei< 5.5 & NormalNucleoli>=1.5
+BareNuclei>=2.5 & BareNuclei< 5.5 & EpithelialSize>=2.5
+ClumpThickness< 6.5 & Mitoses>=1.5 & ClumpThickness>=1.5
+BlandChromatin< 3.5 & ClumpThickness>=6.5
+NormalNucleoli< 2.5 & ClumpThickness>=6.5
+MarginalAdhesion< 3.5 & Mitoses>=1.5
+CellShape>=3.5 & CellShape< 4.5 & NormalNucleoli>=1.5
+EpithelialSize>=2.5 & NormalNucleoli< 2.5 & MarginalAdhesion>=2.5
+BlandChromatin< 3.5 & NormalNucleoli>=2.5
+BareNuclei>=2.5 & BareNuclei< 5.5 & MarginalAdhesion>=3.5
+EpithelialSize>=2.5 & NormalNucleoli< 2.5 & ClumpThickness>=6.5
+BareNuclei>=2.5 & ClumpThickness< 4.5 & BareNuclei>=5.5
+NormalNucleoli< 2.5 & MarginalAdhesion>=3.5
+BlandChromatin< 3.5 & NormalNucleoli>=2.5 & MarginalAdhesion>=1.5
+NormalNucleoli>=2.5 & ClumpThickness< 4.5 & MarginalAdhesion>=3.5
+EpithelialSize>=2.5 & MarginalAdhesion< 1.5 & ClumpThickness>=4.5
+CellShape< 3.5 & BareNuclei>=5.5
+BareNuclei< 2.5 & EpithelialSize>=3.5 & BlandChromatin>=1.5
+BareNuclei< 2.5 & EpithelialSize>=3.5 & NormalNucleoli>=2.5
+NormalNucleoli>=2.5 & ClumpThickness< 4.5 & NormalNucleoli>=3.5
+BareNuclei< 2.5 & EpithelialSize>=3.5
+BareNuclei< 2.5 & NormalNucleoli>=3.5 & ClumpThickness>=4.5
+BareNuclei>=2.5 & BlandChromatin>=2.5 & ClumpThickness< 3.5 & EpithelialSize>=2.5
+CellShape< 3.5 & EpithelialSize>=3.5 & CellShape>=1.5
+BareNuclei< 2.5 & EpithelialSize>=3.5 & MarginalAdhesion>=3.5
+CellShape>=3.5 & MarginalAdhesion< 1.5 & ClumpThickness>=6.5
+CellShape< 3.5 & ClumpThickness>=6.5
+BlandChromatin< 3.5 & MarginalAdhesion>=3.5 & BlandChromatin>=2.5
+CellShape< 3.5 & NormalNucleoli>=3.5
+EpithelialSize< 2.5 & ClumpThickness>=6.5
+BareNuclei< 2.5 & NormalNucleoli>=3.5
+CellSize>=2.5 & CellSize< 3.5 & NormalNucleoli>=2.5
+BlandChromatin< 3.5 & Mitoses>=1.5 & BlandChromatin>=2.5
+BlandChromatin>=3.5 & EpithelialSize< 2.5 & ClumpThickness>=4.5
+BareNuclei< 2.5 & MarginalAdhesion>=4.5
+CellSize>=2.5 & CellSize< 3.5 & MarginalAdhesion>=2.5
+BareNuclei< 2.5 & ClumpThickness>=6.5

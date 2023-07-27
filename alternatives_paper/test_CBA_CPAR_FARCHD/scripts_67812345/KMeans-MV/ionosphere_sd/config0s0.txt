@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/ionosphere_sd/ionosphere_sd.dat" "../datasets/ionosphere_sd/ionosphere_sd.dat" 
+outputData = "../datasets/KMeans-MV.ionosphere_sd/KMeans-MVs0.ionosphere_sd1tra.dat" "../datasets/KMeans-MV.ionosphere_sd/KMeans-MVs0.ionosphere_sd1tst.dat" 
+
+seed = 67812345
+k = 10
+error = 100
+iterations = 100

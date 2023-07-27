@@ -1,0 +1,39 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable RestBloodPressure = Label 0 	 (41.0 94.0 147.0)
+	Variable ResElectrocardiographic = Label 0 	 (-1.0 0.0 1.0)
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable ResElectrocardiographic = Label 1 	 (0.0 1.0 2.0)
+	Variable ExerciseInduced = Label 2 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable RestBloodPressure = Label 1 	 (94.0 147.0 200.0)
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable ExerciseInduced = Label 2 	 (0.5 1.0 1.5)
+   Consecuent: True
+

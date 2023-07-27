@@ -1,0 +1,98 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverFirm = Label 2 	 (1.5 2.0 2.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+   Consecuent: True
+

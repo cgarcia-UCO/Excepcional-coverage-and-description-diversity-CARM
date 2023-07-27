@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/australian_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/australian_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/australian_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/australian_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/balance_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/balance_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/balance_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/balance_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/car_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/car_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/car_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/car_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/chess_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/chess_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/chess_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/chess_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/colorrectal/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/colorrectal/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/colorrectal/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/colorrectal/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/german_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/german_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/german_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/german_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/glass_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/glass_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/glass_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/glass_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/heart_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/heart_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/heart_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/heart_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/hepatitis_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/hepatitis_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/hepatitis_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/hepatitis_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/ionosphere/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/ionosphere/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/ionosphere/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/ionosphere/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/iris_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/iris_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/iris_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/iris_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/pima_assoc/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/pima_assoc/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/pima_assoc/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/pima_assoc/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/tic-tac-toe_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/tic-tac-toe_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/tic-tac-toe_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/tic-tac-toe_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/vowel0/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/vowel0/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/vowel0/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/vowel0/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/wine_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/wine_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/wine_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/wine_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MV-KMeans.jar</executableFile>
+    <scriptFile>./KMeans-MV/wisconsin_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/MOPNAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.MOPNAR-A/wisconsin_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/NICGAR.jar</executableFile>
+    <scriptFile>./KMeans-MV.NICGAR-A/wisconsin_tf/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/QAR_CIP_NSGAII.jar</executableFile>
+    <scriptFile>./KMeans-MV.QAR_CIP_NSGAII-A/wisconsin_tf/config0s0.txt</scriptFile>
+  </sentence>
+</execution>
+

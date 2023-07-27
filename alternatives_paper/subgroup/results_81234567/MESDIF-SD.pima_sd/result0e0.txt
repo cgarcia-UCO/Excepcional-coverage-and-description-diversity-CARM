@@ -1,0 +1,38 @@
+GENERATED RULE 0
+   Antecedent
+	Variable age = Label 0 	 (-9.0 21.0 51.0)
+   Consecuent: tested_negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable plas = Label 0 	 (-99.5 0.0 99.5)
+	Variable age = Label 0 	 (-9.0 21.0 51.0)
+   Consecuent: tested_negative
+
+GENERATED RULE 2
+   Antecedent
+	Variable pres = Label 0 	 (-61.0 0.0 61.0)
+	Variable skin = Label 0 	 (-49.5 0.0 49.5)
+	Variable insu = Label 0 	 (-423.0 0.0 423.0)
+	Variable age = Label 2 	 (51.0 81.0 111.0)
+   Consecuent: tested_negative
+
+GENERATED RULE 0
+   Antecedent
+	Variable pedi = Label 1 	 (0.078 1.249 2.42)
+   Consecuent: tested_positive
+
+GENERATED RULE 1
+   Antecedent
+	Variable skin = Label 1 	 (0.0 49.5 99.0)
+	Variable insu = Label 0 	 (-423.0 0.0 423.0)
+	Variable mass = Label 2 	 (33.55 67.1 100.649994)
+	Variable pedi = Label 2 	 (1.249 2.42 3.591)
+   Consecuent: tested_positive
+
+GENERATED RULE 2
+   Antecedent
+	Variable insu = Label 0 	 (-423.0 0.0 423.0)
+	Variable mass = Label 2 	 (33.55 67.1 100.649994)
+   Consecuent: tested_positive
+

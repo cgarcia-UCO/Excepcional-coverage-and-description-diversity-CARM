@@ -1,0 +1,72 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 2 	 (38.0 72.0 106.0)
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 2 	 (38.0 72.0 106.0)
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 2 	 (38.0 72.0 106.0)
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 2 	 (38.0 72.0 106.0)
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable EmploymentSince = A71
+	Variable StatusAndSex = A91
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable InstallmentPlans = A141
+	Variable Telephone = A192
+   Consecuent: True
+

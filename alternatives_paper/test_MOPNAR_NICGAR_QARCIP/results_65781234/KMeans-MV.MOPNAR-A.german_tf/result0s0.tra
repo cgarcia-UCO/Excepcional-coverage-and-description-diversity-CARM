@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A32" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Property" value="
+A124" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [5325.0, 12975.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [5325.0, 18424.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Telephone" value="
+NOT A192" /></antecedents>
+<consequents>
+<attribute name="Job" value="
+NOT A174" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+NOT A34" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Housing" value="
+A152" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+NOT A124" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Job" value="
+A171" /></antecedents>
+<consequents>
+<attribute name="EmploymentSince" value="
+A71" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="CreditHistory" value="
+A34" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="CreditAmount" value="
+[618.0, 3595.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [49.0, 72.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="CreditAmount" value="
+NOT [6968.0, 18424.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [49.0, 71.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="CreditAmount" value="
+[760.0, 2848.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [37.0, 72.0]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="CreditAmount" value="
+[618.0, 3577.0]" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [37.0, 72.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A32" /><attribute name="Housing" value="
+NOT A153" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="CreditAmount" value="
+NOT [250.0, 4604.0]" /><attribute name="Property" value="
+A124" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A34" /><attribute name="Property" value="
+A124" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Property" value="
+A124" /><attribute name="Age" value="
+[42.0, 52.0]" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [1923.0, 18424.0]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [1936.0, 18424.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [1894.0, 18424.0]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [2074.0, 18424.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 13.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [1681.0, 18424.0]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 13.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [3387.0, 18424.0]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="Housing" value="
+A152" /><attribute name="Customer" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+NOT A124" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="StatusAccount" value="
+NOT A14" /><attribute name="CreditHistory" value="
+A32" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Housing" value="
+A152" /><attribute name="Telephone" value="
+NOT A192" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+NOT A124" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /><attribute name="InstallmentPlans" value="
+A143" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /><attribute name="CreditAmount" value="
+NOT [5596.0, 18424.0]" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A33" /><attribute name="Job" value="
+A171" /></antecedents>
+<consequents>
+<attribute name="EmploymentSince" value="
+A71" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /><attribute name="CreditAmount" value="
+NOT [8134.0, 18424.0]" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="CreditAmount" value="
+NOT [5596.0, 18424.0]" /><attribute name="Housing" value="
+A152" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+NOT A124" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /><attribute name="CreditAmount" value="
+NOT [7473.0, 18424.0]" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="CreditHistory" value="
+A34" /><attribute name="Age" value="
+NOT [53.0, 64.0]" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="CreditHistory" value="
+A34" /><attribute name="Age" value="
+NOT [49.0, 73.0]" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="NCredits" value="
+[2.0, 3.0]" /><attribute name="Customer" value="
+False" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+A34" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="CreditAmount" value="
+[618.0, 3577.0]" /><attribute name="Guarantors" value="
+NOT A102" /></antecedents>
+<consequents>
+<attribute name="DurationMonth" value="
+NOT [37.0, 72.0]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A34" /><attribute name="Property" value="
+A124" /><attribute name="Job" value="
+NOT A171" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="DurationMonth" value="
+NOT [4.0, 23.0]" /><attribute name="CreditHistory" value="
+NOT A34" /><attribute name="Property" value="
+A124" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="DurationMonth" value="
+[6.0, 18.0]" /><attribute name="InstallmentRate" value="
+[3.0, 4.0]" /><attribute name="Telephone" value="
+A191" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [2074.0, 18424.0]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="Age" value="
+[19.0, 38.0]" /><attribute name="InstallmentPlans" value="
+A143" /><attribute name="NCredits" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+A32" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="CreditAmount" value="
+NOT [5955.0, 18424.0]" /><attribute name="EmploymentSince" value="
+NOT A71" /><attribute name="Telephone" value="
+NOT A192" /></antecedents>
+<consequents>
+<attribute name="Job" value="
+NOT A174" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="CreditHistory" value="
+A32" /><attribute name="CreditAmount" value="
+NOT [5596.0, 18424.0]" /><attribute name="InstallmentPlans" value="
+A143" /></antecedents>
+<consequents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A33" /><attribute name="Age" value="
+NOT [56.0, 75.0]" /><attribute name="Job" value="
+A171" /></antecedents>
+<consequents>
+<attribute name="EmploymentSince" value="
+A71" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="StatusAccount" value="
+A12" /><attribute name="CreditAmount" value="
+[625.0, 1537.0]" /><attribute name="Guarantors" value="
+NOT A101" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A121" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="DurationMonth" value="
+NOT [31.0, 72.0]" /><attribute name="NCredits" value="
+[2.0, 3.0]" /><attribute name="Customer" value="
+False" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+A34" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="StatusAccount" value="
+A12" /><attribute name="DurationMonth" value="
+NOT [19.0, 72.0]" /><attribute name="Guarantors" value="
+NOT A101" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A121" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="StatusAccount" value="
+A12" /><attribute name="CreditAmount" value="
+[753.0, 1537.0]" /><attribute name="Guarantors" value="
+NOT A101" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A121" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="StatusAccount" value="
+A12" /><attribute name="CreditAmount" value="
+[625.0, 1514.0]" /><attribute name="Guarantors" value="
+NOT A101" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A121" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="CreditHistory" value="
+NOT A34" /><attribute name="Purpose" value="
+NOT A44" /><attribute name="Property" value="
+A124" /><attribute name="Job" value="
+NOT A171" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="Purpose" value="
+NOT A44" /><attribute name="EmploymentSince" value="
+A75" /><attribute name="Property" value="
+A124" /><attribute name="Job" value="
+NOT A171" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A152" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="StatusAccount" value="
+A12" /><attribute name="DurationMonth" value="
+NOT [19.0, 72.0]" /><attribute name="InstallmentRate" value="
+NOT [2.0, 3.0]" /><attribute name="Guarantors" value="
+NOT A101" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A121" /></consequents>
+</rule>
+</association_rules>

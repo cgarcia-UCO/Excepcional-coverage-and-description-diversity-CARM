@@ -1,0 +1,36 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable FastingBloodSugar = Label 2 	 (0.5 1.0 1.5)
+	Variable ExerciseInduced = Label 0 	 (-0.5 0.0 0.5)
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable ExerciseInduced = Label 0 	 (-0.5 0.0 0.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable ChestPainType = Label 2 	 (2.5 4.0 5.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable FastingBloodSugar = Label 0 	 (-0.5 0.0 0.5)
+	Variable MaxHeartRate = Label 1 	 (71.0 136.5 202.0)
+   Consecuent: True
+

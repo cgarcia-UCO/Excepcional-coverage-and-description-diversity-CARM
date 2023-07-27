@@ -1,0 +1,33 @@
+Rule 1: IF  ProTime > 2 AND Bilirubin <> 6 AND AlkPhosphate <= 8 THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  ProTime > 2 AND Bilirubin <> 6 THEN Class -> False  
+[  0.98  0.02  ]
+
+Rule 3: IF  ProTime > 2 AND Age <> 6 THEN Class -> False  
+[  0.98  0.02  ]
+
+Rule 4: IF  ProTime > 2 THEN Class -> False  
+[  0.96  0.04  ]
+
+Rule 5: IF  AlbuMin > 4 THEN Class -> False  
+[  0.98  0.02  ]
+
+Rule 6: IF  AlbuMin <= 4 AND ProTime <= 2 AND Age > 4 AND Sex = 0 THEN Class -> True  
+[  0.00  1.00  ]
+
+Rule 7: IF  AlbuMin <= 4 AND ProTime <= 2 AND Age > 4 THEN Class -> True  
+[  0.17  0.83  ]
+
+Rule 8: IF  AlbuMin <= 4 AND ProTime <= 2 AND Age > 3 THEN Class -> True  
+[  0.23  0.77  ]
+
+Rule 9: IF  Histology > 0 AND ProTime <= 2 THEN Class -> True  
+[  0.29  0.71  ]
+
+Rule 10: IF  AlbuMin <= 4 AND ProTime <= 2 THEN Class -> True  
+[  0.39  0.61  ]
+
+
+
+Time: 0.375

@@ -1,0 +1,58 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

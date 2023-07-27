@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/balance_tf/balance_tf.dat" "../datasets/balance_tf/balance_tf.dat" 
+outputData = "../datasets/KMeans-MV.balance_tf/KMeans-MVs0.balance_tf1tra.dat" "../datasets/KMeans-MV.balance_tf/KMeans-MVs0.balance_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

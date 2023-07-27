@@ -1,0 +1,9 @@
+algorithm = K-means Imputation
+inputData = "../datasets/wisconsin_tf/wisconsin_tf.dat" "../datasets/wisconsin_tf/wisconsin_tf.dat" 
+outputData = "../datasets/KMeans-MV.wisconsin_tf/KMeans-MVs0.wisconsin_tf1tra.dat" "../datasets/KMeans-MV.wisconsin_tf/KMeans-MVs0.wisconsin_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100
+seed = 34218765

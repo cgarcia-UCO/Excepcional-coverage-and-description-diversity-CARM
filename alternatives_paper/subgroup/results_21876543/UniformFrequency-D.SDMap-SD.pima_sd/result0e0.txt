@@ -1,0 +1,12 @@
+Rule 0: age = 1 THEN class = tested_negative
+[  0.87  0.13  ]
+
+
+Rule 1: pres = 1 THEN class = tested_negative
+[  0.84  0.16  ]
+
+
+Rule 2: preg = 2 THEN class = tested_negative
+[  0.82  0.18  ]
+
+

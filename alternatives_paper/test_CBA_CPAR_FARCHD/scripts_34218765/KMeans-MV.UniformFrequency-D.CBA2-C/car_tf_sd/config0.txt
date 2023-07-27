@@ -1,0 +1,9 @@
+algorithm = Classification Based on Associations
+inputData = "../datasets/KMeans-MV.UniformFrequency-D.car_tf_sd/KMeans-MV.UniformFrequency-Ds0.car_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.car_tf_sd/KMeans-MV.UniformFrequency-Ds0.car_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.car_tf_sd/KMeans-MV.UniformFrequency-Ds0.car_tf_sd1tst.dat" ""../datasets/KMeans-MV.UniformFrequency-D.car_tf_sd/result1s0e0.txt" " 
+outputData = "../results/KMeans-MV.UniformFrequency-D.CBA2-C.car_tf_sd/result0.tra" "../results/KMeans-MV.UniformFrequency-D.CBA2-C.car_tf_sd/result0.tst" "../results/KMeans-MV.UniformFrequency-D.CBA2-C.car_tf_sd/result0e0.txt"  "../results/KMeans-MV.UniformFrequency-D.CBA2-C.car_tf_sd/result0e1.txt"  
+
+Minimum support = 0.01
+Minimum confidence = 0.5
+Wether pruning rules or not? (1:yes, 0:no) = 1
+Maximum candidate rules (0: no limited) = 80000
+seed = 34218765

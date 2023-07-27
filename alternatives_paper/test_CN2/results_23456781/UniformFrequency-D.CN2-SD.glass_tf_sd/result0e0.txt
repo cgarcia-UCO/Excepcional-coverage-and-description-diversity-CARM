@@ -1,0 +1,20 @@
+
+Rule 1: IF  Mg > 2.0 THEN TypeGlass -> False     [ 1.0 0.0]
+Rule 2: IF  Mg <> 2.0 AND Ca <= 7.0 AND Si > 0.0 AND Al > 0.0 THEN TypeGlass -> False     [ 1.0 0.0]
+Rule 3: IF  Ca <= 7.0 AND RI > 0.0 AND Al <> 7.0 THEN TypeGlass -> False     [ 1.0 0.0]
+Rule 4: IF  Al <= 5.0 AND RI <> 7.0 AND Na <> 5.0 AND Ca > 0.0 THEN TypeGlass -> False     [ 1.0 0.0]
+Rule 5: IF  Mg <= 2.0 AND Ba = 0.0 AND RI <> 9.0 AND Fe <> 3.0 AND Al <> 4.0 AND Ca <> 6.0 THEN TypeGlass -> True     [ 0.13636363636363635 0.8636363636363636]
+Rule 6: IF  Fe = 0.0 AND Mg <= 2.0 AND Ba = 0.0 AND RI <> 3.0 AND Al <> 4.0 AND Si <> 8.0 AND K <> 1.0 AND Ca <> 6.0 THEN TypeGlass -> True     [ 0.13636363636363635 0.8636363636363636]
+Rule 7: IF  Mg <= 2.0 AND RI <> 9.0 AND Fe <> 3.0 AND K <> 1.0 AND Si <> 8.0 AND Ca <> 3.0 AND Al <> 4.0 THEN TypeGlass -> True     [ 0.36363636363636365 0.6363636363636364]
+
+####Average results for test data####
+Avg. Rule length: 7
+Avg. Number of attributes by rule: 4.714285714285714
+Avg. Coverage: 0.403871829105474
+Avg. Support Completo: 0.9719626168224299
+Avg. Significance: 44.08431419049498
+Avg. Unusualness: 0.11626359316745447
+
+Accuracy Training: 0.9813084112149533
+Accuracy Test: 0.9813084112149533;
+  Time; 3

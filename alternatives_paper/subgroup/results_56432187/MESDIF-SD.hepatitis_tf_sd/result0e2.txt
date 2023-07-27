@@ -1,0 +1,200 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: MESDIF for Subgroup Discovery
+Input file name training: ../datasets/hepatitis_tf_sd/hepatitis_tf_sd.dat
+Input file name test: ../datasets/hepatitis_tf_sd/hepatitis_tf_sd.dat
+Rules file name: ../results/MESDIF-SD.hepatitis_tf_sd/result0e0.txt
+Tracking file name: ../results/MESDIF-SD.hepatitis_tf_sd/result0e2.txt
+Random generator seed: 56432187
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Number of individuals in the Elite Population: 3
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.0
+Rules representation: CAN
+Objective 1: COMP
+Objective 2: UNUS
+Objective 3: FCNF
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable Age:
+	Label 0: -28.5 7.0 42.5
+	Label 1: 7.0 42.5 78.0
+	Label 2: 42.5 78.0 113.5
+Fuzzy sets parameters for variable Sex:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Steroid:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Antivirals:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Fatigue:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Malaise:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Anorexia:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable LiverBig:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable LiverFirm:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable SpleenPalpable:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Spiders:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Ascites:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Varices:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+Fuzzy sets parameters for variable Bilirubin:
+	Label 0: -3.55 0.3 4.15
+	Label 1: 0.3 4.15 8.0
+	Label 2: 4.15 8.0 11.849999
+Fuzzy sets parameters for variable AlkPhosphate:
+	Label 0: -108.5 26.0 160.5
+	Label 1: 26.0 160.5 295.0
+	Label 2: 160.5 295.0 429.5
+Fuzzy sets parameters for variable Sgot:
+	Label 0: -303.0 14.0 331.0
+	Label 1: 14.0 331.0 648.0
+	Label 2: 331.0 648.0 965.0
+Fuzzy sets parameters for variable AlbuMin:
+	Label 0: -0.05000019 2.1 4.25
+	Label 1: 2.1 4.25 6.4
+	Label 2: 4.25 6.4 8.55
+Fuzzy sets parameters for variable ProTime:
+	Label 0: -50.0 0.0 50.0
+	Label 1: 0.0 50.0 100.0
+	Label 2: 50.0 100.0 150.0
+Fuzzy sets parameters for variable Histology:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 80
+Number of variables: 19
+@relation hepatitis
+@attribute Age integer[7,78]
+@attribute Sex integer[1,2]
+@attribute Steroid integer[1,2]
+@attribute Antivirals integer[1,2]
+@attribute Fatigue integer[1,2]
+@attribute Malaise integer[1,2]
+@attribute Anorexia integer[1,2]
+@attribute LiverBig integer[1,2]
+@attribute LiverFirm integer[1,2]
+@attribute SpleenPalpable integer[1,2]
+@attribute Spiders integer[1,2]
+@attribute Ascites integer[1,2]
+@attribute Varices integer[1,2]
+@attribute Bilirubin real[0.3,8.0]
+@attribute AlkPhosphate integer[26,295]
+@attribute Sgot integer[14,648]
+@attribute AlbuMin real[2.1,6.4]
+@attribute ProTime integer[0,100]
+@attribute Histology integer[1,2]
+@attribute Class{False,True}
+@inputs Age, Sex, Steroid, Antivirals, Fatigue, Malaise, Anorexia, LiverBig, LiverFirm, SpleenPalpable, Spiders, Ascites, Varices, Bilirubin, AlkPhosphate, Sgot, AlbuMin, ProTime, Histology
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable Age: 24.75  60.25  95.75  
+	Variable Sex: 1.25  1.75  2.25  
+	Variable Steroid: 1.25  1.75  2.25  
+	Variable Antivirals: 1.25  1.75  2.25  
+	Variable Fatigue: 1.25  1.75  2.25  
+	Variable Malaise: 1.25  1.75  2.25  
+	Variable Anorexia: 1.25  1.75  2.25  
+	Variable LiverBig: 1.25  1.75  2.25  
+	Variable LiverFirm: 1.25  1.75  2.25  
+	Variable SpleenPalpable: 1.25  1.75  2.25  
+	Variable Spiders: 1.25  1.75  2.25  
+	Variable Ascites: 1.25  1.75  2.25  
+	Variable Varices: 1.25  1.75  2.25  
+	Variable Bilirubin: 2.225  6.075  9.924999  
+	Variable AlkPhosphate: 93.25  227.75  362.25  
+	Variable Sgot: 172.5  489.5  806.5  
+	Variable AlbuMin: 3.175  5.325  7.475  
+	Variable ProTime: 25.0  75.0  125.0  
+	Variable Histology: 1.25  1.75  2.25  
+Information Gain of the variables:
+	Variable Age: -0.056997478
+	Variable Sex: -0.091953635
+	Variable Steroid: -0.17096096
+	Variable Antivirals: -0.14035147
+	Variable Fatigue: -0.16784757
+	Variable Malaise: -0.11396879
+	Variable Anorexia: -0.099312484
+	Variable LiverBig: -0.10628992
+	Variable LiverFirm: -0.17686933
+	Variable SpleenPalpable: -0.054836154
+	Variable Spiders: -0.07516986
+	Variable Ascites: 0.07615322
+	Variable Varices: 0.037720084
+	Variable Bilirubin: 0.047225
+	Variable AlkPhosphate: -0.1131224
+	Variable Sgot: -0.0679304
+	Variable AlbuMin: 0.026492119
+	Variable ProTime: -0.14065498
+	Variable Histology: -0.05415815
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10027
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 1:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10027
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------

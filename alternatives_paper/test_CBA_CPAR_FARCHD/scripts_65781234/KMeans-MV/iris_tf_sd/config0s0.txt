@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/iris_tf_sd/iris_tf_sd.dat" "../datasets/iris_tf_sd/iris_tf_sd.dat" 
+outputData = "../datasets/KMeans-MV.iris_tf_sd/KMeans-MVs0.iris_tf_sd1tra.dat" "../datasets/KMeans-MV.iris_tf_sd/KMeans-MVs0.iris_tf_sd1tst.dat" 
+
+seed = 65781234
+k = 10
+error = 100
+iterations = 100

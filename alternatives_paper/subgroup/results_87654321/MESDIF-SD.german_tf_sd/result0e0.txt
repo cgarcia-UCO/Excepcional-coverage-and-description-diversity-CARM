@@ -1,0 +1,86 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A14
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+

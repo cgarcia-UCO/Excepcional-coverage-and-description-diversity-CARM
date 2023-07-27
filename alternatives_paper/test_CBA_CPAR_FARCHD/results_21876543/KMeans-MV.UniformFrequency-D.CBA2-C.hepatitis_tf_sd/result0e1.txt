@@ -1,0 +1,31 @@
+@Number of rules: 13 Number of Antecedents by rule: 1.8333333333333333
+
+1: Steroid IS 1 AND Ascites IS 1 AND Varices IS 1: False
+2: Malaise IS 1 AND Histology IS 0: False
+3: Antivirals IS 1 AND Histology IS 0: False
+4: LiverFirm IS 1 AND Spiders IS 1 AND Ascites IS 1: False
+5: AlbuMin IS 5: False
+6: Fatigue IS 0 AND Malaise IS 1 AND Ascites IS 1: False
+7: Varices IS 1 AND Bilirubin IS 3: False
+8: Varices IS 1 AND AlbuMin IS 7: False
+9: LiverBig IS 0: False
+10: ProTime IS 4: False
+11: Age IS 8: False
+12: ProTime IS 6: False
+Default: True
+
+
+@supp and conf:
+
+1: supp: 0.4125 AND conf: 1.0
+2: supp: 0.4 AND conf: 1.0
+3: supp: 0.3875 AND conf: 1.0
+4: supp: 0.375 AND conf: 1.0
+5: supp: 0.225 AND conf: 1.0
+6: supp: 0.225 AND conf: 1.0
+7: supp: 0.1875 AND conf: 1.0
+8: supp: 0.175 AND conf: 1.0
+9: supp: 0.1625 AND conf: 1.0
+10: supp: 0.1125 AND conf: 1.0
+11: supp: 0.1 AND conf: 1.0
+12: supp: 0.1 AND conf: 1.0

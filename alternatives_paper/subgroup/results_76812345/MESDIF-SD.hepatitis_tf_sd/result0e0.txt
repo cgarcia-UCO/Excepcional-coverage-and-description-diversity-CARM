@@ -1,0 +1,94 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Sex = Label 1 	 (1.0 1.5 2.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 0 	 (-303.0 14.0 331.0)
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+   Consecuent: True
+

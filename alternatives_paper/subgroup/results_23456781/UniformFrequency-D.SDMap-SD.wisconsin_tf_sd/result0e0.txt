@@ -1,0 +1,40 @@
+Rule 0: Mitoses = 0 AND EpithelialSize = 4 THEN Class = True
+[  0.15  0.85  ]
+
+
+Rule 1: NormalNucleoli = 4 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 2: ClumpThickness = 7 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 3: BlandChromatin = 5 THEN Class = True
+[  0.10  0.90  ]
+
+
+Rule 4: MarginalAdhesion = 4 THEN Class = True
+[  0.10  0.90  ]
+
+
+Rule 5: CellSize = 4 THEN Class = True
+[  0.03  0.97  ]
+
+
+Rule 6: EpithelialSize = 4 THEN Class = True
+[  0.10  0.90  ]
+
+
+Rule 7: BareNuclei = 4 THEN Class = True
+[  0.02  0.98  ]
+
+
+Rule 8: Mitoses = 0 AND BareNuclei = 0 AND ClumpThickness = 4 THEN Class = False
+[  0.97  0.03  ]
+
+
+Rule 9: Mitoses = 0 AND NormalNucleoli = 0 AND EpithelialSize = 1 AND BareNuclei = 0 AND MarginalAdhesion = 0 AND CellSize = 0 AND CellShape = 0 AND BlandChromatin = 2 THEN Class = False
+[  1.00  0.00  ]
+
+

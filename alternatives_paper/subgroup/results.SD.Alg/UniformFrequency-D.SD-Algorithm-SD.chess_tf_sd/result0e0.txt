@@ -1,0 +1,27 @@
+Rule 1: IF  Rimmx > f THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  Katri5 = w THEN Class -> False  
+[  0.78  0.22  ]
+
+Rule 3: IF  Wknck = f THEN Class -> False  
+[  0.66  0.34  ]
+
+Rule 4: IF  Wkcti > f THEN Class -> False  
+[  0.66  0.34  ]
+
+Rule 5: IF  Bxqsq = f THEN Class -> False  
+[  0.65  0.35  ]
+
+Rule 6: IF  Bxqsq > f AND Rimmx = f THEN Class -> True  
+[  0.00  1.00  ]
+
+Rule 7: IF  Bxqsq > f AND Bkxwp <> f THEN Class -> True  
+[  0.07  0.93  ]
+
+Rule 8: IF  Bxqsq > f AND Bkxcr <> f THEN Class -> True  
+[  0.11  0.89  ]
+
+
+
+Time: 185.752

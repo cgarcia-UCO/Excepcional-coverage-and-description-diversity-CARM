@@ -1,0 +1,80 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable InstallmentPlans = A141
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A141
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A141
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable InstallmentPlans = A141
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A141
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Purpose = A410
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A73
+	Variable StatusAndSex = A92
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A141
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

@@ -1,0 +1,84 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Varices = Label 0 	 (0.5 1.0 1.5)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+	Variable Sgot = Label 1 	 (14.0 331.0 648.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

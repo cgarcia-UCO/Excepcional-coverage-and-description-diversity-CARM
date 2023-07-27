@@ -1,0 +1,12 @@
+@Number of rules: 3 Number of Antecedents by rule: 1.0
+
+1: PetalLength IS L_2(5): False CF: 0.8616838487972502
+2: PetalLength IS L_0(5): False CF: 1.0
+3: PetalWidth IS L_3(5): True CF: 0.7991071428571422
+
+
+@supp and CF:
+
+1: supp: 0.22666666666666663 AND CF: 0.8616838487972502
+2: supp: 0.22847457627118653 AND CF: 1.0
+3: supp: 0.1988888888888888 AND CF: 0.7991071428571422

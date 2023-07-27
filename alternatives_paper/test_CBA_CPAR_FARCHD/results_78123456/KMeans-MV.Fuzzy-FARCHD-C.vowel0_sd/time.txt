@@ -1,0 +1,1 @@
+14  ../datasets/KMeans-MV.vowel0_sd/KMeans-MVs0.vowel0_sd1tra.dat

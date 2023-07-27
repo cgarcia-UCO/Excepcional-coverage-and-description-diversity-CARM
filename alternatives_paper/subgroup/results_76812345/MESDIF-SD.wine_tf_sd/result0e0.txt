@@ -1,0 +1,44 @@
+GENERATED RULE 0
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+	Variable ColorIntensity = Label 0 	 (-4.7 1.2 7.1000004)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable flavanoids = Label 2 	 (2.6999998 5.1 7.5)
+	Variable ColorIntensity = Label 1 	 (1.2 7.1000004 13.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable TotalPhenols = Label 1 	 (0.9 2.4 3.9)
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Ash = Label 2 	 (2.3 3.3 4.3)
+	Variable Magnesium = Label 0 	 (24.0 70.0 116.0)
+	Variable TotalPhenols = Label 1 	 (0.9 2.4 3.9)
+	Variable Proanthocyanins = Label 1 	 (0.4 1.9999999 3.6)
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Ash = Label 2 	 (2.3 3.3 4.3)
+	Variable Magnesium = Label 0 	 (24.0 70.0 116.0)
+	Variable TotalPhenols = Label 1 	 (0.9 2.4 3.9)
+	Variable NonflavanoidsPhenols = Label 0 	 (-0.19999999 0.1 0.39999998)
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+

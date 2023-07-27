@@ -1,0 +1,1 @@
+00:00:03  ../datasets/KMeans-MV.UniformFrequency-D.ionosphere_sd/KMeans-MV.UniformFrequency-Ds0.ionosphere_sd1tra.dat

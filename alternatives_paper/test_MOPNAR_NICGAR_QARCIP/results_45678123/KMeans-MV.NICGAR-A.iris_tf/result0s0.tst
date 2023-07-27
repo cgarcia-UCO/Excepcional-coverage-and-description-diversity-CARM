@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.3333333333333333" antecedent_support="0.3333333333333333" consequent_support="0.3333333333333333" confidence="1.0" lift="3.0" conviction="Infinity" certainFactor="1.0" netConf="0.9999999999999999" yulesQ="1.0" nAnts="1"/>
+<rule id="1" rule_support="0.3" antecedent_support="0.30666666666666664" consequent_support="0.3333333333333333" confidence="0.9782608695652174" lift="2.9347826086956523" conviction="30.666666666666725" certainFactor="0.9673913043478259" netConf="0.9301839464882944" yulesQ="0.9977578475336322" nAnts="1"/>
+<rule id="2" rule_support="0.3" antecedent_support="0.3" consequent_support="0.36" confidence="1.0" lift="2.7777777777777777" conviction="Infinity" certainFactor="1.0" netConf="0.9142857142857144" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.22" antecedent_support="0.22666666666666666" consequent_support="0.32" confidence="0.9705882352941178" lift="3.033088235294118" conviction="23.12000000000004" certainFactor="0.9567474048442908" netConf="0.8412778904665316" yulesQ="0.9910394265232974" nAnts="1"/>
+<rule id="4" rule_support="0.35333333333333333" antecedent_support="0.4266666666666667" consequent_support="0.38666666666666666" confidence="0.828125" lift="2.1417025862068964" conviction="3.5684848484848466" certainFactor="0.7197690217391305" netConf="0.7699854651162791" yulesQ="0.9747010119595216" nAnts="1"/>
+<rule id="5" rule_support="0.06666666666666667" antecedent_support="0.07333333333333333" consequent_support="0.08" confidence="0.9090909090909091" lift="11.363636363636363" conviction="10.12" certainFactor="0.9011857707509882" netConf="0.894702419882276" yulesQ="0.9970845481049563" nAnts="1"/>
+<rule id="6" rule_support="0.18666666666666668" antecedent_support="0.2" consequent_support="0.3466666666666667" confidence="0.9333333333333333" lift="2.692307692307692" conviction="9.799999999999999" certainFactor="0.8979591836734694" netConf="0.7333333333333332" yulesQ="0.9649122807017544" nAnts="1"/>
+</values>

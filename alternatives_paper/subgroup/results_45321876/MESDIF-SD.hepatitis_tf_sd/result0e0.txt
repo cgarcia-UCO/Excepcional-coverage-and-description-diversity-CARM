@@ -1,0 +1,44 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+	Variable Spiders = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 2 	 (1.5 2.0 2.5)
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Antivirals = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+

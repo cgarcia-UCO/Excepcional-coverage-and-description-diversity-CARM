@@ -1,0 +1,22 @@
+
+Rule 1: IF  Thal = 0.0 AND Oldpeak <= 5.0 AND MajorVessels <> 3.0 AND MaxHeartRate <> 0.0 THEN Class -> False     [ 0.8661417322834646 0.13385826771653545]
+Rule 2: IF  ChestPainType <> 3.0 AND SerumCholestoral <> 7.0 AND MajorVessels <> 3.0 AND Oldpeak <= 6.0 THEN Class -> False     [ 0.8849557522123894 0.11504424778761062]
+Rule 3: IF  MajorVessels = 0.0 AND ExerciseInduced = 0.0 AND SerumCholestoral <> 7.0 THEN Class -> False     [ 0.875 0.125]
+Rule 4: IF  Thal <> 2.0 AND MaxHeartRate > 0.0 AND Oldpeak <= 6.0 AND Age <> 5.0 AND MajorVessels <> 3.0 THEN Class -> False     [ 0.8428571428571429 0.15714285714285714]
+Rule 5: IF  MajorVessels > 0.0 AND ChestPainType = 3.0 AND RestBloodPressure <> 4.0 AND Age <> 3.0 THEN Class -> True     [ 0.03389830508474576 0.9661016949152542]
+Rule 6: IF  MaxHeartRate <= 3.0 AND SerumCholestoral <> 3.0 AND Age <> 8.0 AND RestBloodPressure > 0.0 THEN Class -> True     [ 0.24705882352941178 0.7529411764705882]
+Rule 7: IF  Slope > 0.0 AND MaxHeartRate <> 9.0 AND RestBloodPressure <> 0.0 AND SerumCholestoral <> 4.0 THEN Class -> True     [ 0.2982456140350877 0.7017543859649122]
+Rule 8: IF  ChestPainType = 3.0 AND Oldpeak <> 2.0 AND Age <> 6.0 AND SerumCholestoral <> 2.0 AND RestBloodPressure <> 6.0 AND MaxHeartRate <> 9.0 THEN Class -> True     [ 0.16216216216216217 0.8378378378378378]
+Rule 9: IF  Thal > 0.0 AND RestBloodPressure > 1.0 AND SerumCholestoral > 1.0 AND Slope <= 1.0 AND Age <> 4.0 AND MaxHeartRate <> 6.0 THEN Class -> True     [ 0.09836065573770492 0.9016393442622951]
+
+####Average results for test data####
+Avg. Rule length: 9
+Avg. Number of attributes by rule: 4.444444444444445
+Avg. Coverage: 0.36419753086419754
+Avg. Support Completo: 0.9592592592592593
+Avg. Significance: 52.07388091854075
+Avg. Unusualness: 0.09871304870973345
+
+Accuracy Training: 0.9037037037037037
+Accuracy Test: 0.9037037037037037;
+  Time; 7

@@ -1,0 +1,88 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable Purpose = A42
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A141
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable Purpose = A42
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A13
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A94
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable InstallmentPlans = A141
+	Variable Job = A174
+	Variable Telephone = A192
+   Consecuent: True
+

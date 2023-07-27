@@ -1,0 +1,19 @@
+
+Rule 1: IF  Persons = 0.0 THEN Acceptability -> False     [ 1.0 0.0]
+Rule 2: IF  Safety = 0.0 THEN Acceptability -> False     [ 1.0 0.0]
+Rule 3: IF  Buying <= 1.0 AND Maint <= 1.0 THEN Acceptability -> False     [ 0.9166666666666666 0.08333333333333333]
+Rule 4: IF  Safety <= 1.0 AND Lug_boot <= 1.0 THEN Acceptability -> False     [ 0.8502604166666666 0.14973958333333334]
+Rule 5: IF  Persons > 0.0 AND Safety > 0.0 AND Buying > 0.0 THEN Acceptability -> True     [ 0.22569444444444445 0.7743055555555556]
+Rule 6: IF  Persons > 0.0 AND Maint > 0.0 AND Safety > 0.0 THEN Acceptability -> True     [ 0.22569444444444445 0.7743055555555556]
+
+####Average results for test data####
+Avg. Rule length: 6
+Avg. Number of attributes by rule: 2.0
+Avg. Coverage: 0.33796296296296297
+Avg. Support Completo: 0.9930555555555556
+Avg. Significance: 356.7043053210613
+Avg. Unusualness: 0.12165188154311361
+
+Accuracy Training: 0.9560185185185185
+Accuracy Test: 0.9560185185185185;
+  Time; 47

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [2.0, 3.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="ChestPainType" value="
+[1.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="ExerciseInduced" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Thal" value="
+NOT [3.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Age" value="
+[41.0, 44.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+[171.0, 180.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Age" value="
+[41.0, 44.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+[168.0, 180.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Age" value="
+[40.0, 44.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+[171.0, 180.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Thal" value="
+[6.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Sex" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 129.0]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 137.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 132.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 131.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Oldpeak" value="
+NOT [23.0001, 62.0]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[198.0, 204.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[29.0, 41.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[198.0, 199.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[39.0, 41.0]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[198.0, 203.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[35.0, 41.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 95.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 95.0]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="Thal" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [2.0, 3.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [1.0, 3.0]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="Age" value="
+[29.0, 34.0]" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [3.0, 4.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="ChestPainType" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="MaxHeartRate" value="
+[96.0, 114.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT False" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="MajorVessels" value="
+[0.0, 0.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 55.0]" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [2.0, 3.0]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [301.0, 564.0]" /><attribute name="Thal" value="
+[6.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Sex" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [284.0, 564.0]" /><attribute name="Thal" value="
+[6.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Sex" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[198.0, 204.0]" /><attribute name="MaxHeartRate" value="
+NOT [71.0, 167.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[29.0, 41.0]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="Slope" value="
+NOT [2.0, 3.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="Oldpeak" value="
+NOT [23.0001, 62.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[198.0, 199.0]" /><attribute name="MaxHeartRate" value="
+NOT [71.0, 167.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[39.0, 41.0]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="ExerciseInduced" value="
+[0.0, 0.0]" /><attribute name="Slope" value="
+NOT [2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 132.0]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="Sex" value="
+[0.0, 1.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 95.0]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="Slope" value="
+[1.0, 2.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="Oldpeak" value="
+NOT [23.0001, 62.0]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [418.0, 563.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 95.0]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [323.0, 563.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [161.0, 191.0]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[141.0, 268.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [161.0, 200.0]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [2.0, 3.0]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 58.0]" /><attribute name="Slope" value="
+NOT [1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 144.0]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [1.0, 3.0]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="ChestPainType" value="
+NOT [2.0, 3.0]" /><attribute name="Slope" value="
+NOT [1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 139.0]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 58.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 144.0]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 62.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="ChestPainType" value="
+NOT [1.0, 3.0]" /><attribute name="MajorVessels" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="ResElectrocardiographic" value="
+NOT [1.0, 1.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="MaxHeartRate" value="
+NOT [71.0, 121.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 121.0]" /><attribute name="MajorVessels" value="
+NOT [2.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="ChestPainType" value="
+[3.0, 4.0]" /><attribute name="MaxHeartRate" value="
+NOT [143.0, 202.0]" /><attribute name="Oldpeak" value="
+[18.0, 28.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [301.0, 564.0]" /><attribute name="Slope" value="
+[1.0, 2.0]" /><attribute name="Thal" value="
+[6.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Sex" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[112.0, 134.0]" /><attribute name="SerumCholestoral" value="
+[212.0, 282.0]" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+[1.0, 2.0]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="Oldpeak" value="
+NOT [18.0001, 62.0]" /><attribute name="MajorVessels" value="
+[0.0, 0.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="ChestPainType" value="
+[3.0, 4.0]" /><attribute name="SerumCholestoral" value="
+NOT [319.0, 564.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [161.0, 200.0]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [319.0, 564.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /><attribute name="Slope" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [161.0, 191.0]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="ChestPainType" value="
+[4.0, 4.0]" /><attribute name="Oldpeak" value="
+[14.0, 19.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /><attribute name="Thal" value="
+NOT [4.0, 6.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [2.0, 3.0]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 58.0]" /><attribute name="Slope" value="
+NOT [1.0, 2.0]" /><attribute name="Thal" value="
+NOT [3.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 144.0]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 58.0]" /><attribute name="ChestPainType" value="
+NOT [2.0, 3.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 144.0]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /><attribute name="Thal" value="
+NOT [4.0, 6.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [1.0, 3.0]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="Age" value="
+NOT [58.0, 70.0]" /><attribute name="Oldpeak" value="
+NOT [24.0001, 62.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 62.0]" /><attribute name="Oldpeak" value="
+NOT [6.0001, 62.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="ResElectrocardiographic" value="
+NOT [1.0, 1.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="MaxHeartRate" value="
+NOT [71.0, 121.0]" /><attribute name="MajorVessels" value="
+NOT [2.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="Age" value="
+NOT [59.0, 77.0]" /><attribute name="MaxHeartRate" value="
+NOT [71.0, 121.0]" /><attribute name="MajorVessels" value="
+NOT [1.0, 3.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="MaxHeartRate" value="
+NOT [71.0, 121.0]" /><attribute name="Oldpeak" value="
+NOT [24.0001, 62.0]" /><attribute name="MajorVessels" value="
+[0.0, 1.0]" /><attribute name="Thal" value="
+NOT [4.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 62.0]" /><attribute name="Oldpeak" value="
+NOT [4.0001, 62.0]" /><attribute name="Thal" value="
+[6.0, 7.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="Age" value="
+NOT [29.0, 56.0]" /><attribute name="ChestPainType" value="
+[3.0, 4.0]" /><attribute name="ResElectrocardiographic" value="
+[2.0, 2.0]" /><attribute name="ExerciseInduced" value="
+[0.0, 0.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [307.0, 564.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /><attribute name="ResElectrocardiographic" value="
+[0.0, 0.0]" /><attribute name="Slope" value="
+NOT [2.0, 3.0]" /><attribute name="MajorVessels" value="
+[0.0, 0.0]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+[162.0, 179.0]" /></consequents>
+</rule>
+</association_rules>

@@ -1,0 +1,328 @@
+@Number of rules: 325 Number of Antecedents by rule: 3.5617283950617282
+
+1: Persons IS 2: False
+2: Safety IS low: False
+3: Persons IS 2: False
+4: Safety IS low: False
+5: Persons IS 2: False
+6: Safety IS low: False
+7: Safety IS low: False
+8: Persons IS 2: False
+9: Safety IS low: False
+10: Persons IS 2: False
+11: Safety IS low: False
+12: Persons IS 2: False
+13: Safety IS low: False
+14: Persons IS 2: False
+15: Safety IS low: False
+16: Persons IS 2: False
+17: Safety IS low: False
+18: Persons IS 2: False
+19: Safety IS low: False
+20: Persons IS 2: False
+21: Buying IS vhigh AND Maint IS vhigh: False
+22: Buying IS high AND Maint IS vhigh: False
+23: Buying IS vhigh AND Maint IS high: False
+24: Buying IS vhigh AND Maint IS vhigh: False
+25: Buying IS vhigh AND Maint IS high: False
+26: Buying IS high AND Maint IS vhigh: False
+27: Buying IS vhigh AND Maint IS high: False
+28: Buying IS vhigh AND Maint IS vhigh: False
+29: Buying IS high AND Maint IS vhigh: False
+30: Buying IS vhigh AND Maint IS high: False
+31: Buying IS vhigh AND Maint IS vhigh: False
+32: Buying IS high AND Maint IS vhigh: False
+33: Buying IS vhigh AND Maint IS vhigh: False
+34: Buying IS vhigh AND Maint IS high: False
+35: Buying IS high AND Maint IS vhigh: False
+36: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+37: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+38: Maint IS vhigh AND Lug_boot IS small AND Safety IS med: False
+39: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+40: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+41: Maint IS vhigh AND Lug_boot IS small AND Safety IS med: False
+42: Doors IS 2 AND Persons IS more AND Lug_boot IS small: False
+43: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+44: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+45: Maint IS vhigh AND Lug_boot IS small AND Safety IS med: False
+46: Doors IS 2 AND Persons IS more AND Lug_boot IS small: False
+47: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+48: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+49: Maint IS vhigh AND Lug_boot IS small AND Safety IS med: False
+50: Doors IS 2 AND Persons IS more AND Lug_boot IS small: False
+51: Buying IS high AND Lug_boot IS small AND Safety IS med: False
+52: Buying IS vhigh AND Lug_boot IS small AND Safety IS med: False
+53: Buying IS med AND Persons IS 4 AND Safety IS high: True
+54: Buying IS low AND Persons IS 4 AND Safety IS high: True
+55: Maint IS med AND Persons IS 4 AND Safety IS high: True
+56: Maint IS low AND Persons IS 4 AND Safety IS high: True
+57: Buying IS med AND Persons IS 4 AND Safety IS high: True
+58: Buying IS low AND Persons IS 4 AND Safety IS high: True
+59: Maint IS med AND Persons IS 4 AND Safety IS high: True
+60: Maint IS low AND Persons IS 4 AND Safety IS high: True
+61: Buying IS low AND Persons IS 4 AND Safety IS high: True
+62: Buying IS med AND Persons IS 4 AND Safety IS high: True
+63: Maint IS med AND Persons IS 4 AND Safety IS high: True
+64: Maint IS low AND Persons IS 4 AND Safety IS high: True
+65: Buying IS low AND Persons IS 4 AND Safety IS high: True
+66: Buying IS med AND Persons IS 4 AND Safety IS high: True
+67: Maint IS med AND Persons IS 4 AND Safety IS high: True
+68: Maint IS low AND Persons IS 4 AND Safety IS high: True
+69: Buying IS low AND Persons IS 4 AND Safety IS high: True
+70: Buying IS med AND Persons IS 4 AND Safety IS high: True
+71: Maint IS med AND Persons IS 4 AND Safety IS high: True
+72: Maint IS low AND Persons IS 4 AND Safety IS high: True
+73: Buying IS low AND Persons IS 4 AND Safety IS high: True
+74: Maint IS med AND Persons IS 4 AND Safety IS high: True
+75: Maint IS low AND Persons IS 4 AND Safety IS high: True
+76: Buying IS med AND Persons IS 4 AND Safety IS high: True
+77: Buying IS low AND Persons IS 4 AND Safety IS high: True
+78: Maint IS med AND Persons IS 4 AND Safety IS high: True
+79: Buying IS med AND Persons IS 4 AND Safety IS high: True
+80: Maint IS low AND Persons IS 4 AND Safety IS high: True
+81: Buying IS low AND Persons IS 4 AND Safety IS high: True
+82: Maint IS med AND Persons IS 4 AND Safety IS high: True
+83: Buying IS med AND Persons IS 4 AND Safety IS high: True
+84: Maint IS low AND Persons IS 4 AND Safety IS high: True
+85: Buying IS low AND Persons IS 4 AND Safety IS high: True
+86: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+87: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+88: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+89: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+90: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+91: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+92: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+93: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+94: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+95: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+96: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+97: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+98: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+99: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+100: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+101: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+102: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+103: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+104: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+105: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+106: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+107: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+108: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+109: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+110: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+111: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+112: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+113: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+114: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+115: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+116: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+117: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+118: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+119: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+120: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+121: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+122: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+123: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+124: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+125: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+126: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+127: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+128: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+129: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+130: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+131: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+132: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+133: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+134: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+135: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+136: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+137: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+138: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+139: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+140: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+141: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+142: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+143: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+144: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+145: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+146: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+147: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+148: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+149: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+150: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS high: True
+151: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+152: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS high: True
+153: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+154: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+155: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+156: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+157: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+158: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+159: Buying IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+160: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+161: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+162: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+163: Buying IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+164: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+165: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+166: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+167: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+168: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+169: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+170: Maint IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+171: Buying IS med AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+172: Maint IS low AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+173: Maint IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+174: Maint IS low AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+175: Buying IS med AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+176: Buying IS high AND Doors IS 2 AND Lug_boot IS med AND Safety IS med: False
+177: Buying IS med AND Maint IS high AND Lug_boot IS small AND Safety IS med: False
+178: Buying IS vhigh AND Doors IS 2 AND Lug_boot IS med AND Safety IS med: False
+179: Maint IS vhigh AND Doors IS 2 AND Lug_boot IS med AND Safety IS med: False
+180: Buying IS high AND Doors IS 2 AND Lug_boot IS med AND Safety IS med: False
+181: Buying IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+182: Buying IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+183: Maint IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+184: Maint IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+185: Buying IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+186: Buying IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+187: Buying IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+188: Buying IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+189: Maint IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+190: Maint IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+191: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+192: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+193: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+194: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+195: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+196: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+197: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+198: Maint IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+199: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+200: Maint IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+201: Buying IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+202: Maint IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+203: Buying IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+204: Maint IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+205: Buying IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+206: Buying IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+207: Maint IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+208: Buying IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+209: Maint IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+210: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+211: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+212: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+213: Buying IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+214: Maint IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+215: Maint IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+216: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+217: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+218: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+219: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+220: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+221: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+222: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+223: Buying IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+224: Maint IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+225: Buying IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+226: Maint IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+227: Buying IS low AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+228: Buying IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+229: Maint IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+230: Buying IS med AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+231: Maint IS low AND Doors IS 5more AND Persons IS more AND Safety IS high: True
+232: Buying IS high AND Maint IS high AND Persons IS 4 AND Safety IS high: True
+233: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+234: Buying IS high AND Maint IS high AND Persons IS 4 AND Safety IS high: True
+235: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+236: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+237: Buying IS med AND Doors IS 4 AND Persons IS more AND Safety IS high: True
+238: Maint IS med AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+239: Maint IS low AND Doors IS 3 AND Persons IS more AND Safety IS high: True
+240: Buying IS low AND Maint IS high AND Persons IS 4 AND Safety IS med: True
+241: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+242: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+243: Buying IS low AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+244: Buying IS low AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+245: Buying IS high AND Maint IS high AND Persons IS 4 AND Safety IS high: True
+246: Buying IS high AND Maint IS high AND Persons IS 4 AND Safety IS high: True
+247: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+248: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+249: Buying IS med AND Maint IS med AND Persons IS 4 AND Safety IS med: True
+250: Buying IS med AND Maint IS low AND Persons IS 4 AND Safety IS med: True
+251: Buying IS low AND Persons IS more AND Safety IS high: True
+252: Maint IS med AND Persons IS more AND Safety IS high: True
+253: Maint IS low AND Persons IS more AND Safety IS high: True
+254: Buying IS med AND Persons IS more AND Safety IS high: True
+255: Buying IS low AND Persons IS more AND Safety IS high: True
+256: Maint IS med AND Persons IS more AND Safety IS high: True
+257: Buying IS med AND Persons IS more AND Safety IS high: True
+258: Maint IS low AND Persons IS more AND Safety IS high: True
+259: Buying IS med AND Persons IS more AND Safety IS high: True
+260: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+261: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+262: Buying IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+263: Buying IS low AND Persons IS 4 AND Safety IS med: True
+264: Buying IS low AND Persons IS 4 AND Safety IS med: True
+265: Buying IS low AND Maint IS high AND Persons IS more AND Safety IS med: True
+266: Buying IS low AND Maint IS med AND Persons IS more AND Safety IS med: True
+267: Buying IS low AND Maint IS low AND Persons IS more AND Safety IS med: True
+268: Buying IS med AND Maint IS med AND Persons IS more AND Safety IS med: True
+269: Buying IS med AND Maint IS low AND Persons IS more AND Safety IS med: True
+270: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+271: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+272: Buying IS low AND Maint IS high AND Persons IS more AND Safety IS med: True
+273: Buying IS low AND Doors IS 4 AND Persons IS more AND Safety IS med: True
+274: Buying IS low AND Doors IS 5more AND Persons IS more AND Safety IS med: True
+275: Buying IS low AND Doors IS 3 AND Persons IS more AND Safety IS med: True
+276: Buying IS med AND Maint IS med AND Persons IS more AND Safety IS med: True
+277: Buying IS med AND Maint IS low AND Persons IS more AND Safety IS med: True
+278: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+279: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+280: Buying IS med AND Maint IS med AND Persons IS more AND Safety IS med: True
+281: Buying IS med AND Maint IS low AND Persons IS more AND Safety IS med: True
+282: Buying IS med AND Maint IS med AND Persons IS more AND Safety IS med: True
+283: Buying IS med AND Maint IS low AND Persons IS more AND Safety IS med: True
+284: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+285: Buying IS high AND Maint IS high AND Persons IS more AND Safety IS high: True
+286: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+287: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+288: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+289: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+290: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+291: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+292: Buying IS med AND Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+293: Buying IS med AND Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+294: Maint IS med AND Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+295: Maint IS med AND Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+296: Maint IS low AND Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+297: Maint IS low AND Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+298: Buying IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+299: Buying IS high AND Maint IS high AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+300: Buying IS high AND Maint IS high AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+301: Maint IS med AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+302: Maint IS low AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+303: Buying IS high AND Maint IS high AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+304: Buying IS high AND Maint IS high AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+305: Buying IS high AND Maint IS high AND Persons IS 4 AND Lug_boot IS big AND Safety IS med: True
+306: Buying IS high AND Maint IS high AND Persons IS more AND Lug_boot IS big AND Safety IS med: True
+307: Buying IS low AND Persons IS more AND Safety IS med: True
+308: Buying IS low AND Persons IS more AND Safety IS med: True
+309: Buying IS low AND Persons IS more AND Safety IS med: True
+310: Doors IS 5more AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+311: Doors IS 4 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+312: Doors IS 3 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+313: Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+314: Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+315: Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+316: Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+317: Doors IS 3 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+318: Doors IS 5more AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+319: Doors IS 4 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+320: Doors IS 5more AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+321: Doors IS 4 AND Persons IS 4 AND Lug_boot IS med AND Safety IS med: True
+322: Doors IS 3 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+323: Doors IS 5more AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+324: Doors IS 4 AND Persons IS more AND Lug_boot IS med AND Safety IS med: True
+
+

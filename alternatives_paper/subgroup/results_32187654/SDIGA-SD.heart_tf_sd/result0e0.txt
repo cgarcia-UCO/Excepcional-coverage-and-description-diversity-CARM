@@ -1,0 +1,21 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable ExerciseInduced = Label 0 	 (-0.5 0.0 0.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ChestPainType = Label 1 	 (1.0 2.5 4.0)
+	Variable ResElectrocardiographic = Label 0 	 (-1.0 0.0 1.0)
+	Variable Oldpeak = Label 1 	 (0.0 31.0 62.0)
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+	Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+	Variable Thal = Label 2 	 (5.0 7.0 9.0)
+   Consecuent: True
+

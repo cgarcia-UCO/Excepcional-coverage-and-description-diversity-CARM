@@ -1,0 +1,694 @@
+@Number of rules: 691 Number of Antecedents by rule: 2.369565217391304
+
+1: skin IS 3 AND age IS 1: tested_negative
+2: skin IS 3 AND age IS 1: tested_negative
+3: skin IS 3 AND age IS 1: tested_negative
+4: insu IS 3 AND age IS 1: tested_negative
+5: insu IS 3 AND age IS 1: tested_negative
+6: plas IS 0 AND age IS 1: tested_negative
+7: plas IS 0 AND age IS 1: tested_negative
+8: plas IS 0 AND skin IS 0: tested_negative
+9: preg IS 1 AND mass IS 1: tested_negative
+10: plas IS 0 AND skin IS 0: tested_negative
+11: plas IS 0 AND skin IS 0: tested_negative
+12: preg IS 1 AND mass IS 1: tested_negative
+13: plas IS 0 AND skin IS 0: tested_negative
+14: mass IS 2 AND age IS 1: tested_negative
+15: preg IS 1 AND plas IS 0: tested_negative
+16: pres IS 5 AND insu IS 2: tested_negative
+17: pres IS 5 AND insu IS 2: tested_negative
+18: pres IS 5 AND insu IS 2: tested_negative
+19: pres IS 5 AND insu IS 2: tested_negative
+20: preg IS 2 AND insu IS 2: tested_negative
+21: skin IS 4 AND age IS 1: tested_negative
+22: skin IS 4 AND age IS 1: tested_negative
+23: preg IS 1 AND pres IS 1 AND age IS 1: tested_negative
+24: plas IS 2 AND mass IS 0: tested_negative
+25: plas IS 2 AND mass IS 0: tested_negative
+26: preg IS 1 AND mass IS 2: tested_negative
+27: plas IS 2 AND pres IS 1: tested_negative
+28: plas IS 2 AND pres IS 1: tested_negative
+29: plas IS 2 AND pres IS 1: tested_negative
+30: plas IS 2 AND pres IS 1: tested_negative
+31: mass IS 0 AND age IS 1: tested_negative
+32: plas IS 4 AND mass IS 1: tested_negative
+33: plas IS 2 AND mass IS 1: tested_negative
+34: plas IS 0 AND age IS 3: tested_negative
+35: plas IS 4 AND mass IS 1: tested_negative
+36: plas IS 2 AND mass IS 1: tested_negative
+37: plas IS 0 AND age IS 3: tested_negative
+38: preg IS 1 AND pedi IS 1: tested_negative
+39: skin IS 7 AND insu IS 3: tested_negative
+40: plas IS 4 AND mass IS 1: tested_negative
+41: preg IS 0 AND plas IS 2: tested_negative
+42: pedi IS 2 AND age IS 1: tested_negative
+43: plas IS 1 AND pres IS 1: tested_negative
+44: plas IS 0 AND age IS 3: tested_negative
+45: preg IS 0 AND plas IS 2: tested_negative
+46: preg IS 0 AND plas IS 2: tested_negative
+47: plas IS 4 AND mass IS 1: tested_negative
+48: preg IS 0 AND plas IS 2: tested_negative
+49: plas IS 4 AND mass IS 1: tested_negative
+50: preg IS 0 AND plas IS 2: tested_negative
+51: pedi IS 2 AND age IS 1: tested_negative
+52: preg IS 1 AND age IS 1: tested_negative
+53: pres IS 1 AND insu IS 2: tested_negative
+54: preg IS 0 AND mass IS 0: tested_negative
+55: insu IS 2 AND pedi IS 4: tested_negative
+56: plas IS 0 AND pres IS 1: tested_negative
+57: plas IS 5 AND insu IS 3: tested_negative
+58: preg IS 2 AND mass IS 1: tested_negative
+59: skin IS 2 AND insu IS 3: tested_negative
+60: plas IS 5 AND insu IS 3: tested_negative
+61: pres IS 1 AND mass IS 3: tested_negative
+62: preg IS 1 AND age IS 1: tested_negative
+63: insu IS 2 AND pedi IS 4: tested_negative
+64: preg IS 1 AND age IS 1: tested_negative
+65: plas IS 1 AND pres IS 5: tested_negative
+66: mass IS 0 AND age IS 4: tested_negative
+67: plas IS 1 AND mass IS 1: tested_negative
+68: preg IS 2 AND mass IS 0: tested_negative
+69: mass IS 0 AND age IS 4: tested_negative
+70: plas IS 1 AND pres IS 5: tested_negative
+71: insu IS 2: tested_negative
+72: plas IS 1 AND pedi IS 4: tested_negative
+73: mass IS 1 AND age IS 4: tested_negative
+74: insu IS 2 AND pedi IS 3: tested_negative
+75: pres IS 7 AND pedi IS 1: tested_negative
+76: plas IS 1 AND pedi IS 4: tested_negative
+77: pres IS 7 AND pedi IS 1: tested_negative
+78: insu IS 2 AND pedi IS 3: tested_negative
+79: plas IS 1 AND pedi IS 4: tested_negative
+80: pres IS 7 AND pedi IS 1: tested_negative
+81: mass IS 1 AND age IS 4: tested_negative
+82: mass IS 1 AND age IS 4: tested_negative
+83: pres IS 7 AND pedi IS 1: tested_negative
+84: pedi IS 5 AND age IS 1: tested_negative
+85: pedi IS 5 AND age IS 1: tested_negative
+86: pedi IS 0 AND age IS 1: tested_negative
+87: plas IS 1 AND mass IS 0: tested_negative
+88: skin IS 2 AND age IS 3: tested_negative
+89: plas IS 9 AND skin IS 8: tested_positive
+90: plas IS 9 AND insu IS 5: tested_positive
+91: plas IS 9 AND skin IS 8: tested_positive
+92: plas IS 9 AND insu IS 5: tested_positive
+93: plas IS 9 AND skin IS 8: tested_positive
+94: plas IS 9 AND insu IS 5: tested_positive
+95: plas IS 0: tested_negative
+96: plas IS 0: tested_negative
+97: plas IS 0: tested_negative
+98: plas IS 0: tested_negative
+99: plas IS 0: tested_negative
+100: preg IS 2 AND skin IS 4: tested_negative
+101: preg IS 1 AND age IS 3: tested_negative
+102: preg IS 1 AND age IS 3: tested_negative
+103: preg IS 1 AND age IS 3: tested_negative
+104: preg IS 2 AND skin IS 4: tested_negative
+105: preg IS 1 AND age IS 3: tested_negative
+106: mass IS 0: tested_negative
+107: mass IS 0: tested_negative
+108: mass IS 0: tested_negative
+109: mass IS 0 AND pedi IS 4: tested_negative
+110: plas IS 1 AND insu IS 2: tested_negative
+111: pres IS 3 AND mass IS 2: tested_negative
+112: mass IS 2 AND pedi IS 6: tested_negative
+113: plas IS 4 AND skin IS 3: tested_negative
+114: mass IS 2 AND pedi IS 6: tested_negative
+115: pres IS 3 AND mass IS 2: tested_negative
+116: plas IS 1 AND skin IS 0: tested_negative
+117: plas IS 5 AND mass IS 0: tested_negative
+118: plas IS 3 AND pedi IS 0: tested_negative
+119: plas IS 5 AND mass IS 0: tested_negative
+120: plas IS 3 AND pedi IS 1: tested_negative
+121: plas IS 5 AND pres IS 7: tested_negative
+122: plas IS 3 AND pedi IS 1: tested_negative
+123: preg IS 3 AND plas IS 2: tested_negative
+124: plas IS 3 AND pedi IS 0: tested_negative
+125: mass IS 1 AND pedi IS 8: tested_negative
+126: plas IS 1 AND skin IS 0: tested_negative
+127: plas IS 3 AND pedi IS 1: tested_negative
+128: plas IS 5 AND pres IS 7: tested_negative
+129: preg IS 3 AND plas IS 2: tested_negative
+130: plas IS 2 AND age IS 4: tested_negative
+131: plas IS 3 AND pedi IS 0: tested_negative
+132: preg IS 3 AND plas IS 2: tested_negative
+133: preg IS 8 AND plas IS 0 AND age IS 7: tested_negative
+134: preg IS 3 AND plas IS 2: tested_negative
+135: plas IS 5 AND pres IS 7: tested_negative
+136: preg IS 3 AND plas IS 2: tested_negative
+137: mass IS 1 AND pedi IS 8: tested_negative
+138: plas IS 1 AND insu IS 0: tested_negative
+139: plas IS 1 AND age IS 3: tested_negative
+140: pres IS 3 AND age IS 1: tested_negative
+141: skin IS 2: tested_negative
+142: preg IS 2 AND pres IS 1: tested_negative
+143: plas IS 1: tested_negative
+144: plas IS 1: tested_negative
+145: plas IS 1: tested_negative
+146: plas IS 1: tested_negative
+147: plas IS 0 AND mass IS 7: tested_negative
+148: pedi IS 1 AND age IS 9: tested_negative
+149: pres IS 3 AND insu IS 0 AND mass IS 2: tested_negative
+150: plas IS 0 AND pres IS 7: tested_negative
+151: skin IS 7 AND mass IS 8 AND age IS 4: tested_negative
+152: mass IS 8 AND pedi IS 1: tested_negative
+153: mass IS 1 AND age IS 6: tested_negative
+154: plas IS 0 AND mass IS 7: tested_negative
+155: preg IS 4 AND pres IS 3: tested_negative
+156: pres IS 2 AND insu IS 0 AND age IS 3: tested_negative
+157: pedi IS 1 AND age IS 9: tested_negative
+158: skin IS 2 AND pedi IS 3: tested_negative
+159: plas IS 1 AND pres IS 7: tested_negative
+160: mass IS 8 AND pedi IS 1: tested_negative
+161: pres IS 3 AND insu IS 0 AND mass IS 2: tested_negative
+162: pedi IS 1 AND age IS 9: tested_negative
+163: preg IS 4 AND pres IS 3: tested_negative
+164: pres IS 3 AND insu IS 0 AND mass IS 2: tested_negative
+165: skin IS 2 AND pedi IS 3: tested_negative
+166: pres IS 2 AND pedi IS 3: tested_negative
+167: pedi IS 1 AND age IS 9: tested_negative
+168: preg IS 4 AND pres IS 3: tested_negative
+169: pres IS 2 AND pedi IS 3: tested_negative
+170: preg IS 0 AND mass IS 1: tested_negative
+171: skin IS 2 AND pedi IS 3: tested_negative
+172: mass IS 1: tested_negative
+173: plas IS 9 AND mass IS 5: tested_positive
+174: plas IS 9 AND pedi IS 8: tested_positive
+175: plas IS 9 AND mass IS 5: tested_positive
+176: insu IS 6 AND age IS 8: tested_positive
+177: insu IS 6 AND age IS 8: tested_positive
+178: insu IS 6 AND age IS 8: tested_positive
+179: skin IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+180: skin IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+181: insu IS 6 AND age IS 8: tested_positive
+182: preg IS 2 AND plas IS 4: tested_negative
+183: preg IS 2 AND plas IS 4: tested_negative
+184: preg IS 2 AND plas IS 4: tested_negative
+185: preg IS 2 AND pedi IS 4: tested_negative
+186: plas IS 3 AND mass IS 1: tested_negative
+187: preg IS 2 AND plas IS 5 AND age IS 4: tested_negative
+188: preg IS 7 AND plas IS 1: tested_negative
+189: plas IS 0 AND pedi IS 0: tested_negative
+190: plas IS 7 AND mass IS 2: tested_negative
+191: plas IS 6 AND skin IS 2: tested_negative
+192: plas IS 3 AND mass IS 1: tested_negative
+193: plas IS 5 AND mass IS 8: tested_negative
+194: preg IS 4 AND age IS 3: tested_negative
+195: plas IS 1 AND pedi IS 3: tested_negative
+196: plas IS 4 AND skin IS 2: tested_negative
+197: plas IS 7 AND mass IS 2: tested_negative
+198: preg IS 7 AND plas IS 1: tested_negative
+199: mass IS 1 AND pedi IS 0: tested_negative
+200: preg IS 4 AND age IS 3: tested_negative
+201: plas IS 4 AND skin IS 2: tested_negative
+202: preg IS 4 AND age IS 3: tested_negative
+203: insu IS 3 AND pedi IS 0: tested_negative
+204: plas IS 9 AND mass IS 7: tested_positive
+205: plas IS 9 AND mass IS 9: tested_positive
+206: plas IS 9 AND pedi IS 5: tested_positive
+207: plas IS 9 AND pedi IS 5: tested_positive
+208: plas IS 9 AND mass IS 7: tested_positive
+209: plas IS 8 AND insu IS 0 AND mass IS 4: tested_positive
+210: preg IS 8 AND insu IS 6: tested_positive
+211: plas IS 4 AND pedi IS 0: tested_negative
+212: pres IS 1 AND pedi IS 6: tested_negative
+213: plas IS 4 AND pedi IS 0: tested_negative
+214: preg IS 8 AND mass IS 9: tested_positive
+215: preg IS 8 AND mass IS 9: tested_positive
+216: preg IS 8 AND mass IS 2 AND age IS 9: tested_negative
+217: pres IS 8 AND mass IS 0: tested_negative
+218: plas IS 3 AND insu IS 4: tested_negative
+219: plas IS 5 AND pedi IS 6 AND age IS 4: tested_negative
+220: plas IS 0 AND skin IS 7: tested_negative
+221: preg IS 0 AND pres IS 8 AND age IS 4: tested_negative
+222: plas IS 3 AND insu IS 4: tested_negative
+223: mass IS 7 AND pedi IS 1: tested_negative
+224: insu IS 2 AND mass IS 9: tested_negative
+225: insu IS 2 AND mass IS 9: tested_negative
+226: preg IS 8 AND skin IS 0 AND mass IS 2: tested_negative
+227: mass IS 7 AND pedi IS 1: tested_negative
+228: preg IS 8 AND plas IS 8 AND age IS 8: tested_positive
+229: plas IS 9 AND skin IS 7: tested_positive
+230: preg IS 7 AND plas IS 8 AND insu IS 0 AND age IS 8: tested_positive
+231: preg IS 0 AND plas IS 7 AND mass IS 9: tested_positive
+232: plas IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+233: plas IS 6 AND mass IS 9: tested_positive
+234: pres IS 9 AND insu IS 0 AND mass IS 9: tested_positive
+235: plas IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+236: preg IS 0 AND plas IS 7 AND mass IS 9: tested_positive
+237: preg IS 0 AND plas IS 7 AND mass IS 9: tested_positive
+238: pres IS 9 AND mass IS 9 AND pedi IS 4: tested_positive
+239: pres IS 9 AND insu IS 0 AND mass IS 9: tested_positive
+240: plas IS 6 AND mass IS 9: tested_positive
+241: plas IS 7 AND pres IS 0 AND insu IS 0: tested_positive
+242: plas IS 7 AND pres IS 0 AND skin IS 0: tested_positive
+243: pres IS 9 AND mass IS 9 AND pedi IS 4: tested_positive
+244: preg IS 8 AND pres IS 5 AND insu IS 4: tested_positive
+245: pres IS 9 AND skin IS 0 AND mass IS 4: tested_positive
+246: pres IS 9 AND insu IS 0 AND mass IS 9: tested_positive
+247: preg IS 8 AND pres IS 9 AND age IS 9: tested_positive
+248: preg IS 8 AND pres IS 9 AND pedi IS 2: tested_positive
+249: plas IS 8 AND mass IS 9 AND pedi IS 4: tested_positive
+250: plas IS 6 AND mass IS 9: tested_positive
+251: preg IS 8 AND pres IS 5 AND insu IS 4: tested_positive
+252: skin IS 6 AND age IS 1: tested_negative
+253: plas IS 9 AND pres IS 5: tested_positive
+254: pedi IS 7 AND age IS 4: tested_negative
+255: plas IS 2: tested_negative
+256: plas IS 8 AND pres IS 9 AND insu IS 0: tested_positive
+257: plas IS 9: tested_positive
+258: plas IS 9: tested_positive
+259: plas IS 9: tested_positive
+260: plas IS 9: tested_positive
+261: plas IS 9: tested_positive
+262: plas IS 9: tested_positive
+263: plas IS 9: tested_positive
+264: plas IS 5 AND pres IS 5: tested_negative
+265: plas IS 5 AND pres IS 5: tested_negative
+266: skin IS 7 AND mass IS 8: tested_negative
+267: preg IS 5 AND plas IS 3: tested_negative
+268: plas IS 1 AND age IS 7: tested_negative
+269: plas IS 5 AND mass IS 6 AND age IS 4: tested_negative
+270: preg IS 5 AND plas IS 3: tested_negative
+271: plas IS 5 AND mass IS 1: tested_negative
+272: plas IS 5 AND age IS 4: tested_negative
+273: plas IS 3 AND pedi IS 5: tested_negative
+274: plas IS 1 AND age IS 7: tested_negative
+275: plas IS 5 AND pres IS 3 AND insu IS 0: tested_negative
+276: plas IS 2 AND skin IS 5: tested_negative
+277: pedi IS 1 AND age IS 5: tested_negative
+278: skin IS 7 AND pedi IS 1: tested_negative
+279: plas IS 8 AND skin IS 7 AND mass IS 8: tested_negative
+280: plas IS 5 AND pedi IS 6: tested_negative
+281: plas IS 2 AND skin IS 5: tested_negative
+282: skin IS 7 AND insu IS 4 AND mass IS 8: tested_negative
+283: pres IS 9 AND insu IS 6 AND age IS 1: tested_negative
+284: plas IS 8 AND skin IS 7 AND mass IS 8: tested_negative
+285: pres IS 5 AND insu IS 0 AND pedi IS 1: tested_negative
+286: pres IS 5 AND skin IS 0 AND pedi IS 1: tested_negative
+287: preg IS 7 AND skin IS 6 AND mass IS 3: tested_negative
+288: plas IS 2 AND skin IS 5: tested_negative
+289: plas IS 7 AND pres IS 8 AND skin IS 0: tested_negative
+290: plas IS 9 AND skin IS 5: tested_positive
+291: preg IS 8 AND plas IS 7 AND age IS 8: tested_positive
+292: preg IS 8 AND pedi IS 7 AND age IS 8: tested_positive
+293: preg IS 8 AND skin IS 7 AND pedi IS 7: tested_positive
+294: plas IS 8 AND pres IS 7 AND pedi IS 8: tested_positive
+295: preg IS 8 AND plas IS 7 AND age IS 8: tested_positive
+296: plas IS 8 AND insu IS 0 AND age IS 8: tested_positive
+297: plas IS 6 AND insu IS 5 AND pedi IS 9: tested_positive
+298: plas IS 8 AND pres IS 7 AND pedi IS 8: tested_positive
+299: plas IS 8 AND insu IS 0 AND pedi IS 8: tested_positive
+300: preg IS 4 AND plas IS 8 AND skin IS 0: tested_positive
+301: plas IS 8 AND insu IS 0 AND age IS 8: tested_positive
+302: plas IS 8 AND insu IS 0 AND pedi IS 8: tested_positive
+303: preg IS 5 AND insu IS 5: tested_positive
+304: pres IS 0 AND skin IS 0 AND pedi IS 3: tested_positive
+305: pres IS 5 AND skin IS 0 AND mass IS 8: tested_positive
+306: plas IS 8 AND insu IS 0 AND age IS 8: tested_positive
+307: preg IS 5 AND insu IS 5: tested_positive
+308: pres IS 5 AND skin IS 0 AND mass IS 8: tested_positive
+309: skin IS 0 AND mass IS 4 AND pedi IS 4: tested_positive
+310: preg IS 4 AND plas IS 8 AND skin IS 0: tested_positive
+311: plas IS 8 AND insu IS 0 AND pedi IS 8: tested_positive
+312: preg IS 8 AND skin IS 7 AND pedi IS 7: tested_positive
+313: plas IS 6 AND insu IS 0 AND pedi IS 7: tested_positive
+314: plas IS 4 AND age IS 4: tested_negative
+315: plas IS 4 AND age IS 4: tested_negative
+316: plas IS 6 AND pedi IS 0: tested_negative
+317: plas IS 6 AND pedi IS 0: tested_negative
+318: preg IS 3 AND plas IS 4: tested_negative
+319: plas IS 6 AND age IS 1: tested_negative
+320: plas IS 6 AND pedi IS 0: tested_negative
+321: mass IS 5 AND pedi IS 5: tested_negative
+322: preg IS 3 AND plas IS 4: tested_negative
+323: mass IS 5 AND pedi IS 5: tested_negative
+324: plas IS 6 AND pedi IS 0: tested_negative
+325: preg IS 8 AND plas IS 8: tested_positive
+326: preg IS 8 AND mass IS 3: tested_positive
+327: preg IS 8 AND plas IS 8: tested_positive
+328: preg IS 8 AND mass IS 3: tested_positive
+329: preg IS 8 AND mass IS 3: tested_positive
+330: preg IS 8 AND mass IS 3: tested_positive
+331: preg IS 8 AND plas IS 8: tested_positive
+332: preg IS 8 AND mass IS 3: tested_positive
+333: preg IS 8 AND mass IS 3: tested_positive
+334: preg IS 1 AND plas IS 4: tested_negative
+335: preg IS 2: tested_negative
+336: pedi IS 1: tested_negative
+337: mass IS 2 AND age IS 9: tested_negative
+338: plas IS 3 AND mass IS 6: tested_negative
+339: preg IS 4 AND age IS 7: tested_negative
+340: plas IS 8 AND mass IS 3 AND age IS 4: tested_negative
+341: preg IS 4 AND pres IS 9 AND mass IS 3: tested_negative
+342: plas IS 6 AND insu IS 6: tested_negative
+343: preg IS 7 AND plas IS 6 AND pres IS 9: tested_negative
+344: pres IS 9 AND insu IS 0 AND mass IS 2: tested_negative
+345: plas IS 6 AND pres IS 8 AND pedi IS 8: tested_negative
+346: insu IS 0 AND mass IS 2 AND age IS 9: tested_negative
+347: plas IS 8 AND mass IS 3 AND age IS 4: tested_negative
+348: preg IS 0 AND plas IS 8 AND pres IS 8: tested_negative
+349: pres IS 9 AND pedi IS 1: tested_negative
+350: preg IS 4 AND age IS 7: tested_negative
+351: preg IS 0 AND plas IS 6 AND pres IS 8: tested_negative
+352: pres IS 5 AND pedi IS 3 AND age IS 6: tested_negative
+353: skin IS 5 AND pedi IS 3: tested_negative
+354: preg IS 0 AND plas IS 8 AND pres IS 8: tested_negative
+355: preg IS 1 AND plas IS 4 AND pres IS 9: tested_negative
+356: preg IS 4 AND skin IS 4: tested_negative
+357: plas IS 6 AND pres IS 8 AND pedi IS 8: tested_negative
+358: plas IS 6 AND insu IS 6: tested_negative
+359: pres IS 9 AND mass IS 8 AND age IS 8: tested_negative
+360: preg IS 7 AND plas IS 6 AND pres IS 9: tested_negative
+361: skin IS 6 AND mass IS 3: tested_negative
+362: preg IS 4 AND age IS 7: tested_negative
+363: skin IS 6 AND mass IS 4 AND pedi IS 0: tested_negative
+364: preg IS 0 AND plas IS 8 AND pres IS 8: tested_negative
+365: plas IS 4 AND age IS 3: tested_negative
+366: plas IS 8 AND insu IS 6 AND age IS 1: tested_negative
+367: pres IS 6: tested_negative
+368: skin IS 6 AND mass IS 3: tested_negative
+369: plas IS 6 AND pres IS 8 AND pedi IS 8: tested_negative
+370: plas IS 8 AND pres IS 5 AND age IS 6: tested_positive
+371: plas IS 8 AND skin IS 0 AND age IS 6: tested_positive
+372: plas IS 6 AND pedi IS 7 AND age IS 8: tested_positive
+373: preg IS 1 AND plas IS 6 AND pedi IS 9: tested_positive
+374: plas IS 6 AND pres IS 9 AND pedi IS 9: tested_positive
+375: plas IS 8 AND mass IS 4 AND age IS 4: tested_positive
+376: preg IS 2 AND plas IS 8 AND mass IS 2: tested_positive
+377: preg IS 8 AND plas IS 7 AND pres IS 9: tested_positive
+378: preg IS 8 AND plas IS 4 AND pedi IS 3: tested_positive
+379: preg IS 0 AND plas IS 8 AND pedi IS 4: tested_positive
+380: plas IS 4 AND skin IS 0 AND pedi IS 3 AND age IS 7: tested_positive
+381: preg IS 4 AND skin IS 0 AND mass IS 5: tested_positive
+382: plas IS 8 AND mass IS 1 AND age IS 8: tested_positive
+383: plas IS 8 AND pres IS 5 AND age IS 8: tested_positive
+384: plas IS 6 AND pedi IS 6 AND age IS 4: tested_positive
+385: skin IS 6 AND mass IS 6 AND pedi IS 8: tested_positive
+386: preg IS 2 AND plas IS 8 AND mass IS 2: tested_positive
+387: mass IS 9 AND pedi IS 8: tested_positive
+388: plas IS 8 AND mass IS 4 AND age IS 4: tested_positive
+389: plas IS 5 AND insu IS 0 AND mass IS 5: tested_positive
+390: preg IS 2 AND plas IS 8 AND mass IS 2: tested_positive
+391: preg IS 0 AND plas IS 8 AND pedi IS 4: tested_positive
+392: pres IS 8 AND skin IS 6 AND mass IS 6: tested_positive
+393: preg IS 7 AND pres IS 3 AND mass IS 8: tested_positive
+394: skin IS 6 AND mass IS 6 AND pedi IS 8: tested_positive
+395: mass IS 9 AND pedi IS 8: tested_positive
+396: plas IS 6 AND pedi IS 6 AND age IS 4: tested_positive
+397: pres IS 5 AND insu IS 0 AND pedi IS 9 AND age IS 6: tested_positive
+398: skin IS 0 AND mass IS 7 AND pedi IS 3: tested_positive
+399: pres IS 8 AND skin IS 6 AND mass IS 6: tested_positive
+400: pres IS 0 AND insu IS 5 AND pedi IS 9: tested_positive
+401: plas IS 5 AND insu IS 0 AND mass IS 5: tested_positive
+402: preg IS 1 AND insu IS 4 AND age IS 7: tested_positive
+403: preg IS 7 AND pres IS 3 AND mass IS 8: tested_positive
+404: mass IS 9 AND pedi IS 8: tested_positive
+405: preg IS 4 AND skin IS 0 AND age IS 1: tested_positive
+406: plas IS 5 AND insu IS 0 AND mass IS 5: tested_positive
+407: preg IS 2 AND plas IS 8 AND mass IS 2: tested_positive
+408: plas IS 6 AND pedi IS 6 AND age IS 4: tested_positive
+409: preg IS 8 AND plas IS 7 AND pres IS 9: tested_positive
+410: plas IS 6 AND pedi IS 6 AND age IS 4: tested_positive
+411: mass IS 6 AND pedi IS 9: tested_positive
+412: skin IS 6 AND mass IS 6 AND pedi IS 8: tested_positive
+413: plas IS 5 AND insu IS 0 AND mass IS 5: tested_positive
+414: preg IS 1 AND insu IS 4 AND age IS 7: tested_positive
+415: preg IS 7 AND pres IS 3 AND mass IS 8: tested_positive
+416: pres IS 9 AND mass IS 8: tested_negative
+417: plas IS 3: tested_negative
+418: plas IS 3: tested_negative
+419: plas IS 3: tested_negative
+420: plas IS 3: tested_negative
+421: plas IS 3 AND age IS 3: tested_negative
+422: preg IS 5 AND plas IS 5: tested_negative
+423: plas IS 7 AND pedi IS 1: tested_negative
+424: plas IS 2 AND mass IS 3: tested_negative
+425: preg IS 7 AND plas IS 7: tested_negative
+426: preg IS 5 AND plas IS 5: tested_negative
+427: plas IS 2 AND mass IS 3: tested_negative
+428: preg IS 4 AND mass IS 6: tested_negative
+429: preg IS 7 AND plas IS 7: tested_negative
+430: pres IS 8 AND insu IS 0 AND pedi IS 2: tested_negative
+431: preg IS 7 AND plas IS 7: tested_negative
+432: insu IS 6 AND age IS 1: tested_negative
+433: preg IS 8 AND insu IS 5: tested_positive
+434: mass IS 6 AND age IS 6: tested_positive
+435: plas IS 4 AND insu IS 0 AND mass IS 5: tested_positive
+436: mass IS 6 AND age IS 6: tested_positive
+437: plas IS 4 AND insu IS 0 AND mass IS 5: tested_positive
+438: pres IS 7 AND pedi IS 8: tested_positive
+439: mass IS 6 AND age IS 6: tested_positive
+440: plas IS 4 AND insu IS 0 AND mass IS 5: tested_positive
+441: plas IS 7 AND pres IS 0: tested_positive
+442: plas IS 4 AND insu IS 0 AND mass IS 5: tested_positive
+443: skin IS 0 AND mass IS 2: tested_negative
+444: plas IS 4 AND pres IS 9: tested_negative
+445: plas IS 8 AND age IS 6: tested_positive
+446: plas IS 7 AND mass IS 9: tested_positive
+447: plas IS 7 AND mass IS 9: tested_positive
+448: preg IS 0 AND pres IS 8: tested_negative
+449: plas IS 7 AND insu IS 4 AND age IS 4: tested_negative
+450: plas IS 8 AND insu IS 4 AND age IS 4: tested_negative
+451: skin IS 6 AND insu IS 4 AND age IS 4: tested_negative
+452: plas IS 5 AND age IS 7: tested_negative
+453: plas IS 7 AND pres IS 8 AND age IS 4: tested_negative
+454: preg IS 1 AND pres IS 8 AND age IS 4: tested_negative
+455: skin IS 0 AND mass IS 2 AND age IS 7: tested_negative
+456: preg IS 2 AND plas IS 6 AND mass IS 8: tested_negative
+457: insu IS 1 AND pedi IS 5: tested_negative
+458: preg IS 2 AND plas IS 6 AND mass IS 2: tested_negative
+459: preg IS 8 AND plas IS 2 AND pres IS 8: tested_negative
+460: plas IS 2 AND pres IS 8 AND age IS 8: tested_negative
+461: plas IS 4 AND pres IS 6: tested_negative
+462: plas IS 7 AND insu IS 4 AND age IS 4: tested_negative
+463: preg IS 7 AND mass IS 6 AND age IS 7: tested_negative
+464: skin IS 6 AND insu IS 4 AND age IS 4: tested_negative
+465: preg IS 2 AND plas IS 6 AND mass IS 8: tested_negative
+466: plas IS 6 AND pres IS 7 AND pedi IS 3: tested_negative
+467: insu IS 1 AND pedi IS 5: tested_negative
+468: plas IS 4 AND pres IS 6: tested_negative
+469: plas IS 8 AND pres IS 8 AND pedi IS 7: tested_negative
+470: preg IS 4 AND pres IS 5 AND insu IS 6: tested_negative
+471: plas IS 7 AND pres IS 8 AND pedi IS 2: tested_negative
+472: insu IS 1 AND pedi IS 5: tested_negative
+473: pres IS 7 AND pedi IS 3: tested_negative
+474: plas IS 8 AND pres IS 8 AND pedi IS 7: tested_negative
+475: plas IS 6 AND mass IS 8 AND pedi IS 8: tested_negative
+476: preg IS 4 AND skin IS 5: tested_negative
+477: plas IS 8 AND pres IS 8 AND pedi IS 7: tested_negative
+478: plas IS 8 AND skin IS 3: tested_positive
+479: plas IS 4 AND age IS 8: tested_positive
+480: preg IS 1 AND plas IS 6 AND age IS 8: tested_positive
+481: plas IS 6 AND pedi IS 5 AND age IS 8: tested_positive
+482: preg IS 8 AND plas IS 7 AND mass IS 8: tested_positive
+483: preg IS 8 AND plas IS 7 AND pedi IS 7: tested_positive
+484: preg IS 8 AND plas IS 7 AND skin IS 8: tested_positive
+485: plas IS 6 AND pedi IS 9: tested_positive
+486: plas IS 8 AND pres IS 1 AND pedi IS 7: tested_positive
+487: plas IS 8 AND pres IS 1 AND age IS 3: tested_positive
+488: skin IS 0 AND mass IS 4 AND age IS 6: tested_positive
+489: pres IS 5 AND skin IS 0 AND mass IS 4: tested_positive
+490: plas IS 8 AND pres IS 3 AND pedi IS 4: tested_positive
+491: pres IS 3 AND mass IS 5 AND pedi IS 8: tested_positive
+492: insu IS 5 AND mass IS 5 AND pedi IS 8: tested_positive
+493: plas IS 5 AND pedi IS 9 AND age IS 6: tested_positive
+494: plas IS 6 AND pres IS 0 AND pedi IS 7: tested_positive
+495: skin IS 0 AND mass IS 4 AND age IS 6: tested_positive
+496: preg IS 5 AND plas IS 7 AND mass IS 4: tested_positive
+497: plas IS 7 AND mass IS 4 AND age IS 3: tested_positive
+498: plas IS 6 AND pedi IS 9: tested_positive
+499: insu IS 0 AND mass IS 8 AND pedi IS 5 AND age IS 7: tested_positive
+500: plas IS 8 AND mass IS 7: tested_positive
+501: preg IS 0 AND skin IS 6 AND pedi IS 8: tested_positive
+502: plas IS 4 AND age IS 8: tested_positive
+503: preg IS 0 AND insu IS 5 AND mass IS 6: tested_positive
+504: preg IS 1 AND insu IS 5 AND age IS 8: tested_positive
+505: preg IS 1 AND plas IS 6 AND age IS 8: tested_positive
+506: preg IS 7 AND insu IS 0 AND age IS 6: tested_positive
+507: skin IS 6 AND insu IS 0 AND mass IS 8 AND pedi IS 4: tested_positive
+508: plas IS 8 AND pres IS 1 AND skin IS 4: tested_positive
+509: plas IS 8 AND pres IS 1 AND mass IS 4: tested_positive
+510: plas IS 8 AND pres IS 1 AND insu IS 6: tested_positive
+511: plas IS 7 AND skin IS 4 AND mass IS 4: tested_positive
+512: plas IS 7 AND mass IS 4 AND age IS 9: tested_positive
+513: plas IS 4 AND pres IS 5 AND insu IS 0 AND mass IS 4: tested_positive
+514: plas IS 1 AND skin IS 8 AND pedi IS 6: tested_positive
+515: insu IS 5 AND mass IS 7 AND pedi IS 9: tested_positive
+516: preg IS 8 AND plas IS 7 AND pedi IS 0: tested_positive
+517: plas IS 2 AND pres IS 7 AND age IS 8: tested_positive
+518: pres IS 7 AND pedi IS 7 AND age IS 8: tested_positive
+519: preg IS 3 AND plas IS 6 AND skin IS 4: tested_positive
+520: preg IS 0 AND plas IS 3 AND pedi IS 8: tested_positive
+521: preg IS 4 AND pres IS 2 AND insu IS 0 AND age IS 5: tested_positive
+522: preg IS 7 AND insu IS 0 AND age IS 6: tested_positive
+523: plas IS 6 AND insu IS 4 AND pedi IS 1: tested_positive
+524: plas IS 7 AND mass IS 4 AND age IS 3: tested_positive
+525: pres IS 3 AND mass IS 5 AND pedi IS 8: tested_positive
+526: insu IS 5 AND mass IS 5 AND pedi IS 8: tested_positive
+527: pres IS 8 AND skin IS 8 AND pedi IS 6: tested_positive
+528: plas IS 8 AND mass IS 7: tested_positive
+529: preg IS 0 AND pres IS 5 AND skin IS 0: tested_positive
+530: preg IS 0 AND skin IS 6 AND pedi IS 8: tested_positive
+531: plas IS 1 AND skin IS 8 AND pedi IS 6: tested_positive
+532: preg IS 8 AND plas IS 4 AND age IS 7: tested_positive
+533: plas IS 8 AND skin IS 3: tested_positive
+534: pres IS 7 AND insu IS 3 AND age IS 6: tested_positive
+535: plas IS 6 AND pedi IS 9: tested_positive
+536: preg IS 8 AND insu IS 4 AND pedi IS 7: tested_positive
+537: pres IS 8 AND skin IS 6 AND pedi IS 9: tested_positive
+538: preg IS 3 AND plas IS 7 AND skin IS 0: tested_positive
+539: pres IS 0 AND insu IS 5: tested_positive
+540: plas IS 4 AND age IS 8: tested_positive
+541: preg IS 8 AND plas IS 4 AND skin IS 4: tested_positive
+542: insu IS 5 AND mass IS 7 AND pedi IS 9: tested_positive
+543: preg IS 4 AND pres IS 2 AND skin IS 0 AND mass IS 4: tested_positive
+544: plas IS 5 AND skin IS 0 AND mass IS 7: tested_positive
+545: skin IS 0 AND mass IS 7 AND age IS 3: tested_positive
+546: insu IS 5 AND mass IS 5 AND pedi IS 8: tested_positive
+547: pres IS 3 AND mass IS 5 AND pedi IS 8: tested_positive
+548: plas IS 3 AND pres IS 2 AND insu IS 2: tested_positive
+549: skin IS 4 AND pedi IS 9 AND age IS 6: tested_positive
+550: preg IS 7 AND insu IS 0 AND age IS 6: tested_positive
+551: plas IS 1 AND pres IS 8 AND skin IS 4: tested_positive
+552: preg IS 4 AND pres IS 2 AND age IS 5: tested_positive
+553: pres IS 7 AND insu IS 3 AND age IS 6: tested_positive
+554: pres IS 7 AND insu IS 3 AND age IS 6: tested_positive
+555: skin IS 6 AND insu IS 3 AND age IS 6: tested_positive
+556: skin IS 6 AND insu IS 0 AND mass IS 8 AND pedi IS 4: tested_positive
+557: preg IS 4 AND plas IS 4 AND skin IS 8: tested_positive
+558: preg IS 4 AND skin IS 8 AND pedi IS 9: tested_positive
+559: plas IS 4 AND age IS 8: tested_positive
+560: plas IS 3 AND pres IS 2 AND insu IS 2: tested_positive
+561: plas IS 6 AND insu IS 4 AND pedi IS 1: tested_positive
+562: skin IS 4 AND pedi IS 9 AND age IS 6: tested_positive
+563: plas IS 6 AND pedi IS 9: tested_positive
+564: preg IS 0 AND plas IS 3 AND pedi IS 8: tested_positive
+565: plas IS 1 AND pres IS 8 AND skin IS 4: tested_positive
+566: preg IS 4 AND age IS 9: tested_positive
+567: pres IS 7 AND mass IS 7 AND age IS 9: tested_positive
+568: preg IS 0 AND plas IS 3 AND pedi IS 8: tested_positive
+569: preg IS 8 AND plas IS 4 AND age IS 5: tested_positive
+570: plas IS 5 AND insu IS 0 AND age IS 3: tested_positive
+571: plas IS 3 AND pres IS 2 AND insu IS 2: tested_positive
+572: insu IS 5 AND mass IS 8 AND pedi IS 7: tested_positive
+573: preg IS 7 AND plas IS 3 AND mass IS 3: tested_positive
+574: plas IS 1 AND skin IS 8 AND pedi IS 6: tested_positive
+575: plas IS 3 AND pres IS 2 AND insu IS 2: tested_positive
+576: plas IS 5 AND skin IS 0 AND mass IS 7: tested_positive
+577: pres IS 2 AND pedi IS 7 AND age IS 1: tested_positive
+578: plas IS 5: tested_negative
+579: plas IS 5: tested_negative
+580: plas IS 5: tested_negative
+581: insu IS 4 AND age IS 8: tested_positive
+582: pres IS 9 AND mass IS 9: tested_positive
+583: plas IS 5 AND pedi IS 9: tested_negative
+584: plas IS 6 AND age IS 3: tested_negative
+585: plas IS 6 AND skin IS 6: tested_negative
+586: plas IS 6 AND pres IS 5 AND insu IS 0: tested_positive
+587: plas IS 6 AND pres IS 5 AND insu IS 0: tested_positive
+588: plas IS 6 AND pres IS 5 AND insu IS 0: tested_positive
+589: plas IS 6 AND pres IS 5 AND insu IS 0: tested_positive
+590: preg IS 1 AND age IS 7: tested_positive
+591: preg IS 4 AND skin IS 7: tested_negative
+592: plas IS 5 AND mass IS 4: tested_negative
+593: skin IS 8 AND pedi IS 3: tested_negative
+594: preg IS 4 AND skin IS 7: tested_negative
+595: insu IS 4 AND age IS 4: tested_negative
+596: skin IS 8 AND pedi IS 3: tested_negative
+597: insu IS 0 AND mass IS 8 AND pedi IS 6: tested_positive
+598: plas IS 8 AND skin IS 5: tested_positive
+599: plas IS 7 AND pedi IS 6: tested_positive
+600: insu IS 5 AND mass IS 6: tested_positive
+601: insu IS 0 AND mass IS 8 AND pedi IS 6: tested_positive
+602: pres IS 2 AND age IS 5: tested_positive
+603: pres IS 2 AND age IS 5: tested_positive
+604: preg IS 7 AND pres IS 9 AND insu IS 0: tested_negative
+605: skin IS 6 AND age IS 9: tested_negative
+606: pres IS 8 AND age IS 4: tested_negative
+607: skin IS 6 AND age IS 9: tested_negative
+608: pedi IS 3 AND age IS 6: tested_negative
+609: preg IS 8 AND plas IS 6 AND insu IS 0: tested_positive
+610: plas IS 4 AND skin IS 0 AND pedi IS 3: tested_positive
+611: plas IS 4 AND skin IS 0 AND pedi IS 3: tested_positive
+612: plas IS 4 AND age IS 7: tested_positive
+613: plas IS 4: tested_negative
+614: pedi IS 5: tested_negative
+615: preg IS 2 AND plas IS 6: tested_negative
+616: preg IS 8 AND plas IS 7: tested_positive
+617: preg IS 7 AND plas IS 5: tested_negative
+618: preg IS 7 AND pres IS 9: tested_negative
+619: preg IS 7 AND plas IS 8 AND skin IS 4: tested_negative
+620: preg IS 7 AND plas IS 8 AND pedi IS 8: tested_negative
+621: preg IS 7 AND plas IS 8 AND age IS 7: tested_negative
+622: plas IS 6 AND insu IS 0 AND mass IS 6: tested_positive
+623: pres IS 9 AND mass IS 9 AND pedi IS 0: tested_positive
+624: plas IS 6 AND age IS 8: tested_positive
+625: preg IS 4 AND plas IS 7 AND skin IS 3: tested_positive
+626: plas IS 7 AND mass IS 6: tested_positive
+627: preg IS 4 AND plas IS 7 AND mass IS 5: tested_positive
+628: preg IS 4 AND plas IS 7 AND age IS 9: tested_positive
+629: plas IS 6 AND insu IS 0 AND mass IS 6: tested_positive
+630: plas IS 3 AND mass IS 3 AND pedi IS 8: tested_positive
+631: plas IS 3 AND skin IS 3 AND pedi IS 8: tested_positive
+632: plas IS 3 AND pedi IS 8 AND age IS 7: tested_positive
+633: preg IS 7 AND pres IS 5 AND skin IS 0: tested_positive
+634: plas IS 4 AND skin IS 8 AND pedi IS 6: tested_positive
+635: preg IS 5 AND skin IS 8 AND pedi IS 6: tested_positive
+636: skin IS 8 AND pedi IS 6 AND age IS 3: tested_positive
+637: skin IS 8 AND insu IS 4 AND pedi IS 6: tested_positive
+638: skin IS 8 AND mass IS 7 AND pedi IS 6: tested_positive
+639: pres IS 9 AND mass IS 9 AND pedi IS 0: tested_positive
+640: plas IS 6 AND insu IS 0 AND mass IS 6: tested_positive
+641: plas IS 5 AND pres IS 8 AND insu IS 6: tested_positive
+642: plas IS 5 AND pres IS 8 AND pedi IS 6: tested_positive
+643: plas IS 5 AND pres IS 8 AND age IS 5: tested_positive
+644: plas IS 6 AND pres IS 0: tested_positive
+645: pres IS 5 AND insu IS 0 AND mass IS 3 AND pedi IS 2: tested_positive
+646: pres IS 5 AND insu IS 0 AND mass IS 3 AND age IS 5: tested_positive
+647: preg IS 7 AND pres IS 5 AND insu IS 0 AND mass IS 3: tested_positive
+648: preg IS 5 AND skin IS 4 AND insu IS 0 AND pedi IS 5: tested_positive
+649: preg IS 5 AND pres IS 7 AND skin IS 4 AND insu IS 0: tested_positive
+650: preg IS 8 AND skin IS 4: tested_positive
+651: plas IS 7 AND mass IS 6: tested_positive
+652: plas IS 7 AND age IS 3: tested_positive
+653: preg IS 3 AND pedi IS 2 AND age IS 4: tested_positive
+654: preg IS 4: tested_negative
+655: mass IS 5 AND pedi IS 8: tested_positive
+656: pres IS 5 AND insu IS 0 AND mass IS 4: tested_positive
+657: plas IS 7 AND mass IS 4: tested_positive
+658: pres IS 5 AND insu IS 0 AND mass IS 4: tested_positive
+659: plas IS 7 AND mass IS 4: tested_positive
+660: mass IS 9: tested_positive
+661: mass IS 9: tested_positive
+662: plas IS 8 AND pres IS 1: tested_positive
+663: age IS 8: tested_positive
+664: preg IS 7 AND plas IS 8 AND pres IS 3: tested_negative
+665: plas IS 1 AND insu IS 5: tested_positive
+666: preg IS 7 AND pres IS 1 AND insu IS 0: tested_positive
+667: plas IS 1 AND insu IS 5: tested_positive
+668: plas IS 8: tested_positive
+669: insu IS 0 AND mass IS 2 AND pedi IS 8: tested_positive
+670: preg IS 3 AND plas IS 7: tested_positive
+671: mass IS 4 AND pedi IS 2: tested_positive
+672: mass IS 4 AND pedi IS 2: tested_positive
+673: plas IS 8: tested_positive
+674: preg IS 7 AND pres IS 1 AND insu IS 0: tested_positive
+675: preg IS 3 AND plas IS 7: tested_positive
+676: preg IS 7 AND pres IS 1 AND insu IS 0: tested_positive
+677: plas IS 8: tested_positive
+678: mass IS 7 AND age IS 9: tested_positive
+679: preg IS 8: tested_positive
+680: insu IS 0 AND mass IS 8 AND age IS 7: tested_positive
+681: insu IS 0 AND mass IS 8 AND age IS 7: tested_positive
+682: plas IS 4 AND pres IS 5 AND insu IS 0: tested_positive
+683: age IS 6: tested_positive
+684: plas IS 6 AND insu IS 0: tested_positive
+685: preg IS 2 AND pres IS 8: tested_positive
+686: preg IS 4 AND pres IS 2: tested_positive
+687: plas IS 7: tested_positive
+688: plas IS 6: tested_positive
+689: preg IS 7: tested_positive
+690: pres IS 8: tested_positive
+
+

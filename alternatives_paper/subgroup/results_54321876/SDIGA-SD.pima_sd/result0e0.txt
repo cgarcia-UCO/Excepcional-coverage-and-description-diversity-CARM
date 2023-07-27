@@ -1,0 +1,19 @@
+GENERATED RULE 0
+   Antecedent
+	Variable plas = Label 1 	 (0.0 99.5 199.0)
+   Consecuent: tested_negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable preg = Label 0 	 (-8.5 0.0 8.5)
+	Variable plas = Label 0 	 (-99.5 0.0 99.5)
+	Variable skin = Label 1 	 (0.0 49.5 99.0)
+	Variable mass = Label 0 	 (-33.55 0.0 33.55)
+	Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+   Consecuent: tested_negative
+
+GENERATED RULE 0
+   Antecedent
+	Variable plas = Label 2 	 (99.5 199.0 298.5)
+   Consecuent: tested_positive
+

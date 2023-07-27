@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="A10" value="
+[1.0, 40.0]" /></antecedents>
+<consequents>
+<attribute name="A9" value="
+NOT 0" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="A10" value="
+NOT [1.0, 67.0]" /></antecedents>
+<consequents>
+<attribute name="A9" value="
+0" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="A5" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="A6" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="A8" value="
+1" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="A8" value="
+NOT 1" /></consequents>
+</rule>
+</association_rules>

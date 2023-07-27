@@ -1,0 +1,12 @@
+@Number of rules: 3 Number of Antecedents by rule: 1.0
+
+1: Left-distance IS L_4(5): False CF: 0.9279999999999999
+2: Left-distance IS L_3(5): False CF: 0.9199999999999999
+3: Left-distance IS L_0(5): False CF: 0.9199999999999999
+
+
+@supp and CF:
+
+1: supp: 0.1856 AND CF: 0.9279999999999999
+2: supp: 0.184 AND CF: 0.9199999999999999
+3: supp: 0.184 AND CF: 0.9199999999999999

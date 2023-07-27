@@ -1,0 +1,40 @@
+Rule 0: Al = 1 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 1: Si = 6 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 2: Na = 6 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 3: RI = 3 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 4: RI = 5 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 5: Fe = 0 AND K = 7 THEN TypeGlass = False
+[  0.96  0.04  ]
+
+
+Rule 6: Ba = 0 AND Al = 2 THEN TypeGlass = False
+[  0.96  0.04  ]
+
+
+Rule 7: Ca = 6 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 8: Si = 8 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+
+Rule 9: Ca = 4 THEN TypeGlass = False
+[  1.00  0.00  ]
+
+

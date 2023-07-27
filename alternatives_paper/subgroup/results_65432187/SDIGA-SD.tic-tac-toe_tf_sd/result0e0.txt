@@ -1,0 +1,61 @@
+GENERATED RULE 0
+   Antecedent
+	Variable BottomLeft = x
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable MiddleMiddle = x
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable TopLeft = x
+	Variable TopMiddle = x
+	Variable TopRight = x
+   Consecuent: False
+
+GENERATED RULE 3
+   Antecedent
+	Variable TopRight = x
+	Variable MiddleRight = x
+	Variable BottomRight = x
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable TopLeft = o
+	Variable MiddleMiddle = o
+	Variable BottomRight = o
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable TopLeft = o
+	Variable TopMiddle = o
+	Variable TopRight = o
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable TopLeft = o
+	Variable MiddleLeft = o
+	Variable BottomLeft = o
+   Consecuent: True
+
+GENERATED RULE 3
+   Antecedent
+	Variable TopRight = o
+	Variable MiddleLeft = x
+	Variable MiddleMiddle = x
+	Variable BottomLeft = x
+	Variable BottomMiddle = x
+   Consecuent: True
+
+GENERATED RULE 4
+   Antecedent
+	Variable BottomLeft = o
+	Variable BottomMiddle = o
+	Variable BottomRight = o
+   Consecuent: True
+

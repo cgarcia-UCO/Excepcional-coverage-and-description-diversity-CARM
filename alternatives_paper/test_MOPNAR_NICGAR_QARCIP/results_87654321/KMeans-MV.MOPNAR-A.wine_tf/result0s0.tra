@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+NOT [10.6, 17.9999]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="NonflavanoidsPhenols" value="
+NOT [0.1701, 0.3699]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.5899]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+NOT [2.4501000000000004, 2.6999]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Hue" value="
+[1.06, 1.28]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+[1.57, 3.69]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Hue" value="
+NOT [0.7401, 1.8]" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+NOT [1.2, 7.2999]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Magnesium" value="
+NOT [139.0001, 162.0]" /></antecedents>
+<consequents>
+<attribute name="OD280/OD315" value="
+NOT [2.5701, 2.6498999999999997]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Alcohol" value="
+NOT [12.4201, 14.9]" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+NOT [3.3001, 7.649900000000001]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="TotalPhenols" value="
+[2.85, 3.25]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+NOT [410.0001, 759.9999]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Proline" value="
+NOT [278.0, 1269.9999]" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+[16.5, 17.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 1.4099]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 1.3599]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+NOT [0.7301, 1.0299]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="OD280/OD315" value="
+[2.82, 2.84]" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+[16.5, 16.8]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 1.5799]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 1.4599]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+NOT [0.7301, 1.0299]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 3.2399]" /><attribute name="Magnesium" value="
+[92.0, 98.0]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+NOT [0.8301, 5.1]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.96, 13.16]" /><attribute name="NonflavanoidsPhenols" value="
+[0.4, 0.43]" /></antecedents>
+<consequents>
+<attribute name="MalicAcid" value="
+[3.45, 3.57]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.96, 13.16]" /><attribute name="OD280/OD315" value="
+[1.68, 1.75]" /></antecedents>
+<consequents>
+<attribute name="MalicAcid" value="
+[3.45, 3.57]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Hue" value="
+[1.06, 1.28]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Ash" value="
+NOT [1.9501, 3.3]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="NonflavanoidsPhenols" value="
+NOT [0.35009999999999997, 0.7]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.21, 12.33]" /><attribute name="Magnesium" value="
+[136.0, 151.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="MalicAcid" value="
+[0.99, 1.19]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="MalicAcid" value="
+[0.99, 1.19]" /><attribute name="Magnesium" value="
+[136.0, 151.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="Ash" value="
+NOT [1.9501, 3.3]" /><attribute name="Magnesium" value="
+[136.0, 151.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="ColorIntensity" value="
+NOT [8.9001, 13.0]" /><attribute name="Proline" value="
+NOT [680.0001, 914.9999]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+NOT [2.4901000000000004, 2.8099]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="MalicAcid" value="
+[0.99, 1.19]" /><attribute name="TotalPhenols" value="
+NOT [1.9001, 3.9]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /><attribute name="flavanoids" value="
+NOT [1.8501, 5.1]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /><attribute name="Hue" value="
+[1.06, 1.28]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /><attribute name="TotalPhenols" value="
+NOT [1.9001, 3.9]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /><attribute name="Hue" value="
+NOT [0.4, 1.0599]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="NonflavanoidsPhenols" value="
+NOT [0.35009999999999997, 0.7]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="MalicAcid" value="
+[0.99, 1.19]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /><attribute name="Hue" value="
+[1.06, 1.28]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /><attribute name="ColorIntensity" value="
+NOT [3.4001, 13.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="TotalPhenols" value="
+NOT [1.9001, 3.9]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.21, 12.33]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="AlcalinityOfAsh" value="
+NOT [16.8001, 30.0]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="AlcalinityOfAsh" value="
+NOT [16.8001, 30.0]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="MalicAcid" value="
+[0.99, 1.19]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="AlcalinityOfAsh" value="
+NOT [16.8001, 30.0]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="Hue" value="
+[1.06, 1.28]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="Hue" value="
+NOT [0.4, 1.0599]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="Ash" value="
+NOT [1.3, 1.9199]" /><attribute name="Hue" value="
+NOT [0.4, 1.0599]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+[1.57, 3.69]" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="Ash" value="
+NOT [1.9501, 3.3]" /><attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="NonflavanoidsPhenols" value="
+NOT [0.35009999999999997, 0.7]" /><attribute name="Proline" value="
+[718.0, 750.0]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="Proanthocyanins" value="
+[2.5, 2.76]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+[136.0, 151.0]" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.5999]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+[1.59, 3.74]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="TotalPhenols" value="
+[1.4, 1.8]" /><attribute name="flavanoids" value="
+NOT [0.8401, 5.1]" /></antecedents>
+<consequents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 2.4598999999999998]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="Hue" value="
+NOT [0.7401, 1.8]" /><attribute name="OD280/OD315" value="
+NOT [1.9201, 3.9999999999999996]" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+NOT [1.2, 7.2999]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="Ash" value="
+[2.15, 2.2]" /><attribute name="flavanoids" value="
+NOT [0.6601, 5.1]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.5, 1.62]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="AlcalinityOfAsh" value="
+NOT [18.0001, 30.0]" /><attribute name="Proline" value="
+NOT [278.0, 984.9999]" /></antecedents>
+<consequents>
+<attribute name="MalicAcid" value="
+NOT [2.1601000000000004, 5.8]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="Ash" value="
+[2.7, 2.72]" /><attribute name="Proanthocyanins" value="
+NOT [0.7501, 3.6]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.54, 1.55]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="Ash" value="
+[2.7, 2.72]" /><attribute name="Proline" value="
+NOT [600.0001, 1680.0]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.54, 1.55]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="Ash" value="
+NOT [1.3, 2.0999]" /><attribute name="Proline" value="
+NOT [750.0001, 1014.9999]" /></antecedents>
+<consequents>
+<attribute name="Magnesium" value="
+NOT [134.0001, 162.0]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 2.8099]" /><attribute name="Ash" value="
+[2.7, 2.72]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.54, 1.55]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 2.4299]" /><attribute name="ColorIntensity" value="
+[4.8, 5.04]" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+[16.0, 17.0]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 1.3599]" /><attribute name="ColorIntensity" value="
+NOT [7.8001, 13.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="OD280/OD315" value="
+[2.82, 2.84]" /><attribute name="Proline" value="
+NOT [278.0, 1269.9999]" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+[16.5, 16.8]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="TotalPhenols" value="
+NOT [1.7501, 1.8799]" /><attribute name="flavanoids" value="
+NOT [0.3, 1.3599]" /></antecedents>
+<consequents>
+<attribute name="Proanthocyanins" value="
+NOT [0.7301, 1.0299]" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="Alcohol" value="
+NOT [12.4201, 14.9]" /><attribute name="Proline" value="
+NOT [380.0001, 1680.0]" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+[2.06, 2.95]" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 3.0298999999999996]" /><attribute name="Magnesium" value="
+NOT [107.0001, 162.0]" /><attribute name="Proanthocyanins" value="
+NOT [1.5601, 3.6]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+NOT [0.8301, 5.1]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="flavanoids" value="
+[0.47, 1.25]" /><attribute name="OD280/OD315" value="
+NOT [2.0601000000000003, 3.9999999999999996]" /><attribute name="Proline" value="
+[510.0, 855.0]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.15, 1.83]" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="Alcohol" value="
+NOT [11.4601, 12.2899]" /><attribute name="MalicAcid" value="
+NOT [0.7, 1.5999]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+[1.59, 3.74]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.7801, 5.1]" /><attribute name="Proanthocyanins" value="
+NOT [1.3501, 3.6]" /><attribute name="Proline" value="
+[695.0, 855.0]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.38, 1.68]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="Alcohol" value="
+NOT [11.0, 13.5799]" /><attribute name="Ash" value="
+NOT [1.3, 2.2998999999999996]" /><attribute name="Hue" value="
+NOT [0.7401, 1.8]" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+[8.66, 9.7]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.8099]" /><attribute name="AlcalinityOfAsh" value="
+[17.5, 18.8]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.8099]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /><attribute name="Hue" value="
+NOT [0.4, 1.1599]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.8099]" /><attribute name="Magnesium" value="
+NOT [97.0001, 162.0]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.08, 12.72]" /><attribute name="NonflavanoidsPhenols" value="
+NOT [0.2601, 0.7]" /><attribute name="Proanthocyanins" value="
+[1.4, 1.77]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="73">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.8099]" /><attribute name="AlcalinityOfAsh" value="
+NOT [18.8001, 30.0]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="74">
+<antecedents>
+<attribute name="Ash" value="
+NOT [2.2001000000000004, 3.3]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /><attribute name="Hue" value="
+NOT [0.4, 1.1599]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="75">
+<antecedents>
+<attribute name="Ash" value="
+NOT [2.2001000000000004, 3.3]" /><attribute name="AlcalinityOfAsh" value="
+NOT [18.8001, 30.0]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="76">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.8099]" /><attribute name="Ash" value="
+NOT [2.2001000000000004, 3.3]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="77">
+<antecedents>
+<attribute name="Alcohol" value="
+[12.08, 12.72]" /><attribute name="TotalPhenols" value="
+[2.2, 2.23]" /><attribute name="NonflavanoidsPhenols" value="
+NOT [0.2601, 0.7]" /></antecedents>
+<consequents>
+<attribute name="Proline" value="
+[710.0, 714.0]" /></consequents>
+</rule>
+<rule id="78">
+<antecedents>
+<attribute name="flavanoids" value="
+NOT [0.3, 2.4299]" /><attribute name="OD280/OD315" value="
+[2.82, 2.84]" /><attribute name="Proline" value="
+NOT [278.0, 1269.9999]" /></antecedents>
+<consequents>
+<attribute name="AlcalinityOfAsh" value="
+[16.5, 16.8]" /></consequents>
+</rule>
+<rule id="79">
+<antecedents>
+<attribute name="Alcohol" value="
+NOT [12.4201, 14.9]" /><attribute name="Proline" value="
+NOT [380.0001, 1680.0]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="ColorIntensity" value="
+[2.06, 2.95]" /></consequents>
+</rule>
+<rule id="80">
+<antecedents>
+<attribute name="MalicAcid" value="
+NOT [0.7, 1.5999]" /><attribute name="Ash" value="
+NOT [1.3, 1.9199]" /><attribute name="AlcalinityOfAsh" value="
+NOT [23.0001, 29.9999]" /><attribute name="Hue" value="
+NOT [0.4, 1.0599]" /></antecedents>
+<consequents>
+<attribute name="flavanoids" value="
+[1.57, 3.69]" /></consequents>
+</rule>
+</association_rules>

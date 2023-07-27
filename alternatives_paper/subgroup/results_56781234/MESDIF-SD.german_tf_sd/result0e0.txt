@@ -1,0 +1,88 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A13
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditHistory = A30
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A13
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditHistory = A30
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A75
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A121
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+

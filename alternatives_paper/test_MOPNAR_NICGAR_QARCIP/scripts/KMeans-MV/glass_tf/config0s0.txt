@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/glass_tf/glass_tf.dat" "../datasets/glass_tf/glass_tf.dat" 
+outputData = "../datasets/KMeans-MV.glass_tf/KMeans-MVs0.glass_tf1tra.dat" "../datasets/KMeans-MV.glass_tf/KMeans-MVs0.glass_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

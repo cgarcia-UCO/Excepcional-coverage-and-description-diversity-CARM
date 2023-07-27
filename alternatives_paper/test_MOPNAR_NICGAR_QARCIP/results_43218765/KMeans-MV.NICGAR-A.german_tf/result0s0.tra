@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Housing" value="
+A153" /></antecedents>
+<consequents>
+<attribute name="Property" value="
+A124" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="NCredits" value="
+NOT [1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+NOT A32" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="DurationMonth" value="
+[26.0, 60.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+[3804.0, 15945.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="NCredits" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="CreditHistory" value="
+A32" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="EmploymentSince" value="
+A71" /></antecedents>
+<consequents>
+<attribute name="Job" value="
+NOT A173" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="DurationMonth" value="
+[4.0, 16.0]" /></antecedents>
+<consequents>
+<attribute name="CreditAmount" value="
+NOT [1798.0, 18424.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Property" value="
+NOT A124" /></antecedents>
+<consequents>
+<attribute name="Housing" value="
+NOT A153" /></consequents>
+</rule>
+</association_rules>

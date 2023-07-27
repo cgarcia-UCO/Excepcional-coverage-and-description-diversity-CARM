@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/german_tf_sd/german_tf_sd.dat" "../datasets/german_tf_sd/german_tf_sd.dat" 
+outputData = "../datasets/KMeans-MV.german_tf_sd/KMeans-MVs0.german_tf_sd1tra.dat" "../datasets/KMeans-MV.german_tf_sd/KMeans-MVs0.german_tf_sd1tst.dat" 
+
+seed = 21345678
+k = 10
+error = 100
+iterations = 100

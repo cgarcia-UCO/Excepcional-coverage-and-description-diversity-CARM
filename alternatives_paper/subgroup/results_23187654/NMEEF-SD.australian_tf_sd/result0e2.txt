@@ -1,0 +1,125 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-NMEEF for Subgroup Discovery
+Input file name training: ../datasets/australian_tf_sd/australian_tf_sd.dat
+Rules file name: ../results/NMEEF-SD.australian_tf_sd/result0e0.txt
+Tracking file name: ../results/NMEEF-SD.australian_tf_sd/result0e2.txt
+Representation of the Rules: CAN
+Strict dominance: YES
+Random generator seed: 23187654
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 50
+Cross probability: 0.6
+Mutation probability: 0.1
+Diversity: CROWDING
+Perform ReInitCob: yes
+Percentage of the ReInitCob: 0.5
+Minimum confidence threshold: 0.6
+Number of objetives: 2
+	Objetive 1: COMP
+	Objetive 2: UNUS
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable A2:
+	Label 0: -3988.5 16.0 4020.5
+	Label 1: 16.0 4020.5 8025.0
+	Label 2: 4020.5 8025.0 12029.5
+Fuzzy sets parameters for variable A3:
+	Label 0: -13167.5 0.0 13167.5
+	Label 1: 0.0 13167.5 26335.0
+	Label 2: 13167.5 26335.0 39502.5
+Fuzzy sets parameters for variable A5:
+	Label 0: -5.5 1.0 7.5
+	Label 1: 1.0 7.5 14.0
+	Label 2: 7.5 14.0 20.5
+Fuzzy sets parameters for variable A6:
+	Label 0: -3.0 1.0 5.0
+	Label 1: 1.0 5.0 9.0
+	Label 2: 5.0 9.0 13.0
+Fuzzy sets parameters for variable A7:
+	Label 0: -7207.5 0.0 7207.5
+	Label 1: 0.0 7207.5 14415.0
+	Label 2: 7207.5 14415.0 21622.5
+Fuzzy sets parameters for variable A10:
+	Label 0: -33.5 0.0 33.5
+	Label 1: 0.0 33.5 67.0
+	Label 2: 33.5 67.0 100.5
+Fuzzy sets parameters for variable A13:
+	Label 0: -1000.0 0.0 1000.0
+	Label 1: 0.0 1000.0 2000.0
+	Label 2: 1000.0 2000.0 3000.0
+Fuzzy sets parameters for variable A14:
+	Label 0: -49999.0 1.0 50001.0
+	Label 1: 1.0 50001.0 100001.0
+	Label 2: 50001.0 100001.0 150001.0
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 690
+Number of variables: 14
+@relation australian
+@attribute A1{0,1}
+@attribute A2 real[16.0,8025.0]
+@attribute A3 real[0.0,26335.0]
+@attribute A4{1,2,3}
+@attribute A5 integer[1,14]
+@attribute A6 integer[1,9]
+@attribute A7 real[0.0,14415.0]
+@attribute A8{0,1}
+@attribute A9{0,1}
+@attribute A10 integer[0,67]
+@attribute A11{0,1}
+@attribute A12{1,2,3}
+@attribute A13 integer[0,2000]
+@attribute A14 integer[1,100001]
+@attribute Class{False,True}
+@inputs A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable A2: 2018.25  6022.75  10027.25  
+	Variable A3: 6583.75  19751.25  32918.75  
+	Variable A5: 4.25  10.75  17.25  
+	Variable A6: 3.0  7.0  11.0  
+	Variable A7: 3603.75  10811.25  18018.75  
+	Variable A10: 16.75  50.25  83.75  
+	Variable A13: 500.0  1500.0  2500.0  
+	Variable A14: 25001.0  75001.0  125001.0  
+Information Gain of the variables:
+	Variable A2: 0.03273183
+	Variable A3: 0.021418631
+	Variable A5: 0.1450913
+	Variable A6: 0.088342726
+	Variable A7: 0.016767919
+	Variable A10: 0.0072981715
+	Variable A13: 0.013303697
+	Variable A14: 0.0050247908
+
+--------------------------------------------
+|                 Class 0                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 121
+	Number of Evaluations = 10005
+
+--------------------------------------------
+|                 Class 1                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 117
+	Number of Evaluations = 10016

@@ -1,0 +1,33 @@
+Rule 1: IF  Persons = 2 THEN Acceptability -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  Safety = low THEN Acceptability -> False  
+[  1.00  0.00  ]
+
+Rule 3: IF  Buying = vhigh THEN Acceptability -> False  
+[  0.83  0.17  ]
+
+Rule 4: IF  Maint = vhigh THEN Acceptability -> False  
+[  0.83  0.17  ]
+
+Rule 5: IF  Lug_boot = small THEN Acceptability -> False  
+[  0.78  0.22  ]
+
+Rule 6: IF  Safety > med AND Persons <> 2 AND Buying <> vhigh AND Maint <> vhigh THEN Acceptability -> True  
+[  0.04  0.96  ]
+
+Rule 7: IF  Safety > med AND Persons <> 2 AND Buying > high THEN Acceptability -> True  
+[  0.04  0.96  ]
+
+Rule 8: IF  Safety > med AND Persons <> 2 AND Buying <> vhigh THEN Acceptability -> True  
+[  0.12  0.88  ]
+
+Rule 9: IF  Safety > med AND Persons <> 2 THEN Acceptability -> True  
+[  0.22  0.78  ]
+
+Rule 10: IF  Safety > med AND Buying > high THEN Acceptability -> True  
+[  0.36  0.64  ]
+
+
+
+Time: 7.285

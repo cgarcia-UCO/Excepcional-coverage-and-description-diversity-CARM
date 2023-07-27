@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/chess_tf_sd/chess_tf_sd.dat" "../datasets/chess_tf_sd/chess_tf_sd.dat" 
+outputData = "../datasets/KMeans-MV.chess_tf_sd/KMeans-MVs0.chess_tf_sd1tra.dat" "../datasets/KMeans-MV.chess_tf_sd/KMeans-MVs0.chess_tf_sd1tst.dat" 
+
+seed = 43218765
+k = 10
+error = 100
+iterations = 100

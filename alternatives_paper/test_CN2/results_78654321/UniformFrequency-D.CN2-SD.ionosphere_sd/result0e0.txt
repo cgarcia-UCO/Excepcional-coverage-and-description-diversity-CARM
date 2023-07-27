@@ -1,0 +1,21 @@
+
+Rule 1: IF  a27 = 8.0 AND a18 <> 6.0 AND a30 <> 6.0 AND a20 <> 2.0 AND a05 <> 4.0 AND a04 <> 5.0 THEN class -> b     [ 1.0 0.0]
+Rule 2: IF  a05 <= 2.0 AND a21 <> 4.0 AND a13 <> 6.0 AND a12 <> 6.0 AND a31 <> 5.0 AND a15 <> 5.0 THEN class -> b     [ 0.9473684210526315 0.05263157894736842]
+Rule 3: IF  a07 <= 2.0 AND a10 <> 8.0 AND a25 <> 4.0 AND a26 <> 1.0 AND a30 <> 2.0 AND a23 <> 6.0 AND a13 <> 5.0 AND a34 <> 4.0 THEN class -> b     [ 0.972972972972973 0.02702702702702703]
+Rule 4: IF  a27 = 8.0 AND a34 <> 1.0 AND a20 <> 6.0 AND a26 <> 4.0 AND a08 <> 6.0 AND a05 <> 4.0 THEN class -> b     [ 0.9615384615384616 0.038461538461538464]
+Rule 5: IF  a03 <= 3.0 AND a05 <> 3.0 AND a28 <> 6.0 AND a21 <> 6.0 AND a10 <> 8.0 AND a04 <> 6.0 AND a08 <> 6.0 AND a12 <> 5.0 AND a29 <> 7.0 AND a23 <> 7.0 AND a06 <> 1.0 AND a32 <> 1.0 THEN class -> b     [ 0.961038961038961 0.03896103896103896]
+Rule 6: IF  a27 <> 8.0 AND a05 > 1.0 AND a08 <> 0.0 AND a33 <> 9.0 AND a17 <> 3.0 AND a06 <> 0.0 AND a15 <> 3.0 AND a14 <> 0.0 AND a03 <> 0.0 THEN class -> g     [ 0.0056179775280898875 0.9943820224719101]
+Rule 7: IF  a27 <> 8.0 AND a05 > 1.0 AND a08 <> 0.0 AND a06 <> 5.0 AND a03 <> 3.0 AND a07 <> 1.0 THEN class -> g     [ 0.023809523809523808 0.9761904761904762]
+Rule 8: IF  a05 > 1.0 AND a34 <> 9.0 AND a14 > 0.0 AND a06 > 0.0 AND a18 > 0.0 AND a17 <> 2.0 AND a21 <> 3.0 AND a07 > 0.0 AND a03 <> 0.0 AND a09 <> 1.0 THEN class -> g     [ 0.015625 0.984375]
+
+####Average results for test data####
+Avg. Rule length: 8
+Avg. Number of attributes by rule: 7.875
+Avg. Coverage: 0.3265669515669516
+Avg. Support Completo: 0.9715099715099715
+Avg. Significance: 133.6041835614698
+Avg. Unusualness: 0.09369289479957056
+
+Accuracy Training: 0.9829059829059829
+Accuracy Test: 0.9829059829059829;
+  Time; 162

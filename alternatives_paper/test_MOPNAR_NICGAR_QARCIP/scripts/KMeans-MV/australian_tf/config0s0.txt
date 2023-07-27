@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/australian_tf/australian_tf.dat" "../datasets/australian_tf/australian_tf.dat" 
+outputData = "../datasets/KMeans-MV.australian_tf/KMeans-MVs0.australian_tf1tra.dat" "../datasets/KMeans-MV.australian_tf/KMeans-MVs0.australian_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

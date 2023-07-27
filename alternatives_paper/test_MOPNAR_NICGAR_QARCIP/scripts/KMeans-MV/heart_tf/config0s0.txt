@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/heart_tf/heart_tf.dat" "../datasets/heart_tf/heart_tf.dat" 
+outputData = "../datasets/KMeans-MV.heart_tf/KMeans-MVs0.heart_tf1tra.dat" "../datasets/KMeans-MV.heart_tf/KMeans-MVs0.heart_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

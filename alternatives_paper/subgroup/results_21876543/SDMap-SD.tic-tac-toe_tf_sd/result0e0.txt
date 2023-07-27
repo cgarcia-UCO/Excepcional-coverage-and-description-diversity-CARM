@@ -1,0 +1,40 @@
+Rule 0: TopRight = x AND MiddleLeft = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 1: BottomRight = x AND MiddleLeft = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 2: BottomLeft = x AND TopMiddle = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 3: BottomRight = x AND TopMiddle = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 4: TopLeft = x AND BottomMiddle = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 5: TopRight = x AND BottomMiddle = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 6: TopLeft = x AND MiddleRight = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 7: BottomLeft = x AND MiddleRight = b THEN Class = False
+[  0.80  0.20  ]
+
+
+Rule 8: MiddleMiddle = x AND MiddleLeft = o THEN Class = False
+[  0.81  0.19  ]
+
+
+Rule 9: MiddleMiddle = x AND TopMiddle = o THEN Class = False
+[  0.81  0.19  ]
+
+

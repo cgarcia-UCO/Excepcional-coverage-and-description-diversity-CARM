@@ -1,0 +1,74 @@
+GENERATED RULE 0
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 0 	 (-0.5 1.0 2.5)
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A124
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: True
+

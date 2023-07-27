@@ -1,0 +1,90 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlkPhosphate = Label 0 	 (-108.5 26.0 160.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

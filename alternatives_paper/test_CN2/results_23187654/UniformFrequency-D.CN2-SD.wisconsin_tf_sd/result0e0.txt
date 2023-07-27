@@ -1,0 +1,17 @@
+
+Rule 1: IF  CellShape <= 2.0 AND BareNuclei <= 2.0 AND CellSize <= 3.0 AND ClumpThickness <= 6.0 AND BlandChromatin <> 3.0 THEN Class -> False     [ 0.9927710843373494 0.007228915662650603]
+Rule 2: IF  BareNuclei <= 1.0 AND CellSize <= 3.0 AND EpithelialSize <> 4.0 AND ClumpThickness <= 6.0 THEN Class -> False     [ 1.0 0.0]
+Rule 3: IF  CellSize > 0.0 AND BlandChromatin > 1.0 AND CellShape > 0.0 THEN Class -> True     [ 0.1062992125984252 0.8937007874015748]
+Rule 4: IF  CellSize > 1.0 AND CellShape > 0.0 AND BlandChromatin > 0.0 THEN Class -> True     [ 0.099601593625498 0.900398406374502]
+
+####Average results for test data####
+Avg. Rule length: 4
+Avg. Number of attributes by rule: 3.75
+Avg. Coverage: 0.4842606149341142
+Avg. Support Completo: 0.9619326500732065
+Avg. Significance: 333.50987903388386
+Avg. Unusualness: 0.20462569804780523
+
+Accuracy Training: 0.9663250366032211
+Accuracy Test: 0.9663250366032211;
+  Time; 11

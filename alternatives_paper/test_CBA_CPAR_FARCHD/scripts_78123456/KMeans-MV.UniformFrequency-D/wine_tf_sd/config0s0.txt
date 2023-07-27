@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.wine_tf_sd/KMeans-MVs0.wine_tf_sd1tra.dat" "../datasets/KMeans-MV.wine_tf_sd/KMeans-MVs0.wine_tf_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.wine_tf_sd/KMeans-MV.UniformFrequency-Ds0.wine_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.wine_tf_sd/KMeans-MV.UniformFrequency-Ds0.wine_tf_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.wine_tf_sd/result1s0e0.txt"  
+
+seed = 78123456
+numIntervals = 10

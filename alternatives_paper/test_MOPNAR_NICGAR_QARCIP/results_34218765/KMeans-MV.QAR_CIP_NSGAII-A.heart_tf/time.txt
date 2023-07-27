@@ -1,0 +1,1 @@
+3  ../datasets/KMeans-MV.heart_tf/KMeans-MVs0.heart_tf1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.heart_tf/result0s0.tra

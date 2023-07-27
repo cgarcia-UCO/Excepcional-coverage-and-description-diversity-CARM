@@ -1,0 +1,37 @@
+GENERATED RULE 0
+   Antecedent
+	Variable preg = Label 0 	 (-8.5 0.0 8.5)
+   Consecuent: tested_negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable preg = Label 0 	 (-8.5 0.0 8.5)
+	Variable plas = Label 0 	 (-99.5 0.0 99.5)
+	Variable mass = Label 0 	 (-33.55 0.0 33.55)
+	Variable pedi = Label 2 	 (1.249 2.42 3.591)
+   Consecuent: tested_negative
+
+GENERATED RULE 2
+   Antecedent
+	Variable preg = Label 0 	 (-8.5 0.0 8.5)
+	Variable mass = Label 0 	 (-33.55 0.0 33.55)
+   Consecuent: tested_negative
+
+GENERATED RULE 0
+   Antecedent
+	Variable insu = Label 2 	 (423.0 846.0 1269.0)
+	Variable mass = Label 0 	 (-33.55 0.0 33.55)
+	Variable pedi = Label 1 	 (0.078 1.249 2.42)
+   Consecuent: tested_positive
+
+GENERATED RULE 1
+   Antecedent
+	Variable pedi = Label 1 	 (0.078 1.249 2.42)
+   Consecuent: tested_positive
+
+GENERATED RULE 2
+   Antecedent
+	Variable insu = Label 1 	 (0.0 423.0 846.0)
+	Variable pedi = Label 1 	 (0.078 1.249 2.42)
+   Consecuent: tested_positive
+

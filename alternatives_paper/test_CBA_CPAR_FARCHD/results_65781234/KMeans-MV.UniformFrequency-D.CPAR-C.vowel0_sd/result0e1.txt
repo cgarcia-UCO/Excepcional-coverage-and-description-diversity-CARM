@@ -1,0 +1,197 @@
+@Number of rules: 194 Number of Antecedents by rule: 1.8911917098445596
+
+1: F5 IS 1: negative
+2: F6 IS 4: negative
+3: F6 IS 4: negative
+4: F6 IS 4: negative
+5: F5 IS 1: negative
+6: F1 IS 4: negative
+7: F1 IS 8: negative
+8: F1 IS 9: negative
+9: F3 IS 0: negative
+10: F3 IS 1: negative
+11: F3 IS 3: negative
+12: F4 IS 0: negative
+13: F4 IS 1: negative
+14: F9 IS 4: negative
+15: F1 IS 4: negative
+16: F1 IS 8: negative
+17: F1 IS 9: negative
+18: F4 IS 0: negative
+19: F1 IS 4: negative
+20: F3 IS 1: negative
+21: F3 IS 0: negative
+22: F3 IS 3: negative
+23: F1 IS 8: negative
+24: F1 IS 4: negative
+25: F3 IS 1: negative
+26: F1 IS 9: negative
+27: F1 IS 4: negative
+28: F1 IS 8: negative
+29: F1 IS 9: negative
+30: F9 IS 4: negative
+31: F1 IS 4: negative
+32: F1 IS 8: negative
+33: F3 IS 1: negative
+34: F3 IS 0: negative
+35: F3 IS 2: negative
+36: F1 IS 7: negative
+37: F1 IS 7: negative
+38: F3 IS 2: negative
+39: F1 IS 7: negative
+40: F1 IS 7: negative
+41: Sex IS 0 AND F8 IS 8: negative
+42: Sex IS 0 AND F4 IS 2: negative
+43: Sex IS 0 AND F1 IS 3: negative
+44: Sex IS 0 AND F1 IS 3: negative
+45: Sex IS 0 AND F1 IS 3: negative
+46: Sex IS 0 AND F1 IS 3: negative
+47: Sex IS 0 AND F4 IS 3: negative
+48: TT IS 0 AND F1 IS 3: negative
+49: TT IS 0 AND F1 IS 3: negative
+50: TT IS 0 AND F1 IS 3: negative
+51: TT IS 0 AND F1 IS 3: negative
+52: TT IS 1 AND F3 IS 5: negative
+53: Sex IS 1 AND F2 IS 3: negative
+54: Sex IS 1 AND F2 IS 3: negative
+55: Sex IS 1 AND F2 IS 3: negative
+56: TT IS 0 AND F1 IS 2: negative
+57: TT IS 0 AND F1 IS 2: negative
+58: TT IS 0 AND F1 IS 2: negative
+59: TT IS 0 AND F0 IS 7: negative
+60: TT IS 0 AND F1 IS 2: negative
+61: TT IS 0 AND F1 IS 2: negative
+62: TT IS 0 AND F0 IS 7: negative
+63: Sex IS 0 AND F1 IS 2: negative
+64: Sex IS 0 AND F1 IS 2: negative
+65: Sex IS 0 AND F1 IS 2: negative
+66: TT IS 1 AND F3 IS 4: negative
+67: TT IS 1 AND F3 IS 4: negative
+68: Sex IS 0 AND F9 IS 5: negative
+69: TT IS 0 AND F5 IS 4: negative
+70: TT IS 0 AND F5 IS 4: negative
+71: TT IS 0 AND F5 IS 4: negative
+72: F5 IS 3: negative
+73: F5 IS 6: negative
+74: F0 IS 6: negative
+75: F5 IS 3: negative
+76: F0 IS 6: negative
+77: F2 IS 2: negative
+78: F2 IS 2: negative
+79: F5 IS 2: negative
+80: TT IS 1 AND F1 IS 5: negative
+81: TT IS 1 AND F1 IS 5: negative
+82: TT IS 1 AND F6 IS 3: negative
+83: TT IS 1 AND F1 IS 5: negative
+84: TT IS 1 AND F1 IS 5: negative
+85: TT IS 1 AND F6 IS 3: negative
+86: Sex IS 0 AND F1 IS 5: negative
+87: Sex IS 0 AND F1 IS 5: negative
+88: Sex IS 0 AND F1 IS 5: negative
+89: TT IS 1 AND F2 IS 7: negative
+90: TT IS 1 AND F2 IS 7: negative
+91: TT IS 1 AND F6 IS 1: negative
+92: TT IS 1 AND F6 IS 1: negative
+93: TT IS 1 AND F6 IS 1: negative
+94: TT IS 1 AND F1 IS 6: negative
+95: TT IS 1 AND F1 IS 6: negative
+96: TT IS 1 AND F1 IS 6: negative
+97: Sex IS 1 AND F7 IS 1: negative
+98: Sex IS 0 AND F1 IS 6: negative
+99: Sex IS 0 AND F1 IS 6: negative
+100: Sex IS 0 AND F1 IS 6: negative
+101: Sex IS 1 AND F3 IS 4: negative
+102: F9 IS 5: negative
+103: F0 IS 9 AND F1 IS 1: negative
+104: F0 IS 9 AND F1 IS 1: negative
+105: F0 IS 9 AND F1 IS 1: negative
+106: SpeakerNumber IS 3 AND F1 IS 1: negative
+107: SpeakerNumber IS 3 AND F1 IS 1: negative
+108: SpeakerNumber IS 3 AND F1 IS 1: negative
+109: SpeakerNumber IS 3 AND F1 IS 1: negative
+110: F1 IS 6: negative
+111: F1 IS 5: negative
+112: F1 IS 6: negative
+113: F1 IS 0 AND F8 IS 0: positive
+114: F1 IS 0 AND F8 IS 0: positive
+115: F1 IS 0 AND F8 IS 0: positive
+116: F1 IS 0 AND F8 IS 0: positive
+117: F1 IS 0 AND F8 IS 0: positive
+118: F1 IS 0 AND F8 IS 0: positive
+119: F1 IS 0 AND F8 IS 0: positive
+120: F1 IS 0 AND F8 IS 0: positive
+121: F1 IS 0 AND F8 IS 0: positive
+122: F6 IS 1 AND F7 IS 1: negative
+123: F1 IS 0 AND F3 IS 9: positive
+124: F1 IS 0 AND F3 IS 9: positive
+125: F1 IS 0 AND F3 IS 9: positive
+126: F1 IS 0 AND F3 IS 9: positive
+127: F1 IS 0 AND F3 IS 9: positive
+128: F1 IS 0 AND F3 IS 9: positive
+129: F1 IS 0 AND F3 IS 9: positive
+130: F0 IS 3 AND F1 IS 0: positive
+131: F0 IS 3 AND F1 IS 0: positive
+132: F1 IS 0 AND F3 IS 8: positive
+133: F1 IS 0 AND F3 IS 8: positive
+134: F1 IS 0 AND F3 IS 8: positive
+135: F1 IS 1 AND F3 IS 7: negative
+136: F1 IS 1 AND F3 IS 7: negative
+137: F1 IS 1 AND F7 IS 7: negative
+138: F1 IS 0 AND F9 IS 1: positive
+139: F1 IS 0 AND F9 IS 1: positive
+140: F1 IS 0 AND F9 IS 1: positive
+141: F1 IS 0 AND F9 IS 1: positive
+142: F1 IS 0 AND F9 IS 1: positive
+143: F0 IS 5 AND F1 IS 1: negative
+144: F0 IS 5 AND F1 IS 1: negative
+145: F0 IS 3 AND F1 IS 0 AND F7 IS 0: positive
+146: F0 IS 3 AND F1 IS 0 AND F7 IS 0: positive
+147: F0 IS 4 AND F1 IS 1: negative
+148: F3 IS 6 AND F6 IS 1: negative
+149: F0 IS 4 AND F1 IS 1: negative
+150: F3 IS 6 AND F6 IS 1: negative
+151: F1 IS 1 AND F9 IS 2: negative
+152: F1 IS 0 AND F3 IS 8 AND F7 IS 0: positive
+153: F1 IS 0 AND F3 IS 8 AND F7 IS 0: positive
+154: F1 IS 0 AND F3 IS 8 AND F7 IS 0: positive
+155: SpeakerNumber IS 9 AND F2 IS 9 AND F3 IS 9: positive
+156: F0 IS 4 AND F1 IS 0 AND F7 IS 0: positive
+157: F0 IS 4 AND F1 IS 0 AND F7 IS 0: positive
+158: F1 IS 0 AND F5 IS 8 AND F7 IS 0: positive
+159: F1 IS 0 AND F2 IS 0: positive
+160: F1 IS 0 AND F2 IS 0: positive
+161: F1 IS 0 AND F2 IS 0: positive
+162: F1 IS 0 AND F2 IS 0: positive
+163: F1 IS 0 AND F2 IS 0: positive
+164: F1 IS 0 AND F2 IS 0: positive
+165: F1 IS 0 AND F2 IS 0: positive
+166: F1 IS 0 AND F5 IS 7 AND F7 IS 0: positive
+167: F1 IS 0 AND F5 IS 7 AND F7 IS 0: positive
+168: F1 IS 0 AND F5 IS 7 AND F7 IS 0: positive
+169: SpeakerNumber IS 9 AND F0 IS 0 AND F2 IS 9: positive
+170: SpeakerNumber IS 9 AND F0 IS 0 AND F2 IS 9: positive
+171: F0 IS 0 AND F2 IS 9 AND F7 IS 3: positive
+172: F1 IS 0 AND F7 IS 0: positive
+173: F1 IS 0 AND F7 IS 0: positive
+174: F0 IS 0 AND F2 IS 9 AND F7 IS 3: positive
+175: F0 IS 0 AND F2 IS 9 AND F7 IS 3: positive
+176: F1 IS 0 AND F7 IS 0: positive
+177: F1 IS 1 AND F3 IS 9 AND F9 IS 0: positive
+178: F1 IS 1 AND F3 IS 9 AND F9 IS 0: positive
+179: SpeakerNumber IS 9 AND F1 IS 2 AND F2 IS 9: positive
+180: F1 IS 1 AND F3 IS 9 AND F9 IS 0: positive
+181: F1 IS 1 AND F3 IS 9 AND F9 IS 0: positive
+182: F0 IS 0 AND F2 IS 9 AND F7 IS 2: positive
+183: F1 IS 1 AND F3 IS 9 AND F9 IS 0: positive
+184: F2 IS 9 AND F3 IS 9 AND F5 IS 0: positive
+185: F0 IS 0 AND F2 IS 9 AND F3 IS 9 AND F5 IS 0: positive
+186: F0 IS 0 AND F2 IS 9 AND F9 IS 7: positive
+187: F0 IS 0 AND F2 IS 9 AND F9 IS 7: positive
+188: F0 IS 0 AND F2 IS 9 AND F9 IS 7: positive
+189: SpeakerNumber IS 9 AND F2 IS 9: positive
+190: SpeakerNumber IS 9 AND F2 IS 9: positive
+191: SpeakerNumber IS 9 AND F2 IS 9: positive
+192: F2 IS 9 AND F5 IS 8: positive
+193: SpeakerNumber IS 0 AND F0 IS 0 AND F2 IS 9: positive
+
+

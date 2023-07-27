@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Ca" value="
+NOT [5.4300999999999995, 9.48642]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+NOT [1.51140946, 1.51904578]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Al" value="
+NOT [0.81975, 1.9783600000000001]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+NOT [0.16777, 0.75752]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Na" value="
+NOT [11.56135, 14.36745]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+NOT [2.24061, 4.49]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="TypeGlass" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+NOT [2.6806300000000003, 4.49]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Si" value="
+[70.5716, 71.8092]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[13.70255, 14.3609]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Si" value="
+[70.4316, 71.1484]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+NOT [1.5133002, 1.52355622]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Al" value="
+NOT [2.21931, 3.0183999999999997]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+NOT [0.1513, 1.1906]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.58285]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50922, 0.73278]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Ca" value="
+[7.77568, 9.45424]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51531874, 1.5190091]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+NOT [0.0, 2.72084]" /></consequents>
+</rule>
+</association_rules>

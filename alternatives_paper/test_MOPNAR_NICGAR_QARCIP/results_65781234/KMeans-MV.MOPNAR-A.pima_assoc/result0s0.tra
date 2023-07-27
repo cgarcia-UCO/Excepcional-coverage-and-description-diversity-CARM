@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="skin" value="
+[40.0, 60.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.1, 50.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="skin" value="
+[36.0, 52.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.1, 46.7]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [38.0001, 66.9999]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [38.0001, 66.9999]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="age" value="
+NOT [28.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [7.0001, 17.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="skin" value="
+NOT [0.0, 35.9999]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [0.0, 37.799899999999994]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="mass" value="
+[0.0, 32.9]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [39.0001, 99.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="mass" value="
+[0.0, 31.6]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [39.0001, 99.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="skin" value="
+NOT [0.0, 35.9999]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [0.0, 37.899899999999995]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 15.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 39.9999]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 13.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 39.9999]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 13.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 40.9999]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="mass" value="
+[30.0, 46.7]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 10.9999]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 15.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 40.9999]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 98.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="plas" value="
+NOT [123.0001, 199.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [240.0001, 846.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="mass" value="
+NOT [1.0E-4, 48.799899999999994]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 89.9999]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="mass" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 95.9999]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="plas" value="
+NOT [123.0001, 197.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [325.0001, 846.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="plas" value="
+NOT [123.0001, 197.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [278.0001, 846.0]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="plas" value="
+NOT [123.0001, 197.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [285.0001, 846.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="age" value="
+[36.0, 58.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+[7.0, 11.0]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="preg" value="
+[8.0, 12.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[36.0, 60.0]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="plas" value="
+NOT [164.0001, 199.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [600.0001, 846.0]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="plas" value="
+NOT [164.0001, 199.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [545.0001, 846.0]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="age" value="
+[21.0, 35.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+[0.0, 4.0]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="pres" value="
+[0.0, 0.0]" /><attribute name="insu" value="
+NOT [1.0E-4, 846.0]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /><attribute name="skin" value="
+[40.0, 60.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.1, 49.7]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="age" value="
+NOT [28.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 46.1]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /><attribute name="class" value="
+tested_negative" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [38.0001, 66.9999]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /><attribute name="skin" value="
+[41.0, 49.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 49.3]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /><attribute name="skin" value="
+[41.0, 54.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 49.3]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="age" value="
+NOT [28.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 49.3]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /><attribute name="pedi" value="
+NOT [1.2510999999999999, 2.42]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [38.0001, 66.9999]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="insu" value="
+NOT [480.0001, 846.0]" /><attribute name="mass" value="
+[0.0, 31.6]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [39.0001, 99.0]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 14.0]" /><attribute name="mass" value="
+NOT [29.7001, 35.299899999999994]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 40.9999]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="insu" value="
+[15.0, 415.0]" /><attribute name="mass" value="
+NOT [32.700100000000006, 67.1]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+[10.0, 29.0]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="pres" value="
+NOT [1.0E-4, 91.9999]" /><attribute name="insu" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="pres" value="
+NOT [1.0E-4, 91.9999]" /><attribute name="mass" value="
+NOT [32.700100000000006, 67.1]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="skin" value="
+[0.0, 0.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 48.799899999999994]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 95.9999]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /><attribute name="pedi" value="
+NOT [0.3051, 2.42]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 95.9999]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="plas" value="
+NOT [115.0001, 199.0]" /><attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.299899999999994]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 95.9999]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.299899999999994]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 122.0]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="mass" value="
+NOT [40.600100000000005, 67.1]" /><attribute name="class" value="
+NOT tested_positive" /></antecedents>
+<consequents>
+<attribute name="plas" value="
+NOT [164.0001, 190.9999]" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="plas" value="
+NOT [164.0001, 199.0]" /><attribute name="class" value="
+NOT tested_positive" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [545.0001, 846.0]" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="preg" value="
+NOT [6.0001, 13.9999]" /><attribute name="plas" value="
+NOT [164.0001, 199.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [545.0001, 846.0]" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /><attribute name="skin" value="
+[40.0, 60.0]" /><attribute name="age" value="
+NOT [38.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.1, 49.7]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="insu" value="
+NOT [0.0, 159.9999]" /><attribute name="age" value="
+NOT [28.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 47.9]" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="insu" value="
+NOT [0.0, 159.9999]" /><attribute name="age" value="
+NOT [31.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 47.9]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /><attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="age" value="
+NOT [31.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 49.3]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="preg" value="
+NOT [4.0001, 17.0]" /><attribute name="pedi" value="
+NOT [1.2510999999999999, 2.42]" /><attribute name="class" value="
+tested_negative" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [38.0001, 66.9999]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="pedi" value="
+NOT [1.2510999999999999, 2.42]" /><attribute name="age" value="
+NOT [28.0001, 81.0]" /><attribute name="class" value="
+tested_negative" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [7.0001, 17.0]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /><attribute name="skin" value="
+[41.0, 52.0]" /><attribute name="age" value="
+NOT [28.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 49.3]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="preg" value="
+[0.0, 3.0]" /><attribute name="insu" value="
+[15.0, 415.0]" /><attribute name="mass" value="
+[18.2, 27.8]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+[10.0, 29.0]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="preg" value="
+NOT [6.0001, 17.0]" /><attribute name="pres" value="
+NOT [1.0E-4, 91.9999]" /><attribute name="pedi" value="
+NOT [0.3021, 2.42]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="preg" value="
+[2.0, 6.0]" /><attribute name="pres" value="
+NOT [1.0E-4, 91.9999]" /><attribute name="pedi" value="
+NOT [0.3371, 2.42]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="pres" value="
+NOT [1.0E-4, 91.9999]" /><attribute name="insu" value="
+[0.0, 0.0]" /><attribute name="mass" value="
+NOT [30.0001, 67.1]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="plas" value="
+NOT [115.0001, 199.0]" /><attribute name="skin" value="
+[0.0, 0.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="plas" value="
+[74.0, 115.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /><attribute name="pedi" value="
+NOT [0.3051, 2.42]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 99.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /><attribute name="age" value="
+NOT [30.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="plas" value="
+NOT [115.0001, 199.0]" /><attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /><attribute name="pedi" value="
+NOT [0.3051, 2.42]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /><attribute name="pedi" value="
+NOT [0.3051, 2.42]" /><attribute name="age" value="
+NOT [30.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="plas" value="
+NOT [115.0001, 199.0]" /><attribute name="mass" value="
+NOT [1.0E-4, 52.899899999999995]" /><attribute name="pedi" value="
+NOT [0.3051, 2.42]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 97.9999]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="plas" value="
+NOT [74.0001, 132.9999]" /><attribute name="pres" value="
+NOT [0.0, 65.9999]" /><attribute name="age" value="
+[36.0, 43.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+[7.0, 9.0]" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /><attribute name="skin" value="
+[41.0, 49.0]" /><attribute name="insu" value="
+NOT [0.0, 159.9999]" /><attribute name="age" value="
+NOT [31.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[38.4, 47.9]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="preg" value="
+[11.0, 14.0]" /><attribute name="pres" value="
+NOT [1.0E-4, 77.9999]" /><attribute name="skin" value="
+NOT [43.0001, 99.0]" /><attribute name="pedi" value="
+[0.137, 0.785]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [21.0, 39.9999]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="plas" value="
+NOT [81.0001, 128.9999]" /><attribute name="pres" value="
+NOT [0.0, 65.9999]" /><attribute name="skin" value="
+NOT [1.0E-4, 38.9999]" /><attribute name="age" value="
+[36.0, 43.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+[7.0, 9.0]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="preg" value="
+[7.0, 11.0]" /><attribute name="plas" value="
+NOT [0.0, 99.9999]" /><attribute name="pres" value="
+[66.0, 86.0]" /><attribute name="class" value="
+NOT tested_negative" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[41.0, 55.0]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="preg" value="
+[7.0, 11.0]" /><attribute name="plas" value="
+NOT [0.0, 98.9999]" /><attribute name="pres" value="
+[66.0, 86.0]" /><attribute name="mass" value="
+NOT [0.0, 28.6999]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[41.0, 54.0]" /></consequents>
+</rule>
+</association_rules>

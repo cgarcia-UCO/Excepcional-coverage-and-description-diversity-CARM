@@ -1,0 +1,115 @@
+@Number of rules: 55 Number of Antecedents by rule: 1.8518518518518519
+
+1: F5 IS 1: negative
+2: F6 IS 4: negative
+3: F1 IS 4: negative
+4: F1 IS 8: negative
+5: F1 IS 9: negative
+6: F3 IS 0: negative
+7: F3 IS 1: negative
+8: F3 IS 3: negative
+9: F4 IS 0: negative
+10: F4 IS 1: negative
+11: F9 IS 4: negative
+12: F1 IS 7: negative
+13: F3 IS 2: negative
+14: Sex IS 0 AND F8 IS 8: negative
+15: Sex IS 0 AND F8 IS 9: negative
+16: Sex IS 0 AND F4 IS 2: negative
+17: Sex IS 0 AND F1 IS 3: negative
+18: Sex IS 0 AND F4 IS 3: negative
+19: TT IS 0 AND F1 IS 3: negative
+20: TT IS 1 AND F3 IS 5: negative
+21: TT IS 1 AND F4 IS 3: negative
+22: Sex IS 1 AND F2 IS 3: negative
+23: TT IS 1 AND F5 IS 6: negative
+24: TT IS 0 AND F0 IS 7: negative
+25: TT IS 0 AND F1 IS 2: negative
+26: TT IS 0 AND F2 IS 2: negative
+27: Sex IS 0 AND F1 IS 2: negative
+28: TT IS 1 AND F3 IS 4: negative
+29: SpeakerNumber IS 9 AND F7 IS 1: negative
+30: Sex IS 1 AND F4 IS 6: negative
+31: Sex IS 0 AND F9 IS 5: negative
+32: TT IS 0 AND F5 IS 4: negative
+33: TT IS 1 AND F6 IS 2: negative
+34: TT IS 1 AND F1 IS 5: negative
+35: TT IS 1 AND F4 IS 5: negative
+36: TT IS 1 AND F6 IS 3: negative
+37: Sex IS 1 AND F6 IS 7: negative
+38: TT IS 1 AND F2 IS 7: negative
+39: TT IS 1 AND F6 IS 1: negative
+40: Sex IS 1 AND F7 IS 5: negative
+41: SpeakerNumber IS 9 AND F8 IS 3: negative
+42: TT IS 1 AND Sex IS 0 AND F5 IS 7: negative
+43: SpeakerNumber IS 3 AND F5 IS 0: negative
+44: Sex IS 1 AND F3 IS 4: negative
+45: TT IS 0 AND Sex IS 0 AND F3 IS 8: negative
+46: TT IS 0 AND Sex IS 1 AND F4 IS 7: negative
+47: TT IS 0 AND F9 IS 9: negative
+48: SpeakerNumber IS 3 AND F1 IS 1: negative
+49: SpeakerNumber IS 0 AND F7 IS 7: negative
+50: F1 IS 0 AND F8 IS 0: positive
+51: F7 IS 1 AND F8 IS 2: negative
+52: SpeakerNumber IS 4 AND F8 IS 1: negative
+53: TT IS 1 AND SpeakerNumber IS 6 AND Sex IS 0 AND F2 IS 2: negative
+54: SpeakerNumber IS 7 AND F7 IS 4: negative
+Default: positive
+
+
+@supp and conf:
+
+1: supp: 0.10121457489878542 AND conf: 1.0
+2: supp: 0.10121457489878542 AND conf: 1.0
+3: supp: 0.10020242914979757 AND conf: 1.0
+4: supp: 0.10020242914979757 AND conf: 1.0
+5: supp: 0.10020242914979757 AND conf: 1.0
+6: supp: 0.10020242914979757 AND conf: 1.0
+7: supp: 0.10020242914979757 AND conf: 1.0
+8: supp: 0.10020242914979757 AND conf: 1.0
+9: supp: 0.10020242914979757 AND conf: 1.0
+10: supp: 0.10020242914979757 AND conf: 1.0
+11: supp: 0.10020242914979757 AND conf: 1.0
+12: supp: 0.09919028340080972 AND conf: 1.0
+13: supp: 0.09919028340080972 AND conf: 1.0
+14: supp: 0.09615384615384616 AND conf: 1.0
+15: supp: 0.09109311740890688 AND conf: 1.0
+16: supp: 0.0708502024291498 AND conf: 1.0
+17: supp: 0.06477732793522267 AND conf: 1.0
+18: supp: 0.06174089068825911 AND conf: 1.0
+19: supp: 0.0597165991902834 AND conf: 1.0
+20: supp: 0.058704453441295545 AND conf: 1.0
+21: supp: 0.05668016194331984 AND conf: 1.0
+22: supp: 0.05668016194331984 AND conf: 1.0
+23: supp: 0.05566801619433198 AND conf: 1.0
+24: supp: 0.05465587044534413 AND conf: 1.0
+25: supp: 0.05465587044534413 AND conf: 1.0
+26: supp: 0.053643724696356275 AND conf: 1.0
+27: supp: 0.053643724696356275 AND conf: 1.0
+28: supp: 0.05263157894736842 AND conf: 1.0
+29: supp: 0.05263157894736842 AND conf: 1.0
+30: supp: 0.05263157894736842 AND conf: 1.0
+31: supp: 0.05161943319838057 AND conf: 1.0
+32: supp: 0.05060728744939271 AND conf: 1.0
+33: supp: 0.04959514170040486 AND conf: 1.0
+34: supp: 0.04757085020242915 AND conf: 1.0
+35: supp: 0.04757085020242915 AND conf: 1.0
+36: supp: 0.04757085020242915 AND conf: 1.0
+37: supp: 0.043522267206477734 AND conf: 1.0
+38: supp: 0.04251012145748988 AND conf: 1.0
+39: supp: 0.04149797570850203 AND conf: 1.0
+40: supp: 0.04149797570850203 AND conf: 1.0
+41: supp: 0.03441295546558704 AND conf: 1.0
+42: supp: 0.03441295546558704 AND conf: 1.0
+43: supp: 0.03340080971659919 AND conf: 1.0
+44: supp: 0.03340080971659919 AND conf: 1.0
+45: supp: 0.032388663967611336 AND conf: 1.0
+46: supp: 0.03137651821862348 AND conf: 1.0
+47: supp: 0.030364372469635626 AND conf: 1.0
+48: supp: 0.027327935222672066 AND conf: 1.0
+49: supp: 0.02327935222672065 AND conf: 1.0
+50: supp: 0.02327935222672065 AND conf: 1.0
+51: supp: 0.022267206477732792 AND conf: 1.0
+52: supp: 0.02125506072874494 AND conf: 1.0
+53: supp: 0.02125506072874494 AND conf: 1.0
+54: supp: 0.018218623481781375 AND conf: 1.0

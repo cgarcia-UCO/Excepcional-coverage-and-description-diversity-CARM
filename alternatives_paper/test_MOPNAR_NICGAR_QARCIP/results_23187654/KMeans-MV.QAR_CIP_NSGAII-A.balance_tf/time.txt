@@ -1,0 +1,1 @@
+1  ../datasets/KMeans-MV.balance_tf/KMeans-MVs0.balance_tf1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.balance_tf/result0s0.tra

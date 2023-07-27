@@ -1,0 +1,40 @@
+Rule 0: PetalWidth = 8 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 1: PetalLength = 9 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 2: PetalLength = 7 THEN Class = True
+[  0.19  0.81  ]
+
+
+Rule 3: PetalWidth = 7 THEN Class = True
+[  0.11  0.89  ]
+
+
+Rule 4: SepalLength = 1 THEN Class = False
+[  0.94  0.06  ]
+
+
+Rule 5: SepalLength = 0 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 6: PetalWidth = 4 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 7: PetalWidth = 6 THEN Class = False
+[  0.83  0.17  ]
+
+
+Rule 8: PetalWidth = 1 AND PetalLength = 1 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 9: PetalLength = 3 THEN Class = False
+[  1.00  0.00  ]
+
+

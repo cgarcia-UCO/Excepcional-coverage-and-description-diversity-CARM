@@ -1,0 +1,15 @@
+GENERATED RULE 0
+   Antecedent
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable AlkPhosphate = Label 1 	 (26.0 160.5 295.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+

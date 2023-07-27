@@ -1,0 +1,4 @@
+{plas=[130,199],mass=[34.7,67.1],age=[36,81]} => {class=tested_positive}
+{preg=[5,17],plas=[130,199],mass=[34.7,67.1]} => {class=tested_positive}
+{plas=[130,199],insu=[0,94.3),mass=[34.7,67.1]} => {class=tested_positive}
+{preg=[5,17],plas=[130,199],mass=[34.7,67.1],age=[36,81]} => {class=tested_positive}

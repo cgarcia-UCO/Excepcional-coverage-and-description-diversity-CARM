@@ -1,0 +1,40 @@
+Rule 0: F4 = 0 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 1: F3 = 3 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 2: F3 = 1 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 3: F4 = 3 THEN Class = negative
+[  0.02  0.98  ]
+
+
+Rule 4: F9 = 4 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 5: F4 = 1 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 6: F1 = 8 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 7: F1 = 4 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 8: F3 = 0 THEN Class = negative
+[  0.00  1.00  ]
+
+
+Rule 9: F1 = 9 THEN Class = negative
+[  0.00  1.00  ]
+
+

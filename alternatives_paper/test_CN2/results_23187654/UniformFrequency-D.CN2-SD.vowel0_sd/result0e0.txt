@@ -1,0 +1,18 @@
+
+Rule 1: IF  F1 <= 1.0 AND F3 > 3.0 AND F4 > 3.0 AND F5 > 2.0 AND F6 <> 4.0 AND F9 <> 4.0 THEN Class -> positive     [ 0.6363636363636364 0.36363636363636365]
+Rule 2: IF  F3 > 5.0 AND F4 > 2.0 AND F1 <> 4.0 AND F6 <> 4.0 AND F5 <> 1.0 AND F2 <> 2.0 AND F9 <> 4.0 AND F0 <> 7.0 AND F8 <> 8.0 THEN Class -> positive     [ 0.425531914893617 0.574468085106383]
+Rule 3: IF  F1 > 0.0 AND F2 <= 8.0 THEN Class -> negative     [ 0.006218905472636816 0.9937810945273632]
+Rule 4: IF  F1 > 0.0 AND F3 <> 9.0 THEN Class -> negative     [ 0.006188118811881188 0.9938118811881188]
+Rule 5: IF  F1 > 0.0 AND F0 > 0.0 THEN Class -> negative     [ 0.008849557522123894 0.9911504424778761]
+
+####Average results for test data####
+Avg. Rule length: 5
+Avg. Number of attributes by rule: 4.2
+Avg. Coverage: 0.5489878542510122
+Avg. Support Completo: 0.9625506072874493
+Avg. Significance: 140.36195393311945
+Avg. Unusualness: 0.04632515502426304
+
+Accuracy Training: 0.9686234817813765
+Accuracy Test: 0.9686234817813765;
+  Time; 171

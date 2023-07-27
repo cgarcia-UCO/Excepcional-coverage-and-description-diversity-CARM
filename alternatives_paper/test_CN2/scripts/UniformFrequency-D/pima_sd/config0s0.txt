@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/pima_sd/pima_sd.dat" "../datasets/pima_sd/pima_sd.dat" 
+outputData = "../datasets/UniformFrequency-D.pima_sd/UniformFrequency-Ds0.pima_sd1tra.dat" "../datasets/UniformFrequency-D.pima_sd/UniformFrequency-Ds0.pima_sd1tst.dat" "../datasets/UniformFrequency-D.pima_sd/result1s0e0.txt"  
+
+seed = 1286082570
+numIntervals = 10

@@ -1,0 +1,40 @@
+Rule 0: Sex = 0 AND Anorexia = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 1: Varices = 1 AND Anorexia = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 2: Ascites = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 3: Varices = 1 AND Sex = 0 AND Anorexia = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 4: Sex = 0 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 5: Varices = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 6: Anorexia = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 7: Varices = 1 AND Sex = 0 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 8: Varices = 1 AND Ascites = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 9: Varices = 1 AND Sex = 0 AND Anorexia = 1 AND Ascites = 1 AND LiverBig = 1 AND LiverFirm = 1 AND Fatigue = 1 AND AlbuMin = 5 THEN Class = False
+[  1.00  0.00  ]
+
+

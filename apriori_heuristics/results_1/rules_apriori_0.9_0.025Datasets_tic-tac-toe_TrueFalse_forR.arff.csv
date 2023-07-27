@@ -1,0 +1,12 @@
+{TopMiddle= o,MiddleMiddle= o,BottomMiddle= o} => {Class= True}
+{BottomLeft= o,BottomMiddle= o,BottomRight= o} => {Class= True}
+{TopLeft=o,TopMiddle= o,TopRight= o} => {Class= True}
+{MiddleLeft= o,MiddleMiddle= o,MiddleRight= o} => {Class= True}
+{TopRight= o,MiddleRight= o,BottomRight= o} => {Class= True}
+{TopLeft=o,MiddleLeft= o,BottomLeft= o} => {Class= True}
+{TopLeft=o,MiddleMiddle= o,BottomRight= o} => {Class= True}
+{TopRight= o,MiddleMiddle= o,BottomLeft= o} => {Class= True}
+{TopLeft=o,TopMiddle= x,MiddleLeft= x,MiddleMiddle= o} => {Class= True}
+{TopMiddle= x,TopRight= o,MiddleMiddle= o,MiddleRight= x} => {Class= True}
+{MiddleLeft= x,MiddleMiddle= o,BottomLeft= o,BottomMiddle= x} => {Class= True}
+{MiddleMiddle= o,MiddleRight= x,BottomMiddle= x,BottomRight= o} => {Class= True}

@@ -1,0 +1,1 @@
+2  null../results/KMeans-MV.MOPNAR-A.glass_tf/result0s0.tra

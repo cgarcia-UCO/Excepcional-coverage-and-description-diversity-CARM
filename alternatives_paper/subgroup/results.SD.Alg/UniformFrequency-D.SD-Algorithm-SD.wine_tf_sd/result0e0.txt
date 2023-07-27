@@ -1,0 +1,33 @@
+Rule 1: IF  flavanoids > 3 THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  OD280/OD315 > 3 THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 3: IF  Hue > 3 THEN Class -> False  
+[  0.99  0.01  ]
+
+Rule 4: IF  TotalPhenols > 4 THEN Class -> False  
+[  0.98  0.02  ]
+
+Rule 5: IF  MalicAcid <= 5 THEN Class -> False  
+[  0.94  0.06  ]
+
+Rule 6: IF  flavanoids <= 1 AND Alcohol <> 2 THEN Class -> True  
+[  0.00  1.00  ]
+
+Rule 7: IF  flavanoids <= 1 THEN Class -> True  
+[  0.03  0.97  ]
+
+Rule 8: IF  OD280/OD315 <= 1 THEN Class -> True  
+[  0.06  0.94  ]
+
+Rule 9: IF  Hue <= 1 THEN Class -> True  
+[  0.08  0.92  ]
+
+Rule 10: IF  ColorIntensity > 7 THEN Class -> True  
+[  0.22  0.78  ]
+
+
+
+Time: 0.353

@@ -1,0 +1,50 @@
+{TopRight= b,MiddleMiddle= o,BottomLeft= b} => {Class= True}
+{TopLeft=b,MiddleMiddle= o,BottomRight= b} => {Class= True}
+{TopMiddle= o,MiddleMiddle= o,BottomMiddle= o} => {Class= True}
+{BottomLeft= o,BottomMiddle= o,BottomRight= o} => {Class= True}
+{TopLeft=o,TopMiddle= o,TopRight= o} => {Class= True}
+{MiddleLeft= o,MiddleMiddle= o,MiddleRight= o} => {Class= True}
+{TopRight= o,MiddleRight= o,BottomRight= o} => {Class= True}
+{TopLeft=o,MiddleLeft= o,BottomLeft= o} => {Class= True}
+{TopLeft=o,MiddleMiddle= o,BottomRight= o} => {Class= True}
+{TopRight= o,MiddleMiddle= o,BottomLeft= o} => {Class= True}
+{TopRight= b,MiddleMiddle= o,MiddleRight= x,BottomMiddle= o} => {Class= True}
+{TopMiddle= x,TopRight= b,MiddleLeft= o,MiddleMiddle= o} => {Class= True}
+{TopLeft=b,MiddleLeft= x,MiddleMiddle= o,BottomMiddle= o} => {Class= True}
+{TopLeft=b,TopMiddle= x,MiddleMiddle= o,MiddleRight= o} => {Class= True}
+{TopMiddle= o,MiddleMiddle= o,MiddleRight= x,BottomRight= b} => {Class= True}
+{MiddleLeft= o,MiddleMiddle= o,BottomMiddle= x,BottomRight= b} => {Class= True}
+{TopMiddle= o,MiddleLeft= x,MiddleMiddle= o,BottomLeft= b} => {Class= True}
+{MiddleMiddle= o,MiddleRight= o,BottomLeft= b,BottomMiddle= x} => {Class= True}
+{TopMiddle= b,TopRight= x,BottomLeft= o,BottomRight= o} => {Class= True}
+{TopLeft=x,TopMiddle= b,BottomLeft= o,BottomRight= o} => {Class= True}
+{TopRight= o,MiddleLeft= b,BottomLeft= x,BottomRight= o} => {Class= True}
+{TopLeft=x,TopRight= o,MiddleLeft= b,BottomRight= o} => {Class= True}
+{TopLeft=o,MiddleRight= b,BottomLeft= o,BottomRight= x} => {Class= True}
+{TopLeft=o,TopRight= x,MiddleRight= b,BottomLeft= o} => {Class= True}
+{TopLeft=o,TopRight= o,BottomMiddle= b,BottomRight= x} => {Class= True}
+{TopLeft=o,TopRight= o,BottomLeft= x,BottomMiddle= b} => {Class= True}
+{TopLeft=o,TopMiddle= x,MiddleLeft= x,MiddleMiddle= o} => {Class= True}
+{TopMiddle= x,TopRight= o,MiddleMiddle= o,MiddleRight= x} => {Class= True}
+{MiddleLeft= x,MiddleMiddle= o,BottomLeft= o,BottomMiddle= x} => {Class= True}
+{MiddleMiddle= o,MiddleRight= x,BottomMiddle= x,BottomRight= o} => {Class= True}
+{TopLeft=o,MiddleLeft= x,BottomLeft= x,BottomMiddle= x,BottomRight= o} => {Class= True}
+{TopLeft=o,TopMiddle= x,TopRight= x,MiddleRight= x,BottomRight= o} => {Class= True}
+{TopLeft=o,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomMiddle= x} => {Class= True}
+{TopLeft=o,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomLeft= x} => {Class= True}
+{TopLeft=o,TopMiddle= x,MiddleMiddle= o,MiddleRight= x,BottomMiddle= x} => {Class= True}
+{TopLeft=o,TopMiddle= x,TopRight= x,MiddleMiddle= o,BottomMiddle= x} => {Class= True}
+{TopLeft=x,TopMiddle= x,TopRight= o,MiddleLeft= x,BottomLeft= o} => {Class= True}
+{TopRight= o,MiddleRight= x,BottomLeft= o,BottomMiddle= x,BottomRight= x} => {Class= True}
+{TopRight= o,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomMiddle= x} => {Class= True}
+{TopMiddle= x,TopRight= o,MiddleLeft= x,MiddleMiddle= o,BottomMiddle= x} => {Class= True}
+{TopRight= o,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomRight= x} => {Class= True}
+{TopLeft=x,TopMiddle= x,TopRight= o,MiddleMiddle= o,BottomMiddle= x} => {Class= True}
+{TopMiddle= x,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomLeft= o} => {Class= True}
+{TopLeft=x,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomLeft= o} => {Class= True}
+{TopMiddle= x,MiddleMiddle= o,MiddleRight= x,BottomLeft= o,BottomMiddle= x} => {Class= True}
+{TopMiddle= x,MiddleMiddle= o,BottomLeft= o,BottomMiddle= x,BottomRight= x} => {Class= True}
+{TopMiddle= x,MiddleLeft= x,MiddleMiddle= o,BottomMiddle= x,BottomRight= o} => {Class= True}
+{TopMiddle= x,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomRight= o} => {Class= True}
+{TopRight= x,MiddleLeft= x,MiddleMiddle= o,MiddleRight= x,BottomRight= o} => {Class= True}
+{TopMiddle= x,MiddleMiddle= o,BottomLeft= x,BottomMiddle= x,BottomRight= o} => {Class= True}

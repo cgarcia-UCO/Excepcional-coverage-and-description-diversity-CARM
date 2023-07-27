@@ -1,0 +1,16 @@
+
+Rule 1: IF  PetalLength <= 6.0 AND PetalWidth <= 6.0 THEN Class -> False     [ 1.0 0.0]
+Rule 2: IF  PetalWidth > 6.0 THEN Class -> True     [ 0.041666666666666664 0.9583333333333334]
+Rule 3: IF  PetalLength > 6.0 THEN Class -> True     [ 0.0784313725490196 0.9215686274509803]
+
+####Average results for test data####
+Avg. Rule length: 3
+Avg. Number of attributes by rule: 1.3333333333333333
+Avg. Coverage: 0.4311111111111111
+Avg. Support Completo: 0.9666666666666667
+Avg. Significance: 80.52538419800665
+Avg. Unusualness: 0.20872912163494892
+
+Accuracy Training: 0.9666666666666667
+Accuracy Test: 0.9666666666666667;
+  Time; 0

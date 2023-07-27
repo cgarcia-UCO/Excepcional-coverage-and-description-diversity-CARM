@@ -1,0 +1,45 @@
+@Data Base:
+
+@Number of Values in Variable 1: 4
+Buying:
+vhigh
+high
+med
+low
+
+
+@Number of Values in Variable 2: 4
+Maint:
+vhigh
+high
+med
+low
+
+
+@Number of Values in Variable 3: 4
+Doors:
+2
+3
+4
+5more
+
+
+@Number of Values in Variable 4: 3
+Persons:
+2
+4
+more
+
+
+@Number of Values in Variable 5: 3
+Lug_boot:
+small
+med
+big
+
+
+@Number of Values in Variable 6: 3
+Safety:
+low
+med
+high

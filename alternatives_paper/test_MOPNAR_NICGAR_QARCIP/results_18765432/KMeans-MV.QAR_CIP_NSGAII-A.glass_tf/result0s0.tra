@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Ca" value="
+[13.43544, 13.43544]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.52613924, 1.52613924]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="RI" value="
+[1.51115, 1.51115]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[17.38, 17.38]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Mg" value="
+[2.84217, 3.92875]" /></antecedents>
+<consequents>
+<attribute name="TypeGlass" value="
+False" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Si" value="
+[75.41, 75.41]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[17.38, 17.38]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Mg" value="
+[3.33158, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.68931]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Ca" value="
+[6.92564, 6.95792]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51315464, 1.5132002]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Al" value="
+[1.1888, 1.53869]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.67068]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="K" value="
+[0.3105, 0.3105]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[70.4316, 70.4316]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Ca" value="
+[9.70172, 9.70172]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[0.2394, 0.2394]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="RI" value="
+[1.51743728, 1.51812068]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[1.05077, 1.42955]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Al" value="
+[1.1888, 1.53869]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.44091, 0.67068]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="Al" value="
+[3.0185, 3.04097]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51315464, 1.5132002]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Ba" value="
+[3.15, 3.15]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.10044, 2.10044]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Na" value="
+[14.24785, 14.24785]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.08912, 3.08912]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="Al" value="
+[2.27057, 2.73923]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[0.5292, 0.80955]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="Ca" value="
+[7.07628, 7.07628]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.08912, 3.08912]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="RI" value="
+[1.52019366, 1.52019366]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[13.98185, 13.98185]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Si" value="
+[69.81, 69.81]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[13.29556, 13.29556]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="RI" value="
+[1.51315464, 1.5132002]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[3.0185, 3.04097]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Ba" value="
+[1.67895, 1.67895]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[70.4316, 70.4316]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Ca" value="
+[6.92564, 6.95792]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[3.0185, 3.04097]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="Al" value="
+[3.0185, 3.04097]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[6.21, 6.21]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51925968]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.45424]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="Na" value="
+[10.73, 10.73]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[3.15, 3.15]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="Al" value="
+[0.51149, 1.62857]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[0.0, 0.1386]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.52965]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.06831, 0.96876]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="K" value="
+[1.68291, 1.68291]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[3.5, 3.5]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51823458]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.42196]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51823458]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.05612]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51823458]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.22828]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="RI" value="
+[1.51568322, 1.51755118]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 8.80864]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="RI" value="
+[1.51568322, 1.51755118]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 8.78712]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="RI" value="
+[1.51130946, 1.51130946]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[1.1907, 1.1907]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="Al" value="
+[0.29, 0.90953]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0, 0.22977]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="K" value="
+[1.75743, 1.75743]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[1.1907, 1.1907]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="Mg" value="
+[3.33158, 3.65935]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.72036]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="Na" value="
+[12.2994, 12.2994]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.53393, 1.53393]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="Si" value="
+[69.8884, 69.8884]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[14.00845, 14.00845]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="Na" value="
+[12.3526, 13.52965]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.37881, 0.73278]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="Ca" value="
+[7.77568, 9.22828]" /></antecedents>
+<consequents>
+<attribute name="TypeGlass" value="
+False" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="RI" value="
+[1.5266404, 1.5277794]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[0.65915, 0.7715]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="Na" value="
+[14.99265, 14.99265]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[0.78126, 0.78126]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="Ca" value="
+[7.82948, 9.07764]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51509094, 1.5193508]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="Al" value="
+[2.21921, 2.21921]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[1.45935, 1.45935]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="Mg" value="
+[3.20137, 3.20137]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[1.1907, 1.1907]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="Al" value="
+[3.5, 3.5]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[14.00845, 14.00845]" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="Ba" value="
+[0.40005, 1.71045]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="Ca" value="
+[7.82948, 9.85236]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0, 0.75762]" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="Ba" value="
+[2.1987, 2.1987]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[14.00845, 14.00845]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="Na" value="
+[14.14145, 15.15225]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0, 0.22977]" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="Al" value="
+[2.25131, 2.88047]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="Si" value="
+[69.8884, 69.8884]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[1.68291, 1.68291]" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="Al" value="
+[0.34136, 0.34136]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[17.38, 17.38]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="Ca" value="
+[9.02384, 9.02384]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[2.81074, 2.81074]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="Ba" value="
+[0.5292, 0.67095]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.25131, 2.73923]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="Al" value="
+[1.1888, 1.60931]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.3726, 0.72036]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="Al" value="
+[1.14065, 1.42955]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50301, 0.65205]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="RI" value="
+[1.52408904, 1.52408904]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[10.78848, 10.78848]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="Na" value="
+[11.4482, 11.4482]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.52474966, 1.52474966]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="Na" value="
+[10.73, 10.73]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[13.29556, 13.29556]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="Mg" value="
+[2.90054, 2.90054]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[10.78848, 10.78848]" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="Ba" value="
+[3.15, 3.15]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[13.29556, 13.29556]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="RI" value="
+[1.523679, 1.523679]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[12.24108, 12.24108]" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="RI" value="
+[1.52019366, 1.52320062]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[71.35, 72.3188]" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="RI" value="
+[1.52121876, 1.52320062]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[9.48652, 10.568]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="RI" value="
+[1.52019366, 1.52408904]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[71.1484, 72.3188]" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="Ca" value="
+[7.82948, 8.80864]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51568322, 1.51812068]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="Ba" value="
+[2.8791, 2.8791]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[6.47372, 6.47372]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="Al" value="
+[1.82117, 1.82117]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[6.47372, 6.47372]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="Na" value="
+[12.19965, 13.8289]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.96876]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="K" value="
+[0.52164, 0.6831]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.82948, 9.1422]" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="RI" value="
+[1.52064926, 1.52064926]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[1.64115, 1.64115]" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="Na" value="
+[12.19965, 13.8289]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.73278]" /></consequents>
+</rule>
+<rule id="73">
+<antecedents>
+<attribute name="K" value="
+[0.0, 0.04968]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[14.2279, 15.15225]" /></consequents>
+</rule>
+<rule id="74">
+<antecedents>
+<attribute name="Al" value="
+[1.87895, 1.87895]" /></antecedents>
+<consequents>
+<attribute name="Fe" value="
+[0.1734, 0.1734]" /></consequents>
+</rule>
+<rule id="75">
+<antecedents>
+<attribute name="K" value="
+[6.21, 6.21]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[6.92564, 6.95792]" /></consequents>
+</rule>
+<rule id="76">
+<antecedents>
+<attribute name="K" value="
+[0.8073, 0.8073]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[11.4482, 11.4482]" /></consequents>
+</rule>
+<rule id="77">
+<antecedents>
+<attribute name="Na" value="
+[12.45235, 13.58285]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.68931]" /></consequents>
+</rule>
+<rule id="78">
+<antecedents>
+<attribute name="Ba" value="
+[2.1987, 2.1987]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[1.68291, 1.68291]" /></consequents>
+</rule>
+<rule id="79">
+<antecedents>
+<attribute name="K" value="
+[0.8073, 0.8073]" /></antecedents>
+<consequents>
+<attribute name="Fe" value="
+[0.1734, 0.1734]" /></consequents>
+</rule>
+<rule id="80">
+<antecedents>
+<attribute name="Al" value="
+[1.87895, 1.87895]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[11.4482, 11.4482]" /></consequents>
+</rule>
+<rule id="81">
+<antecedents>
+<attribute name="RI" value="
+[1.5166172, 1.5166172]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.51118, 3.51118]" /></consequents>
+</rule>
+<rule id="82">
+<antecedents>
+<attribute name="Ca" value="
+[14.40384, 14.96336]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.5266404, 1.5277794]" /></consequents>
+</rule>
+<rule id="83">
+<antecedents>
+<attribute name="Al" value="
+[1.65104, 1.65104]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[11.53092, 11.53092]" /></consequents>
+</rule>
+<rule id="84">
+<antecedents>
+<attribute name="Al" value="
+[1.87895, 1.87895]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.8073, 0.8073]" /></consequents>
+</rule>
+<rule id="85">
+<antecedents>
+<attribute name="RI" value="
+[1.51315464, 1.5132002]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[6.92564, 6.95792]" /></consequents>
+</rule>
+<rule id="86">
+<antecedents>
+<attribute name="Ca" value="
+[7.77568, 8.80864]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51566044, 1.51910022]" /></consequents>
+</rule>
+<rule id="87">
+<antecedents>
+<attribute name="Fe" value="
+[0.1734, 0.1734]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[13.24176, 13.24176]" /></consequents>
+</rule>
+<rule id="88">
+<antecedents>
+<attribute name="Fe" value="
+[0.2601, 0.2601]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.17106, 2.17106]" /></consequents>
+</rule>
+<rule id="89">
+<antecedents>
+<attribute name="Na" value="
+[14.00845, 14.00845]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[5.87116, 5.87116]" /></consequents>
+</rule>
+<rule id="90">
+<antecedents>
+<attribute name="RI" value="
+[1.52058092, 1.52058092]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.17106, 2.17106]" /></consequents>
+</rule>
+<rule id="91">
+<antecedents>
+<attribute name="Al" value="
+[2.34119, 2.73923]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[0.5292, 0.6615]" /></consequents>
+</rule>
+<rule id="92">
+<antecedents>
+<attribute name="Na" value="
+[15.79065, 15.79065]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.3105, 0.3105]" /></consequents>
+</rule>
+<rule id="93">
+<antecedents>
+<attribute name="Na" value="
+[13.9885, 13.9885]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.01863, 0.01863]" /></consequents>
+</rule>
+<rule id="94">
+<antecedents>
+<attribute name="Al" value="
+[2.79059, 2.79059]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[9.04536, 9.04536]" /></consequents>
+</rule>
+<rule id="95">
+<antecedents>
+<attribute name="Na" value="
+[17.38, 17.38]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[75.41, 75.41]" /></consequents>
+</rule>
+<rule id="96">
+<antecedents>
+<attribute name="Mg" value="
+[3.33158, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.72036]" /></consequents>
+</rule>
+<rule id="97">
+<antecedents>
+<attribute name="Na" value="
+[14.2013, 14.2013]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[9.04536, 9.04536]" /></consequents>
+</rule>
+<rule id="98">
+<antecedents>
+<attribute name="K" value="
+[0.34776, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[12.15975, 13.5629]" /></consequents>
+</rule>
+<rule id="99">
+<antecedents>
+<attribute name="Ca" value="
+[5.87116, 5.87116]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[1.68291, 1.68291]" /></consequents>
+</rule>
+<rule id="100">
+<antecedents>
+<attribute name="Ba" value="
+[1.62855, 1.62855]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[1.45935, 1.45935]" /></consequents>
+</rule>
+<rule id="101">
+<antecedents>
+<attribute name="Si" value="
+[75.1804, 75.1804]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[11.94695, 11.94695]" /></consequents>
+</rule>
+<rule id="102">
+<antecedents>
+<attribute name="Fe" value="
+[0.51, 0.51]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[10.56252, 10.56252]" /></consequents>
+</rule>
+<rule id="103">
+<antecedents>
+<attribute name="Si" value="
+[72.8508, 73.7188]" /><attribute name="K" value="
+[0.0, 0.04968]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="104">
+<antecedents>
+<attribute name="RI" value="
+[1.51743728, 1.51812068]" /><attribute name="Si" value="
+[72.61, 73.702]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[1.05077, 1.42955]" /></consequents>
+</rule>
+<rule id="105">
+<antecedents>
+<attribute name="K" value="
+[0.0621, 0.72036]" /><attribute name="Ca" value="
+[7.77568, 8.99156]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.97814]" /></consequents>
+</rule>
+<rule id="106">
+<antecedents>
+<attribute name="Na" value="
+[12.65185, 13.2969]" /><attribute name="Al" value="
+[1.0604, 1.41029]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.55269, 0.63963]" /></consequents>
+</rule>
+<rule id="107">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.5190091]" /><attribute name="K" value="
+[0.39123, 0.68931]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.13144]" /></consequents>
+</rule>
+<rule id="108">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.5193508]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.22828]" /></consequents>
+</rule>
+<rule id="109">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51711836]" /><attribute name="Mg" value="
+[3.33158, 3.6818]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.82948, 8.37824]" /></consequents>
+</rule>
+<rule id="110">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51711836]" /><attribute name="Mg" value="
+[3.44832, 3.6818]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.82948, 8.37824]" /></consequents>
+</rule>
+<rule id="111">
+<antecedents>
+<attribute name="Mg" value="
+[3.17892, 3.97814]" /><attribute name="K" value="
+[0.37881, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.1422]" /></consequents>
+</rule>
+<rule id="112">
+<antecedents>
+<attribute name="Na" value="
+[12.3526, 13.52965]" /><attribute name="Ca" value="
+[7.77568, 9.22828]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.37881, 0.73278]" /></consequents>
+</rule>
+<rule id="113">
+<antecedents>
+<attribute name="K" value="
+[0.0, 0.73278]" /><attribute name="Ca" value="
+[7.77568, 9.22828]" /></antecedents>
+<consequents>
+<attribute name="TypeGlass" value="
+False" /></consequents>
+</rule>
+<rule id="114">
+<antecedents>
+<attribute name="Na" value="
+[13.8688, 14.853]" /><attribute name="Ba" value="
+[0.53865, 0.80955]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.34119, 2.73923]" /></consequents>
+</rule>
+<rule id="115">
+<antecedents>
+<attribute name="Na" value="
+[12.61195, 13.33015]" /><attribute name="Ca" value="
+[8.3352, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.54027, 0.65205]" /></consequents>
+</rule>
+<rule id="116">
+<antecedents>
+<attribute name="Al" value="
+[0.66878, 0.7715]" /><attribute name="K" value="
+[0.0, 0.0621]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.5266404, 1.5277794]" /></consequents>
+</rule>
+<rule id="117">
+<antecedents>
+<attribute name="Na" value="
+[12.3526, 13.52965]" /><attribute name="Ca" value="
+[7.82948, 9.22828]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50301, 0.72036]" /></consequents>
+</rule>
+<rule id="118">
+<antecedents>
+<attribute name="Na" value="
+[14.2279, 15.15225]" /><attribute name="Si" value="
+[72.9908, 73.7188]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="119">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.52965]" /><attribute name="Ca" value="
+[7.77568, 8.99156]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.37881, 0.72036]" /></consequents>
+</rule>
+<rule id="120">
+<antecedents>
+<attribute name="RI" value="
+[1.51609326, 1.51859906]" /><attribute name="Mg" value="
+[3.33158, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.6831]" /></consequents>
+</rule>
+<rule id="121">
+<antecedents>
+<attribute name="RI" value="
+[1.51609326, 1.51869018]" /><attribute name="Al" value="
+[1.10855, 1.42955]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50301, 0.65205]" /></consequents>
+</rule>
+<rule id="122">
+<antecedents>
+<attribute name="Ca" value="
+[8.3352, 8.94852]" /><attribute name="Ba" value="
+[0.5292, 0.67095]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.25131, 2.51132]" /></consequents>
+</rule>
+<rule id="123">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.5629]" /><attribute name="Ca" value="
+[7.82948, 8.80864]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.54027, 0.72036]" /></consequents>
+</rule>
+<rule id="124">
+<antecedents>
+<attribute name="Mg" value="
+[0.0, 0.0]" /><attribute name="Ba" value="
+[0.5292, 0.80955]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.25131, 2.73923]" /></consequents>
+</rule>
+<rule id="125">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.3726, 0.68931]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="126">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51720948]" /><attribute name="K" value="
+[0.3726, 0.68931]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="127">
+<antecedents>
+<attribute name="K" value="
+[0.0, 0.08073]" /><attribute name="Ba" value="
+[0.5292, 0.6615]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.34119, 2.73923]" /></consequents>
+</rule>
+<rule id="128">
+<antecedents>
+<attribute name="Na" value="
+[12.19965, 13.8289]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0621, 0.73278]" /></consequents>
+</rule>
+<rule id="129">
+<antecedents>
+<attribute name="Na" value="
+[12.45235, 13.58285]" /><attribute name="Ca" value="
+[7.86176, 9.1422]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.68931]" /></consequents>
+</rule>
+<rule id="130">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51720948]" /><attribute name="K" value="
+[0.3726, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.60996]" /></consequents>
+</rule>
+<rule id="131">
+<antecedents>
+<attribute name="Mg" value="
+[0.0, 1.77804]" /><attribute name="Ca" value="
+[8.2814, 8.75484]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="132">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51689056]" /><attribute name="K" value="
+[0.3726, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.60996]" /></consequents>
+</rule>
+<rule id="133">
+<antecedents>
+<attribute name="RI" value="
+[1.52099096, 1.52320062]" /><attribute name="Ca" value="
+[9.1422, 10.568]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[0.46976, 1.12139]" /></consequents>
+</rule>
+<rule id="134">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51976084]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.35604, 9.1422]" /></consequents>
+</rule>
+<rule id="135">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51976084]" /><attribute name="Mg" value="
+[3.33158, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.35604, 9.1422]" /></consequents>
+</rule>
+<rule id="136">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51976084]" /><attribute name="Mg" value="
+[3.33158, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.00232]" /></consequents>
+</rule>
+<rule id="137">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51976084]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.45424]" /></consequents>
+</rule>
+<rule id="138">
+<antecedents>
+<attribute name="Mg" value="
+[3.74017, 3.90181]" /><attribute name="Al" value="
+[0.46976, 0.90953]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.52121876, 1.52226664]" /></consequents>
+</rule>
+<rule id="139">
+<antecedents>
+<attribute name="Mg" value="
+[3.38995, 3.90181]" /><attribute name="Al" value="
+[1.1888, 1.64141]" /><attribute name="Si" value="
+[72.2628, 73.3884]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 8.75484]" /></consequents>
+</rule>
+<rule id="140">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.5193508]" /><attribute name="Mg" value="
+[2.95891, 3.97814]" /><attribute name="Ba" value="
+[0.0, 0.1512]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.1422]" /></consequents>
+</rule>
+<rule id="141">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51711836]" /><attribute name="Na" value="
+[12.7915, 13.4831]" /><attribute name="Mg" value="
+[3.44832, 3.64139]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.82948, 8.37824]" /></consequents>
+</rule>
+<rule id="142">
+<antecedents>
+<attribute name="Na" value="
+[12.3526, 13.52965]" /><attribute name="Ca" value="
+[7.77568, 9.22828]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.37881, 0.73278]" /></consequents>
+</rule>
+<rule id="143">
+<antecedents>
+<attribute name="Na" value="
+[13.8688, 14.853]" /><attribute name="Mg" value="
+[0.0, 0.0]" /><attribute name="Ba" value="
+[0.53865, 0.80955]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.34119, 2.73923]" /></consequents>
+</rule>
+<rule id="144">
+<antecedents>
+<attribute name="Na" value="
+[12.3526, 13.52965]" /><attribute name="Ca" value="
+[7.77568, 9.22828]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.72036]" /></consequents>
+</rule>
+<rule id="145">
+<antecedents>
+<attribute name="Na" value="
+[12.61195, 13.33015]" /><attribute name="Mg" value="
+[3.38995, 3.96916]" /><attribute name="Ca" value="
+[8.31368, 9.13144]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.54027, 0.65205]" /></consequents>
+</rule>
+<rule id="146">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51871296]" /><attribute name="Na" value="
+[12.15975, 13.5629]" /><attribute name="Mg" value="
+[3.17892, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.72036]" /></consequents>
+</rule>
+<rule id="147">
+<antecedents>
+<attribute name="RI" value="
+[1.51711836, 1.51823458]" /><attribute name="Na" value="
+[12.55875, 13.52965]" /><attribute name="Mg" value="
+[3.35852, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50301, 0.65205]" /></consequents>
+</rule>
+<rule id="148">
+<antecedents>
+<attribute name="RI" value="
+[1.51591102, 1.51871296]" /><attribute name="Na" value="
+[12.15975, 13.5629]" /><attribute name="Mg" value="
+[2.95891, 3.97814]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.39123, 0.72036]" /></consequents>
+</rule>
+<rule id="149">
+<antecedents>
+<attribute name="RI" value="
+[1.52019366, 1.52408904]" /><attribute name="Na" value="
+[13.05085, 14.321]" /><attribute name="Ca" value="
+[9.40044, 11.14356]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+[71.1484, 72.3188]" /></consequents>
+</rule>
+<rule id="150">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.5629]" /><attribute name="Si" value="
+[72.33, 73.3884]" /><attribute name="Ca" value="
+[7.82948, 8.83016]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.54027, 0.72036]" /></consequents>
+</rule>
+<rule id="151">
+<antecedents>
+<attribute name="RI" value="
+[1.52121876, 1.52320062]" /><attribute name="Na" value="
+[13.05085, 14.321]" /><attribute name="Al" value="
+[0.46976, 0.8999]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[9.48652, 10.568]" /></consequents>
+</rule>
+<rule id="152">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.3726, 0.68931]" /><attribute name="Ca" value="
+[7.77568, 8.89472]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="153">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ca" value="
+[7.77568, 8.89472]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.74017]" /></consequents>
+</rule>
+<rule id="154">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ca" value="
+[7.77568, 8.89472]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="155">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Si" value="
+[72.3916, 73.3604]" /><attribute name="K" value="
+[0.3726, 0.68931]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="156">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.3726, 0.68931]" /><attribute name="Ca" value="
+[7.89404, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.38995, 3.64139]" /></consequents>
+</rule>
+<rule id="157">
+<antecedents>
+<attribute name="RI" value="
+[1.52099096, 1.52320062]" /><attribute name="K" value="
+[0.08694, 0.22977]" /><attribute name="Ca" value="
+[9.1422, 10.568]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[0.46976, 1.12139]" /></consequents>
+</rule>
+<rule id="158">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51720948]" /><attribute name="K" value="
+[0.3726, 0.72036]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.60996]" /></consequents>
+</rule>
+<rule id="159">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51689056]" /><attribute name="K" value="
+[0.3726, 0.72036]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.60996]" /></consequents>
+</rule>
+<rule id="160">
+<antecedents>
+<attribute name="RI" value="
+[1.51568322, 1.51711836]" /><attribute name="Mg" value="
+[3.34056, 3.6818]" /><attribute name="K" value="
+[0.3726, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 8.21684]" /></consequents>
+</rule>
+<rule id="161">
+<antecedents>
+<attribute name="Na" value="
+[14.14145, 14.38085]" /><attribute name="Mg" value="
+[0.0, 0.0]" /><attribute name="Ba" value="
+[0.40005, 0.63945]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+[2.65898, 2.79059]" /></consequents>
+</rule>
+<rule id="162">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51919134]" /><attribute name="Mg" value="
+[3.33158, 3.97814]" /><attribute name="K" value="
+[0.3726, 0.72036]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.13144]" /></consequents>
+</rule>
+<rule id="163">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.5193508]" /><attribute name="Na" value="
+[12.15975, 13.922]" /><attribute name="Ba" value="
+[0.0, 0.1512]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.42196]" /></consequents>
+</rule>
+<rule id="164">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51925968]" /><attribute name="Na" value="
+[12.15975, 14.417]" /><attribute name="Mg" value="
+[3.17892, 3.97814]" /><attribute name="Ba" value="
+[0.0, 0.11025]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 9.1422]" /></consequents>
+</rule>
+<rule id="165">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.5629]" /><attribute name="Mg" value="
+[3.17892, 3.97814]" /><attribute name="Al" value="
+[1.05077, 1.70882]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.37881, 0.72036]" /></consequents>
+</rule>
+<rule id="166">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.11178, 0.68931]" /><attribute name="Ca" value="
+[7.77568, 8.89472]" /><attribute name="Ba" value="
+[0.0, 0.09135]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.74017]" /></consequents>
+</rule>
+<rule id="167">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="K" value="
+[0.37881, 0.68931]" /><attribute name="Ca" value="
+[7.77568, 8.89472]" /><attribute name="Ba" value="
+[0.0, 0.09135]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="168">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Si" value="
+[72.3916, 73.3604]" /><attribute name="K" value="
+[0.3726, 0.68931]" /><attribute name="Ca" value="
+[7.77568, 8.80864]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="169">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Si" value="
+[72.3916, 73.3604]" /><attribute name="K" value="
+[0.3726, 0.68931]" /><attribute name="Ca" value="
+[7.77568, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.38995, 3.64139]" /></consequents>
+</rule>
+<rule id="170">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Na" value="
+[12.15975, 13.42325]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ca" value="
+[7.82948, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.38995, 3.64139]" /></consequents>
+</rule>
+<rule id="171">
+<antecedents>
+<attribute name="RI" value="
+[1.51568322, 1.51720948]" /><attribute name="Si" value="
+[72.5428, 73.58]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.61894]" /></consequents>
+</rule>
+<rule id="172">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51720948]" /><attribute name="Si" value="
+[72.5428, 73.58]" /><attribute name="K" value="
+[0.3726, 0.72036]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.60996]" /></consequents>
+</rule>
+<rule id="173">
+<antecedents>
+<attribute name="RI" value="
+[1.51568322, 1.51711836]" /><attribute name="Mg" value="
+[3.34056, 3.6818]" /><attribute name="K" value="
+[0.3726, 0.72036]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[7.77568, 8.21684]" /></consequents>
+</rule>
+<rule id="174">
+<antecedents>
+<attribute name="Na" value="
+[12.65185, 13.29025]" /><attribute name="Al" value="
+[1.0604, 1.41029]" /><attribute name="Si" value="
+[72.2796, 73.2708]" /><attribute name="Ca" value="
+[8.21684, 9.1422]" /><attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.55269, 0.63963]" /></consequents>
+</rule>
+<rule id="175">
+<antecedents>
+<attribute name="Na" value="
+[12.65185, 13.29025]" /><attribute name="Mg" value="
+[3.38995, 3.96916]" /><attribute name="Al" value="
+[1.05077, 1.41029]" /><attribute name="Si" value="
+[72.33, 73.2708]" /><attribute name="Ca" value="
+[8.0662, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.52164, 0.63963]" /></consequents>
+</rule>
+<rule id="176">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Na" value="
+[12.15975, 13.42325]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ca" value="
+[7.82948, 8.80864]" /><attribute name="Ba" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.17892, 3.64139]" /></consequents>
+</rule>
+<rule id="177">
+<antecedents>
+<attribute name="RI" value="
+[1.51566044, 1.51796122]" /><attribute name="Na" value="
+[12.15975, 13.42325]" /><attribute name="Si" value="
+[72.4812, 73.3604]" /><attribute name="K" value="
+[0.06831, 0.72036]" /><attribute name="Ca" value="
+[7.89404, 8.78712]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[3.38995, 3.64139]" /></consequents>
+</rule>
+</association_rules>

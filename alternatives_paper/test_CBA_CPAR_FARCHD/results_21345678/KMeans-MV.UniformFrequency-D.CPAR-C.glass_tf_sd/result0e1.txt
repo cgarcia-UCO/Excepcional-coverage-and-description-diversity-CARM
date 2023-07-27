@@ -1,0 +1,132 @@
+@Number of rules: 129 Number of Antecedents by rule: 1.5234375
+
+1: Mg IS 7: False
+2: Mg IS 7: False
+3: Mg IS 7: False
+4: Mg IS 7: False
+5: Mg IS 7: False
+6: RI IS 5: False
+7: Al IS 3: False
+8: Fe IS 3: False
+9: Mg IS 4: False
+10: Fe IS 3: False
+11: Mg IS 4: False
+12: Fe IS 3: False
+13: Mg IS 4: False
+14: Fe IS 3: False
+15: Mg IS 8: False
+16: Mg IS 3: False
+17: Ca IS 1: False
+18: Mg IS 3: False
+19: Ca IS 1: False
+20: K IS 8: False
+21: Mg IS 8: False
+22: Mg IS 3: False
+23: Mg IS 8: False
+24: Mg IS 3: False
+25: Mg IS 8: False
+26: Ca IS 1: False
+27: Mg IS 3: False
+28: RI IS 3: False
+29: Si IS 8: False
+30: Ca IS 4: False
+31: Al IS 1: False
+32: Ca IS 6: False
+33: Ca IS 4: False
+34: Na IS 6: False
+35: RI IS 3: False
+36: Ca IS 4: False
+37: Ca IS 6: False
+38: Si IS 8: False
+39: RI IS 3: False
+40: Ca IS 4: False
+41: Al IS 4: False
+42: Si IS 1: False
+43: Ca IS 3: False
+44: Ca IS 2: False
+45: Ca IS 3: False
+46: Ca IS 2: False
+47: Al IS 4: False
+48: Ca IS 3: False
+49: Ca IS 2: False
+50: Si IS 1: False
+51: Mg IS 9: False
+52: RI IS 1: False
+53: Ca IS 5: False
+54: RI IS 1: False
+55: Mg IS 9: False
+56: Ca IS 5: False
+57: Mg IS 9: False
+58: Mg IS 9: False
+59: RI IS 1: False
+60: Ca IS 5: False
+61: Mg IS 9: False
+62: Fe IS 2: False
+63: Mg IS 5: False
+64: Mg IS 5: False
+65: Mg IS 0 AND Ba IS 2: False
+66: Mg IS 6: False
+67: Mg IS 0 AND Ba IS 2: False
+68: Mg IS 6: False
+69: K IS 1: False
+70: K IS 1: False
+71: RI IS 9: False
+72: RI IS 9: False
+73: RI IS 9: False
+74: RI IS 9: False
+75: RI IS 2: False
+76: Ba IS 2: False
+77: Si IS 5: False
+78: Mg IS 0 AND Ba IS 1: False
+79: Ba IS 1: False
+80: Mg IS 2 AND K IS 0 AND Ba IS 0: True
+81: Mg IS 2 AND K IS 0 AND Ba IS 0: True
+82: Mg IS 2 AND K IS 0 AND Ba IS 0: True
+83: Mg IS 2 AND K IS 0 AND Ba IS 0: True
+84: Na IS 7 AND K IS 3: False
+85: Mg IS 2 AND Al IS 6: True
+86: RI IS 7 AND Ca IS 9: True
+87: RI IS 7 AND Ca IS 9: True
+88: RI IS 7 AND Ca IS 9: True
+89: Mg IS 2 AND Al IS 6: True
+90: Mg IS 0 AND K IS 3 AND Ba IS 0 AND Fe IS 0: True
+91: RI IS 7 AND Ca IS 9: True
+92: RI IS 7 AND Ca IS 9: True
+93: Mg IS 2 AND Al IS 6: True
+94: RI IS 7 AND Ca IS 9: True
+95: RI IS 7 AND Ca IS 9: True
+96: RI IS 0 AND Mg IS 0 AND Ba IS 0: True
+97: Mg IS 0 AND Ca IS 0 AND Ba IS 0: True
+98: Mg IS 2 AND Si IS 4: True
+99: Al IS 6 AND Ca IS 9: True
+100: Mg IS 2 AND Si IS 4: True
+101: RI IS 0 AND Mg IS 0 AND Ba IS 0: True
+102: Mg IS 0 AND Ca IS 0 AND Ba IS 0: True
+103: Al IS 6 AND Ca IS 9: True
+104: Al IS 6 AND Ca IS 9: True
+105: RI IS 0 AND Mg IS 0 AND Ba IS 0: True
+106: Mg IS 0 AND Ca IS 0 AND Ba IS 0: True
+107: Mg IS 2 AND Si IS 4: True
+108: Al IS 6 AND Ca IS 9: True
+109: Mg IS 2 AND K IS 0: True
+110: RI IS 6 AND Al IS 0: False
+111: Na IS 1 AND Mg IS 2: True
+112: Mg IS 2 AND Al IS 9: True
+113: Na IS 5 AND K IS 3 AND Ca IS 9: True
+114: Mg IS 2 AND Al IS 9: True
+115: Mg IS 2 AND Al IS 9: True
+116: Na IS 5 AND Ca IS 9: True
+117: Mg IS 2 AND Al IS 9: True
+118: Na IS 1 AND Mg IS 2: True
+119: Na IS 5 AND Ca IS 9: True
+120: Na IS 5 AND Ca IS 9: True
+121: RI IS 8 AND Ca IS 9: True
+122: Mg IS 0 AND Ca IS 8 AND Ba IS 0: True
+123: Na IS 2 AND Mg IS 0 AND Ba IS 0: True
+124: Na IS 2 AND Mg IS 0 AND Ba IS 0: True
+125: Mg IS 0 AND Ca IS 8 AND Ba IS 0: True
+126: Mg IS 0 AND Ba IS 0: True
+127: Mg IS 2: True
+128: Mg IS 2: True
+
+

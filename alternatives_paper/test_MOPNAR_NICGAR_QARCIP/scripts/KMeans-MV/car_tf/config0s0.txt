@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/car_tf/car_tf.dat" "../datasets/car_tf/car_tf.dat" 
+outputData = "../datasets/KMeans-MV.car_tf/KMeans-MVs0.car_tf1tra.dat" "../datasets/KMeans-MV.car_tf/KMeans-MVs0.car_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

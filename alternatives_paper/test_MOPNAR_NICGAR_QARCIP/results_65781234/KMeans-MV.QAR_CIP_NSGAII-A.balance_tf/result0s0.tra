@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="73">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="74">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="75">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="76">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="77">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="78">
+<antecedents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="79">
+<antecedents>
+<attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="80">
+<antecedents>
+<attribute name="Right-weight" value="
+[2.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="81">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="82">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="83">
+<antecedents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="84">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="85">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="86">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="87">
+<antecedents>
+<attribute name="Left-distance" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="88">
+<antecedents>
+<attribute name="Left-distance" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="89">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="90">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="91">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[2.0, 3.0]" /></consequents>
+</rule>
+<rule id="92">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="93">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="94">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="95">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="96">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="97">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="98">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="99">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="100">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="101">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="102">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="103">
+<antecedents>
+<attribute name="Left-distance" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="104">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="105">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="106">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="107">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="108">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="109">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="110">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="111">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="112">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="113">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="114">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 2.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="115">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="116">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="117">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="118">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="119">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="120">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="121">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="122">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="123">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 3.0]" /><attribute name="Left-distance" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="124">
+<antecedents>
+<attribute name="Left-distance" value="
+[4.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="125">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="126">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="127">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="128">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-weight" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="129">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="130">
+<antecedents>
+<attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="131">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="132">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[5.0, 5.0]" /></consequents>
+</rule>
+<rule id="133">
+<antecedents>
+<attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="134">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="135">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="136">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 5.0]" /><attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="137">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="138">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[2.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="139">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 4.0]" /><attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="140">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="141">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[3.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="142">
+<antecedents>
+<attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 5.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[3.0, 3.0]" /></consequents>
+</rule>
+<rule id="143">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 2.0]" /><attribute name="Left-distance" value="
+[4.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="144">
+<antecedents>
+<attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="145">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Right-distance" value="
+[2.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+False" /></consequents>
+</rule>
+<rule id="146">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 4.0]" /><attribute name="Balance_scale" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Right-distance" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="147">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="148">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="149">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="150">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="151">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="152">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="153">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="154">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="155">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="156">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="157">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="158">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="159">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="160">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="161">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="162">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="163">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="164">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="165">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="166">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="167">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="168">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="169">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="170">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="171">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="172">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="173">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="174">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="175">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[1.0, 1.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="176">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="177">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="178">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="179">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="180">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="181">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="182">
+<antecedents>
+<attribute name="Left-weight" value="
+[4.0, 4.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[4.0, 4.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="183">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="184">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="185">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[4.0, 4.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="186">
+<antecedents>
+<attribute name="Left-weight" value="
+[1.0, 1.0]" /><attribute name="Left-distance" value="
+[5.0, 5.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[5.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="187">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[1.0, 1.0]" /><attribute name="Right-distance" value="
+[4.0, 4.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="188">
+<antecedents>
+<attribute name="Left-weight" value="
+[3.0, 3.0]" /><attribute name="Left-distance" value="
+[2.0, 2.0]" /><attribute name="Right-weight" value="
+[2.0, 2.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="189">
+<antecedents>
+<attribute name="Left-weight" value="
+[5.0, 5.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[5.0, 5.0]" /><attribute name="Right-distance" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+<rule id="190">
+<antecedents>
+<attribute name="Left-weight" value="
+[2.0, 2.0]" /><attribute name="Left-distance" value="
+[3.0, 3.0]" /><attribute name="Right-weight" value="
+[3.0, 3.0]" /><attribute name="Right-distance" value="
+[2.0, 2.0]" /></antecedents>
+<consequents>
+<attribute name="Balance_scale" value="
+True" /></consequents>
+</rule>
+</association_rules>

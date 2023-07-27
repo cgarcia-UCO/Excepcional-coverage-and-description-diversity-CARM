@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Ca" value="
+[9.48652, 12.49932]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+[1.51905466, 1.52725546]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="K" value="
+NOT [0.11188000000000001, 6.21]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+NOT [11.22885, 13.6426]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Ca" value="
+NOT [5.4300999999999995, 13.24166]" /></antecedents>
+<consequents>
+<attribute name="RI" value="
+NOT [1.51140946, 1.52464966]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="TypeGlass" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+NOT [2.6806300000000003, 4.49]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Si" value="
+[71.238, 71.77]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[13.70255, 14.3609]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Mg" value="
+NOT [1.0E-4, 4.49]" /></antecedents>
+<consequents>
+<attribute name="Al" value="
+NOT [0.74913, 1.76008]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="K" value="
+[1.40967, 1.75743]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+NOT [6.47382, 16.19]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Si" value="
+[71.7196, 71.9604]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+[13.48975, 14.20795]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Na" value="
+[12.15975, 13.58285]" /></antecedents>
+<consequents>
+<attribute name="K" value="
+[0.50922, 0.73278]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Na" value="
+[12.2994, 12.2994]" /></antecedents>
+<consequents>
+<attribute name="Fe" value="
+[0.1224, 0.1224]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Si" value="
+NOT [70.16290000000001, 75.4099]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+NOT [6.64598, 13.29546]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="Ca" value="
+[6.92564, 6.92564]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+NOT [70.7005, 75.41]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Na" value="
+[13.80895, 13.8289]" /></antecedents>
+<consequents>
+<attribute name="Si" value="
+NOT [71.7197, 75.41]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Al" value="
+NOT [2.1198, 3.0183999999999997]" /></antecedents>
+<consequents>
+<attribute name="Ba" value="
+[0.0, 0.1512]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="Mg" value="
+[0.78126, 1.01025]" /></antecedents>
+<consequents>
+<attribute name="Ca" value="
+[9.9492, 11.14356]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="Al" value="
+NOT [1.0990199999999999, 2.34109]" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+NOT [1.0E-4, 3.60986]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="Ba" value="
+[1.67895, 1.71045]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+NOT [10.73, 14.7997]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="TypeGlass" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Mg" value="
+[2.71196, 3.97814]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="K" value="
+[2.70135, 2.70135]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+NOT [11.947049999999999, 17.38]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Ba" value="
+[2.1987, 2.8791]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+NOT [10.73, 14.00835]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Ba" value="
+[1.71045, 2.1987]" /></antecedents>
+<consequents>
+<attribute name="Na" value="
+NOT [10.73, 14.00835]" /></consequents>
+</rule>
+</association_rules>

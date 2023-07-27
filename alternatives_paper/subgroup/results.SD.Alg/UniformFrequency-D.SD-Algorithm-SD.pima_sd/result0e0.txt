@@ -1,0 +1,21 @@
+Rule 1: IF  mass <= 1 AND plas <= 5 AND age <> 5 THEN class -> tested_negative  
+[  0.99  0.01  ]
+
+Rule 2: IF  mass <= 1 AND plas <= 5 AND pedi <> 3 THEN class -> tested_negative  
+[  0.99  0.01  ]
+
+Rule 3: IF  mass <= 1 AND plas <= 5 THEN class -> tested_negative  
+[  0.98  0.02  ]
+
+Rule 4: IF  mass <= 1 AND plas <= 7 THEN class -> tested_negative  
+[  0.96  0.04  ]
+
+Rule 5: IF  mass <= 1 AND preg <= 3 THEN class -> tested_negative  
+[  0.97  0.03  ]
+
+Rule 6: IF  insu > 4 THEN class -> tested_positive  
+[  0.48  0.52  ]
+
+
+
+Time: 2.956

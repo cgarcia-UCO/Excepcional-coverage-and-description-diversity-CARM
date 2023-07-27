@@ -1,0 +1,130 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: MESDIF for Subgroup Discovery
+Input file name training: ../datasets/glass_tf_sd/glass_tf_sd.dat
+Input file name test: ../datasets/glass_tf_sd/glass_tf_sd.dat
+Rules file name: ../results/MESDIF-SD.glass_tf_sd/result0e0.txt
+Tracking file name: ../results/MESDIF-SD.glass_tf_sd/result0e2.txt
+Random generator seed: 34218765
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Number of individuals in the Elite Population: 3
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.0
+Rules representation: CAN
+Objective 1: COMP
+Objective 2: UNUS
+Objective 3: FCNF
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable RI:
+	Label 0: 1.49976 1.51115 1.52254
+	Label 1: 1.51115 1.52254 1.53393
+	Label 2: 1.52254 1.53393 1.5453199
+Fuzzy sets parameters for variable Na:
+	Label 0: 7.4049997 10.73 14.054999
+	Label 1: 10.73 14.054999 17.38
+	Label 2: 14.054999 17.38 20.704998
+Fuzzy sets parameters for variable Mg:
+	Label 0: -2.245 0.0 2.245
+	Label 1: 0.0 2.245 4.49
+	Label 2: 2.245 4.49 6.7349997
+Fuzzy sets parameters for variable Al:
+	Label 0: -1.315 0.29 1.895
+	Label 1: 0.29 1.895 3.5
+	Label 2: 1.895 3.5 5.105
+Fuzzy sets parameters for variable Si:
+	Label 0: 67.009995 69.81 72.61
+	Label 1: 69.81 72.61 75.41
+	Label 2: 72.61 75.41 78.21001
+Fuzzy sets parameters for variable K:
+	Label 0: -3.105 0.0 3.105
+	Label 1: 0.0 3.105 6.21
+	Label 2: 3.105 6.21 9.315001
+Fuzzy sets parameters for variable Ca:
+	Label 0: 0.049999714 5.43 10.809999
+	Label 1: 5.43 10.809999 16.19
+	Label 2: 10.809999 16.19 21.57
+Fuzzy sets parameters for variable Ba:
+	Label 0: -1.575 0.0 1.575
+	Label 1: 0.0 1.575 3.15
+	Label 2: 1.575 3.15 4.7250004
+Fuzzy sets parameters for variable Fe:
+	Label 0: -0.255 0.0 0.255
+	Label 1: 0.0 0.255 0.51
+	Label 2: 0.255 0.51 0.765
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 214
+Number of variables: 9
+@relation glass
+@attribute RI real[1.51115,1.53393]
+@attribute Na real[10.73,17.38]
+@attribute Mg real[0.0,4.49]
+@attribute Al real[0.29,3.5]
+@attribute Si real[69.81,75.41]
+@attribute K real[0.0,6.21]
+@attribute Ca real[5.43,16.19]
+@attribute Ba real[0.0,3.15]
+@attribute Fe real[0.0,0.51]
+@attribute TypeGlass{False,True}
+@inputs RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
+@outputs TypeGlass
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable RI: 1.516845  1.528235  1.5396249  
+	Variable Na: 12.3925  15.7175  19.0425  
+	Variable Mg: 1.1225  3.3674998  5.6124997  
+	Variable Al: 1.0925  2.6975  4.3025  
+	Variable Si: 71.21  74.01  76.810005  
+	Variable K: 1.5525  4.6575003  7.7625003  
+	Variable Ca: 8.12  13.5  18.880001  
+	Variable Ba: 0.7875  2.3625002  3.9375002  
+	Variable Fe: 0.1275  0.3825  0.6375  
+Information Gain of the variables:
+	Variable RI: -0.22459686
+	Variable Na: -0.01396656
+	Variable Mg: -0.03286326
+	Variable Al: -0.104724884
+	Variable Si: 0.017141402
+	Variable K: 0.024109215
+	Variable Ca: -0.14950252
+	Variable Ba: -0.05941856
+	Variable Fe: -0.050065815
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+
+Genetic Algorithm execution finished
+	Number of Generations = 164
+	Number of Evaluations = 10003
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 1:
+
+Genetic Algorithm execution finished
+	Number of Generations = 164
+	Number of Evaluations = 10003
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------

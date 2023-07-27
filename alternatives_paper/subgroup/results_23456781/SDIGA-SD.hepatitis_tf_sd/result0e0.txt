@@ -1,0 +1,15 @@
+GENERATED RULE 0
+   Antecedent
+	Variable ProTime = Label 2 	 (50.0 100.0 150.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ProTime = Label 2 	 (50.0 100.0 150.0)
+   Consecuent: True
+

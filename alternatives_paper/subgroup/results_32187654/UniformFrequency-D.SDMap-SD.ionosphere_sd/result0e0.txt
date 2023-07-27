@@ -1,0 +1,40 @@
+Rule 0: a02 = 0 AND a29 = 2 THEN class = b
+[  0.88  0.12  ]
+
+
+Rule 1: a29 = 2 THEN class = b
+[  0.88  0.12  ]
+
+
+Rule 2: a02 = 0 AND a08 = 4 AND a07 = 1 THEN class = b
+[  1.00  0.00  ]
+
+
+Rule 3: a08 = 4 AND a07 = 1 THEN class = b
+[  1.00  0.00  ]
+
+
+Rule 4: a15 = 2 AND a16 = 4 THEN class = b
+[  1.00  0.00  ]
+
+
+Rule 5: a02 = 0 AND a15 = 2 AND a16 = 4 THEN class = b
+[  1.00  0.00  ]
+
+
+Rule 6: a02 = 0 AND a01 = 0 THEN class = b
+[  1.00  0.00  ]
+
+
+Rule 7: a02 = 0 AND a28 = 0 THEN class = b
+[  0.95  0.05  ]
+
+
+Rule 8: a28 = 0 THEN class = b
+[  0.95  0.05  ]
+
+
+Rule 9: a01 = 0 THEN class = b
+[  1.00  0.00  ]
+
+

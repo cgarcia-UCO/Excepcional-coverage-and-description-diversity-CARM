@@ -1,0 +1,173 @@
+@Number of rules: 84 Number of Antecedents by rule: 3.1204819277108435
+
+1: Sex IS 0 AND ChestPainType IS 2 AND Thal IS 0: False
+2: Age IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+3: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+4: Sex IS 0 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+5: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Slope IS 1 AND Thal IS 2: True
+6: Sex IS 0 AND ChestPainType IS 2 AND MajorVessels IS 0: False
+7: Age IS 1 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0: False
+8: MaxHeartRate IS 9 AND MajorVessels IS 0 AND Thal IS 0: False
+9: Sex IS 0 AND ExerciseInduced IS 0 AND Slope IS 1 AND MajorVessels IS 0: False
+10: ChestPainType IS 1 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND Thal IS 0: False
+11: ChestPainType IS 3 AND Oldpeak IS 7: True
+12: MajorVessels IS 2 AND Thal IS 2: True
+13: Sex IS 0 AND ChestPainType IS 1 AND FastingBloodSugar IS 0: False
+14: Sex IS 1 AND ChestPainType IS 3 AND MajorVessels IS 2: True
+15: SerumCholestoral IS 2 AND MajorVessels IS 0 AND Thal IS 0: False
+16: Sex IS 1 AND ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND MajorVessels IS 1: True
+17: Oldpeak IS 7 AND Slope IS 1: True
+18: Age IS 3 AND MajorVessels IS 0 AND Thal IS 0: False
+19: ExerciseInduced IS 1 AND MajorVessels IS 2: True
+20: Age IS 7 AND ChestPainType IS 3 AND ExerciseInduced IS 1: True
+21: FastingBloodSugar IS 0 AND MaxHeartRate IS 8 AND Thal IS 0: False
+22: ChestPainType IS 1 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND Oldpeak IS 0: False
+23: FastingBloodSugar IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+24: MaxHeartRate IS 8 AND Slope IS 0 AND Thal IS 0: False
+25: FastingBloodSugar IS 0 AND ResElectrocardiographic IS 2 AND Slope IS 1 AND MajorVessels IS 1: True
+26: ResElectrocardiographic IS 0 AND MaxHeartRate IS 7 AND Slope IS 0 AND MajorVessels IS 0: False
+27: Age IS 1 AND ChestPainType IS 1: False
+28: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+29: ChestPainType IS 3 AND MaxHeartRate IS 2 AND ExerciseInduced IS 1: True
+30: ChestPainType IS 3 AND ExerciseInduced IS 1 AND Oldpeak IS 6: True
+31: SerumCholestoral IS 1 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+32: ResElectrocardiographic IS 0 AND MaxHeartRate IS 8 AND ExerciseInduced IS 0: False
+33: MaxHeartRate IS 2 AND ExerciseInduced IS 1 AND Thal IS 2: True
+34: ExerciseInduced IS 0 AND Oldpeak IS 5 AND MajorVessels IS 0: False
+35: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+36: Age IS 4 AND ExerciseInduced IS 0 AND Thal IS 0: False
+37: Sex IS 0 AND Oldpeak IS 2 AND Thal IS 0: False
+38: ChestPainType IS 3 AND Oldpeak IS 6 AND Slope IS 1: True
+39: RestBloodPressure IS 2 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+40: RestBloodPressure IS 8 AND FastingBloodSugar IS 0 AND Slope IS 1: True
+41: Sex IS 0 AND MajorVessels IS 1 AND Thal IS 0: False
+42: ChestPainType IS 2 AND FastingBloodSugar IS 1 AND Thal IS 0: False
+43: ChestPainType IS 3 AND RestBloodPressure IS 8 AND Thal IS 2: True
+44: SerumCholestoral IS 5 AND ExerciseInduced IS 0 AND Thal IS 0: False
+45: ResElectrocardiographic IS 2 AND MajorVessels IS 1 AND Thal IS 2: True
+46: MaxHeartRate IS 2 AND Slope IS 1 AND Thal IS 2: True
+47: ChestPainType IS 3 AND FastingBloodSugar IS 0 AND MaxHeartRate IS 3 AND Thal IS 2: True
+48: ResElectrocardiographic IS 2 AND ExerciseInduced IS 1 AND Slope IS 1 AND MajorVessels IS 1: True
+49: Sex IS 1 AND SerumCholestoral IS 7 AND ExerciseInduced IS 1: True
+50: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+51: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND MajorVessels IS 3: True
+52: SerumCholestoral IS 4 AND ResElectrocardiographic IS 2 AND Thal IS 0: False
+53: FastingBloodSugar IS 0 AND ResElectrocardiographic IS 2 AND MajorVessels IS 3: True
+54: ResElectrocardiographic IS 0 AND Oldpeak IS 3 AND MajorVessels IS 0: False
+55: ResElectrocardiographic IS 2 AND MaxHeartRate IS 9 AND MajorVessels IS 0: False
+56: Sex IS 1 AND FastingBloodSugar IS 1 AND ExerciseInduced IS 0 AND Slope IS 0: False
+57: SerumCholestoral IS 0 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+58: Age IS 3 AND ChestPainType IS 1: False
+59: RestBloodPressure IS 3 AND Thal IS 2: True
+60: SerumCholestoral IS 8 AND ExerciseInduced IS 1: True
+61: Age IS 7 AND Sex IS 1 AND MajorVessels IS 1: True
+62: ChestPainType IS 2 AND Oldpeak IS 3 AND MajorVessels IS 0: False
+63: Age IS 7 AND Sex IS 1 AND ResElectrocardiographic IS 2 AND Slope IS 1: True
+64: RestBloodPressure IS 7 AND ResElectrocardiographic IS 2 AND Oldpeak IS 0 AND MajorVessels IS 0: False
+65: SerumCholestoral IS 5 AND ExerciseInduced IS 1: True
+66: Age IS 7 AND MajorVessels IS 1 AND Thal IS 2: True
+67: Age IS 9 AND Sex IS 1 AND ChestPainType IS 3: True
+68: Age IS 4 AND Sex IS 1 AND ChestPainType IS 3 AND Slope IS 1: True
+69: ResElectrocardiographic IS 2 AND MaxHeartRate IS 4 AND MajorVessels IS 0 AND Thal IS 0: False
+70: RestBloodPressure IS 2 AND MaxHeartRate IS 7: False
+71: Age IS 6 AND FastingBloodSugar IS 0 AND ExerciseInduced IS 0 AND Thal IS 2: True
+72: Sex IS 1 AND RestBloodPressure IS 7 AND Slope IS 1 AND Thal IS 2: True
+73: RestBloodPressure IS 9 AND SerumCholestoral IS 7: True
+74: Age IS 8 AND ResElectrocardiographic IS 2 AND MajorVessels IS 0: False
+75: ChestPainType IS 3 AND RestBloodPressure IS 5 AND SerumCholestoral IS 9: True
+76: ChestPainType IS 3 AND SerumCholestoral IS 0 AND ResElectrocardiographic IS 2: True
+77: Sex IS 1 AND ChestPainType IS 2 AND RestBloodPressure IS 5 AND ResElectrocardiographic IS 0: False
+78: Sex IS 1 AND RestBloodPressure IS 1 AND MajorVessels IS 1 AND Thal IS 0: True
+79: Age IS 7 AND SerumCholestoral IS 8: True
+80: RestBloodPressure IS 1 AND FastingBloodSugar IS 0 AND Oldpeak IS 5: False
+81: MaxHeartRate IS 7 AND Oldpeak IS 2 AND Thal IS 2: True
+82: Age IS 8 AND FastingBloodSugar IS 0 AND ResElectrocardiographic IS 0 AND Oldpeak IS 2: False
+83: Sex IS 1 AND ResElectrocardiographic IS 2 AND ExerciseInduced IS 0 AND Slope IS 2: False
+Default: True
+
+
+@supp and conf:
+
+1: supp: 0.10740740740740741 AND conf: 1.0
+2: supp: 0.0962962962962963 AND conf: 1.0
+3: supp: 0.0962962962962963 AND conf: 1.0
+4: supp: 0.09259259259259259 AND conf: 1.0
+5: supp: 0.09259259259259259 AND conf: 1.0
+6: supp: 0.08888888888888889 AND conf: 1.0
+7: supp: 0.07777777777777778 AND conf: 1.0
+8: supp: 0.07037037037037037 AND conf: 1.0
+9: supp: 0.07037037037037037 AND conf: 1.0
+10: supp: 0.07037037037037037 AND conf: 1.0
+11: supp: 0.06666666666666667 AND conf: 1.0
+12: supp: 0.06666666666666667 AND conf: 1.0
+13: supp: 0.06296296296296296 AND conf: 1.0
+14: supp: 0.06296296296296296 AND conf: 1.0
+15: supp: 0.06296296296296296 AND conf: 1.0
+16: supp: 0.06296296296296296 AND conf: 1.0
+17: supp: 0.05925925925925926 AND conf: 1.0
+18: supp: 0.05925925925925926 AND conf: 1.0
+19: supp: 0.05555555555555555 AND conf: 1.0
+20: supp: 0.05555555555555555 AND conf: 1.0
+21: supp: 0.05555555555555555 AND conf: 1.0
+22: supp: 0.05555555555555555 AND conf: 1.0
+23: supp: 0.05185185185185185 AND conf: 1.0
+24: supp: 0.05185185185185185 AND conf: 1.0
+25: supp: 0.05185185185185185 AND conf: 1.0
+26: supp: 0.05185185185185185 AND conf: 1.0
+27: supp: 0.04814814814814815 AND conf: 1.0
+28: supp: 0.04814814814814815 AND conf: 1.0
+29: supp: 0.04814814814814815 AND conf: 1.0
+30: supp: 0.04814814814814815 AND conf: 1.0
+31: supp: 0.04814814814814815 AND conf: 1.0
+32: supp: 0.04814814814814815 AND conf: 1.0
+33: supp: 0.04814814814814815 AND conf: 1.0
+34: supp: 0.04814814814814815 AND conf: 1.0
+35: supp: 0.044444444444444446 AND conf: 1.0
+36: supp: 0.044444444444444446 AND conf: 1.0
+37: supp: 0.044444444444444446 AND conf: 1.0
+38: supp: 0.044444444444444446 AND conf: 1.0
+39: supp: 0.044444444444444446 AND conf: 1.0
+40: supp: 0.044444444444444446 AND conf: 1.0
+41: supp: 0.040740740740740744 AND conf: 1.0
+42: supp: 0.040740740740740744 AND conf: 1.0
+43: supp: 0.040740740740740744 AND conf: 1.0
+44: supp: 0.040740740740740744 AND conf: 1.0
+45: supp: 0.040740740740740744 AND conf: 1.0
+46: supp: 0.040740740740740744 AND conf: 1.0
+47: supp: 0.040740740740740744 AND conf: 1.0
+48: supp: 0.040740740740740744 AND conf: 1.0
+49: supp: 0.037037037037037035 AND conf: 1.0
+50: supp: 0.037037037037037035 AND conf: 1.0
+51: supp: 0.037037037037037035 AND conf: 1.0
+52: supp: 0.037037037037037035 AND conf: 1.0
+53: supp: 0.037037037037037035 AND conf: 1.0
+54: supp: 0.037037037037037035 AND conf: 1.0
+55: supp: 0.037037037037037035 AND conf: 1.0
+56: supp: 0.037037037037037035 AND conf: 1.0
+57: supp: 0.037037037037037035 AND conf: 1.0
+58: supp: 0.03333333333333333 AND conf: 1.0
+59: supp: 0.03333333333333333 AND conf: 1.0
+60: supp: 0.03333333333333333 AND conf: 1.0
+61: supp: 0.03333333333333333 AND conf: 1.0
+62: supp: 0.03333333333333333 AND conf: 1.0
+63: supp: 0.03333333333333333 AND conf: 1.0
+64: supp: 0.03333333333333333 AND conf: 1.0
+65: supp: 0.02962962962962963 AND conf: 1.0
+66: supp: 0.02962962962962963 AND conf: 1.0
+67: supp: 0.02962962962962963 AND conf: 1.0
+68: supp: 0.02962962962962963 AND conf: 1.0
+69: supp: 0.02962962962962963 AND conf: 1.0
+70: supp: 0.025925925925925925 AND conf: 1.0
+71: supp: 0.025925925925925925 AND conf: 1.0
+72: supp: 0.025925925925925925 AND conf: 1.0
+73: supp: 0.022222222222222223 AND conf: 1.0
+74: supp: 0.022222222222222223 AND conf: 1.0
+75: supp: 0.022222222222222223 AND conf: 1.0
+76: supp: 0.022222222222222223 AND conf: 1.0
+77: supp: 0.022222222222222223 AND conf: 1.0
+78: supp: 0.022222222222222223 AND conf: 1.0
+79: supp: 0.014814814814814815 AND conf: 1.0
+80: supp: 0.014814814814814815 AND conf: 1.0
+81: supp: 0.014814814814814815 AND conf: 1.0
+82: supp: 0.014814814814814815 AND conf: 1.0
+83: supp: 0.014814814814814815 AND conf: 1.0

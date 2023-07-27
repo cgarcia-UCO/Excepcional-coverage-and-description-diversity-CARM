@@ -1,0 +1,17 @@
+GENERATED RULE 0
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ColorIntensity = Label 2 	 (7.1000004 13.0 18.900002)
+	Variable Proline = Label 0 	 (-423.0 278.0 979.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+

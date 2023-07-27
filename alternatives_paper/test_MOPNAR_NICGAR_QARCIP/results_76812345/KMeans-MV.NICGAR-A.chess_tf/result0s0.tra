@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Bkxwp" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+NOT f" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Blxwp" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Rkxwp" value="
+NOT f" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Rkxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+f" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="R2ar8" value="
+NOT t" /></antecedents>
+<consequents>
+<attribute name="Wkovl" value="
+NOT t" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Stlmt" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Wkna8" value="
+NOT f" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Skewr" value="
+NOT t" /></antecedents>
+<consequents>
+<attribute name="Cntxt" value="
+NOT t" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Stlmt" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Wkna8" value="
+f" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Wkcti" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Cntxt" value="
+t" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Katri5" value="
+NOT n" /></antecedents>
+<consequents>
+<attribute name="Cntxt" value="
+NOT f" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Bxqsq" value="
+t" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Rimmx" value="
+t" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Hdchk" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Bkblk" value="
+NOT f" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="R2ar8" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Wkovl" value="
+NOT f" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Reskr" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Wkpos" value="
+NOT t" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Bkon8" value="
+NOT f" /></antecedents>
+<consequents>
+<attribute name="Simpl" value="
+NOT f" /></consequents>
+</rule>
+</association_rules>

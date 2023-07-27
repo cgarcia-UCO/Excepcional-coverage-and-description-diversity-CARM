@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.2981770833333333" antecedent_support="0.2981770833333333" consequent_support="0.48828125" confidence="1.0" lift="2.048" conviction="Infinity" certainFactor="1.0" netConf="0.7291280148423005" yulesQ="1.0" nAnts="1"/>
+<rule id="1" rule_support="0.19010416666666666" antecedent_support="0.21875" consequent_support="0.3619791666666667" confidence="0.869047619047619" lift="2.40082219938335" conviction="4.872159090909089" certainFactor="0.7947521865889213" netConf="0.649047619047619" yulesQ="0.9184636118598382" nAnts="1"/>
+<rule id="2" rule_support="0.5078125" antecedent_support="0.7018229166666666" consequent_support="0.5078125" confidence="0.7235621521335808" lift="1.4248608534322822" conviction="1.7804635067114096" certainFactor="0.4383484995729895" netConf="0.7235621521335809" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.3828125" antecedent_support="0.4348958333333333" consequent_support="0.5520833333333334" confidence="0.8802395209580839" lift="1.5943961134335103" conviction="3.7401041666666677" certainFactor="0.7326277677203733" netConf="0.5807003504511713" yulesQ="0.89003552698359" nAnts="1"/>
+<rule id="4" rule_support="0.0013020833333333333" antecedent_support="0.0013020833333333333" consequent_support="0.13541666666666666" confidence="1.0" lift="7.384615384615385" conviction="Infinity" certainFactor="1.0" netConf="0.8657105606258149" yulesQ="1.0" nAnts="1"/>
+<rule id="5" rule_support="0.12630208333333334" antecedent_support="0.15755208333333334" consequent_support="0.3489583333333333" confidence="0.8016528925619835" lift="2.297273960774639" conviction="3.282335069444445" certainFactor="0.6953388429752065" netConf="0.537356138311597" yulesQ="0.8367411886387144" nAnts="1"/>
+<rule id="6" rule_support="0.0013020833333333333" antecedent_support="0.0013020833333333333" consequent_support="0.18098958333333334" confidence="1.0" lift="5.525179856115107" conviction="Infinity" certainFactor="1.0" netConf="0.8200782268578879" yulesQ="1.0" nAnts="1"/>
+<rule id="7" rule_support="0.0013020833333333333" antecedent_support="0.0013020833333333333" consequent_support="0.19401041666666666" confidence="1.0" lift="5.154362416107383" conviction="Infinity" certainFactor="1.0" netConf="0.8070404172099087" yulesQ="1.0" nAnts="1"/>
+</values>

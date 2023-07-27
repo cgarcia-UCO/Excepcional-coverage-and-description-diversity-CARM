@@ -1,0 +1,84 @@
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A72
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable Guarantors = A103
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A31
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A72
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Housing = A152
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: True
+

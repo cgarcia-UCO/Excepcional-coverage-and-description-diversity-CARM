@@ -1,0 +1,24 @@
+
+Rule 1: IF  plas <= 5.0 AND insu <= 5.0 AND pres <> 8.0 THEN class -> tested_negative     [ 0.8494897959183674 0.15051020408163265]
+Rule 2: IF  plas <= 7.0 AND mass <> 9.0 AND preg <= 7.0 AND age <> 6.0 AND pedi <> 9.0 THEN class -> tested_negative     [ 0.8419753086419753 0.1580246913580247]
+Rule 3: IF  plas <= 6.0 AND age <> 8.0 AND mass <> 5.0 AND skin <= 7.0 THEN class -> tested_negative     [ 0.8341463414634146 0.16585365853658537]
+Rule 4: IF  mass <= 3.0 AND age <> 8.0 AND plas <> 3.0 THEN class -> tested_negative     [ 0.8615384615384616 0.13846153846153847]
+Rule 5: IF  plas <= 8.0 AND pres <> 0.0 AND age <= 7.0 AND pedi <> 4.0 AND mass <> 6.0 THEN class -> tested_negative     [ 0.7874396135265701 0.21256038647342995]
+Rule 6: IF  plas > 3.0 AND insu <> 2.0 AND pedi <> 1.0 AND skin <> 2.0 AND mass <> 8.0 AND preg <> 4.0 AND pres <> 6.0 AND age > 1.0 THEN class -> tested_positive     [ 0.3893129770992366 0.6106870229007634]
+Rule 7: IF  plas > 3.0 AND mass > 2.0 AND preg <> 2.0 AND insu <> 2.0 AND pedi <> 1.0 AND skin <> 6.0 AND pres <> 3.0 THEN class -> tested_positive     [ 0.35398230088495575 0.6460176991150443]
+Rule 8: IF  pedi > 5.0 AND plas <> 5.0 AND mass <> 1.0 AND skin <> 4.0 AND preg <> 5.0 AND pres <> 1.0 THEN class -> tested_positive     [ 0.4340659340659341 0.5659340659340659]
+Rule 9: IF  insu = 0.0 AND age <= 7.0 AND plas > 1.0 AND mass <> 0.0 AND skin <= 7.0 AND pres <> 7.0 AND preg <> 1.0 THEN class -> tested_positive     [ 0.4965986394557823 0.5034013605442177]
+Rule 10: IF  insu > 3.0 AND preg <> 4.0 AND skin <> 2.0 AND age > 1.0 AND pres <> 7.0 AND plas <> 4.0 AND mass > 0.0 AND pedi <> 3.0 THEN class -> tested_positive     [ 0.3524590163934426 0.6475409836065574]
+Rule 11: IF  insu = 0.0 AND pedi > 1.0 AND mass <> 0.0 AND age <> 3.0 AND plas <> 7.0 AND preg <> 3.0 AND skin <> 3.0 AND pres <> 6.0 THEN class -> tested_positive     [ 0.48044692737430167 0.5195530726256983]
+
+####Average results for test data####
+Avg. Rule length: 11
+Avg. Number of attributes by rule: 5.818181818181818
+Avg. Coverage: 0.35499526515151514
+Avg. Support Completo: 0.9596354166666666
+Avg. Significance: 53.59084903761731
+Avg. Unusualness: 0.06407024019795882
+
+Accuracy Training: 0.7890625
+Accuracy Test: 0.7890625;
+  Time; 46

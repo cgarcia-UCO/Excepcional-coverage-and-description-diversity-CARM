@@ -1,0 +1,1 @@
+19  ../datasets/KMeans-MV.german_tf/KMeans-MVs0.german_tf1tra.dat../results/KMeans-MV.NICGAR-A.german_tf/result0s0.tra

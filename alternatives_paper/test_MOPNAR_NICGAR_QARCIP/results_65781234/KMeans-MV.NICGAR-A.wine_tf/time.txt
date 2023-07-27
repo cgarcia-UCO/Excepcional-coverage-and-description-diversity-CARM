@@ -1,0 +1,1 @@
+4  ../datasets/KMeans-MV.wine_tf/KMeans-MVs0.wine_tf1tra.dat../results/KMeans-MV.NICGAR-A.wine_tf/result0s0.tra

@@ -1,0 +1,52 @@
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A63
+	Variable EmploymentSince = A74
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A63
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable Purpose = A45
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A61
+	Variable EmploymentSince = A74
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A61
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A61
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

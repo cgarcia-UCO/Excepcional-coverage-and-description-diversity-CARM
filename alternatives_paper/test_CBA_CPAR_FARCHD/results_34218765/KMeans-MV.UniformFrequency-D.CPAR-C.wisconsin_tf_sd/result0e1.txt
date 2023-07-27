@@ -1,0 +1,114 @@
+@Number of rules: 111 Number of Antecedents by rule: 2.227272727272727
+
+1: EpithelialSize IS 1 AND BareNuclei IS 0: False
+2: EpithelialSize IS 1 AND BareNuclei IS 0: False
+3: EpithelialSize IS 1 AND BareNuclei IS 0: False
+4: EpithelialSize IS 1 AND BareNuclei IS 0: False
+5: CellSize IS 0 AND BareNuclei IS 0: False
+6: CellSize IS 0 AND BareNuclei IS 0: False
+7: CellSize IS 0 AND EpithelialSize IS 1 AND BareNuclei IS 0: False
+8: CellSize IS 0 AND EpithelialSize IS 1 AND BareNuclei IS 0: False
+9: CellShape IS 0 AND BareNuclei IS 0: False
+10: MarginalAdhesion IS 0 AND BareNuclei IS 0 AND NormalNucleoli IS 0: False
+11: CellSize IS 0 AND MarginalAdhesion IS 0 AND NormalNucleoli IS 0: False
+12: CellShape IS 0 AND EpithelialSize IS 1 AND BareNuclei IS 0: False
+13: CellShape IS 0 AND MarginalAdhesion IS 0 AND NormalNucleoli IS 0: False
+14: CellSize IS 0 AND NormalNucleoli IS 0: False
+15: MarginalAdhesion IS 0 AND BareNuclei IS 0 AND Mitoses IS 0: False
+16: CellShape IS 0 AND BlandChromatin IS 0: False
+17: ClumpThickness IS 0 AND CellSize IS 0 AND EpithelialSize IS 1: False
+18: ClumpThickness IS 2 AND CellShape IS 0: False
+19: CellShape IS 0: False
+20: CellShape IS 0: False
+21: CellShape IS 0 AND EpithelialSize IS 1: False
+22: CellShape IS 0 AND EpithelialSize IS 1 AND BlandChromatin IS 2: False
+23: ClumpThickness IS 7: True
+24: ClumpThickness IS 7: True
+25: NormalNucleoli IS 4: True
+26: CellSize IS 5: True
+27: CellSize IS 5: True
+28: CellSize IS 5: True
+29: CellSize IS 5: True
+30: BareNuclei IS 4 AND BlandChromatin IS 5: True
+31: BareNuclei IS 4 AND BlandChromatin IS 5: True
+32: BareNuclei IS 4 AND BlandChromatin IS 5: True
+33: CellShape IS 2 AND EpithelialSize IS 1 AND NormalNucleoli IS 0 AND Mitoses IS 0: False
+34: CellShape IS 2 AND EpithelialSize IS 1 AND NormalNucleoli IS 0 AND Mitoses IS 0: False
+35: EpithelialSize IS 4 AND BareNuclei IS 4: True
+36: EpithelialSize IS 4 AND BareNuclei IS 4: True
+37: EpithelialSize IS 4 AND BareNuclei IS 4: True
+38: CellSize IS 4 AND BareNuclei IS 4: True
+39: CellSize IS 4 AND BareNuclei IS 4: True
+40: CellSize IS 4 AND BlandChromatin IS 5: True
+41: CellSize IS 4 AND BlandChromatin IS 5: True
+42: MarginalAdhesion IS 5 AND BareNuclei IS 4: True
+43: MarginalAdhesion IS 5 AND BareNuclei IS 4: True
+44: EpithelialSize IS 4 AND NormalNucleoli IS 4: True
+45: EpithelialSize IS 4 AND NormalNucleoli IS 4: True
+46: EpithelialSize IS 4 AND NormalNucleoli IS 4: True
+47: EpithelialSize IS 4 AND NormalNucleoli IS 4: True
+48: BareNuclei IS 4 AND NormalNucleoli IS 4: True
+49: CellSize IS 5 AND BareNuclei IS 4: True
+50: ClumpThickness IS 7 AND CellSize IS 4: True
+51: ClumpThickness IS 7 AND CellSize IS 4: True
+52: MarginalAdhesion IS 4 AND NormalNucleoli IS 4: True
+53: CellShape IS 2 AND EpithelialSize IS 1 AND NormalNucleoli IS 0: False
+54: BareNuclei IS 4: True
+55: CellShape IS 2 AND BlandChromatin IS 1 AND NormalNucleoli IS 0: False
+56: CellShape IS 2 AND BlandChromatin IS 1 AND NormalNucleoli IS 0: False
+57: EpithelialSize IS 4 AND BlandChromatin IS 6: True
+58: MarginalAdhesion IS 4 AND BlandChromatin IS 6: True
+59: CellSize IS 4 AND MarginalAdhesion IS 4: True
+60: CellSize IS 4: True
+61: CellSize IS 5 AND MarginalAdhesion IS 4: True
+62: EpithelialSize IS 4 AND Mitoses IS 2: True
+63: CellShape IS 4 AND MarginalAdhesion IS 4: True
+64: ClumpThickness IS 7 AND BareNuclei IS 3: True
+65: CellShape IS 4 AND MarginalAdhesion IS 4: True
+66: ClumpThickness IS 7 AND BareNuclei IS 3: True
+67: CellShape IS 4 AND MarginalAdhesion IS 4: True
+68: CellSize IS 4 AND EpithelialSize IS 5: True
+69: ClumpThickness IS 7 AND CellSize IS 3: True
+70: CellSize IS 4 AND MarginalAdhesion IS 5: True
+71: CellSize IS 4 AND CellShape IS 2: True
+72: CellSize IS 4 AND CellShape IS 2: True
+73: CellShape IS 3 AND MarginalAdhesion IS 4: True
+74: CellShape IS 3 AND MarginalAdhesion IS 4: True
+75: EpithelialSize IS 5 AND BareNuclei IS 3: True
+76: CellShape IS 2 AND MarginalAdhesion IS 1 AND BareNuclei IS 0: False
+77: MarginalAdhesion IS 4 AND NormalNucleoli IS 3: True
+78: CellShape IS 5 AND BareNuclei IS 3: True
+79: CellSize IS 0 AND BareNuclei IS 1: False
+80: CellSize IS 3 AND MarginalAdhesion IS 5: True
+81: EpithelialSize IS 2 AND BareNuclei IS 3: True
+82: EpithelialSize IS 2 AND BareNuclei IS 3: True
+83: ClumpThickness IS 7 AND CellSize IS 3 AND NormalNucleoli IS 2: True
+84: CellSize IS 3 AND BareNuclei IS 4: True
+85: CellSize IS 3 AND BareNuclei IS 4: True
+86: MarginalAdhesion IS 1 AND EpithelialSize IS 4: True
+87: MarginalAdhesion IS 1 AND EpithelialSize IS 4: True
+88: CellSize IS 3 AND EpithelialSize IS 2 AND BareNuclei IS 0: False
+89: CellShape IS 2 AND EpithelialSize IS 2 AND BareNuclei IS 0: False
+90: CellShape IS 2 AND EpithelialSize IS 2 AND BareNuclei IS 0: False
+91: CellShape IS 2 AND EpithelialSize IS 1 AND BareNuclei IS 1: False
+92: CellShape IS 2 AND EpithelialSize IS 1 AND BareNuclei IS 1: False
+93: BareNuclei IS 3 AND BlandChromatin IS 2: True
+94: ClumpThickness IS 2 AND MarginalAdhesion IS 4 AND BareNuclei IS 3: True
+95: MarginalAdhesion IS 0 AND EpithelialSize IS 4 AND BlandChromatin IS 5: True
+96: BareNuclei IS 3 AND BlandChromatin IS 2: True
+97: MarginalAdhesion IS 0 AND EpithelialSize IS 4 AND BlandChromatin IS 5: True
+98: CellSize IS 3 AND MarginalAdhesion IS 5 AND NormalNucleoli IS 2: True
+99: MarginalAdhesion IS 2 AND BareNuclei IS 3: True
+100: MarginalAdhesion IS 2 AND BareNuclei IS 3: True
+101: CellSize IS 3 AND BlandChromatin IS 3 AND NormalNucleoli IS 0: True
+102: CellSize IS 3 AND BlandChromatin IS 3 AND NormalNucleoli IS 0: True
+103: BareNuclei IS 2 AND NormalNucleoli IS 2: True
+104: ClumpThickness IS 4 AND CellSize IS 3 AND BareNuclei IS 2: True
+105: CellSize IS 3 AND CellShape IS 2 AND EpithelialSize IS 4 AND BareNuclei IS 3: False
+106: CellSize IS 1 AND BareNuclei IS 3: True
+107: CellSize IS 3 AND BareNuclei IS 2 AND NormalNucleoli IS 2: True
+108: CellSize IS 3 AND BareNuclei IS 2 AND NormalNucleoli IS 2: True
+109: CellSize IS 3 AND BareNuclei IS 3 AND NormalNucleoli IS 2: True
+110: ClumpThickness IS 5 AND CellSize IS 3 AND BlandChromatin IS 3: True
+
+

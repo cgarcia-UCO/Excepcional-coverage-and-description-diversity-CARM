@@ -1,0 +1,128 @@
+GENERATED RULE 0
+   Antecedent
+	Variable a01 = Label 0 	 (-0.5 0.0 0.5)
+	Variable a03 = Label 2 	 (0.0 1.0 2.0)
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a07 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a12 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a13 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a14 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a16 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a17 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a18 = Label 2 	 (0.0 1.0 2.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a20 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a21 = Label 2 	 (0.0 1.0 2.0)
+	Variable a23 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a24 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a27 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+	Variable a34 = Label 0 	 (-2.0 -1.0 0.0)
+   Consecuent: b
+
+GENERATED RULE 1
+   Antecedent
+	Variable a01 = Label 0 	 (-0.5 0.0 0.5)
+	Variable a03 = Label 2 	 (0.0 1.0 2.0)
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a05 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a07 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a12 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a13 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a14 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a17 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a18 = Label 2 	 (0.0 1.0 2.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a20 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a23 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a24 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a27 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+	Variable a34 = Label 0 	 (-2.0 -1.0 0.0)
+   Consecuent: b
+
+GENERATED RULE 2
+   Antecedent
+	Variable a01 = Label 0 	 (-0.5 0.0 0.5)
+	Variable a03 = Label 2 	 (0.0 1.0 2.0)
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a05 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a07 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a12 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a13 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a14 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a16 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a17 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a18 = Label 2 	 (0.0 1.0 2.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a20 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a23 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a24 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a27 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+	Variable a34 = Label 0 	 (-2.0 -1.0 0.0)
+   Consecuent: b
+
+GENERATED RULE 0
+   Antecedent
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a06 = Label 2 	 (0.0 1.0 2.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a13 = Label 2 	 (0.0 1.0 2.0)
+	Variable a14 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a18 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a29 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a30 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+   Consecuent: g
+
+GENERATED RULE 1
+   Antecedent
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a13 = Label 2 	 (0.0 1.0 2.0)
+	Variable a14 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a16 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a18 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a24 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a29 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a30 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+   Consecuent: g
+
+GENERATED RULE 2
+   Antecedent
+	Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a10 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a11 = Label 2 	 (0.0 1.0 2.0)
+	Variable a13 = Label 2 	 (0.0 1.0 2.0)
+	Variable a14 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a18 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a19 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a25 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a29 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a30 = Label 1 	 (-1.0 0.0 1.0)
+	Variable a32 = Label 0 	 (-2.0 -1.0 0.0)
+	Variable a33 = Label 2 	 (0.0 1.0 2.0)
+   Consecuent: g
+

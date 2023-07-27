@@ -1,0 +1,1 @@
+00:00:02  ../results/KMeans-MV.MOPNAR-A.balance_tf/result0s0.tra

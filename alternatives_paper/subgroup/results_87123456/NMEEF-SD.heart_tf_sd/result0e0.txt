@@ -1,0 +1,32 @@
+GENERATED RULE 0
+	Antecedent
+		Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable Thal = Label 0 	 (1.0 3.0 5.0)
+	Consecuent: False
+
+GENERATED RULE 2
+	Antecedent
+		Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+		Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+	Consecuent: False
+
+GENERATED RULE 3
+	Antecedent
+		Variable MajorVessels = Label 0 	 (-1.5 0.0 1.5)
+	Consecuent: False
+
+GENERATED RULE 4
+	Antecedent
+		Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+		Variable Thal = Label 0 	 (1.0 3.0 5.0)
+	Consecuent: False
+
+GENERATED RULE 0
+	Antecedent
+		Variable ChestPainType = Label 2 	 (2.5 4.0 5.5)
+	Consecuent: True
+

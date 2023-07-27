@@ -1,0 +1,1 @@
+00:00:01  ../results/KMeans-MV.MOPNAR-A.iris_tf/result0s0.tra

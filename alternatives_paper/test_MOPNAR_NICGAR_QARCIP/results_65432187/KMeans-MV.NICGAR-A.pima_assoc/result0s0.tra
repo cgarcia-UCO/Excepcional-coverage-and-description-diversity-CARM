@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 98.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [1.0E-4, 846.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="preg" value="
+[7.0, 15.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[34.0, 64.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="skin" value="
+[7.0, 63.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[14.0, 744.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="age" value="
+NOT [27.0001, 81.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="plas" value="
+[155.0, 198.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="insu" value="
+[744.0, 846.0]" /></antecedents>
+<consequents>
+<attribute name="plas" value="
+[189.0, 197.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="mass" value="
+[50.0, 50.0]" /></antecedents>
+<consequents>
+<attribute name="plas" value="
+NOT [0.0, 151.9999]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="preg" value="
+[5.0, 8.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[31.0, 69.0]" /></consequents>
+</rule>
+</association_rules>

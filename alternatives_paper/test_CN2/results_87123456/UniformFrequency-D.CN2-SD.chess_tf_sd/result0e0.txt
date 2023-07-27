@@ -1,0 +1,18 @@
+
+Rule 1: IF  Wknck = 0.0 AND Bxqsq = 0.0 AND Wkna8 = 0.0 AND Hdchk = 0.0 AND Spcop = 0.0 THEN Class -> False     [ 0.9012066365007542 0.09879336349924585]
+Rule 2: IF  Rimmx > 0.0 THEN Class -> False     [ 1.0 0.0]
+Rule 3: IF  Wknck > 0.0 AND Rimmx = 0.0 THEN Class -> True     [ 0.05066079295154185 0.9493392070484582]
+Rule 4: IF  Rimmx = 0.0 AND Bxqsq <> 0.0 THEN Class -> True     [ 0.0 1.0]
+Rule 5: IF  Rimmx = 0.0 AND Bkxbq = 0.0 AND Katri5 <> 1.0 AND Qxmsq = 0.0 THEN Class -> True     [ 0.2815198618307427 0.7184801381692574]
+
+####Average results for test data####
+Avg. Rule length: 5
+Avg. Number of attributes by rule: 2.8
+Avg. Coverage: 0.2953066332916145
+Avg. Support Completo: 0.977784730913642
+Avg. Significance: 798.5280396786194
+Avg. Unusualness: 0.12270473528221312
+
+Accuracy Training: 0.9371088861076345
+Accuracy Test: 0.9371088861076345;
+  Time; 4539

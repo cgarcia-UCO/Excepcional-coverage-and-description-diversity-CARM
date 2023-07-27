@@ -1,0 +1,67 @@
+GENERATED RULE 0
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable pres = Label 1 	 (0.0 61.0 122.0)
+		Variable age = Label 0 	 (-9.0 21.0 51.0)
+	Consecuent: tested_negative
+
+GENERATED RULE 1
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+	Consecuent: tested_negative
+
+GENERATED RULE 2
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable age = Label 0 	 (-9.0 21.0 51.0)
+	Consecuent: tested_negative
+
+GENERATED RULE 3
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable pres = Label 1 	 (0.0 61.0 122.0)
+		Variable insu = Label 0 	 (-423.0 0.0 423.0)
+		Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+	Consecuent: tested_negative
+
+GENERATED RULE 4
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable insu = Label 0 	 (-423.0 0.0 423.0)
+		Variable mass = Label 1 	 (0.0 33.55 67.1)
+		Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+	Consecuent: tested_negative
+
+GENERATED RULE 5
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable insu = Label 0 	 (-423.0 0.0 423.0)
+		Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+	Consecuent: tested_negative
+
+GENERATED RULE 6
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable insu = Label 0 	 (-423.0 0.0 423.0)
+	Consecuent: tested_negative
+
+GENERATED RULE 7
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable pres = Label 1 	 (0.0 61.0 122.0)
+		Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+	Consecuent: tested_negative
+
+GENERATED RULE 8
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable pedi = Label 0 	 (-1.093 0.078 1.249)
+	Consecuent: tested_negative
+
+GENERATED RULE 9
+	Antecedent
+		Variable plas = Label 1 	 (0.0 99.5 199.0)
+		Variable pres = Label 1 	 (0.0 61.0 122.0)
+		Variable insu = Label 0 	 (-423.0 0.0 423.0)
+	Consecuent: tested_negative
+

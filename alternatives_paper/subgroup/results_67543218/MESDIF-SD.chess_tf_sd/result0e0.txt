@@ -1,0 +1,106 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Hdchk = f
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Reskr = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bxqsq = f
+	Variable Hdchk = f
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bxqsq = f
+	Variable Hdchk = f
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable R2ar8 = f
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkona = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable Reskd = f
+	Variable Rimmx = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkna8 = f
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Dsopp = f
+	Variable Dwipd = l
+	Variable Katri5 = n
+	Variable Qxmsq = f
+	Variable Reskd = f
+	Variable Rimmx = f
+	Variable Simpl = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wkpos = f
+   Consecuent: True
+

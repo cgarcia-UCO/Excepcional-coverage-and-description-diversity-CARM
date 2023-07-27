@@ -1,0 +1,1 @@
+00:00:10  ../results/KMeans-MV.NICGAR-A.ionosphere/result0s0.tra

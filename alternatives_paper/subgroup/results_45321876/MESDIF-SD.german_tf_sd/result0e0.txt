@@ -1,0 +1,104 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A152
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A152
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A152
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditHistory = A30
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable StatusAndSex = A92
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Property = A124
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A152
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A174
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+

@@ -1,0 +1,124 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-SDIGA for Subgroup Discovery
+Input file name training: ../datasets/wisconsin_tf_sd/wisconsin_tf_sd.dat
+Input file name test: ../datasets/wisconsin_tf_sd/wisconsin_tf_sd.dat
+Rules file name: ../results/SDIGA-SD.wisconsin_tf_sd/result0e0.txt
+Tracking file name: ../results/SDIGA-SD.wisconsin_tf_sd/result0e2.txt
+Random generator seed: 18234567
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.6
+Rules representation: CAN
+Objective 1: COMP(Weight: 0.4)
+Objective 2: FCNF(Weight: 0.3)
+Objective 3: UNUS(Weight: 0.3)
+Perform Local Search: true
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable ClumpThickness:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable CellSize:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable CellShape:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable MarginalAdhesion:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable EpithelialSize:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable BareNuclei:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable BlandChromatin:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable NormalNucleoli:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+Fuzzy sets parameters for variable Mitoses:
+	Label 0: -3.5 1.0 5.5
+	Label 1: 1.0 5.5 10.0
+	Label 2: 5.5 10.0 14.5
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 683
+Number of variables: 9
+@relation wisconsin
+@attribute ClumpThickness integer[1,10]
+@attribute CellSize integer[1,10]
+@attribute CellShape integer[1,10]
+@attribute MarginalAdhesion integer[1,10]
+@attribute EpithelialSize integer[1,10]
+@attribute BareNuclei integer[1,10]
+@attribute BlandChromatin integer[1,10]
+@attribute NormalNucleoli integer[1,10]
+@attribute Mitoses integer[1,10]
+@attribute Class{False,True}
+@inputs ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable ClumpThickness: 3.25  7.75  12.25  
+	Variable CellSize: 3.25  7.75  12.25  
+	Variable CellShape: 3.25  7.75  12.25  
+	Variable MarginalAdhesion: 3.25  7.75  12.25  
+	Variable EpithelialSize: 3.25  7.75  12.25  
+	Variable BareNuclei: 3.25  7.75  12.25  
+	Variable BlandChromatin: 3.25  7.75  12.25  
+	Variable NormalNucleoli: 3.25  7.75  12.25  
+	Variable Mitoses: 3.25  7.75  12.25  
+Information Gain of the variables:
+	Variable ClumpThickness: 0.20968401
+	Variable CellSize: 0.3459924
+	Variable CellShape: 0.34421355
+	Variable MarginalAdhesion: 0.24748123
+	Variable EpithelialSize: 0.25722384
+	Variable BareNuclei: 0.32619375
+	Variable BlandChromatin: 0.3018989
+	Variable NormalNucleoli: 0.24840051
+	Variable Mitoses: 0.06833166
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+   # 3299 generations, 10004 evaluations
+	Rule not improved by Local search. Support = 0.9842342
+   # 3302 generations, 10004 evaluations
+	Rule support improved by local search from 0.0022522523 to 0.0022522523
+   # 3317 generations, 10002 evaluations
+	Rule support improved by local search from 0.0022522523 to 0.0022522523
+   # 3276 generations, 10003 evaluations
+	Rule not stored (low confidence or support)
+
+Class 1:
+   # 3299 generations, 10004 evaluations
+	Rule not improved by Local search. Support = 0.9079498

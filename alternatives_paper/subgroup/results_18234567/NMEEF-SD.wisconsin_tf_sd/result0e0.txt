@@ -1,0 +1,41 @@
+GENERATED RULE 0
+	Antecedent
+		Variable Mitoses = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+		Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+		Variable NormalNucleoli = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 2
+	Antecedent
+		Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 3
+	Antecedent
+		Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+		Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 4
+	Antecedent
+		Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+		Variable CellShape = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 5
+	Antecedent
+		Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+		Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+		Variable Mitoses = Label 0 	 (-3.5 1.0 5.5)
+	Consecuent: False
+
+GENERATED RULE 0
+	Antecedent
+		Variable BareNuclei = Label 2 	 (5.5 10.0 14.5)
+	Consecuent: True
+

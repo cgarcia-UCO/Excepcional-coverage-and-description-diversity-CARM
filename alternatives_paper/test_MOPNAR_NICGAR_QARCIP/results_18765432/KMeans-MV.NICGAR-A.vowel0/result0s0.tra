@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="TT" value="
+NOT [0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+NOT [0.0, 7.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[0.0, 7.0]" /></antecedents>
+<consequents>
+<attribute name="TT" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="F1" value="
+NOT [-0.13690000000000002, 5.074]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+positive" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="F3" value="
+[1.802, 1.957]" /></antecedents>
+<consequents>
+<attribute name="F6" value="
+NOT [-0.5369, 1.403]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="F2" value="
+NOT [-2.4229, 1.2159]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+positive" /></consequents>
+</rule>
+</association_rules>

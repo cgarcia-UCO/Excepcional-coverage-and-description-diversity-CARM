@@ -1,0 +1,1 @@
+12  ../datasets/KMeans-MV.wisconsin_tf/KMeans-MVs0.wisconsin_tf1tra.dat../results/KMeans-MV.NICGAR-A.wisconsin_tf/result0s0.tra

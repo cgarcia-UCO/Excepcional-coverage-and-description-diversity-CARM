@@ -1,0 +1,27 @@
+
+Rule 1: IF  MiddleMiddle > 0.0 THEN Class -> False     [ 0.7734627831715211 0.22653721682847897]
+Rule 2: IF  TopRight <> 1.0 AND MiddleMiddle <> 0.0 AND BottomLeft <> 1.0 THEN Class -> False     [ 1.0 0.0]
+Rule 3: IF  TopLeft <> 1.0 AND MiddleMiddle > 0.0 AND BottomRight > 0.0 THEN Class -> False     [ 1.0 0.0]
+Rule 4: IF  BottomRight > 0.0 AND TopRight <> 1.0 AND MiddleLeft <> 1.0 THEN Class -> False     [ 0.8288770053475936 0.1711229946524064]
+Rule 5: IF  TopLeft <> 1.0 AND BottomLeft <> 1.0 AND MiddleRight > 0.0 THEN Class -> False     [ 0.8288770053475936 0.1711229946524064]
+Rule 6: IF  MiddleMiddle > 1.0 THEN Class -> False     [ 0.7991266375545851 0.20087336244541484]
+Rule 7: IF  TopRight = 0.0 AND TopLeft <> 1.0 AND TopMiddle <> 1.0 THEN Class -> False     [ 0.8076923076923077 0.19230769230769232]
+Rule 8: IF  BottomLeft > 0.0 AND MiddleMiddle <= 1.0 AND TopRight > 0.0 THEN Class -> True     [ 0.0 1.0]
+Rule 9: IF  BottomLeft > 0.0 AND BottomMiddle <> 2.0 THEN Class -> True     [ 0.5818639798488665 0.4181360201511335]
+Rule 10: IF  BottomMiddle <> 1.0 AND TopMiddle <= 1.0 AND TopLeft <> 0.0 THEN Class -> True     [ 0.538860103626943 0.46113989637305697]
+Rule 11: IF  BottomRight <> 1.0 AND MiddleLeft > 0.0 AND MiddleRight <> 1.0 THEN Class -> True     [ 0.538860103626943 0.46113989637305697]
+Rule 12: IF  BottomRight <> 1.0 AND TopLeft > 0.0 AND MiddleMiddle <= 1.0 THEN Class -> True     [ 0.0 1.0]
+Rule 13: IF  BottomLeft > 0.0 AND MiddleRight <= 1.0 AND MiddleLeft <= 1.0 THEN Class -> True     [ 0.538860103626943 0.46113989637305697]
+Rule 14: IF  TopRight > 0.0 AND BottomMiddle <> 1.0 AND BottomRight <> 2.0 AND TopMiddle <= 1.0 THEN Class -> True     [ 0.5032258064516129 0.4967741935483871]
+
+####Average results for test data####
+Avg. Rule length: 14
+Avg. Number of attributes by rule: 2.7142857142857144
+Avg. Coverage: 0.25
+Avg. Support Completo: 0.9592901878914405
+Avg. Significance: 69.82891029119862
+Avg. Unusualness: 0.05452234768117399
+
+Accuracy Training: 0.8173277661795407
+Accuracy Test: 0.8173277661795407;
+  Time; 48

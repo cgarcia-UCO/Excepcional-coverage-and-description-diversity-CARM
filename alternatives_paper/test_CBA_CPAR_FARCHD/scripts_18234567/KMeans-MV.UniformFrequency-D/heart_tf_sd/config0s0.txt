@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.heart_tf_sd/KMeans-MVs0.heart_tf_sd1tra.dat" "../datasets/KMeans-MV.heart_tf_sd/KMeans-MVs0.heart_tf_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.heart_tf_sd/KMeans-MV.UniformFrequency-Ds0.heart_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.heart_tf_sd/KMeans-MV.UniformFrequency-Ds0.heart_tf_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.heart_tf_sd/result1s0e0.txt"  
+
+seed = 18234567
+numIntervals = 10

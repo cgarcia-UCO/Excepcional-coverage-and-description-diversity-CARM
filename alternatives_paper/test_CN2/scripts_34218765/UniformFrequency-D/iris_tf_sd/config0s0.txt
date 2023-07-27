@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/iris_tf_sd/iris_tf_sd.dat" "../datasets/iris_tf_sd/iris_tf_sd.dat" 
+outputData = "../datasets/UniformFrequency-D.iris_tf_sd/UniformFrequency-Ds0.iris_tf_sd1tra.dat" "../datasets/UniformFrequency-D.iris_tf_sd/UniformFrequency-Ds0.iris_tf_sd1tst.dat" "../datasets/UniformFrequency-D.iris_tf_sd/result1s0e0.txt"  
+
+seed = 34218765
+numIntervals = 10

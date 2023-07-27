@@ -1,0 +1,40 @@
+GENERATED RULE 0
+   Antecedent
+	Variable ClumpThickness = Label 0 	 (-3.5 1.0 5.5)
+	Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+	Variable MarginalAdhesion = Label 0 	 (-3.5 1.0 5.5)
+	Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+	Variable NormalNucleoli = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable ClumpThickness = Label 0 	 (-3.5 1.0 5.5)
+	Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+	Variable EpithelialSize = Label 2 	 (5.5 10.0 14.5)
+	Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable MarginalAdhesion = Label 1 	 (1.0 5.5 10.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable CellShape = Label 2 	 (5.5 10.0 14.5)
+	Variable MarginalAdhesion = Label 1 	 (1.0 5.5 10.0)
+	Variable NormalNucleoli = Label 2 	 (5.5 10.0 14.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable CellShape = Label 1 	 (1.0 5.5 10.0)
+	Variable MarginalAdhesion = Label 1 	 (1.0 5.5 10.0)
+   Consecuent: True
+

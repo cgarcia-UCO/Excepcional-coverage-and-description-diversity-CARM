@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Persons" value="
+NOT 2" /><attribute name="Safety" value="
+NOT low" /></antecedents>
+<consequents>
+<attribute name="Acceptability" value="
+NOT False" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Acceptability" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Persons" value="
+2" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Acceptability" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Safety" value="
+NOT med" /></consequents>
+</rule>
+</association_rules>

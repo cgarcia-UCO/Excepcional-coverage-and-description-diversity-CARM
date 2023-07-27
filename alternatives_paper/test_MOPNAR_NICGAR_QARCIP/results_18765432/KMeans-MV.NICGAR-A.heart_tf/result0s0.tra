@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Oldpeak" value="
+NOT [1.0E-4, 62.0]" /></antecedents>
+<consequents>
+<attribute name="Slope" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Oldpeak" value="
+[62.0, 62.0]" /></antecedents>
+<consequents>
+<attribute name="RestBloodPressure" value="
+NOT [94.0, 159.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[170.0, 170.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[59.0, 59.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Thal" value="
+NOT [3.0, 5.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+NOT [355.0, 564.0]" /></antecedents>
+<consequents>
+<attribute name="MaxHeartRate" value="
+NOT [149.0, 160.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Thal" value="
+[3.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="MaxHeartRate" value="
+NOT [188.0, 193.0]" /></antecedents>
+<consequents>
+<attribute name="ChestPainType" value="
+NOT [1.0, 2.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Oldpeak" value="
+[21.0, 42.0]" /></antecedents>
+<consequents>
+<attribute name="Slope" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[156.0, 158.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[60.0, 70.0]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Oldpeak" value="
+[56.0, 56.0]" /></antecedents>
+<consequents>
+<attribute name="ExerciseInduced" value="
+NOT [0.0, 0.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="ChestPainType" value="
+[1.0, 1.0]" /><attribute name="Slope" value="
+[1.0, 1.0]" /><attribute name="Thal" value="
+NOT [3.0, 6.0]" /></antecedents>
+<consequents>
+<attribute name="Oldpeak" value="
+[14.0, 14.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[155.0, 156.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[65.0, 70.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="SerumCholestoral" value="
+[407.0, 409.0]" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[156.0, 160.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[62.0, 71.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="Age" value="
+[29.0, 46.0]" /></antecedents>
+<consequents>
+<attribute name="MajorVessels" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[165.0, 165.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[57.0, 57.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="Oldpeak" value="
+[32.0, 32.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[174.0, 174.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[59.0, 59.0]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="RestBloodPressure" value="
+[145.0, 150.0]" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[57.0, 64.0]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="ChestPainType" value="
+[1.0, 1.0]" /><attribute name="FastingBloodSugar" value="
+[0.0, 0.0]" /><attribute name="MajorVessels" value="
+NOT [0.0, 1.0]" /><attribute name="Thal" value="
+[3.0, 3.0]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="Age" value="
+[61.0, 61.0]" /></consequents>
+</rule>
+</association_rules>

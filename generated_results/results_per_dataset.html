@@ -1,0 +1,367 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<h2> australian </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 916.00  </td> <td>   3.8+-0.9   </td> <td>     5:11     </td> <td>   96.4 </td> <td>    70:85     </td> <td>  1.00 </td> <td>    88 </td> <td> 53.57 </td> <td>  0.04 </td> <td>  1.92 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 1489.00  </td> <td>   4.2+-0.9   </td> <td>     3:6      </td> <td>   95.8 </td> <td>    80:91     </td> <td>  1.00 </td> <td>    90 </td> <td> 41.37 </td> <td>  0.03 </td> <td>  2.03 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 1660.00  </td> <td>   4.6+-0.8   </td> <td>     1:4      </td> <td>   94.8 </td> <td>    90:96     </td> <td>  1.00 </td> <td>    94 </td> <td> 31.70 </td> <td>  0.02 </td> <td>  2.15 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 109.67  </td> <td>   2.5+-0.9   </td> <td>     3:12     </td> <td>   97.4 </td> <td>    70:81     </td> <td>  0.93 </td> <td>    68 </td> <td> 49.39 </td> <td>  0.04 </td> <td>  1.81 </td> </tr>
+<tr><td>           CBA2 </td> <td> 74.57  </td> <td>   3.2+-0.6   </td> <td>     1:2      </td> <td>   96.6 </td> <td>    91:100    </td> <td>  1.00 </td> <td>    68 </td> <td> 26.21 </td> <td>  0.01 </td> <td>  2.24 </td> </tr>
+<tr><td>           CPAR </td> <td> 107.70  </td> <td>   3.3+-0.8   </td> <td>     0:3      </td> <td>   98.9 </td> <td>    50:96     </td> <td>  1.00 </td> <td>    80 </td> <td> 25.25 </td> <td>  0.02 </td> <td>  2.15 </td> </tr>
+<tr><td>         FARCHD </td> <td>  7.50  </td> <td>   2.3+-0.5   </td> <td>     1:20     </td> <td>   93.2 </td> <td>    56:81     </td> <td>  0.67 </td> <td>    63 </td> <td> 87.67 </td> <td>  0.07 </td> <td>  1.81 </td> </tr>
+<tr><td>         NICGAR </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  0.90  </td> <td>   2.5+-0.6   </td> <td>    26:52     </td> <td>   89.1 </td> <td>    62:71     </td> <td>  0.32 </td> <td>    87 </td> <td> 87.58 </td> <td>  0.08 </td> <td>  1.59 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  5.10  </td> <td>   6.0+-1.4   </td> <td>    18:28     </td> <td>   95.4 </td> <td>    59:86     </td> <td>  0.86 </td> <td>   100 </td> <td> 155.60 </td> <td>  0.11 </td> <td>  1.93 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   5.0+-0.9   </td> <td>    16:17     </td> <td>   43.3 </td> <td>    98:99     </td> <td>  0.57 </td> <td>   100 </td> <td> 175.92 </td> <td>  0.09 </td> <td>  2.23 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> 10.00  </td> <td>   4.0+-0.6   </td> <td>     0:2      </td> <td>   45.9 </td> <td>     0:18     </td> <td>  0.57 </td> <td>   100 </td> <td> 14.73 </td> <td>  0.05 </td> <td>  0.41 </td> </tr>
+<tr><td>          NMEEF </td> <td>  2.00  </td> <td>   1.0+-0.0   </td> <td>     2:27     </td> <td>   92.5 </td> <td>    79:86     </td> <td>  0.14 </td> <td>    50 </td> <td> 97.21 </td> <td>  0.10 </td> <td>  1.94 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   3.1+-1.4   </td> <td>     1:26     </td> <td>   69.5 </td> <td>    31:63     </td> <td>  0.39 </td> <td>    96 </td> <td> 15.57 </td> <td>  0.02 </td> <td>  1.43 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.23  </td> <td>   2.1+-0.2   </td> <td>    40:45     </td> <td>   89.8 </td> <td>    72:77     </td> <td>  0.19 </td> <td>    98 </td> <td> 160.59 </td> <td>  0.17 </td> <td>  1.72 </td> </tr>
+<tr><td>       Proposal </td> <td> 75.17  </td> <td>   3.5+-1.4   </td> <td>     0:25     </td> <td>   98.5 </td> <td>    71:86     </td> <td>  1.00 </td> <td>    80 </td> <td> 117.41 </td> <td>  0.10 </td> <td>  1.93 </td> </tr>
+</table>
+<h2> balance </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>           CBA2 </td> <td> 49.00  </td> <td>   4.0+-0.0   </td> <td>     0:0      </td> <td>   14.5 </td> <td>   100:100    </td> <td>  1.00 </td> <td>   100 </td> <td>  1.24 </td> <td>  0.00 </td> <td>  1.85 </td> </tr>
+<tr><td>           CPAR </td> <td> 18.00  </td> <td>   2.4+-0.8   </td> <td>     0:3      </td> <td>   49.6 </td> <td>    60:69     </td> <td>  1.00 </td> <td>    78 </td> <td>  0.57 </td> <td>  0.00 </td> <td>  1.28 </td> </tr>
+<tr><td>         FARCHD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         NICGAR </td> <td>  0.63  </td> <td>   4.0+-0.0   </td> <td>     0:0      </td> <td>    0.4 </td> <td>   100:100    </td> <td>  1.00 </td> <td>   100 </td> <td>  1.24 </td> <td>  0.00 </td> <td>  1.85 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  4.97  </td> <td>   3.6+-0.5   </td> <td>     6:8      </td> <td>   24.5 </td> <td>    54:60     </td> <td>  1.00 </td> <td>    98 </td> <td>  1.36 </td> <td>  0.00 </td> <td>  1.11 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> 44.33  </td> <td>   4.0+-0.0   </td> <td>     0:0      </td> <td>   13.2 </td> <td>   100:100    </td> <td>  1.00 </td> <td>   100 </td> <td>  1.24 </td> <td>  0.00 </td> <td>  1.85 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  4.00  </td> <td>   3.5+-0.9   </td> <td>     4:27     </td> <td>   80.1 </td> <td>    38:52     </td> <td>  1.00 </td> <td>   100 </td> <td>  3.77 </td> <td> -0.00 </td> <td>  0.97 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   2.5+-1.2   </td> <td>     3:25     </td> <td>   63.3 </td> <td>    49:58     </td> <td>  1.00 </td> <td>    97 </td> <td>  2.53 </td> <td>  0.00 </td> <td>  1.08 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.1+-0.0   </td> <td>    58:58     </td> <td>   58.5 </td> <td>    55:55     </td> <td>  0.28 </td> <td>   100 </td> <td>  1.20 </td> <td>  0.00 </td> <td>  1.02 </td> </tr>
+<tr><td>       Proposal </td> <td> 45.63  </td> <td>   3.1+-0.8   </td> <td>     1:23     </td> <td>  100.0 </td> <td>    71:88     </td> <td>  1.00 </td> <td>    80 </td> <td> 60.21 </td> <td>  0.07 </td> <td>  1.63 </td> </tr>
+</table>
+<h2> car </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td>  2.00  </td> <td>   2.0+-0.0   </td> <td>    11:11     </td> <td>   57.7 </td> <td>    74:78     </td> <td>  0.33 </td> <td>   100 </td> <td> 188.80 </td> <td>  0.05 </td> <td>  2.60 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 18.00  </td> <td>   2.9+-0.2   </td> <td>     3:3      </td> <td>   87.5 </td> <td>    81:88     </td> <td>  1.00 </td> <td>   100 </td> <td> 87.93 </td> <td>  0.02 </td> <td>  2.94 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td>  8.00  </td> <td>   3.0+-0.0   </td> <td>     3:3      </td> <td>   53.3 </td> <td>    92:96     </td> <td>  0.67 </td> <td>   100 </td> <td> 98.49 </td> <td>  0.02 </td> <td>  3.20 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 130.00  </td> <td>   3.5+-0.6   </td> <td>     1:6      </td> <td>  100.0 </td> <td>    70:89     </td> <td>  1.00 </td> <td>   100 </td> <td> 140.72 </td> <td>  0.03 </td> <td>  2.97 </td> </tr>
+<tr><td>           CBA2 </td> <td> 62.00  </td> <td>   3.9+-0.3   </td> <td>     1:1      </td> <td>  100.0 </td> <td>    81:95     </td> <td>  1.00 </td> <td>   100 </td> <td> 35.68 </td> <td>  0.01 </td> <td>  3.15 </td> </tr>
+<tr><td>           CPAR </td> <td> 70.00  </td> <td>   4.0+-0.5   </td> <td>     0:1      </td> <td>  100.0 </td> <td>    81:96     </td> <td>  1.00 </td> <td>   100 </td> <td> 35.75 </td> <td>  0.01 </td> <td>  3.20 </td> </tr>
+<tr><td>         FARCHD </td> <td> 27.17  </td> <td>   2.7+-0.5   </td> <td>     3:5      </td> <td>   99.9 </td> <td>    40:76     </td> <td>  1.00 </td> <td>    92 </td> <td> 66.38 </td> <td>  0.02 </td> <td>  2.52 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.00  </td> <td>   2.0+-0.0   </td> <td>   100:100    </td> <td>  100.0 </td> <td>    30:30     </td> <td>  0.33 </td> <td>   100 </td> <td>  0.00 </td> <td>  0.00 </td> <td>  1.00 </td> </tr>
+<tr><td>         MOPNAR </td> <td> 17.47  </td> <td>   3.3+-0.8   </td> <td>     6:46     </td> <td>  100.0 </td> <td>    30:53     </td> <td>  0.94 </td> <td>   100 </td> <td> 75.33 </td> <td>  0.03 </td> <td>  1.77 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  5.00  </td> <td>   2.8+-0.4   </td> <td>     3:4      </td> <td>   30.1 </td> <td>    81:96     </td> <td>  0.67 </td> <td>   100 </td> <td> 135.77 </td> <td>  0.03 </td> <td>  3.21 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  2.00  </td> <td>   3.0+-0.0   </td> <td>    33:33     </td> <td>  100.0 </td> <td>    77:77     </td> <td>  0.67 </td> <td>   100 </td> <td> 552.09 </td> <td>  0.16 </td> <td>  2.58 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   2.8+-0.7   </td> <td>    11:16     </td> <td>   47.1 </td> <td>    41:50     </td> <td>  0.67 </td> <td>   100 </td> <td> 52.73 </td> <td>  0.03 </td> <td>  1.67 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   2.2+-1.0   </td> <td>     2:15     </td> <td>   53.3 </td> <td>    49:74     </td> <td>  0.58 </td> <td>   100 </td> <td> 111.15 </td> <td>  0.04 </td> <td>  2.48 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.10  </td> <td>   2.0+-0.0   </td> <td>    23:23     </td> <td>   39.8 </td> <td>    68:68     </td> <td>  0.34 </td> <td>   100 </td> <td> 92.65 </td> <td>  0.05 </td> <td>  2.27 </td> </tr>
+<tr><td>       Proposal </td> <td> 26.70  </td> <td>   4.1+-1.0   </td> <td>     1:10     </td> <td>  100.0 </td> <td>    72:87     </td> <td>  1.00 </td> <td>   100 </td> <td> 219.07 </td> <td>  0.05 </td> <td>  2.90 </td> </tr>
+</table>
+<h2> chess </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 16169.00  </td> <td>   5.3+-0.9   </td> <td>     5:10     </td> <td>  100.0 </td> <td>    70:82     </td> <td>  0.92 </td> <td>    37 </td> <td> 151.39 </td> <td>  0.03 </td> <td>  1.71 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 19090.00  </td> <td>   5.3+-0.8   </td> <td>     3:6      </td> <td>  100.0 </td> <td>    80:89     </td> <td>  0.92 </td> <td>    46 </td> <td> 139.46 </td> <td>  0.02 </td> <td>  1.86 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 13619.00  </td> <td>   5.3+-0.8   </td> <td>     1:4      </td> <td>   99.9 </td> <td>    90:95     </td> <td>  0.94 </td> <td>    47 </td> <td> 121.95 </td> <td>  0.02 </td> <td>  1.99 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 484.70  </td> <td>   3.5+-1.0   </td> <td>     0:7      </td> <td>  100.0 </td> <td>    70:79     </td> <td>  0.86 </td> <td>    28 </td> <td> 95.77 </td> <td>  0.02 </td> <td>  1.66 </td> </tr>
+<tr><td>           CBA2 </td> <td> 16.00  </td> <td>   2.5+-0.5   </td> <td>     1:5      </td> <td>   93.8 </td> <td>    95:98     </td> <td>  0.44 </td> <td>    44 </td> <td> 226.19 </td> <td>  0.03 </td> <td>  2.06 </td> </tr>
+<tr><td>           CPAR </td> <td> 24.00  </td> <td>   4.2+-1.1   </td> <td>     0:6      </td> <td>   99.5 </td> <td>   100:100    </td> <td>  0.69 </td> <td>   100 </td> <td> 275.80 </td> <td>  0.03 </td> <td>  2.09 </td> </tr>
+<tr><td>         FARCHD </td> <td> 14.20  </td> <td>   2.8+-0.4   </td> <td>     3:13     </td> <td>   99.9 </td> <td>    42:84     </td> <td>  0.50 </td> <td>    38 </td> <td> 410.67 </td> <td>  0.05 </td> <td>  1.76 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.47  </td> <td>   1.8+-0.0   </td> <td>    57:66     </td> <td>   92.0 </td> <td>    62:67     </td> <td>  0.06 </td> <td>    98 </td> <td> 325.24 </td> <td>  0.08 </td> <td>  1.41 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  0.10  </td> <td>   2.0+-0.0   </td> <td>    88:88     </td> <td>  100.0 </td> <td>    55:55     </td> <td>  0.06 </td> <td>   100 </td> <td> 79.75 </td> <td>  0.06 </td> <td>  1.15 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  0.83  </td> <td>   2.3+-0.2   </td> <td>    24:25     </td> <td>   59.0 </td> <td>    97:98     </td> <td>  0.08 </td> <td>   100 </td> <td> 1042.68 </td> <td>  0.13 </td> <td>  2.05 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  3.00  </td> <td>   2.7+-0.9   </td> <td>    23:29     </td> <td>   98.6 </td> <td>    72:89     </td> <td>  0.17 </td> <td>   100 </td> <td> 780.88 </td> <td>  0.11 </td> <td>  1.86 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  3.00  </td> <td>   2.0+-0.0   </td> <td>    12:16     </td> <td>   48.7 </td> <td>    89:94     </td> <td>  0.11 </td> <td>   100 </td> <td> 587.00 </td> <td>  0.08 </td> <td>  1.96 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td>  4.80  </td> <td>   2.7+-0.6   </td> <td>    28:43     </td> <td>   89.3 </td> <td>    62:81     </td> <td>  0.14 </td> <td>   100 </td> <td> 639.77 </td> <td>  0.12 </td> <td>  1.70 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>  15.1+-1.2   </td> <td>     1:5      </td> <td>   13.9 </td> <td>    55:70     </td> <td>  0.48 </td> <td>   100 </td> <td> 39.72 </td> <td>  0.01 </td> <td>  1.47 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    83:83     </td> <td>   82.5 </td> <td>    48:48     </td> <td>  0.03 </td> <td>   100 </td> <td>  8.05 </td> <td> -0.00 </td> <td>  1.00 </td> </tr>
+<tr><td>       Proposal </td> <td> 36.47  </td> <td>   3.5+-1.4   </td> <td>     0:15     </td> <td>   99.9 </td> <td>    71:86     </td> <td>  0.99 </td> <td>    45 </td> <td> 299.53 </td> <td>  0.05 </td> <td>  1.81 </td> </tr>
+</table>
+<h2> german </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 26.00  </td> <td>   5.0+-0.7   </td> <td>     5:6      </td> <td>   46.3 </td> <td>    70:73     </td> <td>  0.65 </td> <td>   100 </td> <td> 44.67 </td> <td>  0.02 </td> <td>  2.42 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 17.00  </td> <td>   5.8+-0.5   </td> <td>     2:3      </td> <td>   42.3 </td> <td>    80:81     </td> <td>  0.85 </td> <td>   100 </td> <td> 34.33 </td> <td>  0.02 </td> <td>  2.71 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 54.00  </td> <td>   5.1+-0.7   </td> <td>     1:1      </td> <td>   49.0 </td> <td>    90:94     </td> <td>  0.95 </td> <td>    83 </td> <td> 26.14 </td> <td>  0.01 </td> <td>  3.13 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 146.97  </td> <td>   3.6+-0.9   </td> <td>     1:3      </td> <td>   81.1 </td> <td>    70:79     </td> <td>  1.00 </td> <td>    70 </td> <td> 27.26 </td> <td>  0.01 </td> <td>  2.63 </td> </tr>
+<tr><td>           CBA2 </td> <td> 144.00  </td> <td>   3.0+-0.2   </td> <td>     0:0      </td> <td>   91.3 </td> <td>    33:98     </td> <td>  1.00 </td> <td>    32 </td> <td> 10.44 </td> <td>  0.00 </td> <td>  3.25 </td> </tr>
+<tr><td>           CPAR </td> <td> 285.00  </td> <td>   4.0+-1.0   </td> <td>     0:1      </td> <td>  100.0 </td> <td>    35:94     </td> <td>  1.00 </td> <td>    63 </td> <td> 10.73 </td> <td>  0.00 </td> <td>  3.13 </td> </tr>
+<tr><td>         FARCHD </td> <td> 44.27  </td> <td>   2.9+-0.3   </td> <td>     1:5      </td> <td>   95.8 </td> <td>    28:56     </td> <td>  0.99 </td> <td>    45 </td> <td> 12.24 </td> <td>  0.01 </td> <td>  1.85 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.10  </td> <td>   1.0+-0.0   </td> <td>     0:0      </td> <td>    2.9 </td> <td>    98:99     </td> <td>  0.06 </td> <td>   100 </td> <td>  6.91 </td> <td>  0.00 </td> <td>  3.31 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  0.07  </td> <td>   1.0+-0.0   </td> <td>     2:2      </td> <td>    5.3 </td> <td>    70:70     </td> <td>  0.05 </td> <td>   100 </td> <td> 14.41 </td> <td>  0.01 </td> <td>  2.33 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  5.00  </td> <td>   8.2+-1.2   </td> <td>    25:31     </td> <td>   96.7 </td> <td>    39:45     </td> <td>  0.80 </td> <td>   100 </td> <td> 34.80 </td> <td>  0.05 </td> <td>  1.52 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   5.8+-0.7   </td> <td>    16:16     </td> <td>   35.3 </td> <td>    64:65     </td> <td>  0.35 </td> <td>   100 </td> <td> 80.09 </td> <td>  0.05 </td> <td>  2.15 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>  10.0+-0.7   </td> <td>     0:0      </td> <td>    0.8 </td> <td>     6:9      </td> <td>  0.57 </td> <td>   100 </td> <td>  1.03 </td> <td>  0.00 </td> <td>  0.31 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    61:61     </td> <td>   62.1 </td> <td>    32:32     </td> <td>  0.05 </td> <td>   100 </td> <td>  2.63 </td> <td>  0.00 </td> <td>  1.05 </td> </tr>
+<tr><td>       Proposal </td> <td> 69.70  </td> <td>   4.5+-1.5   </td> <td>     0:1      </td> <td>   76.6 </td> <td>    70:86     </td> <td>  1.00 </td> <td>    41 </td> <td> 11.71 </td> <td>  0.01 </td> <td>  2.87 </td> </tr>
+</table>
+<h2> glass </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td>  1.00  </td> <td>   3.0+-0.0   </td> <td>     3:3      </td> <td>   27.3 </td> <td>    86:86     </td> <td>  0.33 </td> <td>   100 </td> <td> 21.77 </td> <td>  0.02 </td> <td>  8.34 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td>  9.00  </td> <td>   4.0+-0.0   </td> <td>     1:2      </td> <td>   54.5 </td> <td>   100:100    </td> <td>  0.78 </td> <td>   100 </td> <td> 17.19 </td> <td>  0.02 </td> <td>  9.73 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 191.03  </td> <td>   2.8+-1.0   </td> <td>     1:3      </td> <td>  100.0 </td> <td>    70:91     </td> <td>  1.00 </td> <td>    46 </td> <td> 24.61 </td> <td>  0.03 </td> <td>  8.83 </td> </tr>
+<tr><td>           CBA2 </td> <td>  5.57  </td> <td>   2.4+-0.5   </td> <td>     2:2      </td> <td>   64.2 </td> <td>    89:98     </td> <td>  0.67 </td> <td>    82 </td> <td> 20.22 </td> <td>  0.02 </td> <td>  9.54 </td> </tr>
+<tr><td>           CPAR </td> <td> 18.00  </td> <td>   2.3+-0.6   </td> <td>     0:3      </td> <td>  100.0 </td> <td>    42:89     </td> <td>  0.94 </td> <td>    69 </td> <td> 14.38 </td> <td>  0.02 </td> <td>  8.66 </td> </tr>
+<tr><td>         FARCHD </td> <td>  6.70  </td> <td>   2.3+-0.7   </td> <td>     0:3      </td> <td>   91.2 </td> <td>    47:81     </td> <td>  0.77 </td> <td>    62 </td> <td> 15.76 </td> <td>  0.02 </td> <td>  7.85 </td> </tr>
+<tr><td>         NICGAR </td> <td>  0.07  </td> <td>   1.0+-0.0   </td> <td>     0:1      </td> <td>   13.6 </td> <td>   100:100    </td> <td>  0.11 </td> <td>   100 </td> <td>  6.82 </td> <td>  0.01 </td> <td>  9.73 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  0.33  </td> <td>   2.8+-0.2   </td> <td>     8:8      </td> <td>   64.2 </td> <td>    79:81     </td> <td>  0.35 </td> <td>   100 </td> <td> 44.08 </td> <td>  0.05 </td> <td>  7.90 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  3.00  </td> <td>   7.0+-0.8   </td> <td>    10:12     </td> <td>  100.0 </td> <td>    64:79     </td> <td>  0.89 </td> <td>   100 </td> <td> 64.68 </td> <td>  0.08 </td> <td>  7.66 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   4.3+-1.5   </td> <td>     0:23     </td> <td>   73.5 </td> <td>     7:40     </td> <td>  0.69 </td> <td>    99 </td> <td>  3.86 </td> <td>  0.01 </td> <td>  3.89 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.97  </td> <td>   4.4+-0.6   </td> <td>     3:3      </td> <td>   18.6 </td> <td>    22:41     </td> <td>  0.68 </td> <td>    96 </td> <td>  7.94 </td> <td>  0.01 </td> <td>  3.98 </td> </tr>
+<tr><td>       Proposal </td> <td> 16.57  </td> <td>   4.5+-1.2   </td> <td>     1:5      </td> <td>  100.0 </td> <td>    72:87     </td> <td>  1.00 </td> <td>    72 </td> <td> 28.55 </td> <td>  0.03 </td> <td>  8.50 </td> </tr>
+</table>
+<h2> heart </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 141.00  </td> <td>   3.2+-0.8   </td> <td>     5:11     </td> <td>   92.5 </td> <td>    70:85     </td> <td>  0.62 </td> <td>    43 </td> <td> 21.93 </td> <td>  0.04 </td> <td>  1.91 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 172.00  </td> <td>   3.7+-0.7   </td> <td>     3:7      </td> <td>   88.3 </td> <td>    80:91     </td> <td>  0.62 </td> <td>    49 </td> <td> 18.92 </td> <td>  0.03 </td> <td>  2.04 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 135.00  </td> <td>   4.0+-0.6   </td> <td>     1:5      </td> <td>   80.8 </td> <td>    90:97     </td> <td>  0.62 </td> <td>    56 </td> <td> 17.58 </td> <td>  0.03 </td> <td>  2.18 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 724.70  </td> <td>   2.8+-0.9   </td> <td>     2:14     </td> <td>  100.0 </td> <td>    70:82     </td> <td>  1.00 </td> <td>    33 </td> <td> 22.75 </td> <td>  0.05 </td> <td>  1.85 </td> </tr>
+<tr><td>           CBA2 </td> <td> 38.70  </td> <td>   3.0+-0.7   </td> <td>     1:4      </td> <td>   97.5 </td> <td>    80:99     </td> <td>  1.00 </td> <td>    37 </td> <td> 17.65 </td> <td>  0.02 </td> <td>  2.24 </td> </tr>
+<tr><td>           CPAR </td> <td> 62.43  </td> <td>   2.8+-0.7   </td> <td>     1:6      </td> <td>  100.0 </td> <td>    70:96     </td> <td>  1.00 </td> <td>    47 </td> <td> 18.40 </td> <td>  0.03 </td> <td>  2.16 </td> </tr>
+<tr><td>         FARCHD </td> <td> 14.37  </td> <td>   2.6+-0.5   </td> <td>     2:8      </td> <td>   88.7 </td> <td>    49:88     </td> <td>  0.95 </td> <td>    43 </td> <td> 19.34 </td> <td>  0.03 </td> <td>  1.98 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.87  </td> <td>   1.0+-0.0   </td> <td>     9:25     </td> <td>   71.0 </td> <td>    75:85     </td> <td>  0.14 </td> <td>    60 </td> <td> 25.02 </td> <td>  0.07 </td> <td>  1.92 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  6.70  </td> <td>   2.1+-0.8   </td> <td>     8:18     </td> <td>   72.7 </td> <td>    80:89     </td> <td>  0.45 </td> <td>    66 </td> <td> 39.30 </td> <td>  0.08 </td> <td>  2.01 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> 11.87  </td> <td>   2.2+-0.9   </td> <td>     6:14     </td> <td>   79.3 </td> <td>    85:94     </td> <td>  0.60 </td> <td>    57 </td> <td> 43.55 </td> <td>  0.07 </td> <td>  2.12 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  4.83  </td> <td>   4.0+-1.2   </td> <td>    28:45     </td> <td>   98.3 </td> <td>    50:66     </td> <td>  0.55 </td> <td>    79 </td> <td> 23.38 </td> <td>  0.08 </td> <td>  1.48 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   3.4+-0.5   </td> <td>    20:22     </td> <td>   52.5 </td> <td>    94:96     </td> <td>  0.46 </td> <td>   100 </td> <td> 75.22 </td> <td>  0.11 </td> <td>  2.16 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> 10.00  </td> <td>   3.3+-0.8   </td> <td>    10:11     </td> <td>   62.5 </td> <td>    82:91     </td> <td>  0.62 </td> <td>    50 </td> <td> 30.61 </td> <td>  0.05 </td> <td>  2.06 </td> </tr>
+<tr><td>          NMEEF </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    48:48     </td> <td>   75.8 </td> <td>    71:71     </td> <td>  0.08 </td> <td>   100 </td> <td> 35.86 </td> <td>  0.12 </td> <td>  1.59 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   3.2+-1.1   </td> <td>     3:20     </td> <td>   51.6 </td> <td>    37:63     </td> <td>  0.38 </td> <td>    94 </td> <td> 13.03 </td> <td>  0.03 </td> <td>  1.42 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.60  </td> <td>   2.1+-0.5   </td> <td>    34:39     </td> <td>   67.3 </td> <td>    59:66     </td> <td>  0.26 </td> <td>    92 </td> <td> 18.74 </td> <td>  0.07 </td> <td>  1.49 </td> </tr>
+<tr><td>       Proposal </td> <td> 65.40  </td> <td>   3.2+-1.3   </td> <td>     1:25     </td> <td>   99.6 </td> <td>    70:84     </td> <td>  1.00 </td> <td>    42 </td> <td> 37.15 </td> <td>  0.09 </td> <td>  1.88 </td> </tr>
+</table>
+<h2> hepatitis </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td>  8.00  </td> <td>   3.1+-0.6   </td> <td>     5:7      </td> <td>   61.5 </td> <td>    70:80     </td> <td>  0.32 </td> <td>    75 </td> <td> 11.51 </td> <td>  0.05 </td> <td>  4.93 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 13.00  </td> <td>   3.5+-0.7   </td> <td>     2:4      </td> <td>   84.6 </td> <td>    80:96     </td> <td>  0.32 </td> <td>    85 </td> <td>  9.21 </td> <td>  0.03 </td> <td>  5.90 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 37.00  </td> <td>   3.5+-0.6   </td> <td>     1:2      </td> <td>   92.3 </td> <td>   100:100    </td> <td>  0.32 </td> <td>    68 </td> <td>  4.91 </td> <td>  0.01 </td> <td>  6.15 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 596.67  </td> <td>   3.3+-1.0   </td> <td>     2:7      </td> <td>  100.0 </td> <td>    70:89     </td> <td>  1.00 </td> <td>    31 </td> <td> 12.75 </td> <td>  0.05 </td> <td>  5.45 </td> </tr>
+<tr><td>           CBA2 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>           CPAR </td> <td> 15.00  </td> <td>   2.5+-0.7   </td> <td>     2:8      </td> <td>  100.0 </td> <td>    36:85     </td> <td>  0.58 </td> <td>    80 </td> <td> 10.28 </td> <td>  0.04 </td> <td>  5.26 </td> </tr>
+<tr><td>         FARCHD </td> <td>  5.43  </td> <td>   3.0+-0.0   </td> <td>     1:5      </td> <td>   91.8 </td> <td>    91:98     </td> <td>  0.61 </td> <td>    48 </td> <td> 12.49 </td> <td>  0.04 </td> <td>  6.03 </td> </tr>
+<tr><td>         NICGAR </td> <td>  4.80  </td> <td>   1.4+-0.5   </td> <td>     2:5      </td> <td>   92.8 </td> <td>    97:99     </td> <td>  0.20 </td> <td>    56 </td> <td> 14.28 </td> <td>  0.04 </td> <td>  6.11 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  1.47  </td> <td>   2.6+-0.6   </td> <td>     9:14     </td> <td>   68.8 </td> <td>    62:73     </td> <td>  0.24 </td> <td>    86 </td> <td> 14.05 </td> <td>  0.06 </td> <td>  4.49 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  2.63  </td> <td>   1.7+-0.5   </td> <td>     7:10     </td> <td>   65.0 </td> <td>    87:93     </td> <td>  0.16 </td> <td>    95 </td> <td> 21.97 </td> <td>  0.07 </td> <td>  5.75 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  2.00  </td> <td>   5.0+-1.0   </td> <td>    14:27     </td> <td>  100.0 </td> <td>    38:69     </td> <td>  0.42 </td> <td>   100 </td> <td> 24.17 </td> <td>  0.10 </td> <td>  4.23 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   2.6+-1.0   </td> <td>    12:19     </td> <td>   84.6 </td> <td>    46:73     </td> <td>  0.21 </td> <td>   100 </td> <td> 23.16 </td> <td>  0.10 </td> <td>  4.52 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td>  0.03  </td> <td>   7.0+-0.0   </td> <td>    19:19     </td> <td>   84.6 </td> <td>    73:73     </td> <td>  0.37 </td> <td>   100 </td> <td> 24.00 </td> <td>  0.11 </td> <td>  4.51 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   9.2+-0.8   </td> <td>     0:1      </td> <td>    3.1 </td> <td>     3:5      </td> <td>  0.56 </td> <td>   100 </td> <td>  0.55 </td> <td>  0.00 </td> <td>  0.32 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.1+-0.0   </td> <td>    54:54     </td> <td>   60.8 </td> <td>    18:18     </td> <td>  0.06 </td> <td>   100 </td> <td>  2.06 </td> <td>  0.01 </td> <td>  1.11 </td> </tr>
+<tr><td>       Proposal </td> <td> 12.77  </td> <td>   3.6+-1.1   </td> <td>     1:8      </td> <td>  100.0 </td> <td>    72:87     </td> <td>  0.96 </td> <td>    54 </td> <td> 14.60 </td> <td>  0.05 </td> <td>  5.38 </td> </tr>
+</table>
+<h2> iris </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 12.00  </td> <td>   1.9+-0.6   </td> <td>     6:22     </td> <td>  100.0 </td> <td>    73:92     </td> <td>  1.00 </td> <td>    58 </td> <td> 49.05 </td> <td>  0.12 </td> <td>  2.76 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 11.00  </td> <td>   2.0+-0.6   </td> <td>     6:20     </td> <td>  100.0 </td> <td>    80:94     </td> <td>  1.00 </td> <td>    64 </td> <td> 50.54 </td> <td>  0.12 </td> <td>  2.81 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 14.00  </td> <td>   2.3+-0.7   </td> <td>     1:16     </td> <td>  100.0 </td> <td>    90:97     </td> <td>  1.00 </td> <td>    71 </td> <td> 40.14 </td> <td>  0.10 </td> <td>  2.90 </td> </tr>
+<tr><td>        Heu.Ops </td> <td>  8.40  </td> <td>   1.5+-0.5   </td> <td>     2:18     </td> <td>   98.0 </td> <td>    72:88     </td> <td>  1.00 </td> <td>    60 </td> <td> 38.61 </td> <td>  0.10 </td> <td>  2.64 </td> </tr>
+<tr><td>           CBA2 </td> <td>  8.00  </td> <td>   1.8+-0.8   </td> <td>     1:6      </td> <td>   92.0 </td> <td>    86:98     </td> <td>  1.00 </td> <td>    62 </td> <td> 18.88 </td> <td>  0.04 </td> <td>  2.95 </td> </tr>
+<tr><td>           CPAR </td> <td> 12.00  </td> <td>   1.5+-0.5   </td> <td>     2:7      </td> <td>  100.0 </td> <td>    81:96     </td> <td>  1.00 </td> <td>    67 </td> <td> 19.20 </td> <td>  0.04 </td> <td>  2.89 </td> </tr>
+<tr><td>         FARCHD </td> <td>  1.67  </td> <td>   1.0+-0.0   </td> <td>    17:21     </td> <td>   75.0 </td> <td>    83:90     </td> <td>  0.38 </td> <td>    78 </td> <td> 46.86 </td> <td>  0.11 </td> <td>  2.71 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    31:31     </td> <td>   90.0 </td> <td>    98:98     </td> <td>  0.25 </td> <td>   100 </td> <td> 90.05 </td> <td>  0.20 </td> <td>  2.93 </td> </tr>
+<tr><td>         MOPNAR </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  2.00  </td> <td>   1.0+-0.0   </td> <td>    31:31     </td> <td>   98.0 </td> <td>    96:97     </td> <td>  0.50 </td> <td>    50 </td> <td> 85.95 </td> <td>  0.19 </td> <td>  2.90 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   1.2+-0.4   </td> <td>    27:38     </td> <td>  100.0 </td> <td>    39:81     </td> <td>  1.00 </td> <td>    40 </td> <td> 58.00 </td> <td>  0.14 </td> <td>  2.44 </td> </tr>
+<tr><td>       SDMap-SD </td> <td>  4.00  </td> <td>   1.0+-0.0   </td> <td>     9:12     </td> <td>   87.9 </td> <td>    81:93     </td> <td>  0.50 </td> <td>    50 </td> <td> 27.99 </td> <td>  0.07 </td> <td>  2.78 </td> </tr>
+<tr><td>          NMEEF </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    19:19     </td> <td>   56.9 </td> <td>   100:100    </td> <td>  0.25 </td> <td>   100 </td> <td> 62.55 </td> <td>  0.13 </td> <td>  3.00 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   1.8+-0.6   </td> <td>     5:15     </td> <td>   62.4 </td> <td>    91:97     </td> <td>  0.72 </td> <td>    93 </td> <td> 36.20 </td> <td>  0.07 </td> <td>  2.91 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    19:19     </td> <td>   58.0 </td> <td>   100:100    </td> <td>  0.25 </td> <td>   100 </td> <td> 63.72 </td> <td>  0.13 </td> <td>  3.00 </td> </tr>
+<tr><td>       Proposal </td> <td> 38.37  </td> <td>   2.4+-0.9   </td> <td>     5:32     </td> <td>  100.0 </td> <td>    70:89     </td> <td>  1.00 </td> <td>    72 </td> <td> 64.61 </td> <td>  0.17 </td> <td>  2.68 </td> </tr>
+</table>
+<h2> tic-tac-toe </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 12.00  </td> <td>   3.0+-0.0   </td> <td>     5:6      </td> <td>   45.8 </td> <td>    79:84     </td> <td>  1.00 </td> <td>   100 </td> <td> 58.85 </td> <td>  0.03 </td> <td>  2.42 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 44.00  </td> <td>   3.5+-0.5   </td> <td>     3:4      </td> <td>   97.6 </td> <td>    81:86     </td> <td>  1.00 </td> <td>    91 </td> <td> 41.74 </td> <td>  0.02 </td> <td>  2.48 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 50.00  </td> <td>   4.2+-0.7   </td> <td>     1:2      </td> <td>   97.6 </td> <td>    92:95     </td> <td>  1.00 </td> <td>    68 </td> <td> 30.92 </td> <td>  0.01 </td> <td>  2.73 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 68.00  </td> <td>   3.8+-0.6   </td> <td>     2:4      </td> <td>   99.4 </td> <td>    70:85     </td> <td>  1.00 </td> <td>    69 </td> <td> 49.84 </td> <td>  0.02 </td> <td>  2.45 </td> </tr>
+<tr><td>           CBA2 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>           CPAR </td> <td> 16.00  </td> <td>   4.0+-1.2   </td> <td>     0:3      </td> <td>   99.7 </td> <td>    92:98     </td> <td>  1.00 </td> <td>    50 </td> <td> 52.09 </td> <td>  0.02 </td> <td>  2.83 </td> </tr>
+<tr><td>         FARCHD </td> <td> 19.87  </td> <td>   3.0+-0.0   </td> <td>     3:5      </td> <td>   99.8 </td> <td>    42:74     </td> <td>  1.00 </td> <td>    47 </td> <td> 39.48 </td> <td>  0.02 </td> <td>  2.12 </td> </tr>
+<tr><td>         NICGAR </td> <td>  5.07  </td> <td>   3.9+-0.4   </td> <td>    27:68     </td> <td>   98.0 </td> <td>    34:39     </td> <td>  0.84 </td> <td>    94 </td> <td>  5.57 </td> <td>  0.01 </td> <td>  1.12 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  7.97  </td> <td>   2.3+-0.5   </td> <td>    12:36     </td> <td>   90.3 </td> <td>    39:58     </td> <td>  0.57 </td> <td>   100 </td> <td> 45.85 </td> <td>  0.04 </td> <td>  1.67 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  5.97  </td> <td>   2.3+-0.5   </td> <td>     5:9      </td> <td>   43.4 </td> <td>    68:78     </td> <td>  0.56 </td> <td>   100 </td> <td> 66.56 </td> <td>  0.04 </td> <td>  2.27 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  7.00  </td> <td>   3.0+-0.5   </td> <td>    10:20     </td> <td>   95.8 </td> <td>    42:61     </td> <td>  1.00 </td> <td>    43 </td> <td> 63.66 </td> <td>  0.04 </td> <td>  1.77 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   1.2+-0.4   </td> <td>    18:32     </td> <td>  100.0 </td> <td>    44:50     </td> <td>  0.44 </td> <td>    40 </td> <td> 32.98 </td> <td>  0.04 </td> <td>  1.45 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   2.4+-1.1   </td> <td>     3:15     </td> <td>   46.5 </td> <td>    46:70     </td> <td>  0.45 </td> <td>   100 </td> <td> 36.01 </td> <td>  0.03 </td> <td>  2.01 </td> </tr>
+<tr><td>          SDIGA </td> <td>  3.63  </td> <td>   2.7+-0.2   </td> <td>    10:11     </td> <td>   47.6 </td> <td>    90:90     </td> <td>  0.61 </td> <td>    78 </td> <td> 73.93 </td> <td>  0.04 </td> <td>  2.59 </td> </tr>
+<tr><td>       Proposal </td> <td> 40.17  </td> <td>   4.7+-1.3   </td> <td>     0:4      </td> <td>   99.1 </td> <td>    70:85     </td> <td>  1.00 </td> <td>    64 </td> <td> 35.78 </td> <td>  0.02 </td> <td>  2.45 </td> </tr>
+</table>
+<h2> wine </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 448.00  </td> <td>   2.9+-0.6   </td> <td>     4:10     </td> <td>  100.0 </td> <td>    70:91     </td> <td>  1.00 </td> <td>    46 </td> <td> 32.27 </td> <td>  0.06 </td> <td>  3.39 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 675.00  </td> <td>   3.1+-0.6   </td> <td>     2:7      </td> <td>  100.0 </td> <td>    80:94     </td> <td>  1.00 </td> <td>    49 </td> <td> 25.48 </td> <td>  0.05 </td> <td>  3.48 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 723.00  </td> <td>   3.4+-0.6   </td> <td>     1:5      </td> <td>  100.0 </td> <td>    90:99     </td> <td>  1.00 </td> <td>    51 </td> <td> 21.18 </td> <td>  0.04 </td> <td>  3.66 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 633.13  </td> <td>   2.6+-0.9   </td> <td>     2:12     </td> <td>  100.0 </td> <td>    70:88     </td> <td>  1.00 </td> <td>    43 </td> <td> 34.76 </td> <td>  0.07 </td> <td>  3.27 </td> </tr>
+<tr><td>           CBA2 </td> <td>  3.00  </td> <td>   1.0+-0.0   </td> <td>    10:10     </td> <td>   75.0 </td> <td>   100:100    </td> <td>  0.23 </td> <td>    33 </td> <td> 48.93 </td> <td>  0.08 </td> <td>  3.71 </td> </tr>
+<tr><td>           CPAR </td> <td>  8.53  </td> <td>   1.5+-0.5   </td> <td>     2:7      </td> <td>  100.0 </td> <td>    94:99     </td> <td>  0.50 </td> <td>    65 </td> <td> 30.15 </td> <td>  0.05 </td> <td>  3.68 </td> </tr>
+<tr><td>         FARCHD </td> <td>  1.27  </td> <td>   1.1+-0.1   </td> <td>    19:21     </td> <td>   83.1 </td> <td>    94:94     </td> <td>  0.11 </td> <td>    87 </td> <td> 75.04 </td> <td>  0.14 </td> <td>  3.50 </td> </tr>
+<tr><td>         NICGAR </td> <td>  0.70  </td> <td>   1.1+-0.1   </td> <td>    24:24     </td> <td>   83.0 </td> <td>    92:93     </td> <td>  0.09 </td> <td>   100 </td> <td> 82.73 </td> <td>  0.15 </td> <td>  3.44 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  5.27  </td> <td>   1.9+-0.6   </td> <td>    10:19     </td> <td>   95.2 </td> <td>    90:97     </td> <td>  0.35 </td> <td>    77 </td> <td> 76.05 </td> <td>  0.13 </td> <td>  3.58 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  2.93  </td> <td>   1.2+-0.2   </td> <td>    18:21     </td> <td>   88.1 </td> <td>    92:96     </td> <td>  0.15 </td> <td>    85 </td> <td> 80.20 </td> <td>  0.14 </td> <td>  3.54 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  1.00  </td> <td>   3.0+-0.0   </td> <td>    28:28     </td> <td>  100.0 </td> <td>    98:98     </td> <td>  0.23 </td> <td>   100 </td> <td> 116.68 </td> <td>  0.20 </td> <td>  3.63 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   1.2+-0.4   </td> <td>    20:20     </td> <td>  100.0 </td> <td>    78:92     </td> <td>  0.38 </td> <td>    40 </td> <td> 72.07 </td> <td>  0.13 </td> <td>  3.42 </td> </tr>
+<tr><td>       SDMap-SD </td> <td>  3.00  </td> <td>   1.0+-0.0   </td> <td>    10:10     </td> <td>   75.0 </td> <td>   100:100    </td> <td>  0.23 </td> <td>    33 </td> <td> 48.93 </td> <td>  0.08 </td> <td>  3.71 </td> </tr>
+<tr><td>          NMEEF </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    33:33     </td> <td>   97.9 </td> <td>    80:80     </td> <td>  0.08 </td> <td>   100 </td> <td> 71.14 </td> <td>  0.17 </td> <td>  2.95 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   3.1+-1.2   </td> <td>     4:14     </td> <td>   80.6 </td> <td>    47:75     </td> <td>  0.41 </td> <td>    93 </td> <td> 49.20 </td> <td>  0.11 </td> <td>  2.77 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.03  </td> <td>   2.0+-0.0   </td> <td>    17:18     </td> <td>   66.7 </td> <td>   100:100    </td> <td>  0.16 </td> <td>    98 </td> <td> 82.57 </td> <td>  0.13 </td> <td>  3.71 </td> </tr>
+<tr><td>       Proposal </td> <td> 39.53  </td> <td>   4.0+-1.5   </td> <td>     2:22     </td> <td>  100.0 </td> <td>    71:91     </td> <td>  1.00 </td> <td>    65 </td> <td> 69.90 </td> <td>  0.14 </td> <td>  3.36 </td> </tr>
+</table>
+<h2> wisconsin </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 108.00  </td> <td>   2.8+-0.8   </td> <td>    19:28     </td> <td>  100.0 </td> <td>    79:93     </td> <td>  0.89 </td> <td>    43 </td> <td> 286.67 </td> <td>  0.16 </td> <td>  2.66 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 128.00  </td> <td>   3.0+-0.8   </td> <td>     4:24     </td> <td>  100.0 </td> <td>    81:94     </td> <td>  0.89 </td> <td>    43 </td> <td> 248.91 </td> <td>  0.14 </td> <td>  2.68 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 130.00  </td> <td>   3.2+-0.7   </td> <td>     1:21     </td> <td>  100.0 </td> <td>    90:95     </td> <td>  0.89 </td> <td>    45 </td> <td> 228.15 </td> <td>  0.12 </td> <td>  2.72 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 89.90  </td> <td>   1.9+-0.7   </td> <td>     2:18     </td> <td>  100.0 </td> <td>    70:89     </td> <td>  1.00 </td> <td>    30 </td> <td> 173.75 </td> <td>  0.10 </td> <td>  2.54 </td> </tr>
+<tr><td>           CBA2 </td> <td> 25.73  </td> <td>   2.2+-0.9   </td> <td>     0:4      </td> <td>   95.2 </td> <td>    99:100    </td> <td>  1.00 </td> <td>    35 </td> <td> 60.60 </td> <td>  0.03 </td> <td>  2.86 </td> </tr>
+<tr><td>           CPAR </td> <td> 45.40  </td> <td>   2.1+-0.5   </td> <td>     0:4      </td> <td>   97.5 </td> <td>    31:97     </td> <td>  0.96 </td> <td>    44 </td> <td> 52.95 </td> <td>  0.03 </td> <td>  2.76 </td> </tr>
+<tr><td>         FARCHD </td> <td> 10.07  </td> <td>   1.2+-0.3   </td> <td>     3:9      </td> <td>   98.2 </td> <td>    54:89     </td> <td>  0.73 </td> <td>    32 </td> <td> 100.38 </td> <td>  0.05 </td> <td>  2.53 </td> </tr>
+<tr><td>         NICGAR </td> <td>  0.90  </td> <td>   1.0+-0.0   </td> <td>    33:33     </td> <td>   83.9 </td> <td>    90:90     </td> <td>  0.11 </td> <td>   100 </td> <td> 297.57 </td> <td>  0.18 </td> <td>  2.58 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  4.57  </td> <td>   1.2+-0.3   </td> <td>    19:25     </td> <td>   90.1 </td> <td>    93:96     </td> <td>  0.35 </td> <td>    67 </td> <td> 294.75 </td> <td>  0.15 </td> <td>  2.76 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  5.67  </td> <td>   1.2+-0.3   </td> <td>    14:19     </td> <td>   86.8 </td> <td>    96:98     </td> <td>  0.42 </td> <td>    62 </td> <td> 244.44 </td> <td>  0.12 </td> <td>  2.81 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  2.00  </td> <td>   0.7+-0.3   </td> <td>    47:63     </td> <td>   99.6 </td> <td>    47:60     </td> <td>  0.16 </td> <td>    50 </td> <td> 122.82 </td> <td>  0.12 </td> <td>  1.72 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   1.2+-0.4   </td> <td>    19:21     </td> <td>   93.7 </td> <td>    96:98     </td> <td>  0.56 </td> <td>    40 </td> <td> 265.87 </td> <td>  0.13 </td> <td>  2.79 </td> </tr>
+<tr><td>       SDMap-SD </td> <td>  9.03  </td> <td>   1.2+-0.4   </td> <td>     9:14     </td> <td>   95.9 </td> <td>    85:94     </td> <td>  0.93 </td> <td>    25 </td> <td> 154.21 </td> <td>  0.08 </td> <td>  2.68 </td> </tr>
+<tr><td>          NMEEF </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    24:24     </td> <td>   65.7 </td> <td>    97:97     </td> <td>  0.11 </td> <td>   100 </td> <td> 289.39 </td> <td>  0.15 </td> <td>  2.77 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   1.7+-0.7   </td> <td>     4:14     </td> <td>   68.3 </td> <td>    82:93     </td> <td>  0.33 </td> <td>    88 </td> <td> 124.43 </td> <td>  0.07 </td> <td>  2.65 </td> </tr>
+<tr><td>          SDIGA </td> <td>  2.73  </td> <td>   1.2+-0.2   </td> <td>    14:18     </td> <td>   78.7 </td> <td>    89:93     </td> <td>  0.31 </td> <td>    73 </td> <td> 184.93 </td> <td>  0.10 </td> <td>  2.64 </td> </tr>
+<tr><td>       Proposal </td> <td> 85.70  </td> <td>   2.9+-1.4   </td> <td>     1:22     </td> <td>  100.0 </td> <td>    70:93     </td> <td>  1.00 </td> <td>    40 </td> <td> 217.27 </td> <td>  0.12 </td> <td>  2.66 </td> </tr>
+</table>
+<h2> ionosphere </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 3382.00  </td> <td>   3.3+-0.8   </td> <td>     5:7      </td> <td>  100.0 </td> <td>    70:88     </td> <td>  0.94 </td> <td>    21 </td> <td> 30.96 </td> <td>  0.04 </td> <td>  2.45 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 12550.00  </td> <td>   3.7+-0.9   </td> <td>     2:4      </td> <td>  100.0 </td> <td>    80:92     </td> <td>  0.94 </td> <td>    21 </td> <td> 20.76 </td> <td>  0.02 </td> <td>  2.56 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 22885.00  </td> <td>   3.8+-0.8   </td> <td>     1:2      </td> <td>  100.0 </td> <td>    90:99     </td> <td>  0.94 </td> <td>    17 </td> <td> 16.19 </td> <td>  0.02 </td> <td>  2.75 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 15771.83  </td> <td>   3.1+-1.0   </td> <td>     2:7      </td> <td>  100.0 </td> <td>    70:90     </td> <td>  0.97 </td> <td>    17 </td> <td> 33.34 </td> <td>  0.04 </td> <td>  2.51 </td> </tr>
+<tr><td>           CBA2 </td> <td>  3.00  </td> <td>   1.3+-0.5   </td> <td>     4:9      </td> <td>   54.8 </td> <td>   100:100    </td> <td>  0.12 </td> <td>    33 </td> <td> 67.62 </td> <td>  0.06 </td> <td>  2.79 </td> </tr>
+<tr><td>           CPAR </td> <td>  9.53  </td> <td>   2.1+-0.6   </td> <td>     1:5      </td> <td>   69.7 </td> <td>    89:98     </td> <td>  0.43 </td> <td>    42 </td> <td> 32.47 </td> <td>  0.03 </td> <td>  2.73 </td> </tr>
+<tr><td>         FARCHD </td> <td>  8.47  </td> <td>   2.9+-0.2   </td> <td>     2:6      </td> <td>   70.3 </td> <td>    90:98     </td> <td>  0.54 </td> <td>    38 </td> <td> 33.45 </td> <td>  0.03 </td> <td>  2.72 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.33  </td> <td>   1.0+-0.0   </td> <td>    14:15     </td> <td>   54.4 </td> <td>    95:96     </td> <td>  0.04 </td> <td>    75 </td> <td> 89.18 </td> <td>  0.09 </td> <td>  2.68 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  0.40  </td> <td>   1.4+-0.3   </td> <td>    14:15     </td> <td>   45.0 </td> <td>    94:95     </td> <td>  0.07 </td> <td>    83 </td> <td> 81.19 </td> <td>  0.09 </td> <td>  2.64 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  0.10  </td> <td>   1.2+-0.2   </td> <td>    19:22     </td> <td>   64.7 </td> <td>    85:89     </td> <td>  0.06 </td> <td>    75 </td> <td> 93.24 </td> <td>  0.11 </td> <td>  2.48 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  5.00  </td> <td>   7.6+-2.3   </td> <td>    21:22     </td> <td>   97.6 </td> <td>    95:97     </td> <td>  0.68 </td> <td>    80 </td> <td> 132.43 </td> <td>  0.13 </td> <td>  2.70 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  5.00  </td> <td>   2.2+-0.4   </td> <td>    18:19     </td> <td>   65.1 </td> <td>    99:99     </td> <td>  0.18 </td> <td>    80 </td> <td> 131.82 </td> <td>  0.12 </td> <td>  2.77 </td> </tr>
+<tr><td>       SDMap-SD </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    11:11     </td> <td>   30.2 </td> <td>   100:100    </td> <td>  0.03 </td> <td>   100 </td> <td> 77.86 </td> <td>  0.07 </td> <td>  2.79 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>  20.2+-0.6   </td> <td>     0:0      </td> <td>    0.0 </td> <td>     0:0      </td> <td>  0.63 </td> <td>   100 </td> <td>  0.00 </td> <td>  0.00 </td> <td>  0.00 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    63:63     </td> <td>   57.6 </td> <td>    35:35     </td> <td>  0.03 </td> <td>   100 </td> <td>  5.03 </td> <td> -0.02 </td> <td>  0.97 </td> </tr>
+<tr><td>       Proposal </td> <td> 72.97  </td> <td>   3.2+-2.1   </td> <td>     0:14     </td> <td>  100.0 </td> <td>    71:90     </td> <td>  0.97 </td> <td>    23 </td> <td> 61.03 </td> <td>  0.07 </td> <td>  2.50 </td> </tr>
+</table>
+<h2> pima </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> 22.00  </td> <td>   3.1+-0.5   </td> <td>     5:7      </td> <td>   64.9 </td> <td>    70:74     </td> <td>  1.00 </td> <td>    82 </td> <td> 33.62 </td> <td>  0.03 </td> <td>  2.12 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td> 16.00  </td> <td>   3.8+-0.6   </td> <td>     3:4      </td> <td>   45.9 </td> <td>    80:82     </td> <td>  1.00 </td> <td>    94 </td> <td> 28.06 </td> <td>  0.02 </td> <td>  2.35 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 30.00  </td> <td>   4.4+-0.5   </td> <td>     1:2      </td> <td>   43.3 </td> <td>    90:93     </td> <td>  1.00 </td> <td>    83 </td> <td> 17.76 </td> <td>  0.01 </td> <td>  2.65 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 33.47  </td> <td>   2.6+-0.7   </td> <td>     2:9      </td> <td>   84.1 </td> <td>    70:77     </td> <td>  1.00 </td> <td>    58 </td> <td> 50.40 </td> <td>  0.04 </td> <td>  2.20 </td> </tr>
+<tr><td>           CBA2 </td> <td> 108.67  </td> <td>   2.9+-0.4   </td> <td>     0:1      </td> <td>   90.1 </td> <td>    54:96     </td> <td>  1.00 </td> <td>    41 </td> <td>  9.06 </td> <td>  0.00 </td> <td>  2.74 </td> </tr>
+<tr><td>           CPAR </td> <td> 213.10  </td> <td>   2.7+-0.7   </td> <td>     0:1      </td> <td>  100.0 </td> <td>    36:88     </td> <td>  1.00 </td> <td>    54 </td> <td>  7.02 </td> <td>  0.00 </td> <td>  2.52 </td> </tr>
+<tr><td>         FARCHD </td> <td> 13.10  </td> <td>   2.5+-0.7   </td> <td>     2:6      </td> <td>   69.0 </td> <td>    38:62     </td> <td>  0.89 </td> <td>    59 </td> <td> 19.28 </td> <td>  0.02 </td> <td>  1.79 </td> </tr>
+<tr><td>         NICGAR </td> <td>  2.10  </td> <td>   1.0+-0.0   </td> <td>    11:12     </td> <td>   35.1 </td> <td>    81:84     </td> <td>  0.18 </td> <td>    87 </td> <td> 83.38 </td> <td>  0.06 </td> <td>  2.41 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  4.53  </td> <td>   1.5+-0.5   </td> <td>     7:11     </td> <td>   34.8 </td> <td>    80:85     </td> <td>  0.35 </td> <td>   100 </td> <td> 84.48 </td> <td>  0.05 </td> <td>  2.43 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  4.43  </td> <td>   1.1+-0.1   </td> <td>     8:12     </td> <td>   36.1 </td> <td>    79:83     </td> <td>  0.16 </td> <td>   100 </td> <td> 86.46 </td> <td>  0.06 </td> <td>  2.38 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  5.20  </td> <td>   7.1+-0.8   </td> <td>    18:27     </td> <td>   95.8 </td> <td>    49:56     </td> <td>  1.00 </td> <td>   100 </td> <td> 43.90 </td> <td>  0.06 </td> <td>  1.62 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td>  1.00  </td> <td>   1.0+-0.0   </td> <td>    20:20     </td> <td>   29.5 </td> <td>    52:52     </td> <td>  0.12 </td> <td>   100 </td> <td> 17.92 </td> <td>  0.03 </td> <td>  1.48 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   2.3+-1.2   </td> <td>     0:20     </td> <td>   59.3 </td> <td>    10:45     </td> <td>  0.50 </td> <td>    92 </td> <td>  6.09 </td> <td>  0.00 </td> <td>  1.30 </td> </tr>
+<tr><td>          SDIGA </td> <td>  1.00  </td> <td>   1.2+-0.0   </td> <td>    23:23     </td> <td>   40.5 </td> <td>    68:68     </td> <td>  0.15 </td> <td>   100 </td> <td> 65.30 </td> <td>  0.06 </td> <td>  1.96 </td> </tr>
+<tr><td>       Proposal </td> <td> 65.50  </td> <td>   3.5+-1.5   </td> <td>     0:8      </td> <td>   89.5 </td> <td>    70:81     </td> <td>  1.00 </td> <td>    73 </td> <td> 49.37 </td> <td>  0.04 </td> <td>  2.33 </td> </tr>
+</table>
+<h2> vowel </h2>
+<table>
+<tr><th> Alg </th> <th> #rules </th> <th>         conds </th> <th> I.cov:minmean </th> <th>  G.cov </th> <th>  Conf:minmean </th> <th> %attrs </th> <th> Attr.dom </th> <th>  Sign </th> <th> WRAcc </th> <th>  Lift </th> </tr>
+<tr><td> Apriori_0.7_0.05 </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td> Apriori_0.8_0.025 </td> <td>  2.00  </td> <td>   4.0+-0.0   </td> <td>     3:3      </td> <td>   41.1 </td> <td>    80:80     </td> <td>  0.46 </td> <td>   100 </td> <td> 73.95 </td> <td>  0.02 </td> <td>  8.82 </td> </tr>
+<tr><td> Apriori_0.9_0.0125 </td> <td> 39.00  </td> <td>   4.5+-0.7   </td> <td>     1:2      </td> <td>   85.6 </td> <td>    90:95     </td> <td>  0.85 </td> <td>    72 </td> <td> 63.89 </td> <td>  0.01 </td> <td> 10.39 </td> </tr>
+<tr><td>        Heu.Ops </td> <td> 803.57  </td> <td>   2.9+-0.8   </td> <td>     1:1      </td> <td>  100.0 </td> <td>    70:91     </td> <td>  1.00 </td> <td>    35 </td> <td> 54.19 </td> <td>  0.01 </td> <td> 10.01 </td> </tr>
+<tr><td>           CBA2 </td> <td>  0.53  </td> <td>   2.0+-0.0   </td> <td>     2:2      </td> <td>   20.0 </td> <td>   100:100    </td> <td>  0.15 </td> <td>   100 </td> <td> 86.25 </td> <td>  0.02 </td> <td> 10.98 </td> </tr>
+<tr><td>           CPAR </td> <td>  6.00  </td> <td>   2.3+-0.5   </td> <td>     0:1      </td> <td>   48.9 </td> <td>    86:98     </td> <td>  0.38 </td> <td>    67 </td> <td> 48.46 </td> <td>  0.01 </td> <td> 10.72 </td> </tr>
+<tr><td>         FARCHD </td> <td>  3.57  </td> <td>   3.0+-0.0   </td> <td>     0:1      </td> <td>   26.2 </td> <td>    72:89     </td> <td>  0.55 </td> <td>    72 </td> <td> 33.56 </td> <td>  0.01 </td> <td>  9.79 </td> </tr>
+<tr><td>         NICGAR </td> <td>  1.33  </td> <td>   1.0+-0.0   </td> <td>     4:4      </td> <td>   56.6 </td> <td>   100:100    </td> <td>  0.10 </td> <td>    90 </td> <td> 203.47 </td> <td>  0.04 </td> <td> 10.97 </td> </tr>
+<tr><td>         MOPNAR </td> <td>  5.20  </td> <td>   1.4+-0.4   </td> <td>     3:6      </td> <td>   69.5 </td> <td>    76:89     </td> <td>  0.23 </td> <td>    98 </td> <td> 184.02 </td> <td>  0.04 </td> <td>  9.78 </td> </tr>
+<tr><td> QAR_CIP_NSGAII </td> <td>  2.07  </td> <td>   1.2+-0.2   </td> <td>     3:5      </td> <td>   56.0 </td> <td>    82:91     </td> <td>  0.11 </td> <td>   100 </td> <td> 151.82 </td> <td>  0.03 </td> <td>  9.95 </td> </tr>
+<tr><td>         CN2_SD </td> <td>  2.00  </td> <td>   7.5+-1.5   </td> <td>    12:16     </td> <td>   98.9 </td> <td>    43:53     </td> <td>  0.69 </td> <td>   100 </td> <td> 183.14 </td> <td>  0.07 </td> <td>  5.83 </td> </tr>
+<tr><td> SD-Algorithm-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>       SDMap-SD </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>          NMEEF </td> <td> No rules </td> <td>  </td> <td>  </td> <td> 0 </td> <td>  </td> <td> 0 </td> </tr>
+<tr><td>         MESDIF </td> <td>  3.00  </td> <td>   4.6+-1.9   </td> <td>     0:11     </td> <td>   44.4 </td> <td>     1:35     </td> <td>  0.56 </td> <td>    98 </td> <td> 24.90 </td> <td>  0.01 </td> <td>  3.82 </td> </tr>
+<tr><td>          SDIGA </td> <td>  2.60  </td> <td>   5.3+-0.4   </td> <td>     1:1      </td> <td>   10.9 </td> <td>     9:12     </td> <td>  0.64 </td> <td>    93 </td> <td> 29.89 </td> <td>  0.01 </td> <td>  1.35 </td> </tr>
+<tr><td>       Proposal </td> <td> 28.70  </td> <td>   4.1+-1.5   </td> <td>     0:5      </td> <td>  100.0 </td> <td>    73:90     </td> <td>  1.00 </td> <td>    77 </td> <td> 162.13 </td> <td>  0.04 </td> <td>  9.92 </td> </tr>
+</table>
+<h2> colorectal </h2>
+<p>Colorectal dataset is not available</p>
+</body>
+</html>
+<h2>GLOBAL RESULTS</h2>
+<table>
+<tr>
+<td>Alg.</td><td>#Datasets with rules</td><td>     #rules</td><td>       conds</td><td>   I.min_cov</td><td>  I.mean_cov</td><td>  G.coverage</td><td>    min_conf</td><td>   mean_conf</td><td> %used_attrs</td><td>    Attr.dom</td><td>Significance</td><td>       WRAcc</td><td>        Lift</td>
+<tr><td>Apriori_0.7_0.05 </td> <td>  12  </td> 
+<td> 1416+-4032.0  </td> <td>   3+-1.0    </td> <td>   7+-4.0    </td> <td>  11+-6.5    </td> <td>  80+-22.0   </td> <td>  72+-3.3    </td> <td>  84+-6.5    </td> <td>   1+-0.2    </td> <td>   1+-0.3    </td> <td>  80+-80.6   </td> <td>   0+-0.0    </td> <td>   3+-0.8    </td> </tr>
+<tr><td>Apriori_0.8_0.025 </td> <td>  14  </td> 
+<td> 2282+-5456.2  </td> <td>   4+-0.9    </td> <td>   3+-0.9    </td> <td>   7+-6.4    </td> <td>  79+-26.1   </td> <td>  81+-1.5    </td> <td>  89+-4.9    </td> <td>   1+-0.3    </td> <td>   1+-0.3    </td> <td>  60+-62.0   </td> <td>   0+-0.0    </td> <td>   4+-2.2    </td> </tr>
+<tr><td>Apriori_0.9_0.0125 </td> <td>  14  </td> 
+<td> 2626+-6372.2  </td> <td>   4+-0.8    </td> <td>   1+-0.4    </td> <td>   5+-5.7    </td> <td>  82+-21.2   </td> <td>  92+-3.4    </td> <td>  96+-2.2    </td> <td>   1+-0.2    </td> <td>   1+-0.2    </td> <td>  53+-58.5   </td> <td>   0+-0.0    </td> <td>   4+-2.7    </td> </tr>
+<tr><td>       Heu.Ops </td> <td>  14  </td> 
+<td> 1319+-3872.1  </td> <td>   3+-0.6    </td> <td>   2+-0.8    </td> <td>   9+-5.2    </td> <td>  97+-6.0    </td> <td>  70+-0.5    </td> <td>  86+-4.8    </td> <td>   1+-0.0    </td> <td>   0+-0.2    </td> <td>  58+-45.3   </td> <td>   0+-0.0    </td> <td>   4+-2.5    </td> </tr>
+<tr><td>          CBA2 </td> <td>  13  </td> 
+<td>  36+-42.8   </td> <td>   3+-0.9    </td> <td>   2+-2.6    </td> <td>   4+-3.2    </td> <td>  76+-28.2   </td> <td>  85+-19.5   </td> <td>  99+-1.7    </td> <td>   1+-0.4    </td> <td>   1+-0.3    </td> <td>  48+-56.9   </td> <td>   0+-0.0    </td> <td>   4+-2.8    </td> </tr>
+<tr><td>          CPAR </td> <td>  15  </td> 
+<td>  61+-79.9   </td> <td>   3+-0.9    </td> <td>   1+-0.8    </td> <td>   4+-2.2    </td> <td>  91+-18.0   </td> <td>  65+-24.4   </td> <td>  93+-7.7    </td> <td>   1+-0.2    </td> <td>   1+-0.2    </td> <td>  42+-64.4   </td> <td>   0+-0.0    </td> <td>   4+-2.5    </td> </tr>
+<tr><td>        FARCHD </td> <td>  14  </td> 
+<td>  12+-11.2   </td> <td>   2+-0.7    </td> <td>   4+-5.7    </td> <td>   9+-6.5    </td> <td>  84+-19.2   </td> <td>  59+-21.6   </td> <td>  83+-12.1   </td> <td>   1+-0.3    </td> <td>   1+-0.2    </td> <td>  69+-98.6   </td> <td>   0+-0.0    </td> <td>   3+-2.4    </td> </tr>
+<tr><td>      Proposal </td> <td>  15  </td> 
+<td>  48+-22.0   </td> <td>   4+-0.6    </td> <td>   1+-1.2    </td> <td>  15+-9.3    </td> <td>  98+-6.2    </td> <td>  71+-0.8    </td> <td>  87+-2.9    </td> <td>   1+-0.0    </td> <td>   1+-0.2    </td> <td>  97+-84.8   </td> <td>   0+-0.0    </td> <td>   4+-2.4    </td> </tr>
+<tr><td>        NICGAR </td> <td>  14  </td> 
+<td>   2+-1.4    </td> <td>   2+-1.0    </td> <td>  22+-26.7   </td> <td>  27+-29.4   </td> <td>  62+-34.6   </td> <td>  82+-23.2   </td> <td>  84+-22.2   </td> <td>   0+-0.3    </td> <td>   1+-0.1    </td> <td>  88+-106.3  </td> <td>   0+-0.1    </td> <td>   4+-3.0    </td> </tr>
+<tr><td>        MOPNAR </td> <td>  14  </td> 
+<td>   4+-4.5    </td> <td>   2+-0.7    </td> <td>  16+-20.9   </td> <td>  25+-22.7   </td> <td>  68+-28.9   </td> <td>  69+-18.8   </td> <td>  77+-15.3   </td> <td>   0+-0.3    </td> <td>   1+-0.1    </td> <td>  80+-73.7   </td> <td>   0+-0.0    </td> <td>   3+-2.5    </td> </tr>
+<tr><td>QAR_CIP_NSGAII </td> <td>  11  </td> 
+<td>   6+-10.8   </td> <td>   2+-0.9    </td> <td>  10+-7.5    </td> <td>  13+-7.8    </td> <td>  57+-22.8   </td> <td>  87+-9.0    </td> <td>  92+-6.4    </td> <td>   0+-0.3    </td> <td>   1+-0.2    </td> <td> 179+-280.5  </td> <td>   0+-0.0    </td> <td>   3+-2.3    </td> </tr>
+<tr><td>        CN2_SD </td> <td>  15  </td> 
+<td>   4+-1.7    </td> <td>   5+-2.4    </td> <td>  21+-10.7   </td> <td>  29+-11.8   </td> <td>  97+-4.8    </td> <td>  60+-21.4   </td> <td>  72+-17.2   </td> <td>   1+-0.3    </td> <td>   1+-0.2    </td> <td> 159+-209.5  </td> <td>   0+-0.1    </td> <td>   3+-1.8    </td> </tr>
+<tr><td>         NMEEF </td> <td>  7  </td> 
+<td>   1+-1.2    </td> <td>   2+-2.1    </td> <td>  25+-13.0   </td> <td>  30+-10.7   </td> <td>  80+-13.8   </td> <td>  80+-12.8   </td> <td>  84+-10.3   </td> <td>   0+-0.1    </td> <td>   1+-0.2    </td> <td> 174+-207.3  </td> <td>   0+-0.0    </td> <td>   3+-0.9    </td> </tr>
+<tr><td>        MESDIF </td> <td>  15  </td> 
+<td>   3+-0.0    </td> <td>   6+-5.3    </td> <td>   2+-1.7    </td> <td>  14+-8.5    </td> <td>  46+-26.9   </td> <td>  34+-28.4   </td> <td>  53+-29.3   </td> <td>   1+-0.2    </td> <td>   1+-0.0    </td> <td>  31+-37.6   </td> <td>   0+-0.0    </td> <td>   2+-1.2    </td> </tr>
+<tr><td>         SDIGA </td> <td>  15  </td> 
+<td>   2+-0.8    </td> <td>   2+-1.3    </td> <td>  34+-24.1   </td> <td>  35+-23.9   </td> <td>  56+-21.1   </td> <td>  58+-28.9   </td> <td>  60+-27.8   </td> <td>   0+-0.2    </td> <td>   1+-0.1    </td> <td>  53+-56.6   </td> <td>   0+-0.1    </td> <td>   2+-1.0    </td> </tr>
+<tr><td>      SDMap-SD </td> <td>  6  </td> 
+<td>   3+-3.9    </td> <td>   2+-1.2    </td> <td>   8+-3.7    </td> <td>  10+-3.7    </td> <td>  66+-22.9   </td> <td>  75+-34.3   </td> <td>  83+-29.1   </td> <td>   0+-0.3    </td> <td>   1+-0.3    </td> <td>  59+-47.0   </td> <td>   0+-0.0    </td> <td>   2+-1.0    </td> </tr>
+<tr><td>SD-Algorithm-SD </td> <td>  12  </td> 
+<td>   4+-2.1    </td> <td>   2+-1.5    </td> <td>  17+-4.2    </td> <td>  21+-6.4    </td> <td>  67+-26.2   </td> <td>  70+-23.7   </td> <td>  79+-19.4   </td> <td>   0+-0.2    </td> <td>   1+-0.3    </td> <td> 131+-153.5  </td> <td>   0+-0.0    </td> <td>   2+-0.8    </td> </tr>

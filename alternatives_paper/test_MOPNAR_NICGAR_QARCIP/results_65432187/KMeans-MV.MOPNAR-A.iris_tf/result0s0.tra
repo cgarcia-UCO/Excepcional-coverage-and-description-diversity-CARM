@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.2]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="PetalWidth" value="
+NOT [0.6001, 2.5]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [1.9001, 6.9]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="PetalWidth" value="
+[0.1, 0.4]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[1.0, 1.9]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [1.9001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [0.6001, 2.5]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="PetalWidth" value="
+NOT [1.3001, 2.5]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="PetalWidth" value="
+NOT [1.5001, 2.5]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="PetalLength" value="
+[1.2, 1.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[0.2, 0.6]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [4.3, 7.2999]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[6.1, 6.9]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="PetalWidth" value="
+[0.2, 0.6]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[1.2, 1.7]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="PetalLength" value="
+[6.4, 6.7]" /></antecedents>
+<consequents>
+<attribute name="SepalLength" value="
+[7.6, 7.9]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [1.7001, 2.5]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="PetalLength" value="
+[3.0, 4.4]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[1.0, 1.4]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="PetalLength" value="
+[6.7, 6.9]" /></antecedents>
+<consequents>
+<attribute name="SepalLength" value="
+[7.7, 7.7]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.4]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [4.2001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+False" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [4.2001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [1.4001, 2.5]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="PetalWidth" value="
+NOT [0.1, 1.3999]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [1.0, 4.1999]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="PetalWidth" value="
+[0.1, 0.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [1.6001, 6.9]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [1.0, 4.4999]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [0.1, 1.3999]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [1.5001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[0.1, 0.3]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="PetalWidth" value="
+[0.1, 0.4]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [1.6001, 6.9]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="PetalLength" value="
+[1.2, 1.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [0.6001, 2.5]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [5.100099999999999, 6.9]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="PetalLength" value="
+NOT [4.600099999999999, 6.9]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT True" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="SepalWidth" value="
+NOT [2.0, 3.1999]" /><attribute name="PetalLength" value="
+NOT [1.9001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[0.2, 0.6]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="SepalLength" value="
+[6.7, 6.7]" /><attribute name="SepalWidth" value="
+NOT [2.0, 3.2998999999999996]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[5.7, 5.7]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="SepalLength" value="
+[5.8, 6.9]" /><attribute name="PetalWidth" value="
+NOT [0.1, 1.3999]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[4.4, 6.0]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="SepalLength" value="
+[4.9, 5.1]" /><attribute name="PetalWidth" value="
+[1.0, 1.1]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 3.5]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.100099999999999, 7.9]" /><attribute name="PetalWidth" value="
+[1.0, 1.1]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 3.5]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.7001, 7.9]" /><attribute name="PetalWidth" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.3, 3.7]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="SepalWidth" value="
+[2.0, 2.5]" /><attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.9001, 7.9]" /><attribute name="PetalWidth" value="
+NOT [1.7001, 2.5]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+NOT [4.5001, 6.9]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="SepalWidth" value="
+[2.6, 3.0]" /><attribute name="PetalLength" value="
+[6.1, 6.9]" /></antecedents>
+<consequents>
+<attribute name="SepalLength" value="
+[7.3, 7.7]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [4.3, 7.6999]" /><attribute name="SepalWidth" value="
+[2.6, 2.8]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[6.7, 6.9]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="SepalWidth" value="
+NOT [2.6001000000000003, 4.4]" /><attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.4]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.8001, 7.9]" /><attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.4]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [6.3001, 7.9]" /><attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.4]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.8001, 7.9]" /><attribute name="PetalLength" value="
+NOT [4.2001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+NOT [1.4001, 2.5]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="SepalLength" value="
+NOT [5.5001, 7.9]" /><attribute name="PetalLength" value="
+NOT [1.5001, 6.9]" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[0.1, 0.3]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="SepalLength" value="
+[5.8, 6.9]" /><attribute name="SepalWidth" value="
+NOT [2.0, 2.4999]" /><attribute name="PetalWidth" value="
+NOT [0.1, 1.3999]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[4.2, 6.0]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="SepalLength" value="
+[5.0, 5.8]" /><attribute name="SepalWidth" value="
+NOT [2.6001000000000003, 4.4]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[1.0, 1.3]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="SepalLength" value="
+[4.9, 5.6]" /><attribute name="SepalWidth" value="
+[2.0, 2.5]" /><attribute name="PetalWidth" value="
+[1.0, 1.3]" /></antecedents>
+<consequents>
+<attribute name="PetalLength" value="
+[3.0, 4.0]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="SepalWidth" value="
+NOT [3.0001, 4.4]" /><attribute name="PetalLength" value="
+[3.3, 4.7]" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="PetalWidth" value="
+[1.0, 1.5]" /></consequents>
+</rule>
+</association_rules>

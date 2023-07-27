@@ -1,0 +1,52 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 2 	 (4.25 6.4 8.55)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 2 	 (1.5 2.0 2.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable AlbuMin = Label 2 	 (4.25 6.4 8.55)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable AlbuMin = Label 2 	 (4.25 6.4 8.55)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Steroid = Label 2 	 (1.5 2.0 2.5)
+	Variable Fatigue = Label 1 	 (1.0 1.5 2.0)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+	Variable Varices = Label 1 	 (1.0 1.5 2.0)
+	Variable AlbuMin = Label 2 	 (4.25 6.4 8.55)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+

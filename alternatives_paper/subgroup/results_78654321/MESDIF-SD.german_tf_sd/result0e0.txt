@@ -1,0 +1,88 @@
+GENERATED RULE 0
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditHistory = A32
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Housing = A153
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditHistory = A32
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A75
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Variable Housing = A153
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A171
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+

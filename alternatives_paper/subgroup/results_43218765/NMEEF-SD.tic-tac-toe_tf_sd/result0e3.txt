@@ -1,0 +1,3 @@
+Number 	Class 	Size 	NVar    	Coverage 	Significance 	Unusualness 	Accuracy 	Support  	CSupport  	FSupport 	FConfidence 	CConfidence
+000   	000	-	2.000000	0.478079	20.401333	0.069648	0.797826	0.584665	0.382046	0.382046	0.799127	0.799127
+-    	- 	001	2.000000	0.478079	20.401333	0.069648	0.797826	0.584665	0.382046	0.382046	0.799127	0.799127

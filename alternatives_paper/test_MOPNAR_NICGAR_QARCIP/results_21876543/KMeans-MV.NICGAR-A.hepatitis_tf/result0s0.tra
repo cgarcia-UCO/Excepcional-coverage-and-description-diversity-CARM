@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Ascites" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="AlbuMin" value="
+NOT [3.3001, 6.4]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="ProTime" value="
+[30.0, 35.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[160.0, 175.0]" /></antecedents>
+<consequents>
+<attribute name="AlbuMin" value="
+NOT [3.1001000000000003, 6.4]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Age" value="
+[47.0, 48.0]" /></antecedents>
+<consequents>
+<attribute name="Varices" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Anorexia" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Malaise" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[175.0, 180.0]" /></antecedents>
+<consequents>
+<attribute name="AlbuMin" value="
+[2.7, 2.9]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[230.0, 230.0]" /></antecedents>
+<consequents>
+<attribute name="ProTime" value="
+[41.0, 41.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Bilirubin" value="
+[2.8, 3.5]" /></antecedents>
+<consequents>
+<attribute name="Varices" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Ascites" value="
+NOT [1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="AlbuMin" value="
+[3.4, 4.4]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[243.0, 280.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT False" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="LiverBig" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="LiverFirm" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="ProTime" value="
+[29.0, 29.0]" /></antecedents>
+<consequents>
+<attribute name="Bilirubin" value="
+NOT [0.5001, 3.4999]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="ProTime" value="
+[38.0, 39.0]" /></antecedents>
+<consequents>
+<attribute name="SpleenPalpable" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Age" value="
+[53.0, 53.0]" /></antecedents>
+<consequents>
+<attribute name="Varices" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[155.0, 164.0]" /></antecedents>
+<consequents>
+<attribute name="AlbuMin" value="
+NOT [3.6001000000000003, 6.4]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="Fatigue" value="
+NOT [1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Malaise" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+NOT [27.0, 295.0]" /></antecedents>
+<consequents>
+<attribute name="ProTime" value="
+NOT [0.0, 99.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+NOT [108.0, 279.0]" /><attribute name="AlbuMin" value="
+[3.0, 3.8]" /><attribute name="Class" value="
+NOT False" /></antecedents>
+<consequents>
+<attribute name="ProTime" value="
+[29.0, 42.0]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="Bilirubin" value="
+[3.5, 4.8]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[125.0, 133.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Age" value="
+[57.0, 59.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="Age" value="
+[25.0, 25.0]" /></antecedents>
+<consequents>
+<attribute name="AlkPhosphate" value="
+NOT [46.0, 180.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="Age" value="
+[72.0, 72.0]" /></antecedents>
+<consequents>
+<attribute name="AlkPhosphate" value="
+[115.0, 115.0]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[141.0, 147.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="AlkPhosphate" value="
+[123.0, 125.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="ProTime" value="
+[35.0, 36.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Age" value="
+[43.0, 47.0]" /><attribute name="Fatigue" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT False" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="Sgot" value="
+NOT [250.0, 648.0]" /></antecedents>
+<consequents>
+<attribute name="Bilirubin" value="
+[0.4, 1.4]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="Sgot" value="
+[420.0, 420.0]" /></antecedents>
+<consequents>
+<attribute name="ProTime" value="
+[46.0, 46.0]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="Age" value="
+[50.0, 50.0]" /></antecedents>
+<consequents>
+<attribute name="Histology" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="LiverBig" value="
+NOT [1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="LiverFirm" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="AlbuMin" value="
+NOT [2.1001000000000003, 3.9999]" /></antecedents>
+<consequents>
+<attribute name="AlkPhosphate" value="
+[30.0, 86.0]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="Age" value="
+[58.0, 65.0]" /></antecedents>
+<consequents>
+<attribute name="LiverFirm" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="SpleenPalpable" value="
+[1.0, 1.0]" /><attribute name="Histology" value="
+NOT [1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="Spiders" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Histology" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="Age" value="
+[54.0, 54.0]" /></antecedents>
+<consequents>
+<attribute name="Histology" value="
+NOT [1.0, 1.0]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="Age" value="
+NOT [7.0, 46.0]" /><attribute name="Bilirubin" value="
+[2.0, 2.8]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="Age" value="
+[39.0, 47.0]" /><attribute name="ProTime" value="
+[31.0, 40.0]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+NOT False" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="AlbuMin" value="
+[2.7, 2.7]" /></antecedents>
+<consequents>
+<attribute name="AlkPhosphate" value="
+NOT [26.0, 122.0]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="Sgot" value="
+[98.0, 98.0]" /></antecedents>
+<consequents>
+<attribute name="Malaise" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+</association_rules>

@@ -1,0 +1,36 @@
+GENERATED RULE 0
+   Antecedent
+	Variable OD280/OD315 = Label 2 	 (2.6 4.0 5.3999996)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable flavanoids = Label 1 	 (0.3 2.6999998 5.1)
+	Variable ColorIntensity = Label 0 	 (-4.7 1.2 7.1000004)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable AlcalinityOfAsh = Label 1 	 (10.6 20.3 30.0)
+	Variable flavanoids = Label 0 	 (-2.1 0.3 2.6999998)
+	Variable ColorIntensity = Label 2 	 (7.1000004 13.0 18.900002)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable AlcalinityOfAsh = Label 1 	 (10.6 20.3 30.0)
+	Variable Hue = Label 0 	 (-0.29999998 0.4 1.1)
+	Variable OD280/OD315 = Label 0 	 (-0.19999993 1.2 2.6)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable AlcalinityOfAsh = Label 1 	 (10.6 20.3 30.0)
+	Variable flavanoids = Label 0 	 (-2.1 0.3 2.6999998)
+   Consecuent: True
+

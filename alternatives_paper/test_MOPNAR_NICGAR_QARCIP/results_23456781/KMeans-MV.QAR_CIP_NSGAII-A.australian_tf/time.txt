@@ -1,0 +1,1 @@
+3  ../datasets/KMeans-MV.australian_tf/KMeans-MVs0.australian_tf1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.australian_tf/result0s0.tra

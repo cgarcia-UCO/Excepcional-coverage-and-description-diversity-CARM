@@ -1,0 +1,1 @@
+6  null../results/KMeans-MV.MOPNAR-A.german_tf/result0s0.tra

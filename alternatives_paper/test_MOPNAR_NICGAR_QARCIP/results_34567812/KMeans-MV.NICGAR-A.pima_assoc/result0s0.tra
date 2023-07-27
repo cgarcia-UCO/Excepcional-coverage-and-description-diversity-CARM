@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="skin" value="
+NOT [1.0E-4, 98.9999]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+NOT [1.0E-4, 846.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="preg" value="
+[7.0, 15.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[34.0, 64.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="skin" value="
+[7.0, 56.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[15.0, 744.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="pedi" value="
+[1.893, 1.893]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[42.0, 42.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+NOT [27.0001, 81.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="pedi" value="
+[1.781, 1.781]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[40.5, 40.5]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="pedi" value="
+[2.288, 2.288]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+[43.1, 43.1]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="plas" value="
+[172.0, 172.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[28.0, 28.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="skin" value="
+[60.0, 63.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [1.0E-4, 17.0]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="skin" value="
+[54.0, 54.0]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [1.0E-4, 12.9999]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="mass" value="
+[18.2, 23.7]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [19.0001, 99.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="preg" value="
+[5.0, 8.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[30.0, 69.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="plas" value="
+[173.0, 198.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="plas" value="
+[149.0, 149.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[42.0, 42.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="plas" value="
+[168.0, 171.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="mass" value="
+[55.0, 55.0]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+[30.0, 30.0]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="mass" value="
+NOT [1.0E-4, 67.09989999999999]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+NOT [1.0E-4, 95.9999]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="plas" value="
+[167.0, 168.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="mass" value="
+[48.3, 50.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="plas" value="
+NOT [166.0001, 172.9999]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_negative" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="plas" value="
+[156.0, 156.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="plas" value="
+NOT [183.0001, 188.9999]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_negative" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="mass" value="
+[52.9, 53.2]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+tested_positive" /></consequents>
+</rule>
+</association_rules>

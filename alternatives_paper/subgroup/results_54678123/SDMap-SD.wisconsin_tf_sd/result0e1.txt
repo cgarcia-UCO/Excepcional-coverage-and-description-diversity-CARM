@@ -1,0 +1,2 @@
+#Rule	#Vars	Cov	Sign	Unus	Supp	Cnf
+-	NaN	NaN	NaN	NaN	NaN	NaN

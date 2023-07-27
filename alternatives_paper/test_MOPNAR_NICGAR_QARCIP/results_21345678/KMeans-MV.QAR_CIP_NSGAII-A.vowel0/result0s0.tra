@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="F7" value="
+[-0.295, -0.295]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[0.907, 0.907]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="F9" value="
+[0.447, 0.447]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.531, -0.531]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="F3" value="
+[-0.827, 0.152]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+negative" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="F1" value="
+[-1.274, -0.159]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+positive" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="F5" value="
+[0.017, 0.017]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.531, -0.531]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="F6" value="
+[0.605, 0.605]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.531, -0.531]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="F1" value="
+[1.513, 1.513]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[0.907, 0.907]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="F3" value="
+[1.604, 1.604]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[0.907, 0.907]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="F1" value="
+[-0.922, -0.904]" /></antecedents>
+<consequents>
+<attribute name="F0" value="
+[-1.149, -1.093]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="F4" value="
+[-0.702, -0.702]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[-1.227, -1.227]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="F4" value="
+[-0.702, -0.702]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[1.734, 1.734]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="F1" value="
+[-0.922, -0.922]" /></antecedents>
+<consequents>
+<attribute name="F0" value="
+[-1.093, -1.093]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="F4" value="
+[-0.498, -0.498]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[3.105, 3.105]" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="F3" value="
+[1.413, 1.413]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[0.653, 0.653]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="F1" value="
+[3.385, 3.385]" /></antecedents>
+<consequents>
+<attribute name="F0" value="
+[-4.744, -4.744]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="F2" value="
+[0.674, 0.674]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[0.653, 0.653]" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="F6" value="
+[0.071, 0.071]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[4.569, 4.569]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="F1" value="
+[0.682, 0.682]" /></antecedents>
+<consequents>
+<attribute name="F8" value="
+[0.757, 0.757]" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="F0" value="
+[-4.474, -4.474]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[4.569, 4.569]" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="F1" value="
+[0.923, 3.003]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+negative" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="F6" value="
+[-0.264, -0.264]" /></antecedents>
+<consequents>
+<attribute name="F8" value="
+[0.757, 0.757]" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[4.0, 6.0]" /></antecedents>
+<consequents>
+<attribute name="Sex" value="
+[1.0, 1.0]" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="F6" value="
+[-0.679, -0.679]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.19, -0.19]" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="F7" value="
+[1.198, 1.198]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.19, -0.19]" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="F2" value="
+[-0.074, -0.074]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.19, -0.19]" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="F9" value="
+[0.563, 0.563]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.19, -0.19]" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="F5" value="
+[-0.11, -0.11]" /></antecedents>
+<consequents>
+<attribute name="F3" value="
+[-0.19, -0.19]" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="F6" value="
+[-0.347, -0.347]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[1.816, 1.816]" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[13.0, 14.0]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[-0.801, -0.136]" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="F3" value="
+[-0.388, 0.555]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+negative" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="F5" value="
+[0.759, 0.759]" /></antecedents>
+<consequents>
+<attribute name="F9" value="
+[0.586, 0.586]" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="F2" value="
+[-2.487, -2.254]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.327]" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="F2" value="
+[-2.487, -2.423]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.266]" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="F5" value="
+[-0.298, -0.298]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[-0.158, -0.158]" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="F5" value="
+[-0.312, -0.312]" /></antecedents>
+<consequents>
+<attribute name="F6" value="
+[0.137, 0.137]" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="F5" value="
+[-0.205, -0.205]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[-1.26, -1.26]" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="F1" value="
+[4.49, 4.49]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[-0.158, -0.158]" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="F3" value="
+[-0.536, -0.536]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[4.49, 4.49]" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="F5" value="
+[-0.298, -0.298]" /></antecedents>
+<consequents>
+<attribute name="F1" value="
+[4.49, 4.49]" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="F1" value="
+[3.085, 3.085]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[-0.052, -0.052]" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="F4" value="
+[-1.526, -1.526]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[-0.052, -0.052]" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="F4" value="
+[-0.528, -0.528]" /></antecedents>
+<consequents>
+<attribute name="F9" value="
+[0.769, 0.769]" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="F5" value="
+[1.246, 1.246]" /></antecedents>
+<consequents>
+<attribute name="F9" value="
+[0.769, 0.769]" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="F8" value="
+[0.511, 0.511]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[-0.052, -0.052]" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="F9" value="
+[-0.176, -0.176]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[-1.703, -1.703]" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="F1" value="
+[1.241, 1.241]" /></antecedents>
+<consequents>
+<attribute name="F8" value="
+[0.744, 0.744]" /></consequents>
+</rule>
+<rule id="46">
+<antecedents>
+<attribute name="F9" value="
+[0.088, 0.088]" /></antecedents>
+<consequents>
+<attribute name="F8" value="
+[0.744, 0.744]" /></consequents>
+</rule>
+<rule id="47">
+<antecedents>
+<attribute name="F4" value="
+[-0.692, -0.692]" /></antecedents>
+<consequents>
+<attribute name="F8" value="
+[0.744, 0.744]" /></consequents>
+</rule>
+<rule id="48">
+<antecedents>
+<attribute name="F0" value="
+[-2.698, -2.698]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[0.781, 0.781]" /></consequents>
+</rule>
+<rule id="49">
+<antecedents>
+<attribute name="F3" value="
+[-0.524, 0.42]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+negative" /></consequents>
+</rule>
+<rule id="50">
+<antecedents>
+<attribute name="F0" value="
+[-3.278, -3.278]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[1.047, 1.047]" /></consequents>
+</rule>
+<rule id="51">
+<antecedents>
+<attribute name="F1" value="
+[-0.321, -0.253]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+positive" /></consequents>
+</rule>
+<rule id="52">
+<antecedents>
+<attribute name="F7" value="
+[1.337, 1.337]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.266, 2.266]" /></consequents>
+</rule>
+<rule id="53">
+<antecedents>
+<attribute name="F8" value="
+[0.415, 0.415]" /></antecedents>
+<consequents>
+<attribute name="F4" value="
+[-1.953, -1.953]" /></consequents>
+</rule>
+<rule id="54">
+<antecedents>
+<attribute name="F1" value="
+[-0.253, -0.253]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.169]" /></consequents>
+</rule>
+<rule id="55">
+<antecedents>
+<attribute name="F6" value="
+[-0.839, -0.839]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[1.047, 1.047]" /></consequents>
+</rule>
+<rule id="56">
+<antecedents>
+<attribute name="F8" value="
+[-1.36, -1.36]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.266, 2.266]" /></consequents>
+</rule>
+<rule id="57">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[0.0, 3.0]" /></antecedents>
+<consequents>
+<attribute name="TT" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="58">
+<antecedents>
+<attribute name="F6" value="
+[0.665, 0.665]" /></antecedents>
+<consequents>
+<attribute name="F9" value="
+[-0.003, -0.003]" /></consequents>
+</rule>
+<rule id="59">
+<antecedents>
+<attribute name="F7" value="
+[-0.066, -0.066]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[0.104, 0.104]" /></consequents>
+</rule>
+<rule id="60">
+<antecedents>
+<attribute name="F1" value="
+[1.363, 2.946]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+negative" /></consequents>
+</rule>
+<rule id="61">
+<antecedents>
+<attribute name="F5" value="
+[-0.803, -0.474]" /><attribute name="F9" value="
+[0.663, 1.193]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[7.0, 7.0]" /></consequents>
+</rule>
+<rule id="62">
+<antecedents>
+<attribute name="TT" value="
+[1.0, 1.0]" /><attribute name="Sex" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[12.0, 14.0]" /></consequents>
+</rule>
+<rule id="63">
+<antecedents>
+<attribute name="TT" value="
+[0.0, 0.0]" /><attribute name="Sex" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[4.0, 7.0]" /></consequents>
+</rule>
+<rule id="64">
+<antecedents>
+<attribute name="F5" value="
+[-0.513, -0.33]" /><attribute name="Class" value="
+positive" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[1.14, 1.413]" /></consequents>
+</rule>
+<rule id="65">
+<antecedents>
+<attribute name="TT" value="
+[1.0, 1.0]" /><attribute name="Sex" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[8.0, 11.0]" /></consequents>
+</rule>
+<rule id="66">
+<antecedents>
+<attribute name="F8" value="
+[-1.569, -1.436]" /><attribute name="F9" value="
+[-0.756, -0.562]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.252, 2.327]" /></consequents>
+</rule>
+<rule id="67">
+<antecedents>
+<attribute name="F1" value="
+[-0.321, -0.295]" /><attribute name="F6" value="
+[0.285, 0.463]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.252, 2.327]" /></consequents>
+</rule>
+<rule id="68">
+<antecedents>
+<attribute name="F1" value="
+[-0.321, -0.253]" /><attribute name="F6" value="
+[0.285, 0.463]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.327]" /></consequents>
+</rule>
+<rule id="69">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /><attribute name="F8" value="
+[-1.569, -1.436]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.252, 2.327]" /></consequents>
+</rule>
+<rule id="70">
+<antecedents>
+<attribute name="F4" value="
+[-1.258, -0.379]" /><attribute name="F7" value="
+[1.232, 1.58]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="71">
+<antecedents>
+<attribute name="TT" value="
+[0.0, 0.0]" /><attribute name="Sex" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[0.0, 3.0]" /></consequents>
+</rule>
+<rule id="72">
+<antecedents>
+<attribute name="TT" value="
+[0.0, 0.0]" /><attribute name="F3" value="
+[1.898, 1.936]" /></antecedents>
+<consequents>
+<attribute name="F0" value="
+[-5.143, -5.131]" /></consequents>
+</rule>
+<rule id="73">
+<antecedents>
+<attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F9" value="
+[0.969, 1.291]" /></antecedents>
+<consequents>
+<attribute name="F2" value="
+[0.624, 0.949]" /></consequents>
+</rule>
+<rule id="74">
+<antecedents>
+<attribute name="F1" value="
+[-0.321, -0.253]" /><attribute name="F6" value="
+[0.32, 0.503]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.327]" /></consequents>
+</rule>
+<rule id="75">
+<antecedents>
+<attribute name="F4" value="
+[-0.379, -0.221]" /><attribute name="F8" value="
+[-1.521, -1.36]" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[2.169, 2.327]" /></consequents>
+</rule>
+<rule id="76">
+<antecedents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /><attribute name="F2" value="
+[-0.218, -0.053]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[1.191, 1.58]" /></consequents>
+</rule>
+<rule id="77">
+<antecedents>
+<attribute name="F6" value="
+[-0.353, 0.363]" /><attribute name="F8" value="
+[-1.521, -0.797]" /><attribute name="Class" value="
+positive" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[1.765, 2.327]" /></consequents>
+</rule>
+<rule id="78">
+<antecedents>
+<attribute name="TT" value="
+[0.0, 0.0]" /><attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F7" value="
+[1.096, 1.667]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="79">
+<antecedents>
+<attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F4" value="
+[-1.258, -0.379]" /><attribute name="F7" value="
+[1.232, 1.58]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="80">
+<antecedents>
+<attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F4" value="
+[-1.258, -0.379]" /><attribute name="F7" value="
+[1.159, 1.543]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+<rule id="81">
+<antecedents>
+<attribute name="F2" value="
+[-0.218, -0.053]" /><attribute name="F4" value="
+[-1.585, -1.009]" /><attribute name="F6" value="
+[-0.822, -0.334]" /></antecedents>
+<consequents>
+<attribute name="F7" value="
+[1.191, 1.58]" /></consequents>
+</rule>
+<rule id="82">
+<antecedents>
+<attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F4" value="
+[0.171, 0.223]" /><attribute name="Class" value="
+positive" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[1.898, 2.059]" /></consequents>
+</rule>
+<rule id="83">
+<antecedents>
+<attribute name="F4" value="
+[0.171, 0.223]" /><attribute name="F9" value="
+[-0.767, -0.547]" /><attribute name="Class" value="
+positive" /></antecedents>
+<consequents>
+<attribute name="F5" value="
+[1.898, 2.059]" /></consequents>
+</rule>
+<rule id="84">
+<antecedents>
+<attribute name="TT" value="
+[0.0, 0.0]" /><attribute name="Sex" value="
+[0.0, 0.0]" /><attribute name="F4" value="
+[-1.258, -0.379]" /><attribute name="F7" value="
+[1.101, 1.614]" /></antecedents>
+<consequents>
+<attribute name="SpeakerNumber" value="
+[2.0, 2.0]" /></consequents>
+</rule>
+</association_rules>

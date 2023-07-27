@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="Wkpos" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Wkna8" value="
+f" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="Bkxwp" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+t" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="Katri5" value="
+b" /></antecedents>
+<consequents>
+<attribute name="Bkblk" value="
+t" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="Qxmsq" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Rxmsq" value="
+t" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="Cntxt" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Skewr" value="
+t" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="Wkna8" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+f" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Wkna8" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Wkpos" value="
+f" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Stlmt" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Wkna8" value="
+t" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="Thrsk" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Spcop" value="
+f" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="Reskr" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Wkcti" value="
+t" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="Blxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Bkxwp" value="
+f" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="Skewr" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Cntxt" value="
+f" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="Katri5" value="
+w" /><attribute name="Thrsk" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Blxwp" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Rkxwp" value="
+t" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="Bkxwp" value="
+t" /><attribute name="Hdchk" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+t" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Rkxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+f" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="Blxwp" value="
+t" /><attribute name="Rkxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Bkxwp" value="
+t" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="Bkxcr" value="
+t" /><attribute name="Wkna8" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="Bxqsq" value="
+t" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Rimmx" value="
+t" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="Cntxt" value="
+f" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Wkna8" value="
+t" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="Bkxwp" value="
+t" /><attribute name="Qxmsq" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+t" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="Rkxwp" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="Bkxcr" value="
+f" /><attribute name="Bkxwp" value="
+f" /><attribute name="Blxwp" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Rkxwp" value="
+t" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="Blxwp" value="
+t" /><attribute name="Dsopp" value="
+f" /><attribute name="Rkxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Bkxwp" value="
+t" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="Bkxcr" value="
+t" /><attribute name="Bxqsq" value="
+f" /><attribute name="Wkna8" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="25">
+<antecedents>
+<attribute name="Katri5" value="
+w" /><attribute name="Wkna8" value="
+t" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="26">
+<antecedents>
+<attribute name="Cntxt" value="
+f" /><attribute name="Katri5" value="
+w" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="27">
+<antecedents>
+<attribute name="Bkon8" value="
+f" /><attribute name="Bkxwp" value="
+f" /><attribute name="Rkxwp" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Blxwp" value="
+f" /></consequents>
+</rule>
+<rule id="28">
+<antecedents>
+<attribute name="Bkblk" value="
+t" /><attribute name="Cntxt" value="
+f" /><attribute name="Dsopp" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="29">
+<antecedents>
+<attribute name="Cntxt" value="
+f" /><attribute name="Katri5" value="
+w" /><attribute name="Rimmx" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="30">
+<antecedents>
+<attribute name="Katri5" value="
+w" /><attribute name="Rimmx" value="
+f" /><attribute name="Wkna8" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="31">
+<antecedents>
+<attribute name="Dsopp" value="
+f" /><attribute name="Rkxwp" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="32">
+<antecedents>
+<attribute name="Katri5" value="
+w" /><attribute name="Qxmsq" value="
+f" /><attribute name="R2ar8" value="
+f" /><attribute name="Thrsk" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="33">
+<antecedents>
+<attribute name="Bkona" value="
+f" /><attribute name="R2ar8" value="
+t" /><attribute name="Simpl" value="
+t" /><attribute name="Wkovl" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Bkon8" value="
+t" /></consequents>
+</rule>
+<rule id="34">
+<antecedents>
+<attribute name="Bkxcr" value="
+t" /><attribute name="Bxqsq" value="
+f" /><attribute name="Wkcti" value="
+f" /><attribute name="Wkna8" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="35">
+<antecedents>
+<attribute name="Bkblk" value="
+f" /><attribute name="Cntxt" value="
+f" /><attribute name="Katri5" value="
+w" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="36">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Blxwp" value="
+t" /><attribute name="Dsopp" value="
+f" /><attribute name="Thrsk" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Rkxwp" value="
+t" /></consequents>
+</rule>
+<rule id="37">
+<antecedents>
+<attribute name="Bkblk" value="
+f" /><attribute name="Cntxt" value="
+f" /><attribute name="Katri5" value="
+w" /><attribute name="Rimmx" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="38">
+<antecedents>
+<attribute name="Rxmsq" value="
+t" /><attribute name="Thrsk" value="
+f" /><attribute name="Wtoeg" value="
+n" /><attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="Qxmsq" value="
+t" /></consequents>
+</rule>
+<rule id="39">
+<antecedents>
+<attribute name="Blxwp" value="
+f" /><attribute name="R2ar8" value="
+f" /><attribute name="Skach" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="40">
+<antecedents>
+<attribute name="Blxwp" value="
+f" /><attribute name="Dwipd" value="
+l" /><attribute name="R2ar8" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="41">
+<antecedents>
+<attribute name="Bkblk" value="
+f" /><attribute name="Bkxcr" value="
+f" /><attribute name="Simpl" value="
+t" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="42">
+<antecedents>
+<attribute name="Bkxcr" value="
+t" /><attribute name="Bkxwp" value="
+f" /><attribute name="Cntxt" value="
+f" /><attribute name="Wknck" value="
+f" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Stlmt" value="
+t" /></consequents>
+</rule>
+<rule id="43">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Qxmsq" value="
+f" /><attribute name="Rkxwp" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /><attribute name="Wkovl" value="
+f" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="44">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Blxwp" value="
+f" /><attribute name="R2ar8" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /><attribute name="Wkovl" value="
+f" /><attribute name="Wkpos" value="
+f" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+<rule id="45">
+<antecedents>
+<attribute name="Bkxwp" value="
+f" /><attribute name="Rkxwp" value="
+f" /><attribute name="Rxmsq" value="
+f" /><attribute name="Spcop" value="
+f" /><attribute name="Thrsk" value="
+t" /><attribute name="Wkcti" value="
+t" /><attribute name="Wkovl" value="
+f" /><attribute name="Wtoeg" value="
+n" /></antecedents>
+<consequents>
+<attribute name="Reskd" value="
+t" /></consequents>
+</rule>
+</association_rules>

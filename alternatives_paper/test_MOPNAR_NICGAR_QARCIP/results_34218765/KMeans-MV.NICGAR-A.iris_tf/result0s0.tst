@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.3333333333333333" antecedent_support="0.3333333333333333" consequent_support="0.3333333333333333" confidence="1.0" lift="3.0" conviction="Infinity" certainFactor="1.0" netConf="0.9999999999999999" yulesQ="1.0" nAnts="1"/>
+<rule id="1" rule_support="0.3" antecedent_support="0.30666666666666664" consequent_support="0.3333333333333333" confidence="0.9782608695652174" lift="2.9347826086956523" conviction="30.666666666666725" certainFactor="0.9673913043478259" netConf="0.9301839464882944" yulesQ="0.9977578475336322" nAnts="1"/>
+<rule id="2" rule_support="0.3" antecedent_support="0.3" consequent_support="0.36" confidence="1.0" lift="2.7777777777777777" conviction="Infinity" certainFactor="1.0" netConf="0.9142857142857144" yulesQ="1.0" nAnts="1"/>
+<rule id="3" rule_support="0.21333333333333335" antecedent_support="0.22666666666666666" consequent_support="0.29333333333333333" confidence="0.9411764705882354" lift="3.2085561497326207" conviction="12.013333333333357" certainFactor="0.9167591564927859" netConf="0.8377281947261663" yulesQ="0.9856801909307876" nAnts="1"/>
+<rule id="4" rule_support="0.08" antecedent_support="0.08666666666666667" consequent_support="0.12666666666666668" confidence="0.923076923076923" lift="7.28744939271255" conviction="11.353333333333332" certainFactor="0.9119201409277744" netConf="0.8719820325659741" yulesQ="0.9910657306955968" nAnts="1"/>
+<rule id="5" rule_support="0.34" antecedent_support="0.4266666666666667" consequent_support="0.36666666666666664" confidence="0.796875" lift="2.1732954545454546" conviction="3.117948717948718" certainFactor="0.6792763157894738" netConf="0.7503633720930234" yulesQ="0.9754369390647144" nAnts="1"/>
+<rule id="6" rule_support="0.17333333333333334" antecedent_support="0.18666666666666668" consequent_support="0.32" confidence="0.9285714285714286" lift="2.901785714285714" conviction="9.519999999999996" certainFactor="0.8949579831932774" netConf="0.7482435597189696" yulesQ="0.9667170953101362" nAnts="1"/>
+</values>

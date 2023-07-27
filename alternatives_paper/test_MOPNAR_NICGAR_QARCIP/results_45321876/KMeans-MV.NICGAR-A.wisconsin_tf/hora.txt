@@ -1,0 +1,1 @@
+00:00:10  ../results/KMeans-MV.NICGAR-A.wisconsin_tf/result0s0.tra

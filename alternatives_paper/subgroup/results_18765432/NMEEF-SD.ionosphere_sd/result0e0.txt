@@ -1,0 +1,14 @@
+GENERATED RULE 0
+	Antecedent
+		Variable a03 = Label 2 	 (0.0 1.0 2.0)
+		Variable a04 = Label 1 	 (-1.0 0.0 1.0)
+		Variable a05 = Label 2 	 (0.0 1.0 2.0)
+	Consecuent: g
+
+GENERATED RULE 1
+	Antecedent
+		Variable a01 = Label 2 	 (0.5 1.0 1.5)
+		Variable a03 = Label 2 	 (0.0 1.0 2.0)
+		Variable a05 = Label 2 	 (0.0 1.0 2.0)
+	Consecuent: g
+

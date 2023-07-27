@@ -1,0 +1,15 @@
+Rule 1: IF  Left-weight <= 4 THEN Balance_scale -> False  
+[  0.92  0.08  ]
+
+Rule 2: IF  Left-distance <= 4 THEN Balance_scale -> False  
+[  0.92  0.08  ]
+
+Rule 3: IF  Right-weight <= 4 THEN Balance_scale -> False  
+[  0.92  0.08  ]
+
+Rule 4: IF  Right-distance <= 4 THEN Balance_scale -> False  
+[  0.92  0.08  ]
+
+
+
+Time: 0.309

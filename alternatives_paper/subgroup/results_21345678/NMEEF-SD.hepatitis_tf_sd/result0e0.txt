@@ -1,0 +1,62 @@
+GENERATED RULE 0
+	Antecedent
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable Histology = Label 0 	 (0.5 1.0 1.5)
+	Consecuent: False
+
+GENERATED RULE 2
+	Antecedent
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 3
+	Antecedent
+		Variable Varices = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 4
+	Antecedent
+		Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+		Variable Varices = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 5
+	Antecedent
+		Variable Spiders = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 6
+	Antecedent
+		Variable Spiders = Label 2 	 (1.5 2.0 2.5)
+		Variable Varices = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+		Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+	Consecuent: False
+
+GENERATED RULE 7
+	Antecedent
+		Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+		Variable Varices = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Consecuent: False
+
+GENERATED RULE 8
+	Antecedent
+		Variable SpleenPalpable = Label 2 	 (1.5 2.0 2.5)
+		Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+		Variable Varices = Label 2 	 (1.5 2.0 2.5)
+		Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Consecuent: False
+

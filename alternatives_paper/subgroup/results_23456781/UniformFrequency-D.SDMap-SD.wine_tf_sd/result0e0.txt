@@ -1,0 +1,40 @@
+Rule 0: flavanoids = 1 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 1: Hue = 0 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 2: OD280/OD315 = 0 THEN Class = True
+[  0.00  1.00  ]
+
+
+Rule 3: ColorIntensity = 1 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 4: Hue = 8 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 5: Hue = 9 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 6: flavanoids = 9 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 7: ColorIntensity = 0 THEN Class = False
+[  1.00  0.00  ]
+
+
+Rule 8: Magnesium = 0 THEN Class = False
+[  0.90  0.10  ]
+
+
+Rule 9: Proline = 0 THEN Class = False
+[  1.00  0.00  ]
+
+

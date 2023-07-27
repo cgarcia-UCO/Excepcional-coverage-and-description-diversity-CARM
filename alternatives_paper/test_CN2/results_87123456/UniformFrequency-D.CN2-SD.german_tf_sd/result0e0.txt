@@ -1,0 +1,24 @@
+
+Rule 1: IF  StatusAccount > 1.0 AND InstallmentPlans <> 1.0 AND Guarantors <= 1.0 THEN Customer -> False     [ 0.9 0.1]
+Rule 2: IF  StatusAccount > 0.0 AND CreditHistory <= 2.0 AND CreditAmount <= 8.0 AND DurationMonth <> 9.0 AND InstallmentPlans <= 1.0 THEN Customer -> False     [ 0.8360071301247772 0.16399286987522282]
+Rule 3: IF  DurationMonth <= 3.0 AND CreditHistory <= 2.0 AND CreditAmount <= 7.0 AND InstallmentPlans <= 1.0 AND Purpose <> 1.0 THEN Customer -> False     [ 0.847887323943662 0.15211267605633802]
+Rule 4: IF  StatusAccount > 1.0 AND EmploymentSince <= 2.0 AND DurationMonth <> 4.0 THEN Customer -> False     [ 0.9098837209302325 0.09011627906976744]
+Rule 5: IF  Purpose <> 3.0 AND DurationMonth <= 7.0 AND CreditHistory <= 2.0 AND CreditAmount <> 4.0 AND SavingsAccount <= 3.0 AND Job <= 2.0 AND Guarantors <= 1.0 AND StatusAccount <= 2.0 THEN Customer -> False     [ 0.8272251308900523 0.17277486910994763]
+Rule 6: IF  SavingsAccount <> 1.0 AND CreditAmount > 0.0 AND DurationMonth <> 3.0 AND NCredits <= 1.0 AND Purpose <> 7.0 AND Guarantors <> 1.0 THEN Customer -> False     [ 0.8102893890675241 0.18971061093247588]
+Rule 7: IF  CreditHistory > 0.0 AND InstallmentRate <> 1.0 AND Guarantors <> 1.0 AND ResidenceSince > 0.0 AND StatusAccount <> 2.0 AND CreditAmount <> 5.0 AND Job <= 2.0 AND DurationMonth <> 5.0 AND SavingsAccount <> 3.0 THEN Customer -> True     [ 0.39285714285714285 0.6071428571428571]
+Rule 8: IF  Age <= 5.0 AND Purpose <> 4.0 AND CreditAmount <> 7.0 AND InstallmentPlans <= 1.0 AND DurationMonth <> 3.0 AND ForeignWorker = 0.0 AND CreditHistory <> 3.0 THEN Customer -> True     [ 0.6043956043956044 0.3956043956043956]
+Rule 9: IF  CreditHistory > 0.0 AND EmploymentSince <> 2.0 AND Guarantors <> 1.0 AND Purpose <= 7.0 AND Age <> 3.0 AND DurationMonth <> 1.0 AND ForeignWorker = 0.0 AND StatusAccount <= 2.0 AND SavingsAccount <> 2.0 THEN Customer -> True     [ 0.5341246290801187 0.4658753709198813]
+Rule 10: IF  Property > 1.0 AND CreditAmount <> 6.0 AND SavingsAccount > 0.0 AND EmploymentSince <> 3.0 AND ResidenceSince > 0.0 AND Age <> 4.0 AND NCredits <= 1.0 AND DurationMonth <> 0.0 AND ForeignWorker = 0.0 AND StatusAndSex <= 2.0 AND Purpose <> 6.0 THEN Customer -> True     [ 0.5318181818181819 0.4681818181818182]
+Rule 11: IF  StatusAndSex > 0.0 AND Age <> 7.0 AND Guarantors <> 1.0 AND SavingsAccount <> 3.0 AND Purpose <= 8.0 AND DurationMonth <> 0.0 AND CreditAmount <> 3.0 THEN Customer -> True     [ 0.5901639344262295 0.4098360655737705]
+
+####Average results for test data####
+Avg. Rule length: 11
+Avg. Number of attributes by rule: 6.636363636363637
+Avg. Coverage: 0.3448181818181818
+Avg. Support Completo: 0.955
+Avg. Significance: 47.279135567391855
+Avg. Unusualness: 0.05675303344915464
+
+Accuracy Training: 0.734
+Accuracy Test: 0.734;
+  Time; 389

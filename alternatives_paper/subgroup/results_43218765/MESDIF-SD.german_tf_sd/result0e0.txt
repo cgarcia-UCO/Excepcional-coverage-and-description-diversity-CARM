@@ -1,0 +1,98 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable Property = A124
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable Property = A124
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable Property = A124
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A33
+	Variable Purpose = A44
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable EmploymentSince = A72
+	Variable Guarantors = A101
+	Variable Property = A124
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+

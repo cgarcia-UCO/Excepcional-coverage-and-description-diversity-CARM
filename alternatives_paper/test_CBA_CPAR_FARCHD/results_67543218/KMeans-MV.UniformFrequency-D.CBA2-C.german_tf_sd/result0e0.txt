@@ -1,0 +1,177 @@
+@Data Base:
+
+@Number of Values in Variable 1: 4
+StatusAccount:
+A11
+A12
+A14
+A13
+
+
+@Number of Values in Variable 2: 10
+DurationMonth:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+@Number of Values in Variable 3: 5
+CreditHistory:
+A34
+A32
+A33
+A30
+A31
+
+
+@Number of Values in Variable 4: 10
+Purpose:
+A43
+A46
+A42
+A40
+A41
+A49
+A44
+A45
+A410
+A48
+
+
+@Number of Values in Variable 5: 10
+CreditAmount:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+@Number of Values in Variable 6: 5
+SavingsAccount:
+A65
+A61
+A63
+A64
+A62
+
+
+@Number of Values in Variable 7: 5
+EmploymentSince:
+A75
+A73
+A74
+A71
+A72
+
+
+@Number of Values in Variable 8: 4
+InstallmentRate:
+0
+1
+2
+3
+
+
+@Number of Values in Variable 9: 4
+StatusAndSex:
+A93
+A92
+A91
+A94
+
+
+@Number of Values in Variable 10: 3
+Guarantors:
+A101
+A103
+A102
+
+
+@Number of Values in Variable 11: 4
+ResidenceSince:
+0
+1
+2
+3
+
+
+@Number of Values in Variable 12: 4
+Property:
+A121
+A122
+A124
+A123
+
+
+@Number of Values in Variable 13: 10
+Age:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+@Number of Values in Variable 14: 3
+InstallmentPlans:
+A143
+A141
+A142
+
+
+@Number of Values in Variable 15: 3
+Housing:
+A152
+A153
+A151
+
+
+@Number of Values in Variable 16: 3
+NCredits:
+0
+1
+2
+
+
+@Number of Values in Variable 17: 4
+Job:
+A173
+A172
+A174
+A171
+
+
+@Number of Values in Variable 18: 2
+NPeopleMain:
+0
+1
+
+
+@Number of Values in Variable 19: 2
+Telephone:
+A192
+A191
+
+
+@Number of Values in Variable 20: 2
+ForeignWorker:
+A201
+A202

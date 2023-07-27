@@ -1,0 +1,84 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Antivirals = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (7.0 42.5 78.0)
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Steroid = Label 1 	 (1.0 1.5 2.0)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable SpleenPalpable = Label 1 	 (1.0 1.5 2.0)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Ascites = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 0 	 (-3.55 0.3 4.15)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+

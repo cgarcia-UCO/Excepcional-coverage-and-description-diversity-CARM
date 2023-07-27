@@ -1,0 +1,108 @@
+@Number of rules: 105 Number of Antecedents by rule: 2.1346153846153846
+
+1: Left-weight IS 2 AND Left-distance IS 2: False
+2: Left-weight IS 4 AND Left-distance IS 4: False
+3: Left-distance IS 2 AND Right-weight IS 0: False
+4: Left-distance IS 4 AND Right-weight IS 0: False
+5: Left-weight IS 0 AND Right-weight IS 2: False
+6: Left-weight IS 0 AND Right-weight IS 4: False
+7: Left-weight IS 1 AND Right-distance IS 2: False
+8: Left-weight IS 1 AND Right-distance IS 4: False
+9: Left-weight IS 2 AND Right-weight IS 0: False
+10: Left-weight IS 2 AND Right-weight IS 1: False
+11: Left-weight IS 2 AND Right-weight IS 3: False
+12: Left-weight IS 2 AND Right-weight IS 4: False
+13: Left-weight IS 2 AND Right-distance IS 0: False
+14: Left-weight IS 2 AND Right-distance IS 1: False
+15: Left-weight IS 2 AND Right-distance IS 3: False
+16: Left-weight IS 2 AND Right-distance IS 4: False
+17: Left-weight IS 4 AND Right-weight IS 0: False
+18: Left-weight IS 4 AND Right-weight IS 1: False
+19: Left-weight IS 4 AND Right-weight IS 2: False
+20: Left-weight IS 4 AND Right-weight IS 3: False
+21: Left-weight IS 4 AND Right-distance IS 0: False
+22: Left-weight IS 4 AND Right-distance IS 1: False
+23: Left-weight IS 4 AND Right-distance IS 2: False
+24: Left-weight IS 4 AND Right-distance IS 3: False
+25: Left-distance IS 2 AND Right-weight IS 1: False
+26: Left-distance IS 2 AND Right-weight IS 3: False
+27: Left-distance IS 2 AND Right-weight IS 4: False
+28: Left-distance IS 2 AND Right-distance IS 0: False
+29: Left-distance IS 2 AND Right-distance IS 1: False
+30: Left-distance IS 2 AND Right-distance IS 3: False
+31: Left-distance IS 2 AND Right-distance IS 4: False
+32: Left-distance IS 4 AND Right-weight IS 1: False
+33: Left-distance IS 4 AND Right-weight IS 2: False
+34: Left-distance IS 4 AND Right-weight IS 3: False
+35: Left-distance IS 4 AND Right-distance IS 0: False
+36: Left-distance IS 4 AND Right-distance IS 1: False
+37: Left-distance IS 4 AND Right-distance IS 2: False
+38: Left-distance IS 4 AND Right-distance IS 3: False
+39: Left-weight IS 1 AND Right-weight IS 2: False
+40: Left-weight IS 3 AND Right-weight IS 2: False
+41: Left-distance IS 0 AND Right-weight IS 2: False
+42: Left-distance IS 1 AND Right-weight IS 2: False
+43: Left-distance IS 3 AND Right-weight IS 2: False
+44: Left-weight IS 1 AND Right-weight IS 4: False
+45: Left-weight IS 3 AND Right-weight IS 4: False
+46: Left-distance IS 0 AND Right-weight IS 4: False
+47: Left-distance IS 1 AND Right-weight IS 4: False
+48: Left-distance IS 3 AND Right-weight IS 4: False
+49: Left-weight IS 3 AND Right-distance IS 2: False
+50: Left-distance IS 0 AND Right-distance IS 2: False
+51: Left-distance IS 1 AND Right-distance IS 2: False
+52: Left-distance IS 3 AND Right-distance IS 2: False
+53: Left-weight IS 3 AND Right-distance IS 4: False
+54: Left-distance IS 0 AND Right-distance IS 4: False
+55: Left-distance IS 1 AND Right-distance IS 4: False
+56: Left-distance IS 3 AND Right-distance IS 4: False
+57: Left-weight IS 0 AND Right-weight IS 3: False
+58: Left-weight IS 0 AND Left-distance IS 0: False
+59: Left-distance IS 3 AND Right-weight IS 0: False
+60: Left-weight IS 3 AND Right-distance IS 0: False
+61: Left-weight IS 0 AND Right-distance IS 3: False
+62: Left-weight IS 3 AND Right-weight IS 0: False
+63: Left-weight IS 0 AND Right-distance IS 2: False
+64: Left-weight IS 0 AND Right-distance IS 4: False
+65: Left-weight IS 3 AND Left-distance IS 3: False
+66: Left-distance IS 0 AND Right-distance IS 3: False
+67: Left-distance IS 0 AND Right-weight IS 3: False
+68: Left-distance IS 3 AND Right-distance IS 0: False
+69: Left-weight IS 1: False
+70: Left-distance IS 1: False
+71: Left-weight IS 3 AND Left-distance IS 0 AND Right-weight IS 1 AND Right-distance IS 1: True
+72: Left-weight IS 3 AND Left-distance IS 0 AND Right-weight IS 1 AND Right-distance IS 1: True
+73: Left-weight IS 0 AND Left-distance IS 3 AND Right-weight IS 1 AND Right-distance IS 1: True
+74: Left-weight IS 0 AND Left-distance IS 3 AND Right-weight IS 1 AND Right-distance IS 1: True
+75: Left-weight IS 1 AND Left-distance IS 1 AND Right-weight IS 3 AND Right-distance IS 0: True
+76: Left-weight IS 1 AND Left-distance IS 1 AND Right-weight IS 3 AND Right-distance IS 0: True
+77: Left-weight IS 1 AND Left-distance IS 1 AND Right-weight IS 0 AND Right-distance IS 3: True
+78: Left-weight IS 1 AND Left-distance IS 1 AND Right-weight IS 0 AND Right-distance IS 3: True
+79: Left-weight IS 1 AND Right-weight IS 1: True
+80: Left-distance IS 1 AND Right-weight IS 1: True
+81: Left-weight IS 1 AND Right-weight IS 1: True
+82: Left-weight IS 1 AND Right-distance IS 1: True
+83: Left-weight IS 1 AND Right-distance IS 1: True
+84: Left-distance IS 1 AND Right-distance IS 1: True
+85: Left-distance IS 1 AND Right-weight IS 1: True
+86: Left-distance IS 1 AND Right-distance IS 1: True
+87: Left-weight IS 0 AND Right-weight IS 0: True
+88: Left-weight IS 3 AND Right-weight IS 3: True
+89: Left-distance IS 0 AND Right-weight IS 0: True
+90: Left-distance IS 3 AND Right-weight IS 3: True
+91: Left-weight IS 0 AND Right-weight IS 0: True
+92: Left-weight IS 3 AND Right-weight IS 3: True
+93: Left-weight IS 0 AND Right-distance IS 0: True
+94: Left-weight IS 3 AND Right-distance IS 3: True
+95: Left-weight IS 0 AND Right-distance IS 0: True
+96: Left-weight IS 3 AND Right-distance IS 3: True
+97: Left-distance IS 0 AND Right-weight IS 0: True
+98: Left-distance IS 3 AND Right-weight IS 3: True
+99: Left-weight IS 2 AND Right-weight IS 2: True
+100: Left-weight IS 4 AND Right-weight IS 4: True
+101: Left-distance IS 2 AND Right-weight IS 2: True
+102: Left-distance IS 4 AND Right-weight IS 4: True
+103: Left-weight IS 2 AND Right-weight IS 2: True
+104: Left-weight IS 4 AND Right-weight IS 4: True
+
+

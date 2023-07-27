@@ -1,0 +1,40 @@
+Rule 0: DurationMonth = [4.0, 72.0] AND CreditAmount = [250.0, 18424.0] AND InstallmentRate = [1.0, 4.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 1: CreditAmount = [250.0, 18424.0] AND InstallmentRate = [1.0, 4.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 2: Guarantors = A101 AND Housing = A152 AND CreditHistory = A34 THEN Customer = False
+[  0.86  0.14  ]
+
+
+Rule 3: CreditAmount = [250.0, 18424.0] AND Guarantors = A101 AND Housing = A152 AND CreditHistory = A34 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 4: DurationMonth = [4.0, 72.0] AND Guarantors = A101 AND Housing = A152 AND CreditHistory = A34 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 5: DurationMonth = [4.0, 72.0] AND InstallmentRate = [1.0, 4.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 6: DurationMonth = [4.0, 72.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 7: ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 8: CreditAmount = [250.0, 18424.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+
+Rule 9: InstallmentRate = [1.0, 4.0] AND ResidenceSince = [1.0, 4.0] AND Age = [19.0, 75.0] AND NCredits = [1.0, 4.0] AND NPeopleMain = [1.0, 2.0] AND ForeignWorker = A201 AND SavingsAccount = A61 AND StatusAccount = A14 THEN Customer = False
+[  0.00  0.00  ]
+
+

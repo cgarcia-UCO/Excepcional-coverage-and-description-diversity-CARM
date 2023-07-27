@@ -1,0 +1,40 @@
+Rule 0: InstallmentPlans = A143 AND Housing = A152 AND NCredits = 0 AND Purpose = A43 THEN Customer = False
+[  0.81  0.19  ]
+
+
+Rule 1: ForeignWorker = A201 AND Guarantors = A101 AND NPeopleMain = 0 AND Housing = A152 AND Job = A173 AND Purpose = A43 THEN Customer = False
+[  0.81  0.19  ]
+
+
+Rule 2: InstallmentPlans = A143 AND Housing = A152 AND StatusAndSex = A93 AND ResidenceSince = 3 THEN Customer = False
+[  0.88  0.12  ]
+
+
+Rule 3: ForeignWorker = A201 AND Guarantors = A101 AND NPeopleMain = 0 AND InstallmentPlans = A143 AND Job = A173 AND Telephone = A191 AND StatusAccount = A14 THEN Customer = False
+[  0.91  0.09  ]
+
+
+Rule 4: ForeignWorker = A201 AND Guarantors = A101 AND NPeopleMain = 0 AND Housing = A152 AND Job = A173 AND CreditHistory = A34 THEN Customer = False
+[  0.88  0.12  ]
+
+
+Rule 5: NPeopleMain = 0 AND Housing = A152 AND StatusAccount = A14 AND NCredits = 1 THEN Customer = False
+[  0.88  0.12  ]
+
+
+Rule 6: ForeignWorker = A201 AND Guarantors = A101 AND Job = A173 AND Telephone = A192 AND StatusAccount = A14 THEN Customer = False
+[  0.92  0.08  ]
+
+
+Rule 7: InstallmentPlans = A143 AND StatusAndSex = A93 AND Property = A121 THEN Customer = False
+[  0.88  0.12  ]
+
+
+Rule 8: ForeignWorker = A201 AND NPeopleMain = 0 AND InstallmentPlans = A143 AND Housing = A152 AND EmploymentSince = A75 THEN Customer = False
+[  0.88  0.12  ]
+
+
+Rule 9: NPeopleMain = 0 AND Housing = A152 AND StatusAccount = A14 AND CreditHistory = A34 THEN Customer = False
+[  0.95  0.05  ]
+
+

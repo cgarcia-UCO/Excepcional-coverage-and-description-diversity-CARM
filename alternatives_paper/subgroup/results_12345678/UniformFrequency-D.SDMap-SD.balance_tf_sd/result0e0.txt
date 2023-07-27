@@ -1,0 +1,40 @@
+Rule 0: Left-distance = 1 THEN Balance_scale = False
+[  0.91  0.09  ]
+
+
+Rule 1: Left-weight = 1 THEN Balance_scale = False
+[  0.91  0.09  ]
+
+
+Rule 2: Right-distance = 1 THEN Balance_scale = False
+[  0.91  0.09  ]
+
+
+Rule 3: Right-weight = 1 THEN Balance_scale = False
+[  0.91  0.09  ]
+
+
+Rule 4: Right-weight = 0 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+
+Rule 5: Left-distance = 3 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+
+Rule 6: Left-distance = 0 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+
+Rule 7: Right-distance = 3 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+
+Rule 8: Right-distance = 0 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+
+Rule 9: Right-weight = 3 THEN Balance_scale = False
+[  0.92  0.08  ]
+
+

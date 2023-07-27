@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/tic-tac-toe_tf/tic-tac-toe_tf.dat" "../datasets/tic-tac-toe_tf/tic-tac-toe_tf.dat" 
+outputData = "../datasets/KMeans-MV.tic-tac-toe_tf/KMeans-MVs0.tic-tac-toe_tf1tra.dat" "../datasets/KMeans-MV.tic-tac-toe_tf/KMeans-MVs0.tic-tac-toe_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

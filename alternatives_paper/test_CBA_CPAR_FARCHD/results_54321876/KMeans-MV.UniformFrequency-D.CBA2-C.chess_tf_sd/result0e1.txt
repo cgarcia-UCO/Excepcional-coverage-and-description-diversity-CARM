@@ -1,0 +1,51 @@
+@Number of rules: 23 Number of Antecedents by rule: 2.5454545454545454
+
+1: Bxqsq IS t AND Rimmx IS f: True
+2: Rimmx IS t: False
+3: Bknwy IS f AND Rimmx IS f AND Wkna8 IS t: True
+4: Bknwy IS f AND Mulch IS t: True
+5: Bkblk IS f AND Bkxbq IS f AND Katri5 IS b: True
+6: Bkblk IS t AND Rimmx IS f AND Wknck IS t: True
+7: Bkblk IS t AND Cntxt IS f AND R2ar8 IS t: True
+8: Bkblk IS t AND Mulch IS t: True
+9: Bkxwp IS t AND Rxmsq IS t: True
+10: Bkblk IS t AND Cntxt IS f AND Simpl IS t: True
+11: Bkblk IS t AND Bkspr IS t AND Blxwp IS f: False
+12: Bkblk IS f AND Katri5 IS w AND Wkcti IS t: False
+13: R2ar8 IS t AND Wkna8 IS t: True
+14: Rimmx IS f AND Wkna8 IS t: True
+15: Bkblk IS t AND Bkxbq IS t AND Wknck IS f: False
+16: Mulch IS t AND Rimmx IS f: True
+17: Bkblk IS f AND Katri5 IS w AND Rkxwp IS t: False
+18: Bkblk IS t AND Wkovl IS t AND Wkpos IS t: False
+19: Bkxwp IS t AND Wknck IS t: True
+20: Bknwy IS f AND Rimmx IS f AND Wknck IS t: True
+21: Bkblk IS t AND Bkon8 IS t AND Katri5 IS n: True
+22: Bkblk IS t AND Bkon8 IS t AND Wkpos IS f: True
+Default: False
+
+
+@supp and conf:
+
+1: supp: 0.23247809762202754 AND conf: 1.0
+2: supp: 0.18272841051314143 AND conf: 1.0
+3: supp: 0.04098873591989988 AND conf: 1.0
+4: supp: 0.025657071339173967 AND conf: 1.0
+5: supp: 0.025031289111389236 AND conf: 1.0
+6: supp: 0.022841051314142678 AND conf: 1.0
+7: supp: 0.01032540675844806 AND conf: 1.0
+8: supp: 0.0071964956195244055 AND conf: 1.0
+9: supp: 0.00688360450563204 AND conf: 1.0
+10: supp: 0.006570713391739674 AND conf: 1.0
+11: supp: 0.006257822277847309 AND conf: 1.0
+12: supp: 0.05913642052565707 AND conf: 0.984375
+13: supp: 0.03848560700876095 AND conf: 0.9839999999999999
+14: supp: 0.04849812265331665 AND conf: 0.9810126582278482
+15: supp: 0.03160200250312891 AND conf: 0.9805825242718446
+16: supp: 0.04036295369211514 AND conf: 0.9772727272727273
+17: supp: 0.027847309136420525 AND conf: 0.967391304347826
+18: supp: 0.02346683354192741 AND conf: 0.9615384615384615
+19: supp: 0.08541927409261577 AND conf: 0.9578947368421052
+20: supp: 0.2565707133917397 AND conf: 0.9534883720930234
+21: supp: 0.005944931163954944 AND conf: 0.9500000000000001
+22: supp: 0.005944931163954944 AND conf: 0.9500000000000001

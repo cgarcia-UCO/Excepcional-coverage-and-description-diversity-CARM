@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/wine_tf/wine_tf.dat" "../datasets/wine_tf/wine_tf.dat" 
+outputData = "../datasets/KMeans-MV.wine_tf/KMeans-MVs0.wine_tf1tra.dat" "../datasets/KMeans-MV.wine_tf/KMeans-MVs0.wine_tf1tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

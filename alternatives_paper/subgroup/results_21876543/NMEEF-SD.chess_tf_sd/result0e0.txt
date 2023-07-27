@@ -1,0 +1,263 @@
+GENERATED RULE 0
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+		Variable Wknck = f
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Skach = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 2
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wknck = f
+	Consecuent: False
+
+GENERATED RULE 3
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Spcop = f
+		Variable Stlmt = f
+	Consecuent: False
+
+GENERATED RULE 4
+	Antecedent
+		Variable Bkon8 = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Qxmsq = f
+		Variable Rxmsq = f
+		Variable Skach = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 5
+	Antecedent
+		Variable Bkon8 = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Rxmsq = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 6
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skach = f
+		Variable Spcop = f
+		Variable Stlmt = f
+	Consecuent: False
+
+GENERATED RULE 7
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 8
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skach = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 9
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 10
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skach = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 11
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 12
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Skach = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 13
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+	Consecuent: False
+
+GENERATED RULE 14
+	Antecedent
+		Variable Bkon8 = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Rxmsq = f
+		Variable Skach = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 15
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Skach = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Stlmt = f
+	Consecuent: False
+
+GENERATED RULE 16
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 17
+	Antecedent
+		Variable Bkon8 = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Rxmsq = f
+		Variable Skrxp = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 18
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 19
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Spcop = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 20
+	Antecedent
+		Variable Bxqsq = f
+		Variable Hdchk = f
+		Variable Mulch = f
+		Variable Skach = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wkna8 = f
+	Consecuent: False
+
+GENERATED RULE 0
+	Antecedent
+		Variable Katri5 = n
+		Variable Rimmx = f
+	Consecuent: True
+
+GENERATED RULE 1
+	Antecedent
+		Variable Katri5 = n
+		Variable Rimmx = f
+		Variable Spcop = f
+	Consecuent: True
+
+GENERATED RULE 2
+	Antecedent
+		Variable Rimmx = f
+		Variable Wknck = t
+	Consecuent: True
+
+GENERATED RULE 3
+	Antecedent
+		Variable Hdchk = f
+		Variable Rimmx = f
+		Variable Wknck = t
+	Consecuent: True
+
+GENERATED RULE 4
+	Antecedent
+		Variable Hdchk = f
+		Variable Rimmx = f
+		Variable Spcop = f
+		Variable Wknck = t
+	Consecuent: True
+
+GENERATED RULE 5
+	Antecedent
+		Variable Rimmx = f
+		Variable Spcop = f
+		Variable Wknck = t
+	Consecuent: True
+
+GENERATED RULE 6
+	Antecedent
+		Variable Rimmx = f
+		Variable Spcop = f
+		Variable Stlmt = f
+		Variable Wknck = t
+	Consecuent: True
+

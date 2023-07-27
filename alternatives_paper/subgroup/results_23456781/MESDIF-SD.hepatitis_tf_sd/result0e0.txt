@@ -1,0 +1,50 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 2 	 (1.5 2.0 2.5)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Steroid = Label 2 	 (1.5 2.0 2.5)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable Ascites = Label 0 	 (0.5 1.0 1.5)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 2 	 (1.5 2.0 2.5)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+   Consecuent: True
+

@@ -1,0 +1,72 @@
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable Housing = A152
+	Variable NCredits = Label 2 	 (2.5 4.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A152
+	Variable NCredits = Label 2 	 (2.5 4.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A152
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable SavingsAccount = A63
+	Variable StatusAndSex = A93
+	Variable Property = A121
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A143
+	Variable NCredits = Label 2 	 (2.5 4.0 5.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable SavingsAccount = A63
+	Variable StatusAndSex = A93
+	Variable Property = A121
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A152
+	Variable NCredits = Label 2 	 (2.5 4.0 5.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Variable CreditHistory = A34
+	Variable Purpose = A42
+	Variable SavingsAccount = A63
+	Variable Property = A121
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A143
+	Variable Housing = A152
+	Variable NCredits = Label 2 	 (2.5 4.0 5.5)
+	Variable ForeignWorker = A201
+   Consecuent: True
+

@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.australian_tf_sd/KMeans-MVs0.australian_tf_sd1tra.dat" "../datasets/KMeans-MV.australian_tf_sd/KMeans-MVs0.australian_tf_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.australian_tf_sd/KMeans-MV.UniformFrequency-Ds0.australian_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.australian_tf_sd/KMeans-MV.UniformFrequency-Ds0.australian_tf_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.australian_tf_sd/result1s0e0.txt"  
+
+seed = 67543218
+numIntervals = 10

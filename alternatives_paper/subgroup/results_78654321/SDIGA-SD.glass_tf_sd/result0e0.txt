@@ -1,0 +1,19 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Na = Label 1 	 (10.73 14.054999 17.38)
+	Variable Si = Label 1 	 (69.81 72.61 75.41)
+	Variable K = Label 0 	 (-3.105 0.0 3.105)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Si = Label 0 	 (67.009995 69.81 72.61)
+	Variable Fe = Label 1 	 (0.0 0.255 0.51)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Mg = Label 0 	 (-2.245 0.0 2.245)
+	Variable Ba = Label 0 	 (-1.575 0.0 1.575)
+   Consecuent: True
+

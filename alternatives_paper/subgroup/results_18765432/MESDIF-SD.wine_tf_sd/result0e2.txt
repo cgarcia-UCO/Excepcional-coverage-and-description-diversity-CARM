@@ -1,0 +1,158 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: MESDIF for Subgroup Discovery
+Input file name training: ../datasets/wine_tf_sd/wine_tf_sd.dat
+Input file name test: ../datasets/wine_tf_sd/wine_tf_sd.dat
+Rules file name: ../results/MESDIF-SD.wine_tf_sd/result0e0.txt
+Tracking file name: ../results/MESDIF-SD.wine_tf_sd/result0e2.txt
+Random generator seed: 18765432
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Number of individuals in the Elite Population: 3
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.0
+Rules representation: CAN
+Objective 1: COMP
+Objective 2: UNUS
+Objective 3: FCNF
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable Alcohol:
+	Label 0: 9.05 11.0 12.95
+	Label 1: 11.0 12.95 14.9
+	Label 2: 12.95 14.9 16.849998
+Fuzzy sets parameters for variable MalicAcid:
+	Label 0: -1.8500001 0.7 3.2500002
+	Label 1: 0.7 3.2500002 5.8
+	Label 2: 3.2500002 5.8 8.35
+Fuzzy sets parameters for variable Ash:
+	Label 0: 0.29999995 1.3 2.3
+	Label 1: 1.3 2.3 3.3
+	Label 2: 2.3 3.3 4.3
+Fuzzy sets parameters for variable AlcalinityOfAsh:
+	Label 0: 0.9000006 10.6 20.3
+	Label 1: 10.6 20.3 30.0
+	Label 2: 20.3 30.0 39.699997
+Fuzzy sets parameters for variable Magnesium:
+	Label 0: 24.0 70.0 116.0
+	Label 1: 70.0 116.0 162.0
+	Label 2: 116.0 162.0 208.0
+Fuzzy sets parameters for variable TotalPhenols:
+	Label 0: -0.6 0.9 2.4
+	Label 1: 0.9 2.4 3.9
+	Label 2: 2.4 3.9 5.4
+Fuzzy sets parameters for variable flavanoids:
+	Label 0: -2.1 0.3 2.6999998
+	Label 1: 0.3 2.6999998 5.1
+	Label 2: 2.6999998 5.1 7.5
+Fuzzy sets parameters for variable NonflavanoidsPhenols:
+	Label 0: -0.19999999 0.1 0.39999998
+	Label 1: 0.1 0.39999998 0.7
+	Label 2: 0.39999998 0.7 1.0
+Fuzzy sets parameters for variable Proanthocyanins:
+	Label 0: -1.1999999 0.4 1.9999999
+	Label 1: 0.4 1.9999999 3.6
+	Label 2: 1.9999999 3.6 5.2
+Fuzzy sets parameters for variable ColorIntensity:
+	Label 0: -4.7 1.2 7.1000004
+	Label 1: 1.2 7.1000004 13.0
+	Label 2: 7.1000004 13.0 18.900002
+Fuzzy sets parameters for variable Hue:
+	Label 0: -0.29999998 0.4 1.1
+	Label 1: 0.4 1.1 1.8
+	Label 2: 1.1 1.8 2.5
+Fuzzy sets parameters for variable OD280/OD315:
+	Label 0: -0.19999993 1.2 2.6
+	Label 1: 1.2 2.6 4.0
+	Label 2: 2.6 4.0 5.3999996
+Fuzzy sets parameters for variable Proline:
+	Label 0: -423.0 278.0 979.0
+	Label 1: 278.0 979.0 1680.0
+	Label 2: 979.0 1680.0 2381.0
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 178
+Number of variables: 13
+@relation wine
+@attribute Alcohol real[11.0,14.9]
+@attribute MalicAcid real[0.7,5.8]
+@attribute Ash real[1.3,3.3]
+@attribute AlcalinityOfAsh real[10.6,30.0]
+@attribute Magnesium real[70.0,162.0]
+@attribute TotalPhenols real[0.9,3.9]
+@attribute flavanoids real[0.3,5.1]
+@attribute NonflavanoidsPhenols real[0.1,0.7]
+@attribute Proanthocyanins real[0.4,3.6]
+@attribute ColorIntensity real[1.2,13.0]
+@attribute Hue real[0.4,1.8]
+@attribute OD280/OD315 real[1.2,4.0]
+@attribute Proline real[278.0,1680.0]
+@attribute Class{False,True}
+@inputs Alcohol, MalicAcid, Ash, AlcalinityOfAsh, Magnesium, TotalPhenols, flavanoids, NonflavanoidsPhenols, Proanthocyanins, ColorIntensity, Hue, OD280/OD315, Proline
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable Alcohol: 11.975  13.925  15.875  
+	Variable MalicAcid: 1.9750001  4.5250006  7.075001  
+	Variable Ash: 1.8  2.8  3.8  
+	Variable AlcalinityOfAsh: 15.450001  25.150002  34.850002  
+	Variable Magnesium: 93.0  139.0  185.0  
+	Variable TotalPhenols: 1.65  3.15  4.65  
+	Variable flavanoids: 1.5  3.8999999  6.2999997  
+	Variable NonflavanoidsPhenols: 0.25  0.54999995  0.8499999  
+	Variable Proanthocyanins: 1.1999999  2.7999997  4.3999996  
+	Variable ColorIntensity: 4.15  10.05  15.950001  
+	Variable Hue: 0.75  1.45  2.15  
+	Variable OD280/OD315: 1.9000001  3.3000002  4.7000003  
+	Variable Proline: 628.5  1329.5  2030.5  
+Information Gain of the variables:
+	Variable Alcohol: -0.015698135
+	Variable MalicAcid: 0.102045596
+	Variable Ash: -0.0050927997
+	Variable AlcalinityOfAsh: -0.009983659
+	Variable Magnesium: -0.061416447
+	Variable TotalPhenols: 0.09523839
+	Variable flavanoids: 0.28351015
+	Variable NonflavanoidsPhenols: 0.019261599
+	Variable Proanthocyanins: 0.106921315
+	Variable ColorIntensity: 0.020229101
+	Variable Hue: 0.2219829
+	Variable OD280/OD315: 0.20784801
+	Variable Proline: -0.046346128
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10008
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 1:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10008
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="skin" value="
+[0.0, 0.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[0.0, 0.0]" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="preg" value="
+[7.0, 15.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[34.0, 64.0]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="skin" value="
+[7.0, 60.0]" /></antecedents>
+<consequents>
+<attribute name="insu" value="
+[15.0, 579.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="mass" value="
+[57.3, 57.3]" /></antecedents>
+<consequents>
+<attribute name="pres" value="
+[100.0, 100.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="pedi" value="
+[1.731, 1.731]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [1.0E-4, 67.1]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="age" value="
+NOT [27.0001, 71.9999]" /></antecedents>
+<consequents>
+<attribute name="preg" value="
+NOT [3.0001, 17.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="pedi" value="
+[2.329, 2.329]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+[39.0, 39.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="plas" value="
+[155.0, 198.0]" /></antecedents>
+<consequents>
+<attribute name="class" value="
+NOT tested_negative" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="preg" value="
+[5.0, 8.0]" /></antecedents>
+<consequents>
+<attribute name="age" value="
+[30.0, 69.0]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="insu" value="
+[680.0, 680.0]" /></antecedents>
+<consequents>
+<attribute name="mass" value="
+NOT [0.0, 52.299899999999994]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="mass" value="
+NOT [27.5001, 67.1]" /></antecedents>
+<consequents>
+<attribute name="skin" value="
+NOT [21.0001, 99.0]" /></consequents>
+</rule>
+</association_rules>

@@ -1,0 +1,35 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable ResElectrocardiographic = Label 0 	 (-1.0 0.0 1.0)
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable ChestPainType = Label 1 	 (1.0 2.5 4.0)
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Slope = Label 0 	 (0.0 1.0 2.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Oldpeak = Label 1 	 (0.0 31.0 62.0)
+	Variable MajorVessels = Label 1 	 (0.0 1.5 3.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Oldpeak = Label 1 	 (0.0 31.0 62.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable SerumCholestoral = Label 0 	 (-93.0 126.0 345.0)
+	Variable Oldpeak = Label 1 	 (0.0 31.0 62.0)
+   Consecuent: True
+

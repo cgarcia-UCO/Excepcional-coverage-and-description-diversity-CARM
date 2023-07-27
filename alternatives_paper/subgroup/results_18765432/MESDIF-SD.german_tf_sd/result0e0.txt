@@ -1,0 +1,79 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable EmploymentSince = A71
+	Variable Guarantors = A102
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable EmploymentSince = A71
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable EmploymentSince = A71
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable Guarantors = A102
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable SavingsAccount = A64
+	Variable EmploymentSince = A71
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable EmploymentSince = A71
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable Guarantors = A102
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable SavingsAccount = A64
+	Variable EmploymentSince = A71
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable Age = Label 0 	 (-9.0 19.0 47.0)
+	Variable InstallmentPlans = A141
+	Variable Housing = A151
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

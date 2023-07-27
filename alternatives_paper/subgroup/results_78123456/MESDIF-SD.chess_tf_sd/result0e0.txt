@@ -1,0 +1,98 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkxwp = f
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkovl = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkxcr = f
+	Variable Bkxwp = f
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkovl = f
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bknwy = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkxcr = f
+	Variable Bkxwp = f
+	Variable Cntxt = f
+	Variable Mulch = f
+	Variable R2ar8 = f
+	Variable Reskd = f
+	Variable Rkxwp = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkovl = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable R2ar8 = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable R2ar8 = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+	Variable Wkovl = t
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable R2ar8 = f
+	Variable Rimmx = f
+	Variable Rxmsq = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = t
+	Variable Wkovl = t
+	Variable Wtoeg = n
+   Consecuent: True
+

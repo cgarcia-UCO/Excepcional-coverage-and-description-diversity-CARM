@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.tic-tac-toe_tf_sd/KMeans-MVs0.tic-tac-toe_tf_sd1tra.dat" "../datasets/KMeans-MV.tic-tac-toe_tf_sd/KMeans-MVs0.tic-tac-toe_tf_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_tf_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/result1s0e0.txt"  
+
+seed = 54678123
+numIntervals = 10

@@ -1,0 +1,23 @@
+
+Rule 1: IF  Thal = 0.0 AND Oldpeak <= 5.0 AND MajorVessels <> 3.0 AND MaxHeartRate <> 0.0 THEN Class -> False     [ 0.8661417322834646 0.13385826771653545]
+Rule 2: IF  ChestPainType <> 3.0 AND SerumCholestoral <> 7.0 AND MajorVessels <> 3.0 AND Oldpeak <= 6.0 THEN Class -> False     [ 0.8849557522123894 0.11504424778761062]
+Rule 3: IF  MajorVessels = 0.0 AND ExerciseInduced = 0.0 AND SerumCholestoral <> 7.0 THEN Class -> False     [ 0.875 0.125]
+Rule 4: IF  Thal <> 2.0 AND MaxHeartRate > 0.0 AND Oldpeak <= 6.0 AND Age <> 5.0 AND MajorVessels <> 3.0 THEN Class -> False     [ 0.8428571428571429 0.15714285714285714]
+Rule 5: IF  MajorVessels > 0.0 AND ChestPainType = 3.0 AND RestBloodPressure <> 4.0 AND Age <> 3.0 THEN Class -> True     [ 0.03389830508474576 0.9661016949152542]
+Rule 6: IF  Slope > 0.0 AND MaxHeartRate <> 9.0 AND RestBloodPressure <> 0.0 AND ChestPainType <> 1.0 AND SerumCholestoral <> 4.0 THEN Class -> True     [ 0.23711340206185566 0.7628865979381443]
+Rule 7: IF  ChestPainType = 3.0 AND SerumCholestoral <> 3.0 AND MaxHeartRate <> 9.0 AND Age <> 8.0 AND Oldpeak <> 3.0 AND Thal <> 1.0 THEN Class -> True     [ 0.19318181818181818 0.8068181818181818]
+Rule 8: IF  ResElectrocardiographic = 2.0 AND Age <> 4.0 AND SerumCholestoral <> 4.0 AND MaxHeartRate <> 9.0 AND Sex = 1.0 AND Slope <= 1.0 AND RestBloodPressure <> 0.0 THEN Class -> True     [ 0.1864406779661017 0.8135593220338984]
+Rule 9: IF  Thal > 0.0 AND RestBloodPressure > 1.0 AND SerumCholestoral > 1.0 AND Slope <= 1.0 AND Age <> 4.0 AND MaxHeartRate <> 6.0 THEN Class -> True     [ 0.09836065573770492 0.9016393442622951]
+Rule 10: IF  ChestPainType <> 2.0 AND MajorVessels > 0.0 AND Oldpeak <> 2.0 AND SerumCholestoral <> 2.0 AND MaxHeartRate <> 5.0 THEN Class -> True     [ 0.07142857142857142 0.9285714285714286]
+
+####Average results for test data####
+Avg. Rule length: 10
+Avg. Number of attributes by rule: 4.9
+Avg. Coverage: 0.3377777777777778
+Avg. Support Completo: 0.9629629629629629
+Avg. Significance: 53.91688629028134
+Avg. Unusualness: 0.09793352852140146
+
+Accuracy Training: 0.9259259259259259
+Accuracy Test: 0.9259259259259259;
+  Time; 6

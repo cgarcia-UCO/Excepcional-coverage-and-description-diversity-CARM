@@ -1,0 +1,32 @@
+plas>=127.5 & mass>=29.95
+plas>=145.5
+plas>=145.5 & age< 61
+plas>=127.5 & plas>=154.5
+plas>=145.5 & age>=25.5
+plas>=145.5 & age>=25.5 & age< 61
+plas>=127.5 & mass>=29.95 & plas>=157.5
+mass>=26.95 & plas>=99.5 & preg>=6.5
+mass>=26.95 & plas>=99.5 & preg>=6.5 & skin< 42
+plas>=127.5 & skin>=31.5
+age>=28.5 & insu>=142
+age>=28.5 & mass>=27.35 & insu>=142
+mass>=29.85 & pedi>=0.5005 & insu>=125.5 & mass< 45.95
+preg>=6.5 & pedi>=0.514
+mass>=29.85 & pedi>=0.5005 & preg>=6.5
+plas>=127.5 & mass>=29.95 & plas< 157.5 & age>=30.5
+plas>=127.5 & pedi>=0.7245
+plas>=127.5 & age>=24.5 & pedi>=0.7245
+pedi>=0.5275 & skin>=26.5 & pres>=75 & pres< 99
+plas>=127.5 & skin>=31.5 & age>=30
+preg>=6.5 & insu>=112
+mass>=29.85 & preg>=6.5 & insu>=109
+preg>=6.5 & mass>=39.05
+mass>=29.85 & insu< 143 & insu< 16 & mass>=42.85
+plas< 127.5 & age>=28.5 & mass>=26.35 & plas>=99.5 & pedi>=0.561
+mass>=29.85 & pedi< 0.5005 & mass>=40.8 & pedi>=0.1995
+plas>=127.5 & plas< 154.5 & pres>=43 & skin>=31.5 & age>=30
+preg>=6.5 & insu< 112 & insu< 38.5 & skin>=23.5
+mass>=29.85 & preg>=6.5 & insu< 109 & mass>=39.05
+age< 28.5 & mass>=30.95 & mass>=41.75 & insu< 135
+plas>=127.5 & plas< 154.5 & age>=24.5 & pedi>=0.7245
+plas>=127.5 & plas< 154.5 & pedi>=0.3165 & preg>=7.5

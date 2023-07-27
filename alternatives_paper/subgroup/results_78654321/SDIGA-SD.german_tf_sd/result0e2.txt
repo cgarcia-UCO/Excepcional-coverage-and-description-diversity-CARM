@@ -1,0 +1,121 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-SDIGA for Subgroup Discovery
+Input file name training: ../datasets/german_tf_sd/german_tf_sd.dat
+Input file name test: ../datasets/german_tf_sd/german_tf_sd.dat
+Rules file name: ../results/SDIGA-SD.german_tf_sd/result0e0.txt
+Tracking file name: ../results/SDIGA-SD.german_tf_sd/result0e2.txt
+Random generator seed: 78654321
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.6
+Rules representation: CAN
+Objective 1: COMP(Weight: 0.4)
+Objective 2: FCNF(Weight: 0.3)
+Objective 3: UNUS(Weight: 0.3)
+Perform Local Search: true
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable DurationMonth:
+	Label 0: -30.0 4.0 38.0
+	Label 1: 4.0 38.0 72.0
+	Label 2: 38.0 72.0 106.0
+Fuzzy sets parameters for variable CreditAmount:
+	Label 0: -8837.0 250.0 9337.0
+	Label 1: 250.0 9337.0 18424.0
+	Label 2: 9337.0 18424.0 27511.0
+Fuzzy sets parameters for variable InstallmentRate:
+	Label 0: -0.5 1.0 2.5
+	Label 1: 1.0 2.5 4.0
+	Label 2: 2.5 4.0 5.5
+Fuzzy sets parameters for variable ResidenceSince:
+	Label 0: -0.5 1.0 2.5
+	Label 1: 1.0 2.5 4.0
+	Label 2: 2.5 4.0 5.5
+Fuzzy sets parameters for variable Age:
+	Label 0: -9.0 19.0 47.0
+	Label 1: 19.0 47.0 75.0
+	Label 2: 47.0 75.0 103.0
+Fuzzy sets parameters for variable NCredits:
+	Label 0: -0.5 1.0 2.5
+	Label 1: 1.0 2.5 4.0
+	Label 2: 2.5 4.0 5.5
+Fuzzy sets parameters for variable NPeopleMain:
+	Label 0: 0.5 1.0 1.5
+	Label 1: 1.0 1.5 2.0
+	Label 2: 1.5 2.0 2.5
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 1000
+Number of variables: 20
+@relation german
+@attribute StatusAccount{A11,A12,A14,A13}
+@attribute DurationMonth integer[4,72]
+@attribute CreditHistory{A34,A32,A33,A30,A31}
+@attribute Purpose{A43,A46,A42,A40,A41,A49,A44,A45,A410,A48}
+@attribute CreditAmount integer[250,18424]
+@attribute SavingsAccount{A65,A61,A63,A64,A62}
+@attribute EmploymentSince{A75,A73,A74,A71,A72}
+@attribute InstallmentRate integer[1,4]
+@attribute StatusAndSex{A93,A92,A91,A94}
+@attribute Guarantors{A101,A103,A102}
+@attribute ResidenceSince integer[1,4]
+@attribute Property{A121,A122,A124,A123}
+@attribute Age integer[19,75]
+@attribute InstallmentPlans{A143,A141,A142}
+@attribute Housing{A152,A153,A151}
+@attribute NCredits integer[1,4]
+@attribute Job{A173,A172,A174,A171}
+@attribute NPeopleMain integer[1,2]
+@attribute Telephone{A192,A191}
+@attribute ForeignWorker{A201,A202}
+@attribute Customer{False,True}
+@inputs StatusAccount, DurationMonth, CreditHistory, Purpose, CreditAmount, SavingsAccount, EmploymentSince, InstallmentRate, StatusAndSex, Guarantors, ResidenceSince, Property, Age, InstallmentPlans, Housing, NCredits, Job, NPeopleMain, Telephone, ForeignWorker
+@outputs Customer
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable DurationMonth: 21.0  55.0  89.0  
+	Variable CreditAmount: 4793.5  13880.5  22967.5  
+	Variable InstallmentRate: 1.75  3.25  4.75  
+	Variable ResidenceSince: 1.75  3.25  4.75  
+	Variable Age: 33.0  61.0  89.0  
+	Variable NCredits: 1.75  3.25  4.75  
+	Variable NPeopleMain: 1.25  1.75  2.25  
+Information Gain of the variables:
+	Variable DurationMonth: -0.024464905
+	Variable CreditAmount: 0.017364144
+	Variable InstallmentRate: 0.028640628
+	Variable ResidenceSince: 0.027588785
+	Variable Age: -0.023001254
+	Variable NCredits: -0.04543978
+	Variable NPeopleMain: -0.007676482
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+   # 3319 generations, 10001 evaluations
+	Rule support improved by local search from 0.0 to 0.9728571
+   # 3336 generations, 10003 evaluations
+	Rule support improved by local search from 0.0 to 0.4157143
+   # 3304 generations, 10002 evaluations
+	Rule not stored (low confidence or support)
+
+Class 1:
+   # 3319 generations, 10001 evaluations
+	Rule support improved by local search from 0.0 to 0.9066667

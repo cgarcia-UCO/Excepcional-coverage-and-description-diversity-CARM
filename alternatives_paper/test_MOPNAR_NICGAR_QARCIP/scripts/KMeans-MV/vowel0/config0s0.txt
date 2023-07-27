@@ -1,0 +1,8 @@
+algorithm = K-means Imputation
+inputData = "../datasets/vowel0/vowel0.dat" "../datasets/vowel0/vowel0.dat" 
+outputData = "../datasets/KMeans-MV.vowel0/KMeans-MVs0.vowel01tra.dat" "../datasets/KMeans-MV.vowel0/KMeans-MVs0.vowel01tst.dat" 
+
+seed = 34218765
+k = 10
+error = 100
+iterations = 100

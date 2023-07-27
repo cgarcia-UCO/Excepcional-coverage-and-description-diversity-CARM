@@ -1,0 +1,45 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (5.0 29.0 53.0)
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Oldpeak = Label 0 	 (-31.0 0.0 31.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 1 	 (29.0 53.0 77.0)
+	Variable RestBloodPressure = Label 1 	 (94.0 147.0 200.0)
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 1 	 (29.0 53.0 77.0)
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable MaxHeartRate = Label 0 	 (5.5 71.0 136.5)
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 1 	 (29.0 53.0 77.0)
+	Variable SerumCholestoral = Label 1 	 (126.0 345.0 564.0)
+	Variable ResElectrocardiographic = Label 1 	 (0.0 1.0 2.0)
+	Variable Slope = Label 1 	 (1.0 2.0 3.0)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: True
+

@@ -1,0 +1,55 @@
+GENERATED RULE 0
+   Antecedent
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A14
+	Variable CreditHistory = A34
+	Variable Purpose = A43
+	Variable InstallmentPlans = A143
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A122
+	Variable Job = A171
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable Purpose = A40
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A122
+	Variable Job = A171
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable DurationMonth = Label 1 	 (4.0 38.0 72.0)
+	Variable Purpose = A40
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 1 	 (1.0 2.5 4.0)
+	Variable Property = A122
+	Variable Job = A171
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+

@@ -1,0 +1,546 @@
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),StatusAndSex= A92,ResidenceSince=[2,4],Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],ResidenceSince=[2,4],Age=[28,38),NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],InstallmentPlans= A143,NCredits=[1,2),Job= A173} => {Customer= True}
+{CreditHistory= A30,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61} => {Customer= True}
+{CreditHistory= A30,StatusAndSex= A93,NCredits=[2,4]} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A31,SavingsAccount= A61} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4]} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentPlans= A141} => {Customer= True}
+{Purpose= A40,InstallmentPlans= A141,Job= A173} => {Customer= True}
+{DurationMonth=[24,72],EmploymentSince= A72,Housing= A151} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,Age=[19,28)} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[250,1.55e+03)} => {Customer= True}
+{CreditHistory= A30,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A30,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,StatusAndSex= A93,NCredits=[2,4]} => {Customer= True}
+{CreditHistory= A30,ResidenceSince=[2,4],InstallmentPlans= A143,NCredits=[2,4]} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A30,SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A30,SavingsAccount= A61,Guarantors= A101} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,StatusAndSex= A93,Job= A173} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A30,StatusAndSex= A93,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A31,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A31,SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A31,SavingsAccount= A61,ForeignWorker= A201} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4],Telephone= A191} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,InstallmentPlans= A143,Housing= A153,Job= A173} => {Customer= True}
+{Purpose= A40,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],InstallmentPlans= A141} => {Customer= True}
+{Purpose= A40,CreditAmount=[250,1.55e+03),InstallmentPlans= A141,ForeignWorker= A201} => {Customer= True}
+{DurationMonth=[12,24),Purpose= A40,SavingsAccount= A61,InstallmentPlans= A141} => {Customer= True}
+{DurationMonth=[12,24),Purpose= A40,InstallmentRate=[2,4],InstallmentPlans= A141} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentPlans= A141,Housing= A152} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],InstallmentPlans= A141} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentPlans= A141,ForeignWorker= A201} => {Customer= True}
+{Purpose= A40,ResidenceSince=[2,4],InstallmentPlans= A141,Job= A173} => {Customer= True}
+{Purpose= A40,InstallmentPlans= A141,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,Property= A124,Age=[38,75],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,Property= A124} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,Property= A124,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,ResidenceSince=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Property= A124,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Property= A124,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A12,EmploymentSince= A72,InstallmentRate=[2,4],Housing= A151} => {Customer= True}
+{DurationMonth=[24,72],EmploymentSince= A72,InstallmentPlans= A143,Housing= A151} => {Customer= True}
+{Purpose= A40,EmploymentSince= A72,Age=[19,28),ForeignWorker= A201} => {Customer= True}
+{Purpose= A40,EmploymentSince= A72,InstallmentRate=[2,4],StatusAndSex= A92} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Property= A123,Housing= A151} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Housing= A151,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Housing= A151} => {Customer= True}
+{Property= A123,Housing= A151,NCredits=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A12,Purpose= A40,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,StatusAndSex= A92,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,SavingsAccount= A61,Property= A123} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,Purpose= A40} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,ResidenceSince=[2,4]} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,StatusAndSex= A92,Age=[19,28)} => {Customer= True}
+{Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,Age=[19,28),NCredits=[1,2)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,InstallmentRate=[2,4],Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],EmploymentSince= A75,StatusAndSex= A93} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],EmploymentSince= A75,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Age=[19,28),Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),Property= A123} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Property= A123,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Property= A123,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Property= A123} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Property= A123,Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[1.55e+03,3.37e+03),Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38),InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),InstallmentRate=[2,4],Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[250,1.55e+03),ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Age=[38,75],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Job= A173,Telephone= A192} => {Customer= True}
+{CreditHistory= A30,CreditAmount=[3.37e+03,1.84e+04],Guarantors= A101,ResidenceSince=[2,4],NCredits=[2,4]} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A30,CreditAmount=[3.37e+03,1.84e+04],Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],NCredits=[2,4]} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],NCredits=[2,4]} => {Customer= True}
+{CreditHistory= A30,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A143,NCredits=[2,4]} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A30,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A143,Job= A173} => {Customer= True}
+{CreditHistory= A31,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],Telephone= A192} => {Customer= True}
+{Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,Telephone= A192} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,Property= A124,InstallmentPlans= A143,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,ResidenceSince=[2,4],Property= A124,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],InstallmentPlans= A143,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,Guarantors= A101,InstallmentPlans= A143,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,Guarantors= A101,ResidenceSince=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{DurationMonth=[12,24),Purpose= A40,ResidenceSince=[2,4],InstallmentPlans= A141,ForeignWorker= A201} => {Customer= True}
+{Purpose= A40,InstallmentRate=[2,4],InstallmentPlans= A141,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],InstallmentPlans= A141,ForeignWorker= A201} => {Customer= True}
+{Purpose= A40,InstallmentRate=[2,4],InstallmentPlans= A141,Housing= A152,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A141,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A141,Job= A173} => {Customer= True}
+{SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Age=[19,28),InstallmentPlans= A141} => {Customer= True}
+{ResidenceSince=[2,4],Age=[19,28),InstallmentPlans= A141,NCredits=[1,2),ForeignWorker= A201} => {Customer= True}
+{SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4],Property= A123,InstallmentPlans= A141} => {Customer= True}
+{CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],InstallmentPlans= A141,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A12,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentPlans= A143,Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentPlans= A143,Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],ResidenceSince=[2,4],Housing= A152,Job= A174} => {Customer= True}
+{StatusAccount=A12,CreditAmount=[3.37e+03,1.84e+04],Property= A124,Age=[38,75],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],InstallmentRate=[2,4],Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,ResidenceSince=[2,4],Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,ResidenceSince=[2,4],Property= A124,Age=[38,75],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,Property= A124,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,Property= A124,InstallmentPlans= A143,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],Property= A124,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,ResidenceSince=[2,4],Property= A124,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,StatusAndSex= A93,Property= A124,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Property= A124,Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Property= A124,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Property= A124,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,Guarantors= A101,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A12,EmploymentSince= A72,StatusAndSex= A92,Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,EmploymentSince= A72,StatusAndSex= A92,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,Guarantors= A101} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,Guarantors= A101,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,NCredits=[1,2),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,Guarantors= A101,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],Guarantors= A101} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,ResidenceSince=[2,4],ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A74,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Property= A123,Housing= A151} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A123,Housing= A151} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentPlans= A143,Housing= A151,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Housing= A151,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,InstallmentPlans= A143,Housing= A151} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Housing= A151} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Housing= A151} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Housing= A151,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Housing= A151,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Housing= A151,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentPlans= A143,Housing= A151,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Housing= A151,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Housing= A151,NCredits=[1,2),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],InstallmentPlans= A143,Housing= A151} => {Customer= True}
+{EmploymentSince= A73,Property= A123,Housing= A151,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{SavingsAccount= A61,InstallmentRate=[2,4],Property= A123,Housing= A151,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Housing= A151,Job= A173,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,InstallmentPlans= A143,Housing= A151,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,Housing= A151,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,InstallmentPlans= A143,Housing= A151,Job= A173} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Housing= A151,Job= A173} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Housing= A151,Job= A173} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,Housing= A151,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Property= A122,Telephone= A191} => {Customer= True}
+{StatusAccount=A12,Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,StatusAndSex= A92,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],Property= A123} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,CreditAmount=[250,1.55e+03),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,InstallmentRate=[2,4],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A40,ResidenceSince=[2,4],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Job= A173} => {Customer= True}
+{Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],StatusAndSex= A92,Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,InstallmentRate=[2,4],Age=[19,28),NCredits=[1,2)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,InstallmentRate=[2,4],ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{CreditHistory= A32,Purpose= A40,CreditAmount=[250,1.55e+03),StatusAndSex= A92,Telephone= A191} => {Customer= True}
+{Purpose= A40,CreditAmount=[250,1.55e+03),StatusAndSex= A92,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,StatusAndSex= A92,ResidenceSince=[2,4]} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,StatusAndSex= A92,Guarantors= A101} => {Customer= True}
+{CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,EmploymentSince= A75,Guarantors= A101,Age=[38,75]} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],EmploymentSince= A75,StatusAndSex= A93,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],EmploymentSince= A75,InstallmentRate=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A75,StatusAndSex= A93,Telephone= A191} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],EmploymentSince= A73,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,Age=[19,28),Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A92,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A73,Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,EmploymentSince= A73,Job= A173} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,EmploymentSince= A73,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A73,Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A73,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,Age=[38,75],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A92,ResidenceSince=[2,4],Property= A121} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A92,Guarantors= A101,Property= A121} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Age=[19,28),NCredits=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,ResidenceSince=[2,4],Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,Age=[28,38),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],StatusAndSex= A92,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,Guarantors= A101,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],StatusAndSex= A92,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Property= A123} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Property= A123,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Property= A123,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),SavingsAccount= A61,ResidenceSince=[2,4],Property= A123} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Property= A123,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Property= A123,Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Property= A123,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,SavingsAccount= A61,StatusAndSex= A93,Property= A123} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Property= A123} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),Age=[28,38),InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),InstallmentRate=[2,4],Age=[28,38),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,Age=[38,75],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Age=[38,75],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Guarantors= A101,Age=[38,75],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Housing= A152,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],Job= A173,Telephone= A192,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[38,75],Telephone= A191} => {Customer= True}
+{StatusAccount=A11,Age=[28,38),Job= A173,Telephone= A192,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,Age=[28,38),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[28,38),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[28,38),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,SavingsAccount= A61,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Job= A173} => {Customer= True}
+{CreditAmount=[1.55e+03,3.37e+03),SavingsAccount= A61,StatusAndSex= A92,Property= A121,Age=[19,28)} => {Customer= True}
+{DurationMonth=[24,72],EmploymentSince= A73,StatusAndSex= A92,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Age=[19,28),Housing= A152,Telephone= A192} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],NCredits=[2,4]} => {Customer= True}
+{CreditHistory= A30,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{Purpose= A49,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4],Telephone= A192} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A143,Telephone= A192} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A143,NCredits=[1,2)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A49,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Property= A124,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],Housing= A153,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,InstallmentPlans= A143,Housing= A153,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],Housing= A153,Job= A173} => {Customer= True}
+{DurationMonth=[12,24),Purpose= A40,ResidenceSince=[2,4],InstallmentPlans= A141,Housing= A152,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],InstallmentPlans= A141,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A141,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A141,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],InstallmentPlans= A141,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A141,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A141,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A141,Housing= A152} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A141,Housing= A152,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A141,ForeignWorker= A201} => {Customer= True}
+{ResidenceSince=[2,4],Age=[19,28),InstallmentPlans= A141,NCredits=[1,2),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{CreditAmount=[250,1.55e+03),Guarantors= A101,ResidenceSince=[2,4],InstallmentPlans= A141,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],InstallmentPlans= A141,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A12,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A143,Job= A174} => {Customer= True}
+{StatusAccount=A12,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],InstallmentPlans= A143,Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A174} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A152,Job= A174} => {Customer= True}
+{SavingsAccount= A61,EmploymentSince= A75,Guarantors= A101,ResidenceSince=[2,4],Property= A124,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,StatusAndSex= A93,Guarantors= A101,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],Property= A124,Job= A173} => {Customer= True}
+{StatusAccount=A11,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A124,InstallmentPlans= A143,NCredits=[1,2)} => {Customer= True}
+{EmploymentSince= A72,InstallmentRate=[2,4],Guarantors= A101,NCredits=[1,2),Job= A172,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A12,EmploymentSince= A72,InstallmentRate=[2,4],Guarantors= A101,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A12,EmploymentSince= A72,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,EmploymentSince= A72,InstallmentRate=[2,4],StatusAndSex= A92,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A11,EmploymentSince= A72,StatusAndSex= A92,ResidenceSince=[2,4],InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,InstallmentRate=[2,4],Guarantors= A101} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,EmploymentSince= A72,InstallmentRate=[2,4],ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],Guarantors= A101,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A72,InstallmentRate=[2,4],NCredits=[1,2),ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,EmploymentSince= A72,InstallmentRate=[2,4],ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,EmploymentSince= A72,ResidenceSince=[2,4],Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,EmploymentSince= A72,ResidenceSince=[2,4],InstallmentPlans= A143,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,EmploymentSince= A72,InstallmentRate=[2,4],InstallmentPlans= A143,Housing= A152,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,EmploymentSince= A72,InstallmentRate=[2,4],ResidenceSince=[2,4],InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{DurationMonth=[24,72],EmploymentSince= A72,StatusAndSex= A92,ResidenceSince=[2,4],InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Housing= A151,Job= A173,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],InstallmentPlans= A143,Housing= A151,Telephone= A191} => {Customer= True}
+{InstallmentRate=[2,4],StatusAndSex= A92,ResidenceSince=[2,4],Property= A123,Housing= A151,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],InstallmentRate=[2,4],StatusAndSex= A92,InstallmentPlans= A143,Housing= A151,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Housing= A151,Job= A173,Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],SavingsAccount= A61,Housing= A151,Job= A173,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A42,Guarantors= A101,Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Purpose= A42,Guarantors= A101,ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Property= A122,NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Property= A122,NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Guarantors= A101,Property= A122,Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A12,Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),Job= A173,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,CreditAmount=[250,1.55e+03),NCredits=[1,2),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,Guarantors= A101,Housing= A152,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,Housing= A152,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Guarantors= A101,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,InstallmentRate=[2,4],NCredits=[1,2),Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],NCredits=[1,2),Job= A173} => {Customer= True}
+{Purpose= A40,CreditAmount=[250,1.55e+03),InstallmentRate=[2,4],StatusAndSex= A92,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101} => {Customer= True}
+{DurationMonth=[24,72],CreditHistory= A32,Purpose= A40,StatusAndSex= A92,Guarantors= A101,ResidenceSince=[2,4]} => {Customer= True}
+{CreditHistory= A32,Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101} => {Customer= True}
+{DurationMonth=[24,72],Purpose= A40,SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A12,SavingsAccount= A61,EmploymentSince= A75,Guarantors= A101,ResidenceSince=[2,4],Age=[38,75]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A75,InstallmentRate=[2,4],StatusAndSex= A93,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A75,InstallmentRate=[2,4],StatusAndSex= A93,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A75,InstallmentRate=[2,4],StatusAndSex= A93,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],ResidenceSince=[2,4],Age=[19,28),Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Age=[19,28),Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A92,ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,NCredits=[1,2),Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],StatusAndSex= A93} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Housing= A152,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,EmploymentSince= A73,InstallmentRate=[2,4],ResidenceSince=[2,4]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Age=[38,75]} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,SavingsAccount= A61,ResidenceSince=[2,4],Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,Housing= A152,NCredits=[1,2),Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentPlans= A143,NCredits=[1,2),Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],NCredits=[1,2),Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Telephone= A192} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,SavingsAccount= A61,ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],CreditHistory= A32,SavingsAccount= A61,ResidenceSince=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Housing= A152,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A12,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Housing= A152} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,InstallmentRate=[2,4],StatusAndSex= A92,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],StatusAndSex= A92,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),Age=[19,28),InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Age=[19,28),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Age=[19,28),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Age=[19,28),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Age=[19,28),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Age=[19,28),Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,ResidenceSince=[2,4],Age=[19,28),InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Age=[19,28),InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Age=[19,28),InstallmentPlans= A143,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Age=[19,28),InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),StatusAndSex= A92,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),StatusAndSex= A92,ResidenceSince=[2,4],Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),StatusAndSex= A92,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),StatusAndSex= A92,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),StatusAndSex= A92,Housing= A152,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),StatusAndSex= A92,ResidenceSince=[2,4],NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),StatusAndSex= A92,Housing= A152,Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),StatusAndSex= A92,ResidenceSince=[2,4],Telephone= A191,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A92,NCredits=[1,2),Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],StatusAndSex= A92,Guarantors= A101,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[250,1.55e+03),SavingsAccount= A61,ResidenceSince=[2,4],Property= A123,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,InstallmentRate=[2,4],Property= A123,Age=[28,38),NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[12,24),SavingsAccount= A61,InstallmentRate=[2,4],ResidenceSince=[2,4],Property= A123} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Property= A123,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,InstallmentRate=[2,4],Property= A123,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Property= A123,Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Property= A123,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Property= A123,InstallmentPlans= A143,Housing= A152} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Guarantors= A101,Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Property= A123,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Property= A123,InstallmentPlans= A143} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[1.55e+03,3.37e+03),InstallmentPlans= A143,NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[1.55e+03,3.37e+03),Guarantors= A101,InstallmentPlans= A143,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,CreditHistory= A32,CreditAmount=[250,1.55e+03),ResidenceSince=[2,4],Job= A173,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,NCredits=[2,4]} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,StatusAndSex= A93,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],StatusAndSex= A93,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],Job= A173,Telephone= A192,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,ResidenceSince=[2,4],Housing= A152,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],InstallmentRate=[2,4],StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,InstallmentRate=[2,4],Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],EmploymentSince= A73,Guarantors= A101,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,Age=[38,75],Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,Age=[38,75],Job= A173} => {Customer= True}
+{StatusAccount=A11,ResidenceSince=[2,4],Age=[28,38),Job= A173,Telephone= A192,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,InstallmentRate=[2,4],Age=[28,38),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,Guarantors= A101,Age=[28,38),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,InstallmentRate=[2,4],Age=[28,38),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,Age=[28,38),Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,InstallmentRate=[2,4],Age=[28,38),Housing= A152} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],CreditHistory= A32,InstallmentRate=[2,4],ResidenceSince=[2,4],Age=[28,38)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Age=[28,38),InstallmentPlans= A143,NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Age=[28,38),NCredits=[1,2),Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[28,38),InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Age=[28,38),NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Age=[28,38),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Age=[28,38),InstallmentPlans= A143,NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Age=[28,38),NCredits=[1,2),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Age=[28,38),NCredits=[1,2),Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Age=[28,38),InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[28,38),InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Guarantors= A101,Age=[28,38),Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],Guarantors= A101,Age=[28,38),Job= A173,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],Age=[28,38),Housing= A152,NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],ResidenceSince=[2,4],Age=[28,38),NCredits=[1,2)} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A93,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,ResidenceSince=[2,4],NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,NCredits=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A93,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,ResidenceSince=[2,4],Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,ResidenceSince=[2,4],NCredits=[1,2),Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,NCredits=[1,2),Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Job= A173,Telephone= A192} => {Customer= True}
+{StatusAccount=A11,InstallmentPlans= A143,NCredits=[1,2),Job= A173,Telephone= A192,ForeignWorker= A201} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,InstallmentPlans= A143,Telephone= A191} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,StatusAndSex= A93,Guarantors= A101,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],StatusAndSex= A93,Guarantors= A101,InstallmentPlans= A143,Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],SavingsAccount= A61,Guarantors= A101,ResidenceSince=[2,4],Job= A173} => {Customer= True}
+{StatusAccount=A11,DurationMonth=[24,72],InstallmentRate=[2,4],InstallmentPlans= A143,NCredits=[1,2),Job= A173} => {Customer= True}
+{DurationMonth=[24,72],EmploymentSince= A73,StatusAndSex= A92,ResidenceSince=[2,4],Age=[19,28),ForeignWorker= A201} => {Customer= True}
+{CreditHistory= A32,SavingsAccount= A61,EmploymentSince= A73,StatusAndSex= A92,ResidenceSince=[2,4],Age=[19,28)} => {Customer= True}
+{CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,Guarantors= A101,Age=[19,28),Housing= A152,Telephone= A192} => {Customer= True}
+{DurationMonth=[24,72],CreditAmount=[3.37e+03,1.84e+04],SavingsAccount= A61,EmploymentSince= A73,Housing= A152,Telephone= A192} => {Customer= True}

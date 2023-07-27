@@ -1,0 +1,1 @@
+00:00:25  ../datasets/KMeans-MV.UniformFrequency-D.australian_tf_sd/KMeans-MV.UniformFrequency-Ds0.australian_tf_sd1tra.dat

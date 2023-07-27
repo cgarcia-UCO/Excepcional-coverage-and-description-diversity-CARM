@@ -1,0 +1,112 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Cntxt = f
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkxcr = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkxwp = f
+	Variable Blxwp = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Mulch = f
+	Variable Reskr = f
+	Variable Rkxwp = f
+	Variable Rxmsq = f
+	Variable Skach = f
+	Variable Skrxp = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Wkna8 = f
+	Variable Wknck = f
+	Variable Wtoeg = n
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Rimmx = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Cntxt = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Rimmx = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxbq = f
+	Variable Bkxwp = f
+	Variable Cntxt = f
+	Variable Katri5 = n
+	Variable Mulch = f
+	Variable Rimmx = f
+	Variable Skrxp = f
+	Variable Stlmt = f
+	Variable Wkcti = f
+	Variable Wtoeg = n
+   Consecuent: True
+

@@ -1,0 +1,1 @@
+8  ../datasets/KMeans-MV.glass_tf/KMeans-MVs0.glass_tf1tra.dat../results/KMeans-MV.NICGAR-A.glass_tf/result0s0.tra

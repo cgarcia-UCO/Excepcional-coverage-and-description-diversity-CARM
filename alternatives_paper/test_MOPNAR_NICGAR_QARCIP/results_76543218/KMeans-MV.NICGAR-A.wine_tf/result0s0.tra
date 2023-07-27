@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="flavanoids" value="
+[0.34, 0.96]" /></antecedents>
+<consequents>
+<attribute name="Class" value="
+True" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="flavanoids" value="
+[2.74, 3.93]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+NOT [0.9, 2.5999]" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="OD280/OD315" value="
+NOT [1.8001, 3.9999999999999996]" /></antecedents>
+<consequents>
+<attribute name="Hue" value="
+NOT [0.7801, 1.8]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="ColorIntensity" value="
+NOT [3.3001, 13.0]" /></antecedents>
+<consequents>
+<attribute name="Alcohol" value="
+[11.41, 12.72]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="flavanoids" value="
+[2.11, 2.69]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[2.13, 2.65]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="OD280/OD315" value="
+[1.27, 2.42]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[1.1, 2.05]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="Class" value="
+False" /></antecedents>
+<consequents>
+<attribute name="OD280/OD315" value="
+[2.23, 3.92]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="Proline" value="
+NOT [278.0, 989.9999]" /></antecedents>
+<consequents>
+<attribute name="Alcohol" value="
+[13.51, 14.83]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="flavanoids" value="
+[2.43, 2.98]" /></antecedents>
+<consequents>
+<attribute name="TotalPhenols" value="
+[2.4, 2.96]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="AlcalinityOfAsh" value="
+[25.0, 27.0]" /></antecedents>
+<consequents>
+<attribute name="Ash" value="
+[2.62, 2.86]" /></consequents>
+</rule>
+</association_rules>

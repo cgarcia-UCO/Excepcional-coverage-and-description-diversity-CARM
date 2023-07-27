@@ -1,0 +1,1 @@
+00:00:03  ../results/KMeans-MV.QAR_CIP_NSGAII-A.pima_assoc/result0s0.tra

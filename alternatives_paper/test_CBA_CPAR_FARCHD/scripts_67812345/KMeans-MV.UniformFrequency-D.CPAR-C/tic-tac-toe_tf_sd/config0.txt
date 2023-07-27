@@ -1,0 +1,9 @@
+algorithm = Classif. Predictive Association Rules
+inputData = "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/KMeans-MV.UniformFrequency-Ds0.tic-tac-toe_tf_sd1tst.dat" ""../datasets/KMeans-MV.UniformFrequency-D.tic-tac-toe_tf_sd/result1s0e0.txt" " 
+outputData = "../results/KMeans-MV.UniformFrequency-D.CPAR-C.tic-tac-toe_tf_sd/result0.tra" "../results/KMeans-MV.UniformFrequency-D.CPAR-C.tic-tac-toe_tf_sd/result0.tst" "../results/KMeans-MV.UniformFrequency-D.CPAR-C.tic-tac-toe_tf_sd/result0e0.txt"  "../results/KMeans-MV.UniformFrequency-D.CPAR-C.tic-tac-toe_tf_sd/result0e1.txt"  
+
+Number of rules combining for every example (delta) = 0.05
+Minimum Gain = 0.7
+Weight decay factor (alfa) = 0.66
+Number of rules used in prediction = 5
+seed = 67812345

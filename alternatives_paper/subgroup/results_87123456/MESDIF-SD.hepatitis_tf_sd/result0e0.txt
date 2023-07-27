@@ -1,0 +1,86 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable Anorexia = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable LiverFirm = Label 0 	 (0.5 1.0 1.5)
+	Variable Spiders = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 1 	 (0.0 50.0 100.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Age = Label 0 	 (-28.5 7.0 42.5)
+	Variable Steroid = Label 0 	 (0.5 1.0 1.5)
+	Variable Fatigue = Label 0 	 (0.5 1.0 1.5)
+	Variable Malaise = Label 0 	 (0.5 1.0 1.5)
+	Variable LiverBig = Label 1 	 (1.0 1.5 2.0)
+	Variable Bilirubin = Label 1 	 (0.3 4.15 8.0)
+	Variable AlbuMin = Label 0 	 (-0.05000019 2.1 4.25)
+	Variable ProTime = Label 0 	 (-50.0 0.0 50.0)
+	Variable Histology = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

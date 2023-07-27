@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+Support	antecedent_support	consequent_support	Confidence	Lift	Conv	CF	NetConf	YulesQ	nAttributes	nDistChrPop
+0.34	0.34	0.34	1.0	3.0	Infinity	1.0	1.0	1.0	2	0.77
+0.3	0.31	0.34	0.98	2.94	30.67	0.97	0.94	1.0	2	0.79
+0.3	0.3	0.36	1.0	2.78	Infinity	1.0	0.92	1.0	2	0.93
+0.22	0.23	0.3	0.95	3.21	12.02	0.92	0.84	0.99	2	0.76
+0.06	0.06	0.08	1.0	13.64	Infinity	1.0	0.99	1.0	2	0.92
+0.37	0.4	0.45	0.94	2.12	8.26	0.88	0.82	0.99	2	0.9
+0.18	0.21	0.29	0.9	3.14	7.14	0.86	0.77	0.97	2	0.82
+</values>

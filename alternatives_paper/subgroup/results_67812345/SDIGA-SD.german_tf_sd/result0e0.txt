@@ -1,0 +1,20 @@
+GENERATED RULE 0
+   Antecedent
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Telephone = A191
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable ForeignWorker = A201
+   Consecuent: True
+

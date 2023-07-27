@@ -1,0 +1,1 @@
+48  ../datasets/KMeans-MV.chess_tf/KMeans-MVs0.chess_tf1tra.dat../results/KMeans-MV.NICGAR-A.chess_tf/result0s0.tra

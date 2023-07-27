@@ -1,0 +1,26 @@
+GENERATED RULE 0
+   Antecedent
+	Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+	Variable BareNuclei = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable CellSize = Label 0 	 (-3.5 1.0 5.5)
+	Variable CellShape = Label 0 	 (-3.5 1.0 5.5)
+	Variable MarginalAdhesion = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable MarginalAdhesion = Label 0 	 (-3.5 1.0 5.5)
+	Variable EpithelialSize = Label 0 	 (-3.5 1.0 5.5)
+	Variable BlandChromatin = Label 0 	 (-3.5 1.0 5.5)
+	Variable Mitoses = Label 0 	 (-3.5 1.0 5.5)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable BlandChromatin = Label 1 	 (1.0 5.5 10.0)
+   Consecuent: True
+

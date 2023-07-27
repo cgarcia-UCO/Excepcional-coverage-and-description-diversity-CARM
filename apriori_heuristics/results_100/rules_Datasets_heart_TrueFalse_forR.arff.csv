@@ -1,0 +1,729 @@
+Thal>=4.5 & RestBloodPressure>=109 & ChestPainType>=1.5
+ChestPainType>=3.5 & MaxHeartRate< 177.5
+ChestPainType>=3.5 & MaxHeartRate< 179.5
+Thal>=4.5 & RestBloodPressure>=109
+Thal>=4.5 & ChestPainType>=1.5
+ChestPainType>=3.5 & RestBloodPressure>=107
+ChestPainType>=3.5
+Thal>=4.5
+ChestPainType>=3.5 & SerumCholestoral< 347.5
+Thal>=4.5 & RestBloodPressure>=109 & ChestPainType>=1.5 & Age>=46
+Thal>=6.5
+Thal>=4.5 & Oldpeak>=0.5
+Thal>=4.5 & RestBloodPressure>=109 & SerumCholestoral>=211.5
+MajorVessels>=0.5 & Age>=43.5 & Age< 67.5
+Thal>=4.5 & ChestPainType>=1.5 & Age>=45
+Thal>=4.5 & ChestPainType>=3.5
+Thal>=4.5 & ChestPainType>=1.5 & Age>=46
+Thal>=4.5 & RestBloodPressure>=109 & Age>=46
+MajorVessels>=0.5 & RestBloodPressure>=107
+MajorVessels>=0.5 & ChestPainType>=1.5
+ChestPainType>=3.5 & MajorVessels>=0.5
+Thal>=4.5 & Slope< 2.5
+MajorVessels>=0.5
+MajorVessels>=0.5 & RestBloodPressure>=109
+Thal>=4.5 & SerumCholestoral>=211.5
+MajorVessels>=0.5 & Sex>=0.5 & Age>=43.5
+Thal>=4.5 & Age>=45
+Thal>=4.5 & SerumCholestoral>=210.5
+ChestPainType>=3.5 & Thal>=6.5
+ChestPainType>=3.5 & Sex>=0.5
+Thal>=4.5 & Age>=46
+MajorVessels>=0.5 & Sex>=0.5 & ChestPainType>=1.5
+ChestPainType>=3.5 & RestBloodPressure>=115
+MajorVessels>=0.5 & Sex>=0.5
+Thal>=4.5 & Slope>=1.5 & ChestPainType>=1.5
+ChestPainType>=3.5 & Age>=48
+Thal>=4.5 & FastingBloodSugar< 0.5
+MajorVessels>=0.5 & MaxHeartRate< 170
+ChestPainType>=3.5 & Slope>=1.5 & RestBloodPressure>=106
+MajorVessels>=0.5 & Age< 66.5
+Thal>=4.5 & Slope>=1.5
+ChestPainType>=3.5 & Slope>=1.5
+MajorVessels>=0.5 & Slope>=1.5
+Slope>=1.5 & MajorVessels>=0.5
+ChestPainType>=3.5 & Age< 63.5
+Thal>=4.5 & SerumCholestoral>=210.5 & Slope< 2.5
+Thal>=4.5 & RestBloodPressure>=122
+Thal>=4.5 & MajorVessels>=0.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Age< 70.5
+FastingBloodSugar< 0.5 & Thal>=6.5
+ChestPainType>=3.5 & SerumCholestoral< 301
+MaxHeartRate< 147.5 & Slope>=1.5
+Slope>=1.5 & Sex>=0.5 & RestBloodPressure>=107.5
+Thal>=4.5 & Slope>=1.5 & ChestPainType>=1.5 & Age>=45
+MaxHeartRate< 147.5 & RestBloodPressure>=115
+Sex>=0.5 & MaxHeartRate< 150.5
+Slope>=1.5 & Sex>=0.5 & ChestPainType>=1.5
+MajorVessels>=0.5 & SerumCholestoral>=206.5
+Slope>=1.5 & Sex>=0.5
+ChestPainType>=3.5 & ExerciseInduced>=0.5
+Thal>=4.5 & Slope>=1.5 & Thal>=6.5
+MajorVessels>=0.5 & RestBloodPressure>=107 & SerumCholestoral>=206.5
+MaxHeartRate< 147.5 & Sex>=0.5
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate< 146.5 & RestBloodPressure>=108
+MajorVessels>=0.5 & Sex>=0.5 & FastingBloodSugar< 0.5
+MaxHeartRate< 147.5 & Slope>=1.5 & RestBloodPressure>=115
+MajorVessels>=0.5 & FastingBloodSugar< 0.5
+Slope>=1.5 & RestBloodPressure>=109 & Age>=47 & Age< 67.5
+ExerciseInduced>=0.5 & RestBloodPressure>=106.5
+ExerciseInduced>=0.5 & RestBloodPressure>=107.5
+Sex>=0.5 & MaxHeartRate< 148.5
+ChestPainType>=3.5 & MaxHeartRate< 147
+RestBloodPressure>=122 & Thal>=6.5
+MaxHeartRate< 147 & Slope>=1.5
+Thal>=4.5 & SerumCholestoral>=227.5
+MaxHeartRate< 147 & RestBloodPressure>=115
+ChestPainType>=3.5 & Age>=54
+ChestPainType>=3.5 & Age>=53.5
+Slope>=1.5 & Age>=53.5 & Age< 70.5
+Thal>=4.5 & Slope>=1.5 & Age>=45
+Sex>=0.5 & MaxHeartRate< 145.5
+Slope>=1.5 & Age>=52.5
+Thal>=4.5 & SerumCholestoral>=226.5
+ExerciseInduced>=0.5
+Slope>=1.5 & Slope< 2.5 & RestBloodPressure>=119
+MajorVessels>=0.5 & RestBloodPressure>=119
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex>=0.5
+ChestPainType>=3.5 & Oldpeak>=7 & MaxHeartRate< 170.5
+ChestPainType>=3.5 & ResElectrocardiographic>=1 & MaxHeartRate< 179.5
+Age>=53.5 & Slope>=1.5
+Slope>=1.5 & Sex>=0.5 & Slope< 2.5
+MaxHeartRate< 145.5 & RestBloodPressure>=115
+MaxHeartRate< 147.5 & Age< 65.5
+ChestPainType>=3.5 & MaxHeartRate< 147 & Slope>=1.5
+ChestPainType>=3.5 & MaxHeartRate< 147 & RestBloodPressure>=115
+Thal>=4.5 & ExerciseInduced>=0.5 & RestBloodPressure>=107.5
+MajorVessels>=0.5 & MaxHeartRate< 170 & RestBloodPressure>=119
+ExerciseInduced>=0.5 & MaxHeartRate< 151
+ChestPainType>=3.5 & Oldpeak>=7
+ExerciseInduced>=0.5 & Slope>=1.5 & RestBloodPressure>=106.5
+MajorVessels>=0.5 & MaxHeartRate< 150.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Age< 65.5
+Slope>=1.5 & Age>=52.5 & Age< 67.5
+MaxHeartRate< 147.5 & RestBloodPressure>=115 & Age< 63.5
+ExerciseInduced>=0.5 & MaxHeartRate< 159.5
+ExerciseInduced>=0.5 & Sex>=0.5 & RestBloodPressure>=107.5
+Sex>=0.5 & MaxHeartRate< 145.5 & RestBloodPressure>=115
+Thal>=4.5 & ExerciseInduced>=0.5
+Thal>=4.5 & MaxHeartRate< 144.5
+Thal>=4.5 & MaxHeartRate< 145
+ChestPainType>=3.5 & ResElectrocardiographic>=1
+Slope>=1.5 & Age>=55 & ChestPainType>=1.5
+ChestPainType>=3.5 & ResElectrocardiographic>=0.5
+ExerciseInduced>=0.5 & Slope>=1.5
+Slope>=1.5 & ExerciseInduced>=0.5
+MaxHeartRate< 142.5
+ExerciseInduced>=0.5 & RestBloodPressure>=115
+ExerciseInduced>=0.5 & RestBloodPressure>=116
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex>=0.5 & MaxHeartRate< 142.5
+MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate< 150.5
+Slope>=1.5 & Age>=54.5
+Slope>=1.5 & Age>=55
+MaxHeartRate< 147.5 & RestBloodPressure>=115 & Oldpeak>=6
+ChestPainType>=3.5 & ExerciseInduced>=0.5 & Age>=48
+ChestPainType>=3.5 & Slope>=1.5 & Sex>=0.5
+MajorVessels>=0.5 & MaxHeartRate< 145.5 & Age< 70.5
+Thal>=4.5 & ChestPainType>=1.5 & ResElectrocardiographic>=1
+MajorVessels>=0.5 & MaxHeartRate< 148.5
+ExerciseInduced>=0.5 & Age>=46.5
+RestBloodPressure>=119 & ExerciseInduced>=0.5
+Thal>=4.5 & SerumCholestoral>=241.5
+ChestPainType>=3.5 & MaxHeartRate< 147 & ExerciseInduced>=0.5
+ExerciseInduced>=0.5 & Sex>=0.5
+MaxHeartRate< 147 & ExerciseInduced>=0.5
+MajorVessels>=0.5 & ResElectrocardiographic>=1 & ChestPainType>=1.5
+ChestPainType>=3.5 & SerumCholestoral>=243.5
+ChestPainType>=3.5 & Slope>=1.5 & SerumCholestoral< 298
+Thal>=4.5 & MaxHeartRate< 143.5
+MaxHeartRate< 147.5 & Oldpeak>=6
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate< 146.5 & Age< 63.5
+ExerciseInduced>=0.5 & Age>=48
+Thal>=4.5 & Age>=55
+MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate< 148.5
+ChestPainType>=3.5 & Age>=53.5 & Slope>=1.5
+Thal>=4.5 & SerumCholestoral>=244
+MaxHeartRate< 147.5 & Oldpeak>=7
+Thal>=4.5 & MaxHeartRate< 144.5 & Slope>=1.5
+MajorVessels>=0.5 & MaxHeartRate< 145.5
+MajorVessels>=0.5 & ResElectrocardiographic>=1
+Thal>=4.5 & ResElectrocardiographic>=1
+Thal>=4.5 & SerumCholestoral>=210.5 & SerumCholestoral< 293 & Slope< 2.5
+ExerciseInduced>=0.5 & Slope>=1.5 & RestBloodPressure>=115
+Slope>=1.5 & RestBloodPressure>=119 & ExerciseInduced>=0.5
+Thal>=4.5 & RestBloodPressure>=122 & SerumCholestoral>=244
+MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate< 145.5
+Sex>=0.5 & Age>=55 & ChestPainType>=1.5
+Slope>=1.5 & Oldpeak>=7
+MaxHeartRate< 147.5 & Age< 70.5 & MaxHeartRate< 136.5
+MaxHeartRate< 147.5 & Oldpeak>=7 & Sex>=0.5
+MaxHeartRate< 147.5 & Age>=54
+MaxHeartRate< 147.5 & RestBloodPressure>=122.5
+MaxHeartRate< 144.5 & Thal>=6.5
+ExerciseInduced>=0.5 & Age>=51.5
+ExerciseInduced>=0.5 & SerumCholestoral>=227.5
+Thal>=4.5 & MaxHeartRate< 144.5 & Age< 63.5
+MajorVessels>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1 & ChestPainType>=1.5
+MaxHeartRate< 140.5
+ChestPainType>=3.5 & ExerciseInduced>=0.5 & Oldpeak>=7
+MaxHeartRate< 147.5 & Sex>=0.5 & MaxHeartRate< 135.5
+Sex>=0.5 & MaxHeartRate< 135.5
+MaxHeartRate< 147.5 & Slope>=1.5 & RestBloodPressure>=122.5
+ExerciseInduced>=0.5 & MaxHeartRate< 142.5
+ExerciseInduced>=0.5 & Slope>=1.5 & Age>=46.5
+ExerciseInduced>=0.5 & Oldpeak>=7
+Slope>=1.5 & Oldpeak>=11.5
+ChestPainType>=3.5 & Sex>=0.5 & ResElectrocardiographic>=1
+MajorVessels>=0.5 & MaxHeartRate< 145
+SerumCholestoral>=243.5 & Slope>=1.5
+Thal>=6.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & Age>=53.5 & Sex>=0.5
+ExerciseInduced>=0.5 & Slope>=1.5 & Age>=48
+MajorVessels>=0.5 & Oldpeak>=8.5
+MajorVessels>=0.5 & ExerciseInduced>=0.5
+MajorVessels>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1
+Slope>=1.5 & Slope< 2.5 & ExerciseInduced>=0.5
+Thal>=4.5 & ExerciseInduced>=0.5 & Slope>=1.5
+ChestPainType>=3.5 & Sex>=0.5 & RestBloodPressure< 139
+Slope>=1.5 & SerumCholestoral>=244.5
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5
+Slope>=1.5 & SerumCholestoral>=248.5
+MaxHeartRate< 147.5 & Slope>=1.5 & RestBloodPressure>=125
+Thal>=4.5 & Oldpeak>=10
+ChestPainType>=3.5 & Sex>=0.5 & RestBloodPressure< 136.5
+MajorVessels>=0.5 & ResElectrocardiographic>=1 & FastingBloodSugar< 0.5
+ChestPainType>=3.5 & Age>=53.5 & ResElectrocardiographic>=0.5
+Slope>=1.5 & Age>=54.5 & Age< 66.5
+MaxHeartRate< 147.5 & RestBloodPressure>=125
+MaxHeartRate< 135.5
+MaxHeartRate< 135
+MaxHeartRate< 132.5 & Age< 72
+Slope>=1.5 & SerumCholestoral>=252
+ExerciseInduced>=0.5 & RestBloodPressure>=122.5
+MajorVessels>=0.5 & Age>=57.5
+ExerciseInduced>=0.5 & RestBloodPressure>=123
+Thal>=4.5 & ExerciseInduced>=0.5 & SerumCholestoral>=227.5
+Slope>=1.5 & FastingBloodSugar< 0.5 & Oldpeak>=7
+ChestPainType>=3.5 & RestBloodPressure>=129
+ChestPainType>=3.5 & MaxHeartRate< 135
+ExerciseInduced>=0.5 & Slope>=1.5 & Sex>=0.5
+MaxHeartRate< 147.5 & Age< 65.5 & Age>=54
+Age>=56.5 & Slope>=1.5
+Slope>=1.5 & Age>=56.5
+Thal>=4.5 & RestBloodPressure>=122 & ResElectrocardiographic>=1
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & MaxHeartRate< 159.5
+MaxHeartRate< 132.5
+Slope>=1.5 & Sex>=0.5 & Age>=55 & ChestPainType>=1.5
+ExerciseInduced>=0.5 & MaxHeartRate< 151 & SerumCholestoral>=244.5
+Slope>=1.5 & Sex>=0.5 & RestBloodPressure>=122.5
+ChestPainType>=3.5 & Age>=57.5
+Slope>=1.5 & Sex>=0.5 & Age>=55
+Sex>=0.5 & ResElectrocardiographic>=1 & Oldpeak>=0.5
+MajorVessels>=0.5 & SerumCholestoral>=247
+SerumCholestoral>=215 & Oldpeak>=10.5
+RestBloodPressure>=115 & MaxHeartRate< 132.5 & Age< 72
+ChestPainType>=3.5 & ExerciseInduced>=0.5 & SerumCholestoral>=243.5
+Slope>=1.5 & Slope< 2.5 & RestBloodPressure>=119 & ExerciseInduced>=0.5
+Age>=57.5 & Sex>=0.5
+MaxHeartRate< 147.5 & Sex>=0.5 & SerumCholestoral>=245.5
+ExerciseInduced>=0.5 & RestBloodPressure>=125
+MaxHeartRate< 147.5 & Sex>=0.5 & RestBloodPressure>=122.5
+Sex>=0.5 & Age>=56.5 & RestBloodPressure>=111
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & Slope>=1.5
+MajorVessels>=1.5 & MaxHeartRate< 174
+Sex>=0.5 & MaxHeartRate< 131.5
+MaxHeartRate< 171.5 & MajorVessels>=1.5
+MajorVessels>=0.5 & Age< 66.5 & Age>=57.5
+MajorVessels>=0.5 & MaxHeartRate< 140.5
+Sex>=0.5 & Age>=53.5 & SerumCholestoral>=245.5
+Sex>=0.5 & Age>=56.5 & FastingBloodSugar< 0.5
+Thal>=4.5 & SerumCholestoral>=241.5 & Oldpeak>=2.5
+RestBloodPressure>=115 & MaxHeartRate< 132.5
+Thal>=4.5 & MajorVessels>=0.5 & ResElectrocardiographic>=1
+Age>=57.5 & Slope>=1.5
+Age>=54.5 & ResElectrocardiographic>=1.5 & Age< 67.5
+Sex>=0.5 & Age>=54.5 & SerumCholestoral>=245.5
+Slope>=1.5 & Age>=55 & SerumCholestoral>=244.5
+Sex>=0.5 & MaxHeartRate< 131
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & SerumCholestoral< 316
+Slope>=1.5 & Age>=56.5 & Slope< 2.5
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & RestBloodPressure>=122.5
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & RestBloodPressure>=123
+Sex>=0.5 & Age>=54.5 & Oldpeak>=5.5
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & Sex>=0.5
+Sex>=0.5 & Age>=55 & SerumCholestoral>=244.5
+Thal>=4.5 & MajorVessels>=0.5 & MaxHeartRate< 145
+Sex>=0.5 & Age>=53.5 & Age>=57.5 & FastingBloodSugar< 0.5
+Age>=57.5 & Sex>=0.5 & FastingBloodSugar< 0.5
+MajorVessels>=1.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex>=0.5 & RestBloodPressure>=122.5
+Sex>=0.5 & Age>=56.5 & FastingBloodSugar< 0.5 & RestBloodPressure>=111
+MaxHeartRate< 147.5 & RestBloodPressure>=115 & Age< 59.5
+Oldpeak>=17
+MaxHeartRate< 147.5 & Age< 59.5
+MaxHeartRate< 131.5
+Slope>=1.5 & Sex>=0.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & Age>=53.5 & RestBloodPressure>=129
+Age>=57.5 & Slope>=1.5 & Age< 67.5
+Age>=57.5 & Slope>=1.5 & SerumCholestoral< 300.5
+ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & RestBloodPressure>=125
+Thal>=4.5 & MaxHeartRate< 132.5
+Slope>=1.5 & Oldpeak>=17
+Age>=54.5 & ResElectrocardiographic>=1.5 & RestBloodPressure>=122.5
+Slope>=1.5 & SerumCholestoral>=252 & Age>=54.5
+Thal>=4.5 & SerumCholestoral>=226.5 & ResElectrocardiographic>=1
+ExerciseInduced>=0.5 & Oldpeak>=15.5
+RestBloodPressure>=115 & MaxHeartRate< 131.5
+Slope>=1.5 & Sex>=0.5 & SerumCholestoral>=244.5
+MaxHeartRate< 131
+ChestPainType>=3.5 & Age>=58.5
+Oldpeak>=17 & Age>=44.5
+Thal>=4.5 & Oldpeak< 15 & Oldpeak>=0.5
+Age>=57.5 & Slope>=1.5 & Age< 67.5 & SerumCholestoral< 300.5
+Age>=55.5 & Oldpeak>=10.5
+ExerciseInduced>=0.5 & ResElectrocardiographic>=1
+Sex>=0.5 & SerumCholestoral>=247.5 & Oldpeak>=2.5
+Sex>=0.5 & Age>=56.5 & SerumCholestoral>=245.5
+Thal>=4.5 & SerumCholestoral>=259.5
+Age>=56.5 & Slope>=1.5 & Age< 65.5
+Slope>=1.5 & RestBloodPressure>=137
+ChestPainType>=3.5 & SerumCholestoral>=272.5
+Slope>=1.5 & SerumCholestoral>=266.5
+Age>=56.5 & ResElectrocardiographic>=1.5 & FastingBloodSugar< 0.5
+ExerciseInduced>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1
+MaxHeartRate< 147.5 & Oldpeak>=7 & MaxHeartRate>=116.5
+Age>=55.5 & SerumCholestoral>=215 & Oldpeak>=10.5
+ExerciseInduced>=0.5 & RestBloodPressure< 135 & RestBloodPressure>=107.5
+ChestPainType>=3.5 & Age>=59.5
+Sex>=0.5 & Age>=56.5 & RestBloodPressure< 142.5
+Slope>=1.5 & SerumCholestoral>=252 & SerumCholestoral< 300.5
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & SerumCholestoral< 347.5
+Oldpeak>=18.5
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & Age< 63.5
+Slope>=1.5 & Sex>=0.5 & Age>=55 & SerumCholestoral>=244.5
+MajorVessels>=0.5 & ResElectrocardiographic>=1 & SerumCholestoral>=247
+Slope>=1.5 & SerumCholestoral>=273.5
+Slope>=1.5 & SerumCholestoral>=274
+Age>=57.5 & ResElectrocardiographic>=1 & FastingBloodSugar< 0.5
+Thal>=4.5 & ExerciseInduced>=0.5 & Oldpeak>=15.5
+ExerciseInduced>=0.5 & Slope>=1.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & RestBloodPressure>=139
+Age>=56.5 & ResElectrocardiographic>=1.5 & Age< 65.5
+Slope>=1.5 & Age>=59.5
+ExerciseInduced>=0.5 & SerumCholestoral>=269
+SerumCholestoral>=215 & Oldpeak>=10.5 & RestBloodPressure< 139
+MajorVessels>=0.5 & ResElectrocardiographic>=1 & MajorVessels>=1.5
+ResElectrocardiographic>=1 & MajorVessels>=1.5
+Sex>=0.5 & Age>=56.5 & RestBloodPressure>=111 & RestBloodPressure< 142.5
+Oldpeak>=20
+Age>=56.5 & ResElectrocardiographic>=1.5 & Age< 65.5 & FastingBloodSugar< 0.5
+Slope>=1.5 & Oldpeak>=20
+SerumCholestoral>=272 & Sex>=0.5
+Sex>=0.5 & SerumCholestoral>=272
+Slope>=1.5 & SerumCholestoral>=252 & RestBloodPressure>=121 & SerumCholestoral>=273.5
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & Age< 61.5
+Sex>=0.5 & SerumCholestoral>=273.5
+SerumCholestoral>=273.5 & Sex>=0.5
+Sex>=0.5 & SerumCholestoral>=274
+ExerciseInduced>=0.5 & Age>=57.5
+Sex>=0.5 & Age>=59.5
+Age< 65.5 & Oldpeak>=18.5
+Thal>=6.5 & SerumCholestoral>=266.5
+Oldpeak>=22
+Thal>=4.5 & SerumCholestoral>=272
+MaxHeartRate>=119.5 & Age>=57.5 & Slope>=1.5 & SerumCholestoral< 300.5
+ExerciseInduced>=0.5 & Slope>=1.5 & Sex>=0.5 & ResElectrocardiographic>=1
+ExerciseInduced>=0.5 & RestBloodPressure>=116 & RestBloodPressure< 137
+Age>=55.5 & SerumCholestoral>=215 & Oldpeak>=10.5 & RestBloodPressure< 139
+Age>=55.5 & Age< 61.5 & MaxHeartRate< 152.5
+SerumCholestoral>=272.5 & ResElectrocardiographic>=1
+SerumCholestoral>=272 & ResElectrocardiographic>=0.5
+SerumCholestoral>=245.5 & ResElectrocardiographic>=0.5 & SerumCholestoral>=273.5
+SerumCholestoral>=273.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & Age>=58.5 & ResElectrocardiographic>=1
+Slope>=1.5 & RestBloodPressure>=137 & SerumCholestoral< 293.5
+Age>=55.5 & Oldpeak>=10.5 & RestBloodPressure< 139
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & ResElectrocardiographic>=1
+MajorVessels>=0.5 & ExerciseInduced>=0.5 & MaxHeartRate>=128.5
+ResElectrocardiographic>=1.5 & SerumCholestoral>=272
+Oldpeak< 17 & Sex>=0.5 & Age>=54.5 & SerumCholestoral>=245.5
+ChestPainType>=3.5 & Slope>=1.5 & Age>=59.5
+ChestPainType>=3.5 & RestBloodPressure< 143 & SerumCholestoral< 272.5 & RestBloodPressure< 131 & RestBloodPressure>=107
+Oldpeak>=23.5
+Oldpeak>=24
+Slope>=1.5 & SerumCholestoral>=276.5
+Slope>=1.5 & Sex>=0.5 & SerumCholestoral>=273.5
+Slope>=1.5 & Sex>=0.5 & SerumCholestoral>=274
+MaxHeartRate< 121
+Thal>=6.5 & Oldpeak< 22 & SerumCholestoral>=266.5
+SerumCholestoral>=272 & ResElectrocardiographic>=0.5 & Sex>=0.5
+ChestPainType>=3.5 & Age>=58.5 & Age< 63.5
+MaxHeartRate< 147.5 & Slope>=1.5 & MaxHeartRate>=129
+ChestPainType>=3.5 & SerumCholestoral< 259.5 & Age>=57.5
+ChestPainType>=3.5 & RestBloodPressure>=143
+SerumCholestoral>=273.5 & ResElectrocardiographic>=1 & Sex>=0.5
+Oldpeak>=24.5
+ChestPainType>=3.5 & RestBloodPressure>=142.5
+Age>=57.5 & Age< 61.5 & FastingBloodSugar< 0.5
+Sex>=0.5 & SerumCholestoral>=279
+Slope>=1.5 & RestBloodPressure>=143
+MaxHeartRate< 147.5 & Slope>=1.5 & SerumCholestoral>=276.5
+Age< 56.5 & MaxHeartRate< 145.5
+MaxHeartRate< 147.5 & SerumCholestoral>=279
+MaxHeartRate< 147.5 & SerumCholestoral>=276.5
+Thal>=4.5 & MaxHeartRate>=144.5 & RestBloodPressure>=122 & Thal>=6.5
+Slope>=1.5 & RestBloodPressure>=119 & RestBloodPressure>=143 & FastingBloodSugar< 0.5
+Slope>=1.5 & RestBloodPressure>=143 & FastingBloodSugar< 0.5
+Age>=54.5 & ResElectrocardiographic>=1.5 & SerumCholestoral< 413 & SerumCholestoral>=272
+Age< 56.5 & Sex>=0.5 & MaxHeartRate< 145.5
+Age< 56.5 & MaxHeartRate< 145.5 & RestBloodPressure>=115
+Thal>=6.5 & Oldpeak>=22
+ChestPainType>=3.5 & Oldpeak>=23.5
+Slope>=1.5 & SerumCholestoral>=266.5 & SerumCholestoral< 300.5
+Thal>=4.5 & SerumCholestoral>=259.5 & Age>=55
+Oldpeak< 17 & Sex>=0.5 & ResElectrocardiographic>=1 & Oldpeak>=0.5
+Oldpeak< 17 & Sex>=0.5 & Age>=54.5 & ResElectrocardiographic>=1
+ExerciseInduced>=0.5 & RestBloodPressure>=139
+MaxHeartRate< 147.5 & SerumCholestoral>=281.5
+ChestPainType>=3.5 & ExerciseInduced>=0.5 & RestBloodPressure>=139
+Oldpeak>=17 & SerumCholestoral>=252
+MaxHeartRate< 119.5
+Slope>=1.5 & Oldpeak>=17 & SerumCholestoral>=252
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & SerumCholestoral< 301
+ChestPainType>=3.5 & SerumCholestoral< 301 & SerumCholestoral>=272.5
+SerumCholestoral< 301 & SerumCholestoral>=272.5
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5
+Age< 56.5 & Sex>=0.5 & MaxHeartRate< 145.5 & RestBloodPressure>=115
+Thal>=4.5 & ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=227.5
+Sex>=0.5 & Oldpeak>=24.5
+SerumCholestoral>=273.5 & SerumCholestoral< 293.5 & Sex>=0.5
+Thal>=4.5 & Oldpeak>=24
+Slope>=1.5 & RestBloodPressure>=137 & ResElectrocardiographic>=1.5
+Thal>=4.5 & ResElectrocardiographic< 1 & Oldpeak>=10
+Age>=56.5 & Oldpeak>=18.5
+MajorVessels>=0.5 & ResElectrocardiographic>=1 & MajorVessels< 1.5 & SerumCholestoral< 296.5
+ResElectrocardiographic>=1 & Age>=57.5 & Age< 61.5
+SerumCholestoral>=272 & Sex>=0.5 & SerumCholestoral< 292.5
+Thal>=4.5 & SerumCholestoral>=272 & SerumCholestoral< 308
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & Slope>=1.5
+MajorVessels>=0.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1
+Slope>=1.5 & SerumCholestoral>=273.5 & SerumCholestoral< 293.5
+MajorVessels>=0.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & FastingBloodSugar< 0.5
+Thal>=4.5 & Age< 51.5
+MajorVessels>=0.5 & Oldpeak< 8.5 & ResElectrocardiographic>=1
+Thal>=4.5 & MaxHeartRate>=144.5 & RestBloodPressure>=122 & ResElectrocardiographic>=1
+ResElectrocardiographic>=1.5 & SerumCholestoral>=272 & SerumCholestoral< 293.5
+SerumCholestoral>=272 & SerumCholestoral< 293.5
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & Sex>=0.5
+Thal>=4.5 & MaxHeartRate>=144.5 & RestBloodPressure>=122 & SerumCholestoral>=244
+SerumCholestoral>=273.5 & ResElectrocardiographic>=1 & SerumCholestoral< 293.5
+Oldpeak>=17 & SerumCholestoral>=259
+Thal>=4.5 & MaxHeartRate>=144.5 & ResElectrocardiographic>=1
+SerumCholestoral>=245.5 & SerumCholestoral< 413 & SerumCholestoral>=273.5 & SerumCholestoral< 293.5
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & Slope>=1.5 & Age>=46.5
+SerumCholestoral>=273.5 & SerumCholestoral< 293.5
+Age>=57.5 & Age< 61.5 & SerumCholestoral>=222.5
+MajorVessels>=0.5 & Oldpeak< 8.5 & MaxHeartRate< 171.5 & MajorVessels>=1.5
+Oldpeak< 17 & Sex>=0.5 & SerumCholestoral>=247.5 & Oldpeak>=5.5
+MaxHeartRate< 147.5 & Sex>=0.5 & SerumCholestoral< 245.5 & MaxHeartRate< 135.5
+SerumCholestoral>=272 & SerumCholestoral< 291
+SerumCholestoral>=272 & SerumCholestoral< 292.5
+ExerciseInduced>=0.5 & RestBloodPressure>=143
+Age>=56.5 & Age< 65.5 & Oldpeak>=18.5
+ExerciseInduced< 0.5 & Age>=56.5 & Slope>=1.5 & Age< 65.5
+Thal>=4.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1
+Age< 59.5 & MaxHeartRate< 121
+ExerciseInduced< 0.5 & Age>=56.5 & ResElectrocardiographic>=1.5 & Age< 65.5 & FastingBloodSugar< 0.5
+RestBloodPressure>=143 & FastingBloodSugar< 0.5 & Age< 63
+MajorVessels>=0.5 & Oldpeak< 8.5 & ResElectrocardiographic>=1 & FastingBloodSugar< 0.5
+ResElectrocardiographic>=0.5 & RestBloodPressure>=143
+RestBloodPressure>=143 & ResElectrocardiographic>=0.5
+Slope>=1.5 & Oldpeak< 17 & RestBloodPressure>=143
+Oldpeak>=17 & SerumCholestoral< 252 & Oldpeak>=18.5
+MajorVessels>=0.5 & MaxHeartRate>=145.5 & ResElectrocardiographic>=1
+Thal>=4.5 & Age< 51
+Age>=57.5 & Sex>=0.5 & SerumCholestoral>=272
+Thal>=4.5 & MajorVessels>=0.5 & ResElectrocardiographic< 1 & MaxHeartRate< 145
+Thal>=4.5 & Age< 51 & ChestPainType>=3.5
+Oldpeak< 17 & Sex>=0.5 & Age>=54.5 & Oldpeak>=5.5
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5
+Slope>=1.5 & Oldpeak< 17 & SerumCholestoral>=273.5 & SerumCholestoral< 293.5
+Sex>=0.5 & SerumCholestoral< 294 & SerumCholestoral>=279
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate>=146.5 & SerumCholestoral>=247.5
+Age>=54.5 & RestBloodPressure>=122 & RestBloodPressure< 131
+ChestPainType>=3.5 & MajorVessels< 0.5 & MaxHeartRate< 147 & RestBloodPressure>=115
+Slope>=1.5 & Oldpeak>=17 & SerumCholestoral< 252 & Oldpeak>=20
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Slope>=1.5 & RestBloodPressure>=115
+Thal>=4.5 & Age< 51 & FastingBloodSugar< 0.5
+ResElectrocardiographic>=1.5 & RestBloodPressure>=143
+Thal< 4.5 & ChestPainType>=3.5 & MajorVessels>=0.5
+Oldpeak< 17 & SerumCholestoral>=272 & SerumCholestoral< 293.5
+Thal>=4.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & Oldpeak< 15
+MajorVessels>=0.5 & ResElectrocardiographic< 1 & MaxHeartRate< 140.5
+SerumCholestoral< 294 & SerumCholestoral>=279
+MajorVessels>=0.5 & MaxHeartRate>=145.5 & MajorVessels>=1.5 & MaxHeartRate< 174
+Thal>=4.5 & MajorVessels>=0.5 & MaxHeartRate>=155
+Thal< 4.5 & ChestPainType>=3.5 & MajorVessels>=0.5 & Sex>=0.5
+Slope>=1.5 & Oldpeak< 17 & RestBloodPressure>=143 & FastingBloodSugar< 0.5
+Sex>=0.5 & RestBloodPressure>=109 & FastingBloodSugar< 0.5 & RestBloodPressure>=143
+RestBloodPressure>=143 & Age< 62.5 & ResElectrocardiographic>=0.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & RestBloodPressure>=115 & Age< 59.5
+ChestPainType>=3.5 & SerumCholestoral>=272.5 & SerumCholestoral>=301 & SerumCholestoral>=303.5
+Thal>=4.5 & MajorVessels< 0.5 & MaxHeartRate< 144.5 & Thal>=6.5
+ChestPainType>=3.5 & SerumCholestoral>=303.5
+ChestPainType>=3.5 & Oldpeak< 7 & SerumCholestoral>=272.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & Oldpeak< 7 & SerumCholestoral>=272.5 & Age< 63.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & MaxHeartRate< 147 & ExerciseInduced>=0.5
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate>=146.5 & Age>=57.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & MaxHeartRate< 147 & Slope>=1.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & Oldpeak>=7
+ChestPainType>=3.5 & RestBloodPressure< 143 & SerumCholestoral>=272.5 & SerumCholestoral< 301
+ExerciseInduced>=0.5 & MaxHeartRate< 151 & SerumCholestoral< 244.5 & MaxHeartRate< 142.5
+MaxHeartRate< 147.5 & Age< 70.5 & MaxHeartRate>=136.5 & Age< 63.5 & Age>=54.5
+MaxHeartRate< 147.5 & Sex>=0.5 & MaxHeartRate>=135.5 & Age< 61.5
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & Slope>=1.5 & SerumCholestoral< 298
+Thal>=4.5 & ExerciseInduced< 0.5 & SerumCholestoral>=211.5 & SerumCholestoral>=226.5 & ResElectrocardiographic>=1
+Thal>=4.5 & MajorVessels< 0.5 & Age< 51.5
+MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate>=145.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & Age>=53.5 & Sex< 0.5 & RestBloodPressure>=129
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & RestBloodPressure>=115 & Oldpeak>=6
+MajorVessels>=0.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & SerumCholestoral>=232 & SerumCholestoral>=247
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Oldpeak>=15.5
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & MaxHeartRate< 159.5
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & Oldpeak>=15.5
+Thal< 4.5 & MajorVessels>=0.5 & Slope>=1.5 & Oldpeak>=7
+MajorVessels>=0.5 & Slope< 1.5 & Sex>=0.5 & FastingBloodSugar< 0.5
+Oldpeak< 17 & ResElectrocardiographic>=1.5 & RestBloodPressure>=143
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & MaxHeartRate< 142.5
+Slope>=1.5 & SerumCholestoral>=304
+Thal>=4.5 & ResElectrocardiographic< 1 & Slope>=1.5 & RestBloodPressure< 128
+MaxHeartRate>=147.5 & Age>=57.5 & MaxHeartRate>=151.5 & SerumCholestoral< 337.5 & ResElectrocardiographic>=1
+Thal< 4.5 & ChestPainType>=3.5 & Age>=53.5 & Slope>=1.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & Oldpeak>=7 & Age< 56.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & RestBloodPressure>=115 & MaxHeartRate< 131.5 & Sex>=0.5
+ChestPainType>=3.5 & Oldpeak< 7 & RestBloodPressure>=143.5
+ChestPainType>=3.5 & FastingBloodSugar>=0.5
+Thal>=4.5 & SerumCholestoral< 241.5 & Oldpeak>=23.5
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & SerumCholestoral>=255
+Thal>=4.5 & Age< 51.5 & ResElectrocardiographic>=1
+SerumCholestoral>=245.5 & RestBloodPressure>=121 & RestBloodPressure>=125.5 & RestBloodPressure>=156.5
+Thal< 4.5 & Age>=57.5 & Slope>=1.5 & Age< 67.5 & SerumCholestoral< 300.5
+Thal>=4.5 & MaxHeartRate>=144.5 & ExerciseInduced>=0.5
+Thal< 4.5 & MajorVessels>=0.5 & Slope>=1.5
+Thal>=4.5 & ChestPainType< 3.5 & Slope>=1.5 & ChestPainType>=1.5 & Age>=45
+RestBloodPressure>=158 & SerumCholestoral>=240
+Slope>=1.5 & Sex< 0.5 & Age>=54.5 & Age< 66.5
+MaxHeartRate>=147.5 & Age>=57.5 & MaxHeartRate>=151.5 & Sex>=0.5
+ChestPainType< 3.5 & Sex>=0.5 & Age>=56.5 & FastingBloodSugar< 0.5 & RestBloodPressure>=111
+RestBloodPressure>=143.5 & Age< 66.5 & Oldpeak< 6
+Oldpeak>=0.5 & SerumCholestoral>=247.5 & SerumCholestoral< 263.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope>=1.5 & SerumCholestoral< 297.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & Sex>=0.5 & MaxHeartRate< 131.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & Oldpeak>=7 & Sex>=0.5
+Thal< 4.5 & ChestPainType>=3.5 & Age>=53.5 & ResElectrocardiographic>=0.5
+Slope>=1.5 & SerumCholestoral>=252 & RestBloodPressure>=121 & SerumCholestoral< 273.5 & SerumCholestoral< 269.5
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & RestBloodPressure>=143
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & SerumCholestoral>=269
+ChestPainType< 3.5 & Sex>=0.5 & Age>=56.5 & SerumCholestoral>=245.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & SerumCholestoral>=272.5 & Age< 61.5
+Thal< 4.5 & MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate< 148.5
+MajorVessels>=0.5 & Slope< 1.5 & Sex>=0.5 & Age>=57.5
+Slope>=1.5 & SerumCholestoral< 252 & RestBloodPressure>=109 & RestBloodPressure>=143 & FastingBloodSugar< 0.5
+Thal< 4.5 & ExerciseInduced>=0.5 & Slope>=1.5 & SerumCholestoral>=243.5
+ChestPainType< 3.5 & Slope>=1.5 & MajorVessels>=0.5
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & Slope>=1.5 & Age>=59.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope>=1.5
+ExerciseInduced< 0.5 & Slope>=1.5 & MaxHeartRate>=113.5 & RestBloodPressure>=137 & SerumCholestoral< 293.5
+Thal>=4.5 & ChestPainType< 3.5 & Slope>=1.5 & ChestPainType>=1.5
+MajorVessels>=0.5 & Slope< 1.5 & Sex>=0.5 & ResElectrocardiographic>=1
+ChestPainType>=3.5 & MajorVessels< 0.5 & SerumCholestoral>=272.5 & SerumCholestoral< 347.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & SerumCholestoral>=200.5 & SerumCholestoral>=243.5
+ChestPainType< 3.5 & Slope>=1.5 & Sex>=0.5 & Age>=55 & ChestPainType>=1.5
+ExerciseInduced< 0.5 & Slope>=1.5 & MaxHeartRate>=113.5 & RestBloodPressure>=137 & ResElectrocardiographic>=1.5
+MajorVessels< 0.5 & RestBloodPressure>=143 & FastingBloodSugar< 0.5 & Age< 63
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & RestBloodPressure>=115 & MaxHeartRate< 131.5
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Slope>=1.5 & Age>=44 & Age>=48
+ChestPainType< 3.5 & Sex>=0.5 & Age>=56.5 & RestBloodPressure>=111 & RestBloodPressure< 142.5
+Thal< 4.5 & Age>=57.5 & Sex>=0.5 & FastingBloodSugar< 0.5
+Oldpeak< 17 & Oldpeak>=0.5 & ResElectrocardiographic>=1.5 & RestBloodPressure>=143
+SerumCholestoral>=245.5 & RestBloodPressure>=121 & RestBloodPressure< 125.5
+MajorVessels>=0.5 & Sex< 0.5 & MajorVessels>=1.5 & Age< 66.5
+ChestPainType>=3.5 & RestBloodPressure< 143 & SerumCholestoral>=272.5 & SerumCholestoral>=301 & SerumCholestoral>=303.5
+Slope>=1.5 & Sex< 0.5 & RestBloodPressure>=143.5
+ChestPainType< 3.5 & Slope>=1.5 & Sex>=0.5 & Age>=55 & SerumCholestoral>=244.5
+Thal< 4.5 & MajorVessels>=0.5 & Sex>=0.5 & Age>=55
+Sex>=0.5 & RestBloodPressure>=158 & SerumCholestoral>=240
+Thal>=4.5 & Age< 51.5 & Oldpeak>=10
+Slope>=1.5 & SerumCholestoral< 252 & RestBloodPressure>=109 & RestBloodPressure>=143
+Thal< 4.5 & MajorVessels>=0.5 & Oldpeak>=8.5
+Slope>=1.5 & SerumCholestoral< 263.5 & SerumCholestoral>=248.5
+ChestPainType>=3.5 & Oldpeak< 7 & SerumCholestoral>=272.5 & SerumCholestoral< 301
+Thal>=4.5 & Slope< 1.5 & Age< 63.5 & Age>=57.5
+Thal>=4.5 & SerumCholestoral>=241.5 & Oldpeak< 2.5 & ResElectrocardiographic>=1
+Thal>=4.5 & MajorVessels< 0.5 & Age< 51.5 & ResElectrocardiographic>=1
+Thal< 4.5 & ChestPainType>=3.5 & MaxHeartRate< 120
+Sex>=0.5 & SerumCholestoral< 273.5 & SerumCholestoral>=247.5 & SerumCholestoral< 256.5
+MaxHeartRate>=147.5 & Oldpeak< 24.5 & SerumCholestoral>=273.5 & ResElectrocardiographic>=1 & Sex>=0.5
+ExerciseInduced>=0.5 & SerumCholestoral< 243.5 & SerumCholestoral< 206.5
+MajorVessels>=0.5 & Slope< 1.5 & Age< 66.5 & Age>=57.5
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate< 146.5 & Age>=63.5 & MaxHeartRate< 135
+ChestPainType>=3.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & Age>=44 & RestBloodPressure>=139
+ChestPainType>=3.5 & MajorVessels< 0.5 & RestBloodPressure>=143
+Thal< 4.5 & ChestPainType>=3.5 & Age>=53.5 & Sex>=0.5
+Age< 62.5 & RestBloodPressure>=155
+MaxHeartRate< 147.5 & RestBloodPressure>=115 & Age>=63.5 & MaxHeartRate< 132.5 & Age< 72
+ChestPainType>=3.5 & Oldpeak< 7 & SerumCholestoral< 272.5 & SerumCholestoral< 259.5 & Age>=57.5
+Slope>=1.5 & SerumCholestoral>=252 & Age< 54.5 & SerumCholestoral>=273.5
+ExerciseInduced< 0.5 & ResElectrocardiographic>=1.5 & SerumCholestoral>=177 & SerumCholestoral>=272 & SerumCholestoral< 293.5
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & RestBloodPressure>=142.5
+ChestPainType< 3.5 & Slope>=1.5 & Age>=56.5 & SerumCholestoral>=244.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex< 0.5 & RestBloodPressure>=125 & Age< 63
+MaxHeartRate>=147.5 & Oldpeak< 24.5 & SerumCholestoral>=273.5 & SerumCholestoral< 293.5 & Sex>=0.5
+ChestPainType>=3.5 & MaxHeartRate< 177.5 & MaxHeartRate< 146.5 & Age>=63.5 & ResElectrocardiographic>=1
+Thal< 4.5 & Oldpeak>=17 & Age>=44.5
+Thal>=4.5 & MajorVessels< 0.5 & Thal>=6.5 & Oldpeak< 22 & SerumCholestoral>=266.5
+SerumCholestoral>=304.5 & Age< 63.5 & ResElectrocardiographic>=1
+ExerciseInduced< 0.5 & Sex>=0.5 & SerumCholestoral>=211.5 & SerumCholestoral< 294 & SerumCholestoral>=279
+MajorVessels>=0.5 & Sex< 0.5 & MajorVessels>=1.5 & ResElectrocardiographic>=1
+MajorVessels>=0.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & SerumCholestoral< 232
+Thal< 4.5 & Oldpeak>=17 & Age>=44.5 & SerumCholestoral>=245.5
+Thal< 4.5 & MaxHeartRate< 119.5 & SerumCholestoral>=231.5
+Thal>=4.5 & ExerciseInduced< 0.5 & SerumCholestoral>=211.5 & SerumCholestoral< 226.5
+Thal>=4.5 & Slope< 1.5 & SerumCholestoral>=233.5 & ResElectrocardiographic>=1
+Thal< 4.5 & ChestPainType>=3.5 & Oldpeak>=17
+Slope< 1.5 & Sex>=0.5 & Age>=57.5 & SerumCholestoral>=229
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & SerumCholestoral< 279 & Sex>=0.5 & MaxHeartRate< 131
+ChestPainType< 3.5 & MajorVessels>=0.5 & Sex>=0.5 & MaxHeartRate< 150.5
+Thal< 4.5 & ChestPainType>=3.5 & Slope>=1.5 & Sex>=0.5
+Thal>=4.5 & RestBloodPressure< 122 & SerumCholestoral< 253 & SerumCholestoral>=228
+Slope>=1.5 & SerumCholestoral< 252 & SerumCholestoral>=162 & SerumCholestoral< 190
+MaxHeartRate>=147.5 & Oldpeak< 24.5 & SerumCholestoral>=273.5 & ResElectrocardiographic>=1 & SerumCholestoral< 293.5
+ExerciseInduced< 0.5 & Age>=56.5 & Age< 65.5 & Oldpeak>=18.5
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & RestBloodPressure>=116 & RestBloodPressure>=143
+MajorVessels>=0.5 & Slope< 1.5 & ExerciseInduced>=0.5 & MaxHeartRate>=128.5
+ChestPainType< 3.5 & Age>=55.5 & SerumCholestoral>=215 & Oldpeak>=10.5 & RestBloodPressure< 139
+ChestPainType>=3.5 & Slope< 1.5 & RestBloodPressure< 131 & RestBloodPressure>=124.5
+Thal>=4.5 & RestBloodPressure>=109 & SerumCholestoral< 211.5 & ResElectrocardiographic>=1
+Thal>=4.5 & ChestPainType< 3.5 & MaxHeartRate< 143.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex< 0.5 & RestBloodPressure>=125
+ExerciseInduced< 0.5 & Oldpeak>=23.5
+ChestPainType>=3.5 & Oldpeak< 7 & RestBloodPressure< 143.5 & SerumCholestoral>=272.5
+Thal< 4.5 & SerumCholestoral>=272 & ResElectrocardiographic>=0.5 & Sex>=0.5
+Thal< 4.5 & ExerciseInduced>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1
+Slope< 1.5 & ResElectrocardiographic>=1 & RestBloodPressure< 126.5 & Sex>=0.5
+Sex>=0.5 & RestBloodPressure>=158
+SerumCholestoral< 245.5 & SerumCholestoral>=190 & SerumCholestoral>=211.5 & SerumCholestoral< 231.5 & SerumCholestoral>=228.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & SerumCholestoral>=279
+ChestPainType>=3.5 & MajorVessels< 0.5 & RestBloodPressure< 143 & SerumCholestoral>=272.5 & RestBloodPressure>=122
+Thal< 4.5 & Age>=57.5 & Sex>=0.5 & SerumCholestoral>=272
+Thal>=4.5 & MaxHeartRate>=144.5 & ExerciseInduced< 0.5 & MaxHeartRate>=162.5 & MaxHeartRate< 172
+Thal>=4.5 & MaxHeartRate< 144.5 & Age>=63.5 & MaxHeartRate< 132.5
+Thal>=4.5 & MajorVessels>=0.5 & ResElectrocardiographic< 1 & MaxHeartRate>=145 & MaxHeartRate>=155
+ExerciseInduced< 0.5 & Slope>=1.5 & MaxHeartRate< 113.5
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & Oldpeak< 23.5 & RestBloodPressure>=142.5 & Oldpeak< 9.5
+Thal< 4.5 & MaxHeartRate< 119.5 & Sex>=0.5
+Thal< 4.5 & MajorVessels>=0.5 & MaxHeartRate< 119.5
+Sex< 0.5 & RestBloodPressure>=143.5 & Age< 63.5
+MaxHeartRate>=147.5 & SerumCholestoral>=222.5 & SerumCholestoral< 231.5
+ExerciseInduced< 0.5 & MaxHeartRate>=113.5 & Oldpeak>=24.5
+MajorVessels< 0.5 & Oldpeak>=24.5
+MajorVessels< 0.5 & RestBloodPressure>=143 & Age< 62.5 & ResElectrocardiographic>=0.5
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & RestBloodPressure>=116 & RestBloodPressure< 143 & RestBloodPressure< 137
+ChestPainType< 3.5 & Age>=55.5 & SerumCholestoral>=215 & Oldpeak>=10.5 & ChestPainType>=1.5
+Thal>=4.5 & RestBloodPressure>=109 & SerumCholestoral< 211.5 & SerumCholestoral< 190
+Thal< 4.5 & Slope>=1.5 & SerumCholestoral>=266.5 & SerumCholestoral< 300.5
+ExerciseInduced>=0.5 & SerumCholestoral< 205
+Sex< 0.5 & RestBloodPressure>=143.5 & ResElectrocardiographic>=0.5
+Slope>=1.5 & Age< 53.5 & RestBloodPressure>=139
+ChestPainType< 3.5 & MajorVessels>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1 & ChestPainType>=1.5
+Thal< 4.5 & ExerciseInduced>=0.5 & Slope>=1.5 & Sex>=0.5 & ResElectrocardiographic>=1
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & SerumCholestoral< 255 & Slope>=1.5
+Sex< 0.5 & SerumCholestoral>=304.5 & Age< 63.5 & ResElectrocardiographic>=1
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & MaxHeartRate< 159.5
+SerumCholestoral< 245.5 & RestBloodPressure>=107 & RestBloodPressure< 117.5 & ResElectrocardiographic>=1
+Slope>=1.5 & Sex< 0.5 & Oldpeak>=17
+ExerciseInduced< 0.5 & MaxHeartRate< 113.5
+Thal< 4.5 & SerumCholestoral>=272 & Sex>=0.5 & SerumCholestoral< 292.5
+Thal< 4.5 & ExerciseInduced>=0.5 & SerumCholestoral>=243.5 & Sex>=0.5
+Thal< 4.5 & Oldpeak>=17 & SerumCholestoral>=259
+Thal>=4.5 & MajorVessels< 0.5 & Thal>=6.5 & Oldpeak>=22
+Oldpeak< 17 & Age>=54.5 & ResElectrocardiographic< 1.5 & Oldpeak>=11.5 & Oldpeak< 14.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope>=1.5 & RestBloodPressure>=147.5
+ExerciseInduced>=0.5 & MaxHeartRate>=151 & MaxHeartRate>=154.5 & MaxHeartRate< 162.5 & Sex>=0.5
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Slope>=1.5 & Age< 44
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & MaxHeartRate< 118
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & Oldpeak>=23.5
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & SerumCholestoral< 304 & SerumCholestoral< 301 & SerumCholestoral>=272.5
+ChestPainType>=3.5 & MajorVessels< 0.5 & ExerciseInduced>=0.5 & Age< 44
+ChestPainType>=3.5 & ExerciseInduced< 0.5 & Oldpeak< 23.5 & SerumCholestoral>=272.5 & SerumCholestoral< 301
+ExerciseInduced>=0.5 & Slope>=1.5 & Age< 44
+ChestPainType>=3.5 & ExerciseInduced>=0.5 & Age< 44
+Sex< 0.5 & SerumCholestoral>=304.5 & ResElectrocardiographic>=0.5 & SerumCholestoral< 413
+Slope< 1.5 & ResElectrocardiographic>=1 & Age>=57.5 & Age< 61.5
+Slope>=1.5 & Oldpeak< 17 & SerumCholestoral< 273.5 & SerumCholestoral< 263.5 & SerumCholestoral>=248.5
+ExerciseInduced< 0.5 & Slope>=1.5 & MaxHeartRate>=113.5 & Oldpeak>=24.5
+ExerciseInduced>=0.5 & Slope< 1.5 & Age>=57.5
+Thal>=4.5 & MajorVessels< 0.5 & Age>=51.5 & SerumCholestoral>=259.5 & Age>=55
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex>=0.5 & MaxHeartRate>=142.5 & RestBloodPressure>=122.5
+SerumCholestoral< 245.5 & RestBloodPressure>=107 & RestBloodPressure< 117.5 & SerumCholestoral>=221.5
+Slope>=1.5 & SerumCholestoral>=252 & RestBloodPressure< 121 & SerumCholestoral< 300.5
+Slope< 1.5 & Sex>=0.5 & SerumCholestoral>=247.5 & Oldpeak>=2.5
+Slope>=1.5 & Sex< 0.5 & SerumCholestoral>=243.5 & ResElectrocardiographic< 1.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope< 1.5 & Sex>=0.5 & SerumCholestoral>=222.5
+MajorVessels< 0.5 & SerumCholestoral>=272 & SerumCholestoral< 291
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & RestBloodPressure>=123
+ChestPainType>=3.5 & Oldpeak< 7 & SerumCholestoral>=272.5 & SerumCholestoral>=301 & SerumCholestoral>=303.5
+ChestPainType< 3.5 & Age>=55.5 & MaxHeartRate>=113 & Age< 61.5 & MaxHeartRate< 152.5
+Thal< 4.5 & Slope>=1.5 & Sex>=0.5 & SerumCholestoral>=274
+Thal< 4.5 & MajorVessels>=0.5 & ResElectrocardiographic>=1 & SerumCholestoral>=212.5 & MajorVessels>=1.5
+ExerciseInduced>=0.5 & Age< 44
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced< 0.5 & Age< 51 & ChestPainType>=3.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope< 1.5 & Sex>=0.5 & RestBloodPressure< 135
+Age< 54.5 & SerumCholestoral>=273.5 & SerumCholestoral< 287
+RestBloodPressure>=107 & RestBloodPressure< 157 & RestBloodPressure< 153.5 & RestBloodPressure>=143 & RestBloodPressure< 147
+Oldpeak< 17 & Age>=54.5 & RestBloodPressure>=122 & RestBloodPressure>=162.5
+MaxHeartRate>=147.5 & Oldpeak>=24.5
+MaxHeartRate< 147.5 & Sex< 0.5 & RestBloodPressure>=142.5
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex< 0.5 & SerumCholestoral>=276.5
+MaxHeartRate>=147.5 & Age>=57.5 & Slope< 1.5 & RestBloodPressure< 137 & ResElectrocardiographic>=1
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & Slope< 1.5 & Sex>=0.5
+ExerciseInduced< 0.5 & Age< 56.5 & Sex>=0.5 & MaxHeartRate< 145.5 & RestBloodPressure>=115
+MajorVessels< 0.5 & Oldpeak< 24.5 & SerumCholestoral>=269.5 & Oldpeak>=14.5
+MajorVessels< 0.5 & MaxHeartRate< 147.5 & Age< 59.5 & MaxHeartRate< 121
+MajorVessels>=0.5 & ExerciseInduced< 0.5 & ResElectrocardiographic< 1 & MaxHeartRate< 140.5
+ChestPainType>=3.5 & Oldpeak< 7 & FastingBloodSugar>=0.5
+ChestPainType< 3.5 & Sex>=0.5 & RestBloodPressure>=158 & SerumCholestoral>=240
+ChestPainType>=3.5 & MajorVessels< 0.5 & Age< 41.5
+ChestPainType< 3.5 & Slope>=1.5 & Slope< 2.5 & RestBloodPressure>=119 & ExerciseInduced>=0.5
+ChestPainType< 3.5 & Slope>=1.5 & Sex>=0.5 & SerumCholestoral>=273.5
+Thal>=4.5 & MaxHeartRate< 144.5 & Slope< 1.5 & Age< 63.5
+Thal>=4.5 & ExerciseInduced< 0.5 & ResElectrocardiographic< 1 & Slope>=1.5 & RestBloodPressure< 128
+Thal>=4.5 & Slope>=1.5 & Thal< 6.5 & SerumCholestoral>=207.5
+Thal< 4.5 & MaxHeartRate>=119.5 & Age>=57.5 & Slope>=1.5 & MaxHeartRate>=152.5
+Thal>=4.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & Oldpeak>=15 & Oldpeak>=24
+Thal>=4.5 & ExerciseInduced< 0.5 & Oldpeak>=24
+Thal>=4.5 & MajorVessels< 0.5 & Age< 51.5 & ResElectrocardiographic< 1 & Oldpeak>=10
+Thal>=4.5 & MajorVessels< 0.5 & MaxHeartRate>=144.5 & SerumCholestoral>=272 & SerumCholestoral< 308
+ChestPainType>=3.5 & Age< 41.5
+Oldpeak< 17 & Sex< 0.5 & RestBloodPressure>=143.5 & Age< 66.5 & Oldpeak< 6
+Age< 54.5 & SerumCholestoral>=273.5 & SerumCholestoral>=287 & Age< 51.5 & RestBloodPressure>=129
+Oldpeak< 17 & RestBloodPressure< 157 & Oldpeak>=0.5 & ResElectrocardiographic>=1.5 & RestBloodPressure>=143
+Slope>=1.5 & Oldpeak< 17 & ResElectrocardiographic< 1.5 & Oldpeak< 14.5 & Oldpeak>=11.5
+ExerciseInduced< 0.5 & Slope< 1.5 & ResElectrocardiographic>=1 & RestBloodPressure< 126.5 & Sex>=0.5
+MajorVessels>=0.5 & Slope< 1.5 & ExerciseInduced< 0.5 & ResElectrocardiographic>=1 & FastingBloodSugar< 0.5
+Thal< 4.5 & Oldpeak< 17 & ExerciseInduced>=0.5 & Sex>=0.5 & ResElectrocardiographic>=1
+Thal>=4.5 & MajorVessels< 0.5 & ExerciseInduced< 0.5 & Age< 51 & FastingBloodSugar< 0.5
+Thal< 4.5 & ChestPainType>=3.5 & Age>=53.5 & Sex< 0.5 & RestBloodPressure>=129
+Thal< 4.5 & ChestPainType>=3.5 & MaxHeartRate>=120 & Age>=58.5 & ResElectrocardiographic>=1
+Thal< 4.5 & ChestPainType>=3.5 & MaxHeartRate>=120 & Age>=58.5 & Age< 63.5
+Sex< 0.5 & RestBloodPressure< 143.5 & RestBloodPressure>=129 & Age>=55.5 & Age< 62.5
+Oldpeak< 17 & Sex< 0.5 & SerumCholestoral>=304.5 & Age< 63.5 & ResElectrocardiographic>=1
+Slope>=1.5 & Oldpeak< 17 & SerumCholestoral>=273.5 & SerumCholestoral>=293.5 & SerumCholestoral>=304
+MaxHeartRate< 147.5 & Slope>=1.5 & Sex< 0.5 & MaxHeartRate>=129
+ExerciseInduced>=0.5 & Oldpeak< 15.5 & SerumCholestoral>=243.5 & Sex< 0.5 & RestBloodPressure>=125
+ExerciseInduced>=0.5 & SerumCholestoral< 243.5 & SerumCholestoral>=206.5 & SerumCholestoral< 239.5 & SerumCholestoral>=227.5
+ExerciseInduced>=0.5 & MaxHeartRate>=151 & MaxHeartRate>=154.5 & RestBloodPressure< 129
+ExerciseInduced>=0.5 & MaxHeartRate>=151 & MaxHeartRate>=154.5 & MaxHeartRate< 162.5
+MajorVessels< 0.5 & RestBloodPressure>=143 & Age< 62.5 & RestBloodPressure>=155
+MajorVessels< 0.5 & ExerciseInduced>=0.5 & MaxHeartRate>=142.5 & SerumCholestoral>=243.5 & SerumCholestoral< 316
+ChestPainType< 3.5 & Sex>=0.5 & Oldpeak>=24.5

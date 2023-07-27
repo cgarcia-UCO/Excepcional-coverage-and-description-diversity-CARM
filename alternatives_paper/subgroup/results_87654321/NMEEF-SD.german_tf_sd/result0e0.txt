@@ -1,0 +1,57 @@
+GENERATED RULE 0
+	Antecedent
+		Variable StatusAccount = A14
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Consecuent: False
+
+GENERATED RULE 2
+	Antecedent
+		Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+		Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+		Variable InstallmentPlans = A143
+	Consecuent: False
+
+GENERATED RULE 3
+	Antecedent
+		Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Consecuent: False
+
+GENERATED RULE 4
+	Antecedent
+		Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+		Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+	Consecuent: False
+
+GENERATED RULE 5
+	Antecedent
+		Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+		Variable InstallmentPlans = A143
+	Consecuent: False
+
+GENERATED RULE 6
+	Antecedent
+		Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+		Variable Age = Label 1 	 (19.0 47.0 75.0)
+	Consecuent: False
+
+GENERATED RULE 7
+	Antecedent
+		Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+	Consecuent: False
+
+GENERATED RULE 8
+	Antecedent
+		Variable DurationMonth = Label 0 	 (-30.0 4.0 38.0)
+	Consecuent: False
+
+GENERATED RULE 9
+	Antecedent
+		Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+		Variable InstallmentPlans = A143
+		Variable Housing = A152
+	Consecuent: False
+

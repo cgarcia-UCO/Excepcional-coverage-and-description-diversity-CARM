@@ -1,0 +1,1 @@
+16  ../datasets/KMeans-MV.tic-tac-toe_tf/KMeans-MVs0.tic-tac-toe_tf1tra.dat../results/KMeans-MV.NICGAR-A.tic-tac-toe_tf/result0s0.tra

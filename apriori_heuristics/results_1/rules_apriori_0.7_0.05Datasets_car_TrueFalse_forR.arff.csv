@@ -1,0 +1,2 @@
+{Persons=4,Safety=high} => {Acceptability=True}
+{Persons=more,Safety=high} => {Acceptability=True}

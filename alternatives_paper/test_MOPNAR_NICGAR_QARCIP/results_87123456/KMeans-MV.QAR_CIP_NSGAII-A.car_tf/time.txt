@@ -1,0 +1,1 @@
+4  ../datasets/KMeans-MV.car_tf/KMeans-MVs0.car_tf1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.car_tf/result0s0.tra

@@ -1,0 +1,10 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Spcop = f
+   Consecuent: True
+

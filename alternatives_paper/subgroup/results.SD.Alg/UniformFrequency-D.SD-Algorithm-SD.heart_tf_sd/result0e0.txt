@@ -1,0 +1,33 @@
+Rule 1: IF  Thal = 0 AND Age <= 6 AND MajorVessels = 0 AND Oldpeak <= 5 THEN Class -> False  
+[  0.99  0.01  ]
+
+Rule 2: IF  Thal = 0 AND Age <= 6 AND MajorVessels = 0 AND Oldpeak <= 6 THEN Class -> False  
+[  0.97  0.03  ]
+
+Rule 3: IF  Thal = 0 AND Age <= 6 AND MajorVessels = 0 AND RestBloodPressure <= 7 THEN Class -> False  
+[  0.97  0.03  ]
+
+Rule 4: IF  Thal = 0 AND Age <= 6 AND MajorVessels = 0 THEN Class -> False  
+[  0.95  0.05  ]
+
+Rule 5: IF  Thal = 0 AND Age <= 6 AND MaxHeartRate > 4 THEN Class -> False  
+[  0.96  0.04  ]
+
+Rule 6: IF  ChestPainType = 3 AND MajorVessels <> 0 AND RestBloodPressure <> 4 AND SerumCholestoral <> 3 THEN Class -> True  
+[  0.02  0.98  ]
+
+Rule 7: IF  ChestPainType = 3 AND MajorVessels <> 0 AND RestBloodPressure <> 4 AND Age <> 3 THEN Class -> True  
+[  0.03  0.97  ]
+
+Rule 8: IF  ChestPainType = 3 AND MajorVessels <> 0 AND RestBloodPressure <> 4 THEN Class -> True  
+[  0.05  0.95  ]
+
+Rule 9: IF  ChestPainType = 3 AND MajorVessels <> 0 AND Sex = 1 THEN Class -> True  
+[  0.04  0.96  ]
+
+Rule 10: IF  ChestPainType = 3 AND MajorVessels <> 0 AND Age <> 3 THEN Class -> True  
+[  0.06  0.94  ]
+
+
+
+Time: 0.613

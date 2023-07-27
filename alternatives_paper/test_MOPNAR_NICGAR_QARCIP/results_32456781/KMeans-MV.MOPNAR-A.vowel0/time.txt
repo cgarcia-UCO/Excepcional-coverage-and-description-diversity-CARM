@@ -1,0 +1,1 @@
+5  null../results/KMeans-MV.MOPNAR-A.vowel0/result0s0.tra

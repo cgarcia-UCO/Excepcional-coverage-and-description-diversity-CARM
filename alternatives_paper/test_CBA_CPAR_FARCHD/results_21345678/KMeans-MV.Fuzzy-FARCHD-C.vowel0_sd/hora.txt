@@ -1,0 +1,1 @@
+00:00:19  ../datasets/KMeans-MV.vowel0_sd/KMeans-MVs0.vowel0_sd1tra.dat

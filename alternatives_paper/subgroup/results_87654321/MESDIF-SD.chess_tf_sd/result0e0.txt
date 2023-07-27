@@ -1,0 +1,96 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkona = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Katri5 = n
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkona = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Dwipd = l
+	Variable Katri5 = n
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Rxmsq = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkona = f
+	Variable Bxqsq = f
+	Variable Cntxt = f
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Reskd = f
+	Variable Reskr = f
+	Variable Rxmsq = f
+	Variable Wkcti = f
+	Variable Wkna8 = f
+	Variable Wknck = f
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Dsopp = f
+	Variable Katri5 = n
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Dsopp = f
+	Variable Katri5 = n
+	Variable Reskd = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Bkblk = f
+	Variable Bkon8 = f
+	Variable Bkona = f
+	Variable Bkspr = f
+	Variable Bkxcr = f
+	Variable Dwipd = l
+	Variable Hdchk = f
+	Variable Katri5 = n
+	Variable Reskd = f
+	Variable Spcop = f
+	Variable Stlmt = f
+	Variable Thrsk = f
+	Variable Wkcti = f
+	Variable Wkpos = f
+	Variable Wtoeg = n
+   Consecuent: True
+

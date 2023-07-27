@@ -1,0 +1,23 @@
+
+Rule 1: IF  plas <= 5.0 AND insu <= 5.0 AND pres <> 8.0 THEN class -> tested_negative     [ 0.8494897959183674 0.15051020408163265]
+Rule 2: IF  plas <= 7.0 AND mass <> 9.0 AND preg <= 7.0 AND age <> 6.0 AND pedi <> 9.0 THEN class -> tested_negative     [ 0.8419753086419753 0.1580246913580247]
+Rule 3: IF  mass <= 3.0 AND age <> 8.0 AND plas <= 8.0 THEN class -> tested_negative     [ 0.8768115942028986 0.12318840579710146]
+Rule 4: IF  plas <= 5.0 AND skin <> 1.0 AND age <> 5.0 AND pedi <> 8.0 THEN class -> tested_negative     [ 0.848 0.152]
+Rule 5: IF  plas <= 8.0 AND age <> 8.0 AND pres > 0.0 AND mass <> 4.0 AND pedi <> 4.0 THEN class -> tested_negative     [ 0.7777777777777778 0.2222222222222222]
+Rule 6: IF  plas > 3.0 AND age > 1.0 AND skin <> 2.0 AND mass <> 8.0 AND preg <> 4.0 AND insu <> 2.0 AND pres <> 6.0 AND pedi <> 1.0 THEN class -> tested_positive     [ 0.38783269961977185 0.6121673003802282]
+Rule 7: IF  mass > 2.0 AND plas > 1.0 AND pedi > 1.0 AND skin <> 2.0 AND insu <> 2.0 AND preg <> 2.0 THEN class -> tested_positive     [ 0.4 0.6]
+Rule 8: IF  age > 3.0 AND pres <= 6.0 AND insu <> 2.0 AND skin <> 7.0 AND mass <> 6.0 AND pedi <> 7.0 AND preg <> 5.0 THEN class -> tested_positive     [ 0.4968944099378882 0.5031055900621118]
+Rule 9: IF  pedi > 5.0 AND mass <> 1.0 AND preg <> 7.0 AND plas <> 5.0 AND pres <> 1.0 AND skin <> 3.0 AND insu <> 3.0 THEN class -> tested_positive     [ 0.4088050314465409 0.5911949685534591]
+Rule 10: IF  mass > 2.0 AND insu <> 2.0 AND plas <> 6.0 AND pedi <> 9.0 AND skin <> 2.0 AND age <> 4.0 AND preg <> 4.0 AND pres <> 6.0 THEN class -> tested_positive     [ 0.50187265917603 0.49812734082397003]
+
+####Average results for test data####
+Avg. Rule length: 10
+Avg. Number of attributes by rule: 5.6
+Avg. Coverage: 0.396875
+Avg. Support Completo: 0.9674479166666666
+Avg. Significance: 56.596127126543685
+Avg. Unusualness: 0.06739164103751535
+
+Accuracy Training: 0.8046875
+Accuracy Test: 0.8046875;
+  Time; 47

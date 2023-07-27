@@ -1,0 +1,124 @@
+@Number of rules: 121 Number of Antecedents by rule: 4.4
+
+1: Bxqsq IS t AND Rimmx IS f: True
+2: Bxqsq IS t AND Rimmx IS f: True
+3: Bxqsq IS t AND Rimmx IS f: True
+4: Bxqsq IS t AND Rimmx IS f: True
+5: Bxqsq IS t AND Rimmx IS f: True
+6: Bxqsq IS t AND Rimmx IS f: True
+7: Bxqsq IS t AND Rimmx IS f: True
+8: Bxqsq IS t AND Rimmx IS f: True
+9: Bxqsq IS t AND Rimmx IS f: True
+10: Bkxbq IS t AND Bxqsq IS f AND Wknck IS f: False
+11: Bkxbq IS t AND Bxqsq IS f AND Wkna8 IS f AND Wknck IS f: False
+12: Bkxbq IS t AND Bxqsq IS f AND Wkna8 IS f AND Wknck IS f: False
+13: Bkxbq IS t AND Bxqsq IS f AND Wkna8 IS f AND Wknck IS f: False
+14: Bkxbq IS t AND Bxqsq IS f AND Wkna8 IS f AND Wknck IS f: False
+15: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+16: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+17: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+18: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+19: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+20: Bxqsq IS f AND Dsopp IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+21: Rimmx IS t: False
+22: Rimmx IS t: False
+23: Rimmx IS t: False
+24: Rimmx IS t: False
+25: Rimmx IS t: False
+26: Rimmx IS t: False
+27: Rimmx IS t: False
+28: Rimmx IS t: False
+29: Rimmx IS t: False
+30: Bkxbq IS t AND Bxqsq IS f AND Wknck IS f AND Wkpos IS t: False
+31: Bkxbq IS t AND Bxqsq IS f AND Wknck IS f AND Wkpos IS t: False
+32: Bknwy IS f AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+33: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+34: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+35: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+36: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+37: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+38: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+39: R2ar8 IS t AND Rimmx IS f AND Wknck IS t AND Wkovl IS t: True
+40: Bxqsq IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t AND Wtoeg IS n: False
+41: Bxqsq IS f AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t AND Wtoeg IS n: False
+42: Bxqsq IS f AND Dwipd IS l AND Katri5 IS n AND Rxmsq IS f AND Wknck IS f AND Wkpos IS t: False
+43: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+44: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+45: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+46: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+47: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+48: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+49: Bkxcr IS t AND Rimmx IS f AND Wknck IS t: True
+50: Blxwp IS t AND Rimmx IS f AND Wknck IS t: True
+51: Blxwp IS t AND Rimmx IS f AND Wknck IS t: True
+52: Bxqsq IS f AND Katri5 IS n AND Rxmsq IS f AND Skewr IS f AND Wknck IS f AND Wkpos IS t: False
+53: Bxqsq IS f AND Dwipd IS l AND R2ar8 IS f AND Wknck IS f AND Wkpos IS t: False
+54: Bxqsq IS f AND Dwipd IS l AND R2ar8 IS f AND Wknck IS f AND Wkpos IS t: False
+55: Bxqsq IS f AND Katri5 IS w AND Wkna8 IS f AND Wknck IS f: False
+56: Bxqsq IS f AND Katri5 IS w AND Wkna8 IS f AND Wknck IS f: False
+57: Bxqsq IS f AND Katri5 IS w AND Wkna8 IS f AND Wknck IS f: False
+58: Bxqsq IS f AND Katri5 IS w AND Wkna8 IS f AND Wknck IS f: False
+59: Bxqsq IS f AND Katri5 IS w AND Wkna8 IS f AND Wknck IS f: False
+60: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND R2ar8 IS t AND Rimmx IS f AND Wkpos IS f: True
+61: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND R2ar8 IS t AND Rimmx IS f AND Wkpos IS f: True
+62: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND R2ar8 IS t AND Rimmx IS f AND Wkpos IS f: True
+63: Bkblk IS t AND Bxqsq IS f AND Hdchk IS f AND Rxmsq IS f AND Spcop IS f AND Wkna8 IS f AND Wknck IS f: False
+64: Bkblk IS t AND Bxqsq IS f AND Hdchk IS f AND Rxmsq IS f AND Spcop IS f AND Wkna8 IS f AND Wknck IS f: False
+65: Bkblk IS t AND Bxqsq IS f AND Hdchk IS f AND Rxmsq IS f AND Spcop IS f AND Wkna8 IS f AND Wknck IS f: False
+66: Bkon8 IS f AND Bkona IS f AND Bkxcr IS f AND Bxqsq IS f AND Mulch IS f AND R2ar8 IS f AND Reskr IS f AND Rkxwp IS f AND Skrxp IS f AND Thrsk IS f AND Wkpos IS t: False
+67: Bkon8 IS f AND Bkona IS f AND Bkxcr IS f AND Blxwp IS f AND Bxqsq IS f AND Mulch IS f AND R2ar8 IS f AND Reskr IS f AND Skrxp IS f AND Thrsk IS f AND Wkpos IS t: False
+68: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Rimmx IS f AND Wkcti IS f AND Wkpos IS f: True
+69: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Rimmx IS f AND Wkcti IS f AND Wkpos IS f: True
+70: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Rimmx IS f AND Wkcti IS f AND Wkpos IS f: True
+71: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Rimmx IS f AND Wkcti IS f AND Wkpos IS f: True
+72: Bxqsq IS f AND Dwipd IS l AND Katri5 IS w AND Wknck IS f AND Wkpos IS t: False
+73: Bkon8 IS f AND Bkona IS f AND Bkxbq IS t AND Bkxcr IS f AND Blxwp IS f AND Bxqsq IS f AND Mulch IS f AND Skrxp IS f AND Wkovl IS f: False
+74: Bkon8 IS f AND Bkona IS f AND Bkxbq IS t AND Bkxcr IS f AND Blxwp IS f AND Bxqsq IS f AND Mulch IS f AND Wkovl IS f: False
+75: Bkon8 IS f AND Bkona IS f AND Bkxbq IS t AND Bkxcr IS f AND Bxqsq IS f AND Mulch IS f AND Rkxwp IS f AND Skrxp IS f AND Wkovl IS f: False
+76: Bkon8 IS f AND Bkona IS f AND Bkxbq IS t AND Bkxcr IS f AND Bxqsq IS f AND Mulch IS f AND Rkxwp IS f AND Wkovl IS f: False
+77: Rimmx IS f AND Skrxp IS t AND Wknck IS t: True
+78: Bknwy IS f AND Rimmx IS f AND Wkna8 IS t AND Wkpos IS f: True
+79: Bknwy IS f AND Cntxt IS f AND Rimmx IS f AND Wkpos IS f: True
+80: Rimmx IS f AND Skrxp IS t AND Wknck IS t: True
+81: Bknwy IS f AND Bkxbq IS f AND Cntxt IS f AND Rimmx IS f AND Wkpos IS f: True
+82: Bknwy IS f AND Bkxbq IS f AND Rimmx IS f AND Wkna8 IS t AND Wkpos IS f: True
+83: Rimmx IS f AND Skrxp IS t AND Wknck IS t: True
+84: Rimmx IS f AND Skrxp IS t AND Wknck IS t: True
+85: Bkxbq IS f AND R2ar8 IS t AND Rimmx IS f AND Wkna8 IS t AND Wkpos IS f: True
+86: Bkxbq IS f AND Cntxt IS f AND R2ar8 IS t AND Rimmx IS f AND Wkpos IS f: True
+87: Bkxbq IS f AND Cntxt IS f AND R2ar8 IS t AND Rimmx IS f AND Wkpos IS f: True
+88: Bkona IS t AND Rimmx IS f AND Wknck IS t: True
+89: Bkona IS t AND Rimmx IS f AND Wknck IS t: True
+90: Bkona IS t AND Rimmx IS f AND Wknck IS t: True
+91: Bkona IS t AND Rimmx IS f AND Wknck IS t: True
+92: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Reskr IS t AND Rimmx IS f AND Wkpos IS f: True
+93: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Reskr IS t AND Rimmx IS f AND Wkpos IS f: True
+94: Bkblk IS f AND Bkxbq IS f AND Katri5 IS n AND Reskr IS t AND Rimmx IS f AND Wkpos IS f: True
+95: Mulch IS t AND Rimmx IS f AND Wknck IS t: True
+96: Mulch IS t AND Rimmx IS f AND Wknck IS t: True
+97: Mulch IS t AND Rimmx IS f AND Wknck IS t: True
+98: Mulch IS t AND Rimmx IS f AND Wknck IS t: True
+99: Mulch IS t AND Rimmx IS f AND Wknck IS t: True
+100: Bkblk IS f AND Bkxbq IS f AND Katri5 IS b AND Rimmx IS f: True
+101: Bkblk IS f AND Bkxbq IS f AND Katri5 IS b AND Rimmx IS f: True
+102: Bkblk IS f AND Bkxbq IS f AND Katri5 IS b AND Rimmx IS f: True
+103: Bkxbq IS f AND Qxmsq IS f AND R2ar8 IS t AND Rimmx IS f AND Rxmsq IS t: True
+104: Bkxbq IS f AND Qxmsq IS f AND Rimmx IS f AND Rxmsq IS t AND Wkovl IS t: True
+105: Bxqsq IS f AND Dsopp IS t AND Wknck IS f AND Wkpos IS t AND Wtoeg IS n: False
+106: Bxqsq IS f AND Dsopp IS t AND Dwipd IS l AND Wknck IS f AND Wkpos IS t: False
+107: Bkxbq IS f AND Rimmx IS f AND Simpl IS t AND Wkna8 IS t AND Wkpos IS f: True
+108: Bkxbq IS f AND Rimmx IS f AND Simpl IS t AND Wkna8 IS t AND Wkpos IS f: True
+109: Bkxcr IS f AND Bxqsq IS f AND R2ar8 IS f AND Reskr IS f AND Rkxwp IS f AND Simpl IS f AND Skewr IS f AND Skrxp IS f: False
+110: Bkxcr IS f AND Bxqsq IS f AND R2ar8 IS f AND Reskr IS f AND Rkxwp IS f AND Simpl IS f AND Skewr IS f AND Skrxp IS f: False
+111: Bkon8 IS t AND Rimmx IS f AND Wknck IS t: True
+112: Rimmx IS f AND Thrsk IS t AND Wknck IS t: True
+113: Rimmx IS f AND Thrsk IS t AND Wknck IS t: True
+114: Rimmx IS f AND Thrsk IS t AND Wknck IS t: True
+115: Bkon8 IS f AND Bkona IS f AND Bkxcr IS f AND Bxqsq IS f AND Dsopp IS f AND Mulch IS f AND Simpl IS t AND Skrxp IS f AND Thrsk IS f AND Wknck IS t AND Wkovl IS f: False
+116: Bxqsq IS f AND Katri5 IS n AND Qxmsq IS t AND Wknck IS f AND Wkpos IS t: False
+117: Bxqsq IS f AND Katri5 IS n AND Qxmsq IS t AND Wknck IS f AND Wkpos IS t: False
+118: Bknwy IS t AND Bkxcr IS f AND Blxwp IS f AND Bxqsq IS f AND R2ar8 IS f AND Reskr IS f AND Simpl IS f AND Skrxp IS f: False
+119: Bknwy IS t AND Bkxcr IS f AND Blxwp IS f AND Bxqsq IS f AND R2ar8 IS f AND Reskr IS f AND Simpl IS f AND Skrxp IS f: False
+120: Bkxbq IS f AND Hdchk IS t AND Rimmx IS f AND Wkpos IS f: True
+
+

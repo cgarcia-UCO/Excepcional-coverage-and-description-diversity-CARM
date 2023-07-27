@@ -1,0 +1,45 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Al = Label 1 	 (0.29 1.895 3.5)
+	Variable Ba = Label 1 	 (0.0 1.575 3.15)
+	Variable Fe = Label 0 	 (-0.255 0.0 0.255)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Al = Label 1 	 (0.29 1.895 3.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Mg = Label 1 	 (0.0 2.245 4.49)
+	Variable Al = Label 0 	 (-1.315 0.29 1.895)
+	Variable K = Label 1 	 (0.0 3.105 6.21)
+	Variable Ca = Label 0 	 (0.049999714 5.43 10.809999)
+	Variable Fe = Label 0 	 (-0.255 0.0 0.255)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable RI = Label 1 	 (1.51115 1.52254 1.53393)
+	Variable Al = Label 1 	 (0.29 1.895 3.5)
+	Variable Si = Label 1 	 (69.81 72.61 75.41)
+	Variable Ca = Label 1 	 (5.43 10.809999 16.19)
+	Variable Ba = Label 0 	 (-1.575 0.0 1.575)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Mg = Label 0 	 (-2.245 0.0 2.245)
+	Variable Si = Label 0 	 (67.009995 69.81 72.61)
+	Variable Ca = Label 0 	 (0.049999714 5.43 10.809999)
+	Variable Ba = Label 0 	 (-1.575 0.0 1.575)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Mg = Label 0 	 (-2.245 0.0 2.245)
+	Variable Si = Label 0 	 (67.009995 69.81 72.61)
+	Variable Ba = Label 0 	 (-1.575 0.0 1.575)
+   Consecuent: True
+

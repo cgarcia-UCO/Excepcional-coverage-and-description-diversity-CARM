@@ -1,0 +1,63 @@
+@Data Base:
+
+@Number of Values in Variable 1: 3
+TopLeft:
+x
+o
+b
+
+
+@Number of Values in Variable 2: 3
+TopMiddle:
+x
+o
+b
+
+
+@Number of Values in Variable 3: 3
+TopRight:
+x
+o
+b
+
+
+@Number of Values in Variable 4: 3
+MiddleLeft:
+x
+o
+b
+
+
+@Number of Values in Variable 5: 3
+MiddleMiddle:
+o
+b
+x
+
+
+@Number of Values in Variable 6: 3
+MiddleRight:
+o
+b
+x
+
+
+@Number of Values in Variable 7: 3
+BottomLeft:
+x
+o
+b
+
+
+@Number of Values in Variable 8: 3
+BottomMiddle:
+o
+x
+b
+
+
+@Number of Values in Variable 9: 3
+BottomRight:
+o
+x
+b

@@ -1,0 +1,224 @@
+@Number of rules: 221 Number of Antecedents by rule: 2.9863636363636363
+
+1: Sex IS 0 AND ChestPainType IS 2 AND Thal IS 0: False
+2: Sex IS 0 AND ChestPainType IS 2 AND Thal IS 0: False
+3: Age IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+4: Age IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+5: Age IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+6: Age IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+7: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+8: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND Thal IS 0: False
+9: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND Thal IS 0: False
+10: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND Thal IS 0: False
+11: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Slope IS 1 AND Thal IS 2: True
+12: Sex IS 0 AND ChestPainType IS 2 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+13: Age IS 1 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0: False
+14: Sex IS 0 AND ExerciseInduced IS 0 AND Slope IS 1 AND MajorVessels IS 0: False
+15: ChestPainType IS 1 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND Thal IS 0: False
+16: Sex IS 0 AND ExerciseInduced IS 0 AND Slope IS 1 AND MajorVessels IS 0: False
+17: MaxHeartRate IS 9 AND MajorVessels IS 0 AND Thal IS 0: False
+18: Sex IS 0 AND ExerciseInduced IS 0 AND Slope IS 1 AND MajorVessels IS 0: False
+19: MaxHeartRate IS 9 AND MajorVessels IS 0 AND Thal IS 0: False
+20: MaxHeartRate IS 9 AND MajorVessels IS 0 AND Thal IS 0: False
+21: MaxHeartRate IS 9 AND MajorVessels IS 0 AND Thal IS 0: False
+22: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Thal IS 2: True
+23: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Thal IS 2: True
+24: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Thal IS 2: True
+25: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND Thal IS 2: True
+26: Age IS 1 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+27: MajorVessels IS 2 AND Thal IS 2: True
+28: ChestPainType IS 3 AND Oldpeak IS 7: True
+29: MajorVessels IS 2 AND Thal IS 2: True
+30: ChestPainType IS 3 AND Oldpeak IS 7: True
+31: ChestPainType IS 3 AND Oldpeak IS 7: True
+32: Sex IS 0 AND ResElectrocardiographic IS 0 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+33: SerumCholestoral IS 2 AND MajorVessels IS 0 AND Thal IS 0: False
+34: SerumCholestoral IS 2 AND MajorVessels IS 0 AND Thal IS 0: False
+35: SerumCholestoral IS 2 AND MajorVessels IS 0 AND Thal IS 0: False
+36: ChestPainType IS 3 AND MajorVessels IS 2 AND Thal IS 2: True
+37: ChestPainType IS 3 AND MajorVessels IS 2 AND Thal IS 2: True
+38: MaxHeartRate IS 9 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+39: Age IS 3 AND MajorVessels IS 0 AND Thal IS 0: False
+40: MaxHeartRate IS 9 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+41: Age IS 3 AND MajorVessels IS 0 AND Thal IS 0: False
+42: Age IS 3 AND MajorVessels IS 0 AND Thal IS 0: False
+43: Age IS 3 AND MajorVessels IS 0 AND Thal IS 0: False
+44: ChestPainType IS 3 AND ExerciseInduced IS 1 AND MajorVessels IS 2: True
+45: Age IS 7 AND ChestPainType IS 3 AND ExerciseInduced IS 1: True
+46: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND MajorVessels IS 2: True
+47: Age IS 7 AND ChestPainType IS 3 AND ExerciseInduced IS 1: True
+48: ChestPainType IS 3 AND ResElectrocardiographic IS 2 AND MajorVessels IS 2: True
+49: FastingBloodSugar IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+50: FastingBloodSugar IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+51: MaxHeartRate IS 8 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+52: FastingBloodSugar IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+53: MaxHeartRate IS 8 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+54: Sex IS 1 AND Oldpeak IS 7 AND Slope IS 1: True
+55: Sex IS 1 AND Oldpeak IS 7 AND Slope IS 1: True
+56: Sex IS 1 AND Oldpeak IS 7 AND Slope IS 1: True
+57: Sex IS 1 AND Oldpeak IS 7 AND Slope IS 1: True
+58: Sex IS 1 AND Oldpeak IS 7 AND Slope IS 1: True
+59: Sex IS 1 AND ChestPainType IS 3 AND MajorVessels IS 1: True
+60: Sex IS 1 AND ChestPainType IS 3 AND MajorVessels IS 1: True
+61: Sex IS 1 AND ChestPainType IS 3 AND MajorVessels IS 1: True
+62: Sex IS 0 AND ChestPainType IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+63: SerumCholestoral IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+64: SerumCholestoral IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+65: ExerciseInduced IS 0 AND Oldpeak IS 5 AND MajorVessels IS 0: False
+66: SerumCholestoral IS 1 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+67: SerumCholestoral IS 1 AND ResElectrocardiographic IS 0 AND Slope IS 0: False
+68: ChestPainType IS 3 AND ExerciseInduced IS 1 AND Oldpeak IS 7: True
+69: ChestPainType IS 3 AND ExerciseInduced IS 1 AND Oldpeak IS 7: True
+70: ChestPainType IS 3 AND ExerciseInduced IS 1 AND Oldpeak IS 6: True
+71: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+72: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+73: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+74: Sex IS 1 AND Slope IS 1 AND MajorVessels IS 2: True
+75: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+76: ChestPainType IS 3 AND ExerciseInduced IS 1 AND Oldpeak IS 6: True
+77: Sex IS 1 AND SerumCholestoral IS 7 AND Slope IS 1: True
+78: ChestPainType IS 3 AND Slope IS 1 AND Thal IS 2: True
+79: Age IS 1 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+80: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+81: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+82: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+83: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+84: Sex IS 0 AND Oldpeak IS 2 AND Thal IS 0: False
+85: Age IS 4 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+86: Sex IS 0 AND Oldpeak IS 2 AND Thal IS 0: False
+87: Age IS 7 AND ChestPainType IS 3 AND ExerciseInduced IS 1 AND Thal IS 2: True
+88: ChestPainType IS 3 AND ExerciseInduced IS 1 AND MajorVessels IS 2 AND Thal IS 2: True
+89: ChestPainType IS 3 AND Oldpeak IS 6 AND Slope IS 1: True
+90: MaxHeartRate IS 8 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+91: Age IS 3 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+92: ChestPainType IS 2 AND FastingBloodSugar IS 1 AND Thal IS 0: False
+93: SerumCholestoral IS 1 AND Slope IS 0 AND MajorVessels IS 0: False
+94: ChestPainType IS 2 AND FastingBloodSugar IS 1 AND Thal IS 0: False
+95: MaxHeartRate IS 2 AND Slope IS 1 AND Thal IS 2: True
+96: ChestPainType IS 3 AND RestBloodPressure IS 8 AND Thal IS 2: True
+97: MaxHeartRate IS 2 AND Slope IS 1 AND Thal IS 2: True
+98: ChestPainType IS 3 AND RestBloodPressure IS 8 AND Thal IS 2: True
+99: ResElectrocardiographic IS 2 AND MajorVessels IS 1 AND Thal IS 2: True
+100: ResElectrocardiographic IS 2 AND MajorVessels IS 1 AND Thal IS 2: True
+101: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+102: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+103: SerumCholestoral IS 0 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+104: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+105: FastingBloodSugar IS 1 AND MajorVessels IS 0 AND Thal IS 0: False
+106: Sex IS 0 AND Slope IS 0 AND MajorVessels IS 1: False
+107: Sex IS 0 AND ExerciseInduced IS 0 AND Oldpeak IS 2 AND Thal IS 0: False
+108: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+109: ChestPainType IS 2 AND Slope IS 0 AND MajorVessels IS 1: False
+110: ChestPainType IS 3 AND SerumCholestoral IS 7 AND ExerciseInduced IS 1: True
+111: ChestPainType IS 1 AND Slope IS 0 AND Thal IS 0: False
+112: MaxHeartRate IS 9 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+113: ChestPainType IS 3 AND ExerciseInduced IS 1 AND MajorVessels IS 1: True
+114: ChestPainType IS 2 AND MajorVessels IS 1 AND Thal IS 0: False
+115: ChestPainType IS 2 AND MajorVessels IS 1 AND Thal IS 0: False
+116: FastingBloodSugar IS 1 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND Slope IS 0: False
+117: Sex IS 0 AND RestBloodPressure IS 7 AND MajorVessels IS 0: False
+118: ExerciseInduced IS 0 AND Slope IS 1 AND MajorVessels IS 1 AND Thal IS 2: True
+119: RestBloodPressure IS 3 AND Thal IS 2: True
+120: RestBloodPressure IS 3 AND Thal IS 2: True
+121: RestBloodPressure IS 3 AND Thal IS 2: True
+122: RestBloodPressure IS 3 AND Thal IS 2: True
+123: ChestPainType IS 3 AND MajorVessels IS 1: True
+124: ChestPainType IS 3 AND MajorVessels IS 1: True
+125: Slope IS 1 AND MajorVessels IS 1 AND Thal IS 2: True
+126: SerumCholestoral IS 5 AND Slope IS 0 AND Thal IS 0: False
+127: Sex IS 0 AND RestBloodPressure IS 7 AND MajorVessels IS 0 AND Thal IS 0: False
+128: ResElectrocardiographic IS 2 AND MaxHeartRate IS 4 AND MajorVessels IS 0 AND Thal IS 0: False
+129: Age IS 4 AND Slope IS 0 AND MajorVessels IS 0: False
+130: RestBloodPressure IS 0 AND MajorVessels IS 0: False
+131: ChestPainType IS 1 AND MaxHeartRate IS 9 AND Thal IS 0: False
+132: RestBloodPressure IS 0 AND MajorVessels IS 0: False
+133: ChestPainType IS 3 AND SerumCholestoral IS 8 AND ExerciseInduced IS 1: True
+134: ChestPainType IS 3 AND RestBloodPressure IS 1 AND MajorVessels IS 1: True
+135: Oldpeak IS 7 AND Thal IS 2: True
+136: ChestPainType IS 3 AND SerumCholestoral IS 8 AND ExerciseInduced IS 1: True
+137: ChestPainType IS 3 AND SerumCholestoral IS 8 AND ExerciseInduced IS 1: True
+138: FastingBloodSugar IS 0 AND Oldpeak IS 4 AND Thal IS 2: True
+139: ResElectrocardiographic IS 2 AND MajorVessels IS 2: True
+140: ChestPainType IS 3 AND SerumCholestoral IS 8 AND ExerciseInduced IS 1: True
+141: ChestPainType IS 2 AND Thal IS 0: False
+142: Oldpeak IS 3 AND Thal IS 0: False
+143: ChestPainType IS 2 AND SerumCholestoral IS 5 AND Thal IS 0: False
+144: ExerciseInduced IS 0 AND Oldpeak IS 3 AND Thal IS 0: False
+145: Sex IS 1 AND SerumCholestoral IS 5 AND Slope IS 1: True
+146: Sex IS 1 AND SerumCholestoral IS 5 AND Slope IS 1: True
+147: ChestPainType IS 3 AND Oldpeak IS 5 AND Thal IS 2: True
+148: Age IS 9 AND Sex IS 1 AND FastingBloodSugar IS 0 AND Slope IS 1: True
+149: Sex IS 1 AND RestBloodPressure IS 7 AND ResElectrocardiographic IS 2 AND Slope IS 1: True
+150: ChestPainType IS 3 AND Oldpeak IS 6: True
+151: ChestPainType IS 3 AND Thal IS 2: True
+152: Sex IS 1 AND SerumCholestoral IS 5 AND Slope IS 1: True
+153: ChestPainType IS 3 AND RestBloodPressure IS 8: True
+154: MajorVessels IS 0 AND Thal IS 0: False
+155: RestBloodPressure IS 6 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+156: RestBloodPressure IS 6 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+157: RestBloodPressure IS 6 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+158: ChestPainType IS 3 AND MaxHeartRate IS 0 AND Thal IS 0: True
+159: RestBloodPressure IS 9 AND Slope IS 1 AND Thal IS 2: True
+160: Sex IS 1 AND ChestPainType IS 2 AND Slope IS 1 AND MajorVessels IS 1: True
+161: Sex IS 1 AND ChestPainType IS 2 AND Slope IS 1 AND MajorVessels IS 1: True
+162: ChestPainType IS 3 AND MaxHeartRate IS 5 AND Thal IS 2: True
+163: ChestPainType IS 3 AND MaxHeartRate IS 0 AND Thal IS 0: True
+164: Sex IS 1 AND ChestPainType IS 2 AND Slope IS 1 AND MajorVessels IS 1: True
+165: Age IS 4 AND Slope IS 0 AND MajorVessels IS 0 AND Thal IS 0: False
+166: ExerciseInduced IS 0 AND MajorVessels IS 0 AND Thal IS 1: False
+167: ExerciseInduced IS 0 AND MajorVessels IS 0 AND Thal IS 1: False
+168: ChestPainType IS 1 AND ExerciseInduced IS 1 AND Slope IS 0: False
+169: Age IS 9 AND ChestPainType IS 1 AND Thal IS 0: False
+170: Age IS 9 AND ChestPainType IS 1 AND Thal IS 0: False
+171: ChestPainType IS 1 AND ExerciseInduced IS 1 AND Slope IS 0: False
+172: ExerciseInduced IS 0 AND MajorVessels IS 0 AND Thal IS 1: False
+173: SerumCholestoral IS 6 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+174: Age IS 4 AND Slope IS 0: False
+175: Age IS 9 AND ChestPainType IS 1 AND Thal IS 0: False
+176: ChestPainType IS 1 AND ExerciseInduced IS 1 AND Thal IS 0: False
+177: ChestPainType IS 2 AND RestBloodPressure IS 0: False
+178: RestBloodPressure IS 4 AND Thal IS 0: False
+179: ChestPainType IS 2 AND RestBloodPressure IS 0: False
+180: Age IS 4 AND Slope IS 0: False
+181: Age IS 0 AND ChestPainType IS 3 AND Thal IS 2: True
+182: Age IS 0 AND ChestPainType IS 3 AND Thal IS 2: True
+183: SerumCholestoral IS 7 AND Thal IS 2: True
+184: ChestPainType IS 1 AND MajorVessels IS 0: False
+185: MaxHeartRate IS 5 AND Slope IS 0 AND Thal IS 0: False
+186: Sex IS 1 AND RestBloodPressure IS 7 AND Slope IS 1: True
+187: Sex IS 1 AND FastingBloodSugar IS 0 AND MajorVessels IS 3: True
+188: ExerciseInduced IS 0 AND MajorVessels IS 0: False
+189: Age IS 8 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+190: Age IS 8 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+191: ChestPainType IS 1 AND SerumCholestoral IS 0 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+192: Age IS 8 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+193: Age IS 7 AND ChestPainType IS 3 AND RestBloodPressure IS 9: True
+194: Sex IS 1 AND MaxHeartRate IS 1 AND MajorVessels IS 3: True
+195: Age IS 2 AND FastingBloodSugar IS 0 AND Thal IS 2: True
+196: Age IS 5 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+197: Age IS 5 AND ExerciseInduced IS 0 AND MajorVessels IS 0: False
+198: SerumCholestoral IS 3 AND Oldpeak IS 2 AND Slope IS 0: False
+199: Sex IS 1 AND RestBloodPressure IS 9 AND MaxHeartRate IS 1: True
+200: Age IS 7 AND ResElectrocardiographic IS 2: True
+201: Age IS 7 AND RestBloodPressure IS 9: True
+202: Age IS 7 AND Sex IS 0 AND ChestPainType IS 3: True
+203: Thal IS 2: True
+204: Age IS 6 AND SerumCholestoral IS 1 AND MajorVessels IS 0: False
+205: ChestPainType IS 1 AND ExerciseInduced IS 0 AND Oldpeak IS 7 AND MajorVessels IS 0: False
+206: RestBloodPressure IS 5 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND Oldpeak IS 6: False
+207: Age IS 6 AND SerumCholestoral IS 1 AND MajorVessels IS 0: False
+208: Age IS 6 AND MajorVessels IS 0 AND Thal IS 1: False
+209: RestBloodPressure IS 5 AND ResElectrocardiographic IS 0 AND ExerciseInduced IS 0 AND Oldpeak IS 6: False
+210: Sex IS 1 AND SerumCholestoral IS 0 AND MajorVessels IS 3: True
+211: Age IS 8 AND Sex IS 1 AND MaxHeartRate IS 5: True
+212: Age IS 7 AND RestBloodPressure IS 5: True
+213: Age IS 8 AND Sex IS 1 AND MaxHeartRate IS 5: True
+214: RestBloodPressure IS 6 AND SerumCholestoral IS 9: True
+215: Sex IS 1 AND Slope IS 1: True
+216: Age IS 7: True
+217: RestBloodPressure IS 4 AND ResElectrocardiographic IS 0 AND Oldpeak IS 2: False
+218: ResElectrocardiographic IS 0 AND Slope IS 0 AND MajorVessels IS 3: False
+219: Age IS 2 AND Sex IS 1 AND RestBloodPressure IS 1: True
+220: Age IS 2 AND Sex IS 1 AND RestBloodPressure IS 1: True
+
+

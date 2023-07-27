@@ -1,0 +1,24 @@
+@Number of rules: 9 Number of Antecedents by rule: 1.8888888888888888
+
+1: ProTime IS L_3(5): False CF: 0.9568822553897183
+2: AlbuMin IS L_3(5): False CF: 1.0
+3: LiverBig IS L_0(2): False CF: 1.0
+4: Sex IS L_1(2): False CF: 1.0
+5: Age IS L_1(5): False CF: 0.9589041095890414
+6: Steroid IS L_0(2) AND SpleenPalpable IS L_1(2) AND AlkPhosphate IS L_3(5): True CF: 0.8993288590604028
+7: Fatigue IS L_1(2) AND LiverFirm IS L_1(2) AND Varices IS L_0(2): True CF: 1.0
+8: Fatigue IS L_1(2) AND LiverFirm IS L_1(2) AND Spiders IS L_0(2): True CF: 1.0
+9: Anorexia IS L_1(2) AND ProTime IS L_1(5) AND Histology IS L_1(2): True CF: 0.9337349397590361
+
+
+@supp and CF:
+
+1: supp: 0.2885000000000001 AND CF: 0.9568822553897183
+2: supp: 0.04651162790697673 AND CF: 1.0
+3: supp: 0.1625 AND CF: 1.0
+4: supp: 0.1375 AND CF: 1.0
+5: supp: 0.2957746478873241 AND CF: 0.9589041095890414
+6: supp: 0.01245353159851301 AND CF: 0.8993288590604028
+7: supp: 0.0125 AND CF: 1.0
+8: supp: 0.0125 AND CF: 1.0
+9: supp: 0.07749999999999999 AND CF: 0.9337349397590361

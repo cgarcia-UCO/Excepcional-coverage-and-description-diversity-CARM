@@ -1,0 +1,33 @@
+Rule 1: IF  StatusAccount = A14 AND InstallmentPlans = A143 AND Age > 3 AND CreditAmount <> 7 AND CreditHistory <> A33 AND DurationMonth <> 4 AND EmploymentSince <= A71 THEN Customer -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  StatusAccount = A14 AND InstallmentPlans = A143 AND Age > 3 AND CreditAmount <> 7 AND CreditHistory <> A33 AND DurationMonth <> 4 THEN Customer -> False  
+[  0.99  0.01  ]
+
+Rule 3: IF  StatusAccount = A14 AND InstallmentPlans = A143 AND Age > 3 AND CreditAmount <> 7 AND CreditHistory <> A33 THEN Customer -> False  
+[  0.98  0.02  ]
+
+Rule 4: IF  StatusAccount = A14 AND InstallmentPlans = A143 AND Age > 3 AND CreditAmount <> 7 AND DurationMonth <> 4 THEN Customer -> False  
+[  0.98  0.02  ]
+
+Rule 5: IF  StatusAccount = A14 AND InstallmentPlans = A143 AND Age > 3 AND CreditAmount <> 7 THEN Customer -> False  
+[  0.97  0.03  ]
+
+Rule 6: IF  StatusAccount = A11 AND CreditHistory <> A34 AND Guarantors = A101 AND DurationMonth > 1 AND SavingsAccount <> A64 AND ForeignWorker = A201 AND Purpose <= A410 THEN Customer -> True  
+[  0.35  0.65  ]
+
+Rule 7: IF  StatusAccount = A11 AND CreditHistory <> A34 AND Guarantors = A101 AND DurationMonth > 1 AND SavingsAccount <> A64 AND ForeignWorker = A201 THEN Customer -> True  
+[  0.35  0.65  ]
+
+Rule 8: IF  StatusAccount = A11 AND CreditHistory <> A34 AND Guarantors = A101 AND DurationMonth > 1 AND SavingsAccount <> A64 AND Purpose <= A410 THEN Customer -> True  
+[  0.35  0.65  ]
+
+Rule 9: IF  StatusAccount = A11 AND CreditHistory <> A34 AND Guarantors = A101 AND DurationMonth > 1 AND SavingsAccount <> A64 THEN Customer -> True  
+[  0.36  0.64  ]
+
+Rule 10: IF  StatusAccount = A11 AND CreditHistory <> A34 AND Guarantors = A101 AND DurationMonth <> 0 AND SavingsAccount <= A63 THEN Customer -> True  
+[  0.36  0.64  ]
+
+
+
+Time: 23.092

@@ -1,0 +1,1 @@
+00:00:13  ../results/KMeans-MV.NICGAR-A.tic-tac-toe_tf/result0s0.tra

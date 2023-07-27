@@ -1,0 +1,1 @@
+3  null../results/KMeans-MV.MOPNAR-A.australian_tf/result0s0.tra

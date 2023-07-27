@@ -1,0 +1,10 @@
+GENERATED RULE 0
+	Antecedent
+		Variable Safety = low
+	Consecuent: False
+
+GENERATED RULE 1
+	Antecedent
+		Variable Persons = 2
+	Consecuent: False
+

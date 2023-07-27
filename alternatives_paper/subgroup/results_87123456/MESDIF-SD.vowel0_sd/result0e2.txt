@@ -1,0 +1,158 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: MESDIF for Subgroup Discovery
+Input file name training: ../datasets/vowel0_sd/vowel0_sd.dat
+Input file name test: ../datasets/vowel0_sd/vowel0_sd.dat
+Rules file name: ../results/MESDIF-SD.vowel0_sd/result0e0.txt
+Tracking file name: ../results/MESDIF-SD.vowel0_sd/result0e2.txt
+Random generator seed: 87123456
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Number of individuals in the Elite Population: 3
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.0
+Rules representation: CAN
+Objective 1: COMP
+Objective 2: UNUS
+Objective 3: FCNF
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+Fuzzy sets parameters for variable TT:
+	Label 0: -0.5 0.0 0.5
+	Label 1: 0.0 0.5 1.0
+	Label 2: 0.5 1.0 1.5
+Fuzzy sets parameters for variable SpeakerNumber:
+	Label 0: -7.0 0.0 7.0
+	Label 1: 0.0 7.0 14.0
+	Label 2: 7.0 14.0 21.0
+Fuzzy sets parameters for variable Sex:
+	Label 0: -0.5 0.0 0.5
+	Label 1: 0.0 0.5 1.0
+	Label 2: 0.5 1.0 1.5
+Fuzzy sets parameters for variable F0:
+	Label 0: -7.3459997 -5.211 -3.076
+	Label 1: -5.211 -3.076 -0.941
+	Label 2: -3.076 -0.941 1.1939998
+Fuzzy sets parameters for variable F1:
+	Label 0: -4.448 -1.274 1.9
+	Label 1: -1.274 1.9 5.074
+	Label 2: 1.9 5.074 8.248
+Fuzzy sets parameters for variable F2:
+	Label 0: -4.446 -2.487 -0.528
+	Label 1: -2.487 -0.528 1.431
+	Label 2: -0.528 1.431 3.3899999
+Fuzzy sets parameters for variable F3:
+	Label 0: -3.302 -1.409 0.4840001
+	Label 1: -1.409 0.4840001 2.377
+	Label 2: 0.4840001 2.377 4.2700005
+Fuzzy sets parameters for variable F4:
+	Label 0: -4.106 -2.127 -0.148
+	Label 1: -2.127 -0.148 1.831
+	Label 2: -0.148 1.831 3.8100002
+Fuzzy sets parameters for variable F5:
+	Label 0: -2.4175 -0.836 0.7454999
+	Label 1: -0.836 0.7454999 2.327
+	Label 2: 0.7454999 2.327 3.9084997
+Fuzzy sets parameters for variable F6:
+	Label 0: -3.007 -1.537 -0.06699991
+	Label 1: -1.537 -0.06699991 1.403
+	Label 2: -0.06699991 1.403 2.873
+Fuzzy sets parameters for variable F7:
+	Label 0: -2.959 -1.293 0.37300003
+	Label 1: -1.293 0.37300003 2.039
+	Label 2: 0.37300003 2.039 3.7050002
+Fuzzy sets parameters for variable F8:
+	Label 0: -3.074 -1.613 -0.15200007
+	Label 1: -1.613 -0.15200007 1.309
+	Label 2: -0.15200007 1.309 2.77
+Fuzzy sets parameters for variable F9:
+	Label 0: -3.218 -1.68 -0.14199996
+	Label 1: -1.68 -0.14199996 1.396
+	Label 2: -0.14199996 1.396 2.934
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 988
+Number of variables: 13
+@relation vowel0
+@attribute TT integer[0,1]
+@attribute SpeakerNumber integer[0,14]
+@attribute Sex integer[0,1]
+@attribute F0 real[-5.211,-0.941]
+@attribute F1 real[-1.274,5.074]
+@attribute F2 real[-2.487,1.431]
+@attribute F3 real[-1.409,2.377]
+@attribute F4 real[-2.127,1.831]
+@attribute F5 real[-0.836,2.327]
+@attribute F6 real[-1.537,1.403]
+@attribute F7 real[-1.293,2.039]
+@attribute F8 real[-1.613,1.309]
+@attribute F9 real[-1.68,1.396]
+@attribute Class{positive,negative}
+@inputs TT, SpeakerNumber, Sex, F0, F1, F2, F3, F4, F5, F6, F7, F8, F9
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+	Variable TT: 0.25  0.75  1.25  
+	Variable SpeakerNumber: 3.5  10.5  17.5  
+	Variable Sex: 0.25  0.75  1.25  
+	Variable F0: -4.1435  -2.0084999  0.12650013  
+	Variable F1: 0.31299996  3.487  6.6610003  
+	Variable F2: -1.5074999  0.45150006  2.4105  
+	Variable F3: -0.46249998  1.4305001  3.3235002  
+	Variable F4: -1.1375  0.84150004  2.8205001  
+	Variable F5: -0.04525006  1.5362499  3.1177497  
+	Variable F6: -0.8019999  0.6680001  2.138  
+	Variable F7: -0.45999998  1.2060001  2.8720002  
+	Variable F8: -0.88250005  0.5784999  2.0394998  
+	Variable F9: -0.91099995  0.62700003  2.165  
+Information Gain of the variables:
+	Variable TT: -0.27833062
+	Variable SpeakerNumber: -0.22899848
+	Variable Sex: -0.2782101
+	Variable F0: -0.11461246
+	Variable F1: 0.054740608
+	Variable F2: -0.03717199
+	Variable F3: -0.08194554
+	Variable F4: -0.08568293
+	Variable F5: -0.028894931
+	Variable F6: -0.0441809
+	Variable F7: -0.02518779
+	Variable F8: -0.117874384
+	Variable F9: -0.14133936
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10017
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 1:
+
+Genetic Algorithm execution finished
+	Number of Generations = 163
+	Number of Evaluations = 10017
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------

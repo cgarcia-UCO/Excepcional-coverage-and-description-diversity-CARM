@@ -1,0 +1,11 @@
+algorithm = QAR_CIP_NSGAII
+inputData = "../datasets/KMeans-MV.iris_tf/KMeans-MVs0.iris_tf1tra.dat" 
+outputData = "../results/KMeans-MV.QAR_CIP_NSGAII-A.iris_tf/result0s0.tra" "../results/KMeans-MV.QAR_CIP_NSGAII-A.iris_tf/result0s0.tst" "../results/KMeans-MV.QAR_CIP_NSGAII-A.iris_tf/result0s0e0.txt"  
+
+seed = 34218765
+Number of Objetives = 3
+Number of Evaluations = 50000
+Population Size = 100
+Probability of Mutation = 0.1
+The factor of amplitude for each attribute of the dataset = 2.0
+Difference threshold = 5.0

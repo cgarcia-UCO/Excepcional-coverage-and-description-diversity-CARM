@@ -1,0 +1,38 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+   Consecuent: positive
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable F2 = Label 2 	 (-0.528 1.431 3.3899999)
+	Variable F8 = Label 0 	 (-3.074 -1.613 -0.15200007)
+   Consecuent: positive
+
+GENERATED RULE 2
+   Antecedent
+	Variable SpeakerNumber = Label 0 	 (-7.0 0.0 7.0)
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable F2 = Label 2 	 (-0.528 1.431 3.3899999)
+	Variable F8 = Label 0 	 (-3.074 -1.613 -0.15200007)
+	Variable F9 = Label 0 	 (-3.218 -1.68 -0.14199996)
+   Consecuent: positive
+
+GENERATED RULE 0
+   Antecedent
+	Variable F3 = Label 0 	 (-3.302 -1.409 0.4840001)
+	Variable F4 = Label 0 	 (-4.106 -2.127 -0.148)
+   Consecuent: negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable TT = Label 2 	 (0.5 1.0 1.5)
+	Variable F3 = Label 0 	 (-3.302 -1.409 0.4840001)
+   Consecuent: negative
+
+GENERATED RULE 2
+   Antecedent
+	Variable F4 = Label 0 	 (-4.106 -2.127 -0.148)
+   Consecuent: negative
+

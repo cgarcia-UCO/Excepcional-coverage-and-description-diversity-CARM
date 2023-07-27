@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.iris_tf_sd/KMeans-MVs0.iris_tf_sd1tra.dat" "../datasets/KMeans-MV.iris_tf_sd/KMeans-MVs0.iris_tf_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.iris_tf_sd/KMeans-MV.UniformFrequency-Ds0.iris_tf_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.iris_tf_sd/KMeans-MV.UniformFrequency-Ds0.iris_tf_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.iris_tf_sd/result1s0e0.txt"  
+
+seed = 56781234
+numIntervals = 10

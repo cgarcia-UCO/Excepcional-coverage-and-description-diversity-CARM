@@ -1,0 +1,33 @@
+GENERATED RULE 0
+   Antecedent
+	Variable PetalLength = Label 1 	 (1.0 3.95 6.9)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable SepalLength = Label 0 	 (2.5000002 4.3 6.1000004)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable PetalLength = Label 0 	 (-1.95 1.0 3.95)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable PetalWidth = Label 2 	 (1.3000001 2.5 3.7)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable SepalLength = Label 2 	 (6.1000004 7.9 9.7)
+	Variable PetalWidth = Label 2 	 (1.3000001 2.5 3.7)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable SepalLength = Label 2 	 (6.1000004 7.9 9.7)
+	Variable SepalWidth = Label 2 	 (3.2 4.4 5.6000004)
+	Variable PetalWidth = Label 2 	 (1.3000001 2.5 3.7)
+   Consecuent: True
+

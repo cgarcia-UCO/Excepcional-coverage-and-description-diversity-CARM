@@ -1,0 +1,99 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-NMEEF for Subgroup Discovery
+Input file name training: ../datasets/chess_tf_sd/chess_tf_sd.dat
+Rules file name: ../results/NMEEF-SD.chess_tf_sd/result0e0.txt
+Tracking file name: ../results/NMEEF-SD.chess_tf_sd/result0e2.txt
+Representation of the Rules: CAN
+Strict dominance: YES
+Random generator seed: 56781234
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 50
+Cross probability: 0.6
+Mutation probability: 0.1
+Diversity: CROWDING
+Perform ReInitCob: yes
+Percentage of the ReInitCob: 0.5
+Minimum confidence threshold: 0.6
+Number of objetives: 2
+	Objetive 1: COMP
+	Objetive 2: UNUS
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 3196
+Number of variables: 36
+@relation chess
+@attribute Bkblk{f,t}
+@attribute Bknwy{f,t}
+@attribute Bkon8{f,t}
+@attribute Bkona{f,t}
+@attribute Bkspr{f,t}
+@attribute Bkxbq{f,t}
+@attribute Bkxcr{f,t}
+@attribute Bkxwp{f,t}
+@attribute Blxwp{f,t}
+@attribute Bxqsq{f,t}
+@attribute Cntxt{f,t}
+@attribute Dsopp{f,t}
+@attribute Dwipd{l,g}
+@attribute Hdchk{f,t}
+@attribute Katri5{n,w,b}
+@attribute Mulch{f,t}
+@attribute Qxmsq{f,t}
+@attribute R2ar8{f,t}
+@attribute Reskd{f,t}
+@attribute Reskr{f,t}
+@attribute Rimmx{f,t}
+@attribute Rkxwp{f,t}
+@attribute Rxmsq{f,t}
+@attribute Simpl{f,t}
+@attribute Skach{f,t}
+@attribute Skewr{f,t}
+@attribute Skrxp{f,t}
+@attribute Spcop{f,t}
+@attribute Stlmt{f,t}
+@attribute Thrsk{f,t}
+@attribute Wkcti{f,t}
+@attribute Wkna8{f,t}
+@attribute Wknck{f,t}
+@attribute Wkovl{f,t}
+@attribute Wkpos{f,t}
+@attribute Wtoeg{n,t}
+@attribute Class{False,True}
+@inputs Bkblk, Bknwy, Bkon8, Bkona, Bkspr, Bkxbq, Bkxcr, Bkxwp, Blxwp, Bxqsq, Cntxt, Dsopp, Dwipd, Hdchk, Katri5, Mulch, Qxmsq, R2ar8, Reskd, Reskr, Rimmx, Rkxwp, Rxmsq, Simpl, Skach, Skewr, Skrxp, Spcop, Stlmt, Thrsk, Wkcti, Wkna8, Wknck, Wkovl, Wkpos, Wtoeg
+@outputs Class
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+Information Gain of the variables:
+
+--------------------------------------------
+|                 Class 0                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 166
+	Number of Evaluations = 10046
+
+--------------------------------------------
+|                 Class 1                  |
+--------------------------------------------
+
+
+Genetic Algorithm execution finished
+	Number of Generations = 115
+	Number of Evaluations = 10078

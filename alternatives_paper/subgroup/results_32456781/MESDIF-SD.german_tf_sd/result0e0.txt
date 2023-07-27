@@ -1,0 +1,81 @@
+GENERATED RULE 0
+   Antecedent
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A121
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditHistory = A33
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A121
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditHistory = A33
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A121
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable CreditHistory = A33
+	Variable CreditAmount = Label 0 	 (-8837.0 250.0 9337.0)
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A121
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable CreditHistory = A33
+	Variable SavingsAccount = A65
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A124
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable CreditHistory = A33
+	Variable EmploymentSince = A73
+	Variable InstallmentRate = Label 2 	 (2.5 4.0 5.5)
+	Variable StatusAndSex = A92
+	Variable Property = A121
+	Variable InstallmentPlans = A141
+	Variable Job = A174
+	Variable NPeopleMain = Label 0 	 (0.5 1.0 1.5)
+	Variable Telephone = A192
+	Variable ForeignWorker = A201
+   Consecuent: True
+

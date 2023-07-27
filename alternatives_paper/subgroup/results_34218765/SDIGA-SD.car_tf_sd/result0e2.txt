@@ -1,0 +1,73 @@
+--------------------------------------------
+|              Parameters Echo             |
+--------------------------------------------
+Algorithm name: SD-SDIGA for Subgroup Discovery
+Input file name training: ../datasets/car_tf_sd/car_tf_sd.dat
+Input file name test: ../datasets/car_tf_sd/car_tf_sd.dat
+Rules file name: ../results/SDIGA-SD.car_tf_sd/result0e0.txt
+Tracking file name: ../results/SDIGA-SD.car_tf_sd/result0e2.txt
+Random generator seed: 34218765
+Selected class of the target variable: not established
+Number of labels for the continuous variables: 3
+Number of evaluations: 10000
+Number of individuals in the Population: 100
+Cross probability: 0.6
+Mutation probability: 0.01
+Minimum confidence: 0.6
+Rules representation: CAN
+Objective 1: COMP(Weight: 0.4)
+Objective 2: FCNF(Weight: 0.3)
+Objective 3: UNUS(Weight: 0.3)
+Perform Local Search: true
+
+--------------------------------------------
+|  Semantics for the continuous variables  |
+--------------------------------------------
+
+
+--------------------------------------------
+|               Dataset Echo               |
+--------------------------------------------
+Number of examples: 1728
+Number of variables: 6
+@relation car
+@attribute Buying{vhigh,high,med,low}
+@attribute Maint{vhigh,high,med,low}
+@attribute Doors{2,3,4,5more}
+@attribute Persons{2,4,more}
+@attribute Lug_boot{small,med,big}
+@attribute Safety{low,med,high}
+@attribute Acceptability{False,True}
+@inputs Buying, Maint, Doors, Persons, Lug_boot, Safety
+@outputs Acceptability
+
+
+--------------------------------------------
+|       Computation of the info gain       |
+--------------------------------------------
+Points for computation of the info gain:
+Information Gain of the variables:
+
+--------------------------------------------
+|             Execution results            |
+--------------------------------------------
+
+Class 0:
+   # 3320 generations, 10002 evaluations
+	Rule not improved by Local search. Support = 0.47603306
+   # 3323 generations, 10001 evaluations
+	Rule not improved by Local search. Support = 0.47603306
+   # 3315 generations, 10004 evaluations
+	Rule not improved by Local search. Support = 0.37190083
+   # 3268 generations, 10001 evaluations
+	Rule not improved by Local search. Support = 0.29752067
+   # 3301 generations, 10005 evaluations
+	Rule not improved by Local search. Support = 0.29752067
+   # 3319 generations, 10002 evaluations
+	Rule not improved by Local search. Support = 0.32396695
+   # 3302 generations, 10002 evaluations
+	Rule not stored (low confidence or support)
+
+Class 1:
+   # 3320 generations, 10002 evaluations
+	Rule not improved by Local search. Support = 0.5772201

@@ -1,0 +1,39 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Age = Label 0 	 (5.0 29.0 53.0)
+	Variable Sex = Label 0 	 (-0.5 0.0 0.5)
+	Variable FastingBloodSugar = Label 0 	 (-0.5 0.0 0.5)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable FastingBloodSugar = Label 0 	 (-0.5 0.0 0.5)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable FastingBloodSugar = Label 0 	 (-0.5 0.0 0.5)
+	Variable Thal = Label 0 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable ExerciseInduced = Label 2 	 (0.5 1.0 1.5)
+	Variable Slope = Label 2 	 (2.0 3.0 4.0)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable RestBloodPressure = Label 1 	 (94.0 147.0 200.0)
+	Variable ExerciseInduced = Label 2 	 (0.5 1.0 1.5)
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Sex = Label 2 	 (0.5 1.0 1.5)
+	Variable RestBloodPressure = Label 1 	 (94.0 147.0 200.0)
+   Consecuent: True
+

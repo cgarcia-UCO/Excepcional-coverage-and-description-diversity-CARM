@@ -1,0 +1,1 @@
+0  ../datasets/KMeans-MV.UniformFrequency-D.vowel0_sd/KMeans-MV.UniformFrequency-Ds0.vowel0_sd1tra.dat

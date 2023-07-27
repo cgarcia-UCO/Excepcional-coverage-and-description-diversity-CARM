@@ -1,0 +1,10 @@
+GENERATED RULE 0
+   Antecedent
+	Variable a26 = Label 1 	 (-1.0 0.0 1.0)
+   Consecuent: b
+
+GENERATED RULE 0
+   Antecedent
+	Variable a05 = Label 2 	 (0.0 1.0 2.0)
+   Consecuent: g
+

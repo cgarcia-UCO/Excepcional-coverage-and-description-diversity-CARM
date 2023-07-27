@@ -1,0 +1,35 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Persons = 2
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Persons = 4
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Persons = 2
+	Variable Lug_boot = small
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Buying = low
+	Variable Persons = 4
+	Variable Lug_boot = big
+	Variable Safety = med
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable Persons = 4
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable Persons = 4
+	Variable Safety = med
+   Consecuent: True
+

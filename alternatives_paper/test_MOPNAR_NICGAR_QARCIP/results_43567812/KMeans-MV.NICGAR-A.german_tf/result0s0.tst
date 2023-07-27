@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.104" antecedent_support="0.154" consequent_support="0.108" confidence="0.6753246753246753" lift="6.2530062530062525" conviction="2.7473599999999996" certainFactor="0.6360142100052414" netConf="0.6705965429369686" yulesQ="0.9954425303071733" nAnts="1"/>
+<rule id="1" rule_support="0.169" antecedent_support="0.229" consequent_support="0.301" confidence="0.7379912663755459" lift="2.451798227161282" conviction="2.6678500000000005" certainFactor="0.6251663324399798" netConf="0.566785040694612" yulesQ="0.8633434272847271" nAnts="1"/>
+<rule id="2" rule_support="0.315" antecedent_support="0.47" consequent_support="0.367" confidence="0.6702127659574468" lift="1.826192822772335" conviction="1.91941935483871" certainFactor="0.47900910893751475" netConf="0.5720995584102772" yulesQ="0.8983798777028307" nAnts="1"/>
+<rule id="3" rule_support="0.478" antecedent_support="0.633" consequent_support="0.53" confidence="0.7551342812006319" lift="1.4247816626427017" conviction="1.9194193548387093" certainFactor="0.4790091089375146" netConf="0.613444907903629" yulesQ="0.8983798777028303" nAnts="1"/>
+<rule id="4" rule_support="0.014" antecedent_support="0.014" consequent_support="0.201" confidence="1.0" lift="4.975124378109452" conviction="Infinity" certainFactor="1.0" netConf="0.8103448275862069" yulesQ="1.0" nAnts="1"/>
+<rule id="5" rule_support="0.253" antecedent_support="0.33" consequent_support="0.433" confidence="0.7666666666666666" lift="1.770592763664357" conviction="2.4299999999999997" certainFactor="0.588477366255144" netConf="0.49800995024875616" yulesQ="0.7988826815642458" nAnts="1"/>
+<rule id="6" rule_support="0.127" antecedent_support="0.148" consequent_support="0.404" confidence="0.8581081081081081" lift="2.124029970564624" conviction="4.200380952380954" certainFactor="0.7619263558860875" netConf="0.5329907372160895" yulesQ="0.8524390553258415" nAnts="1"/>
+<rule id="7" rule_support="0.002" antecedent_support="0.002" consequent_support="0.179" confidence="1.0" lift="5.5865921787709505" conviction="Infinity" certainFactor="1.0" netConf="0.8226452905811623" yulesQ="1.0" nAnts="1"/>
+<rule id="8" rule_support="0.006" antecedent_support="0.006" consequent_support="0.282" confidence="1.0" lift="3.546099290780142" conviction="Infinity" certainFactor="1.0" netConf="0.7223340040241449" yulesQ="1.0" nAnts="1"/>
+<rule id="9" rule_support="0.192" antecedent_support="0.253" consequent_support="0.445" confidence="0.7588932806324111" lift="1.7053781587245191" conviction="2.301885245901639" certainFactor="0.5655734786169571" netConf="0.4202051949563736" yulesQ="0.72011497900817" nAnts="1"/>
+</values>

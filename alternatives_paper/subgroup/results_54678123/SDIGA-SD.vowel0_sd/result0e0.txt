@@ -1,0 +1,25 @@
+GENERATED RULE 0
+   Antecedent
+	Variable F1 = Label 0 	 (-4.448 -1.274 1.9)
+   Consecuent: positive
+
+GENERATED RULE 0
+   Antecedent
+	Variable F0 = Label 1 	 (-5.211 -3.076 -0.941)
+	Variable F1 = Label 1 	 (-1.274 1.9 5.074)
+   Consecuent: negative
+
+GENERATED RULE 1
+   Antecedent
+	Variable TT = Label 0 	 (-0.5 0.0 0.5)
+	Variable F2 = Label 0 	 (-4.446 -2.487 -0.528)
+	Variable F7 = Label 1 	 (-1.293 0.37300003 2.039)
+	Variable F9 = Label 2 	 (-0.14199996 1.396 2.934)
+   Consecuent: negative
+
+GENERATED RULE 2
+   Antecedent
+	Variable SpeakerNumber = Label 0 	 (-7.0 0.0 7.0)
+	Variable F1 = Label 2 	 (1.9 5.074 8.248)
+   Consecuent: negative
+

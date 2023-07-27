@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+Support	antecedent_support	consequent_support	Confidence	Lift	Conv	CF	NetConf	YulesQ	nAttributes	nDistChrPop
+0.11	0.11	0.16	0.97	6.26	22.85	0.96	0.91	1.0	2	NaN
+</values>

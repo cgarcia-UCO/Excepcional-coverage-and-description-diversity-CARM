@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association_rules>
+<rule id="0">
+<antecedents>
+<attribute name="A10" value="
+NOT [1.0, 67.0]" /></antecedents>
+<consequents>
+<attribute name="A9" value="
+NOT 1" /></consequents>
+</rule>
+<rule id="1">
+<antecedents>
+<attribute name="A10" value="
+[1.0, 10.0]" /></antecedents>
+<consequents>
+<attribute name="A9" value="
+1" /></consequents>
+</rule>
+<rule id="2">
+<antecedents>
+<attribute name="A9" value="
+0" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+NOT [1.0, 67.0]" /></consequents>
+</rule>
+<rule id="3">
+<antecedents>
+<attribute name="A4" value="
+NOT 1" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+NOT [21.0, 66.0]" /></consequents>
+</rule>
+<rule id="4">
+<antecedents>
+<attribute name="A2" value="
+NOT [2892.0001, 4916.9999]" /></antecedents>
+<consequents>
+<attribute name="A3" value="
+NOT [14585.0001, 26335.0]" /></consequents>
+</rule>
+<rule id="5">
+<antecedents>
+<attribute name="A5" value="
+NOT [2.0, 14.0]" /></antecedents>
+<consequents>
+<attribute name="A6" value="
+NOT [2.0, 9.0]" /></consequents>
+</rule>
+<rule id="6">
+<antecedents>
+<attribute name="A6" value="
+NOT [6.0, 8.0]" /><attribute name="A9" value="
+1" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+[1.0, 10.0]" /></consequents>
+</rule>
+<rule id="7">
+<antecedents>
+<attribute name="A2" value="
+NOT [5025.0001, 7341.9999]" /><attribute name="A5" value="
+NOT [12.0, 14.0]" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+NOT [24.0, 67.0]" /></consequents>
+</rule>
+<rule id="8">
+<antecedents>
+<attribute name="A2" value="
+NOT [3667.0001, 8025.0]" /><attribute name="A7" value="
+NOT [1585.0001, 14415.0]" /></antecedents>
+<consequents>
+<attribute name="A3" value="
+NOT [18125.0001, 26335.0]" /></consequents>
+</rule>
+<rule id="9">
+<antecedents>
+<attribute name="A2" value="
+NOT [3525.0001, 8025.0]" /><attribute name="A7" value="
+NOT [1585.0001, 14415.0]" /></antecedents>
+<consequents>
+<attribute name="A3" value="
+NOT [16165.0001, 26335.0]" /></consequents>
+</rule>
+<rule id="10">
+<antecedents>
+<attribute name="A9" value="
+1" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+[3.0, 15.0]" /></consequents>
+</rule>
+<rule id="11">
+<antecedents>
+<attribute name="A8" value="
+1" /><attribute name="A9" value="
+1" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+[3.0, 15.0]" /></consequents>
+</rule>
+<rule id="12">
+<antecedents>
+<attribute name="A12" value="
+2" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="A8" value="
+1" /></consequents>
+</rule>
+<rule id="13">
+<antecedents>
+<attribute name="A4" value="
+NOT 3" /><attribute name="A5" value="
+NOT [2.0, 14.0]" /></antecedents>
+<consequents>
+<attribute name="A6" value="
+NOT [2.0, 9.0]" /></consequents>
+</rule>
+<rule id="14">
+<antecedents>
+<attribute name="A6" value="
+NOT [2.0, 9.0]" /><attribute name="Class" value="
+NOT True" /></antecedents>
+<consequents>
+<attribute name="A5" value="
+NOT [2.0, 14.0]" /></consequents>
+</rule>
+<rule id="15">
+<antecedents>
+<attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="16">
+<antecedents>
+<attribute name="A8" value="
+1" /><attribute name="A9" value="
+1" /><attribute name="Class" value="
+True" /></antecedents>
+<consequents>
+<attribute name="A10" value="
+[3.0, 15.0]" /></consequents>
+</rule>
+<rule id="17">
+<antecedents>
+<attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="18">
+<antecedents>
+<attribute name="A4" value="
+NOT 1" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="19">
+<antecedents>
+<attribute name="A4" value="
+2" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="20">
+<antecedents>
+<attribute name="A4" value="
+2" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A13" value="
+[120.0, 184.0]" /><attribute name="A14" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="21">
+<antecedents>
+<attribute name="A4" value="
+2" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A8" value="
+NOT 1" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="22">
+<antecedents>
+<attribute name="A4" value="
+2" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+[0.0, 15.0]" /><attribute name="A11" value="
+0" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="23">
+<antecedents>
+<attribute name="A4" value="
+NOT 1" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A8" value="
+NOT 1" /><attribute name="A13" value="
+[120.0, 184.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+<rule id="24">
+<antecedents>
+<attribute name="A4" value="
+2" /><attribute name="A5" value="
+[8.0, 8.0]" /><attribute name="A7" value="
+NOT [15.0001, 14415.0]" /><attribute name="A8" value="
+NOT 1" /><attribute name="A13" value="
+[120.0, 184.0]" /><attribute name="A14" value="
+[1.0, 1.0]" /></antecedents>
+<consequents>
+<attribute name="A12" value="
+3" /></consequents>
+</rule>
+</association_rules>

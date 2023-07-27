@@ -1,0 +1,146 @@
+StatusAccount %in% c("A11") & DurationMonth>=31.5
+StatusAccount %in% c("A11") & DurationMonth>=33
+StatusAccount %in% c("A11") & InstallmentRate>=2.5 & DurationMonth>=33
+DurationMonth>=34.5 & Property %in% c(" A124") & InstallmentRate>=2.5
+SavingsAccount %in% c(" A61") & DurationMonth>=47.5
+CreditAmount>=7760 & SavingsAccount %in% c(" A61")
+StatusAccount %in% c("A11", "A12") & DurationMonth>=22.5 & InstallmentRate>=2.5 & Telephone %in% c(" A191")
+StatusAccount %in% c("A11") & CreditAmount< 1286 & Age< 36.5
+StatusAccount %in% c("A11", "A12") & InstallmentRate>=2.5 & DurationMonth>=33
+DurationMonth>=34.5 & Age>=29.5 & Property %in% c(" A124") & InstallmentRate>=2.5
+CreditAmount>=3914 & CreditAmount>=1.092e+04
+StatusAccount %in% c("A12") & CreditAmount>=8150
+SavingsAccount %in% c(" A61", " A62") & DurationMonth>=34.5 & DurationMonth>=43.5
+SavingsAccount %in% c(" A61", " A62") & DurationMonth>=47.5
+StatusAccount %in% c("A11") & DurationMonth>=47.5
+DurationMonth>=34.5 & EmploymentSince %in% c(" A75") & Property %in% c(" A124") & InstallmentRate>=2.5
+StatusAccount %in% c("A11") & Property %in% c(" A123") & CreditAmount< 1286
+DurationMonth>=34.5 & Housing %in% c(" A151")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & DurationMonth>=47.5
+StatusAccount %in% c("A12") & SavingsAccount %in% c(" A61") & DurationMonth>=47.5
+CreditHistory %in% c(" A30", " A31") & InstallmentPlans %in% c(" A143")
+StatusAccount %in% c("A11", "A12") & DurationMonth>=47.5
+DurationMonth>=34.5 & Housing %in% c(" A151", " A153") & InstallmentRate>=2.5
+DurationMonth>=34.5 & EmploymentSince %in% c(" A72")
+StatusAccount %in% c("A11") & DurationMonth>=31.5 & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & CreditAmount>=8079
+DurationMonth>=34.5 & EmploymentSince %in% c(" A75") & Property %in% c(" A124")
+DurationMonth>=34.5 & Housing %in% c(" A151") & InstallmentRate>=2.5
+StatusAccount %in% c("A11") & Property %in% c(" A123") & CreditAmount< 1286 & Age< 36.5
+StatusAccount %in% c("A11", "A12") & StatusAccount %in% c("A11") & Age< 35.5 & Age>=30.5
+SavingsAccount %in% c(" A61", " A62", " A64") & DurationMonth>=47.5
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A123") & CreditAmount< 1286
+StatusAccount %in% c("A11", "A12") & Housing %in% c(" A151", " A153") & InstallmentRate>=2.5 & Telephone %in% c(" A191")
+DurationMonth>=34.5 & Age>=29.5 & Housing %in% c(" A151", " A153") & InstallmentRate>=2.5
+StatusAccount %in% c("A11", "A12") & Housing %in% c(" A152") & Age< 25.5 & ResidenceSince>=1.5 & ResidenceSince< 2.5
+StatusAccount %in% c("A11", "A12") & DurationMonth>=31.5 & EmploymentSince %in% c(" A75")
+SavingsAccount %in% c(" A61", " A62") & DurationMonth>=34.5 & DurationMonth< 43.5 & Age< 29.5
+StatusAccount %in% c("A11") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A46")
+StatusAccount %in% c("A11") & Housing %in% c(" A152") & Job %in% c(" A173") & Age< 24.5
+Purpose %in% c(" A46") & StatusAccount %in% c("A11")
+StatusAccount %in% c("A11") & Purpose %in% c(" A46")
+StatusAccount %in% c("A12") & SavingsAccount %in% c(" A61", " A62") & DurationMonth>=47.5
+Purpose %in% c(" A40") & Property %in% c(" A123") & Telephone %in% c(" A191") & CreditAmount< 1200
+DurationMonth>=34.5 & InstallmentRate>=2.5 & StatusAndSex %in% c(" A91", " A92")
+SavingsAccount %in% c(" A61") & Property %in% c(" A124") & Housing %in% c(" A151")
+DurationMonth>=34.5 & EmploymentSince %in% c(" A73", " A74", " A75") & Property %in% c(" A124") & InstallmentRate>=2.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & DurationMonth>=47.5
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A123") & CreditAmount< 1286 & Age< 36.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & ForeignWorker %in% c(" A201") & EmploymentSince %in% c(" A72") & ResidenceSince>=1.5
+Housing %in% c(" A151") & InstallmentRate>=2.5 & Job %in% c(" A172", " A173") & Property %in% c(" A123")
+Purpose %in% c(" A46") & NCredits< 1.5 & StatusAccount %in% c("A11")
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & NPeopleMain< 1.5 & DurationMonth>=43.5 & ResidenceSince>=1.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A46") & Age< 57
+CreditHistory %in% c(" A30", " A31") & Property %in% c(" A122", " A124")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & CreditAmount>=8016
+CreditHistory %in% c(" A30", " A31") & Housing %in% c(" A151", " A153")
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & Property %in% c(" A124") & InstallmentRate>=2.5
+StatusAccount %in% c("A11", "A12") & Housing %in% c(" A151", " A153") & InstallmentRate>=2.5 & Job %in% c(" A172", " A173")
+StatusAccount %in% c("A11", "A12") & InstallmentRate>=2.5 & Housing %in% c(" A151", " A153") & Job %in% c(" A172", " A173")
+StatusAccount %in% c("A11") & Property %in% c(" A122", " A123", " A124") & CreditAmount< 1286 & Age< 36.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40") & StatusAndSex %in% c(" A93") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & CreditAmount< 8079 & InstallmentRate>=2.5 & Housing %in% c(" A151", " A153") & Job %in% c(" A172", " A173")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40", " A44", " A46") & InstallmentRate>=3.5
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A46") & InstallmentRate>=3.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A46")
+StatusAccount %in% c("A11", "A12") & Guarantors %in% c(" A101", " A102") & InstallmentRate>=2.5 & StatusAndSex %in% c(" A91", " A92") & Age< 35.5
+DurationMonth>=34.5 & EmploymentSince %in% c(" A71", " A73", " A74", " A75") & Property %in% c(" A124") & InstallmentRate>=2.5
+CreditHistory %in% c(" A32", " A33", " A34") & CreditAmount>=7760 & Age< 29.5
+DurationMonth>=34.5 & Property %in% c(" A121", " A122", " A123") & NPeopleMain< 1.5 & DurationMonth>=43.5 & ResidenceSince>=1.5
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A44", " A46") & CreditAmount< 1306 & Age< 57
+StatusAccount %in% c("A11", "A12") & DurationMonth>=22.5 & SavingsAccount %in% c(" A61", " A62", " A63") & DurationMonth>=47.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A46") & InstallmentRate>=3.5
+StatusAccount %in% c("A11", "A12") & CreditHistory %in% c(" A30", " A31") & SavingsAccount %in% c(" A61", " A62")
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & CreditAmount< 1286 & Age< 36.5
+SavingsAccount %in% c(" A61", " A62") & Property %in% c(" A124") & Job %in% c(" A172")
+StatusAccount %in% c("A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & CreditHistory %in% c(" A30", " A31")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A44", " A46") & CreditAmount< 1306 & Age< 57
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & CreditAmount>=8079
+Purpose %in% c(" A49") & Property %in% c(" A123", " A124") & Housing %in% c(" A151")
+SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A49") & Housing %in% c(" A151")
+StatusAccount %in% c("A12") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Property %in% c(" A122", " A123", " A124") & CreditAmount< 1286 & Age< 36.5
+Purpose %in% c(" A40", " A42", " A45", " A46") & Property %in% c(" A123") & Telephone %in% c(" A191") & CreditAmount< 1200
+Housing %in% c(" A151", " A153") & InstallmentRate>=2.5 & Job %in% c(" A172", " A173") & Property %in% c(" A123")
+StatusAccount %in% c("A11", "A12") & CreditHistory %in% c(" A32", " A33", " A34") & CreditAmount>=8016
+SavingsAccount %in% c(" A61", " A62") & Property %in% c(" A124") & Housing %in% c(" A151")
+StatusAccount %in% c("A11") & SavingsAccount %in% c(" A61", " A62") & Housing %in% c(" A152") & Job %in% c(" A173") & Age< 24.5
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A41") & CreditAmount>=8150
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & SavingsAccount %in% c(" A61", " A62", " A64") & Age< 29.5
+StatusAccount %in% c("A11", "A12") & CreditHistory %in% c(" A30", " A31") & Housing %in% c(" A151", " A153")
+StatusAccount %in% c("A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A46") & CreditAmount< 1306 & Age< 57
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Job %in% c(" A172") & EmploymentSince %in% c(" A72") & Age< 38.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Job %in% c(" A172") & EmploymentSince %in% c(" A72") & ForeignWorker %in% c(" A201")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61") & Purpose %in% c(" A40", " A46") & StatusAndSex %in% c(" A93") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & StatusAndSex %in% c(" A93") & InstallmentRate>=3.5 & NPeopleMain>=1.5
+StatusAccount %in% c("A11", "A12") & Guarantors %in% c(" A101", " A102") & InstallmentRate>=2.5 & Housing %in% c(" A151", " A153") & Job %in% c(" A172", " A173")
+Housing %in% c(" A151", " A153") & InstallmentRate>=2.5 & Telephone %in% c(" A191") & EmploymentSince %in% c(" A71", " A72", " A74")
+StatusAccount %in% c("A12") & Purpose %in% c(" A41", " A410", " A42", " A43", " A49") & CreditAmount>=8150
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A46") & CreditAmount< 1306
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A44", " A46") & Age< 29.5
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & CreditAmount< 8079 & CreditAmount< 1443 & Property %in% c(" A123", " A124")
+StatusAccount %in% c("A11") & Purpose %in% c(" A40") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & SavingsAccount %in% c(" A61", " A62", " A64") & DurationMonth>=47.5
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & Housing %in% c(" A152", " A153") & Property %in% c(" A124") & InstallmentRate>=2.5
+DurationMonth>=34.5 & EmploymentSince %in% c(" A71", " A73", " A74", " A75") & DurationMonth>=43.5 & EmploymentSince %in% c(" A73", " A75") & NPeopleMain< 1.5
+StatusAccount %in% c("A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11") & Purpose %in% c(" A40", " A46") & Property %in% c(" A122") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A46") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & SavingsAccount %in% c(" A61", " A62") & CreditAmount>=8016
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A46") & InstallmentPlans %in% c(" A141", " A142")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A49") & Property %in% c(" A123", " A124") & Housing %in% c(" A151")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A46") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11") & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A41", " A410", " A42", " A43", " A49") & CreditAmount>=8150
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A46") & Property %in% c(" A122") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A46") & StatusAndSex %in% c(" A93") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & Guarantors %in% c(" A101", " A102") & StatusAccount %in% c("A12") & Housing %in% c(" A151", " A153") & Age>=41
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & StatusAndSex %in% c(" A93", " A94") & InstallmentRate>=3.5 & NPeopleMain>=1.5
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A44", " A46") & InstallmentPlans %in% c(" A141", " A142")
+StatusAccount %in% c("A11", "A12") & CreditHistory %in% c(" A30", " A31") & Purpose %in% c(" A40", " A410", " A42", " A43", " A45", " A46", " A49")
+CreditHistory %in% c(" A32", " A33", " A34") & DurationMonth>=34.5 & EmploymentSince %in% c(" A71", " A73", " A74", " A75") & Property %in% c(" A124") & InstallmentRate>=2.5
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A46") & EmploymentSince %in% c(" A71", " A75")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+CreditHistory %in% c(" A32", " A33", " A34") & CreditAmount>=7760 & Purpose %in% c(" A40", " A410", " A42", " A45", " A49")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A46") & Property %in% c(" A122") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A46") & Age>=29.5 & EmploymentSince %in% c(" A71", " A75")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A44", " A46") & StatusAndSex %in% c(" A93") & EmploymentSince %in% c(" A75")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A44", " A46") & StatusAndSex %in% c(" A91", " A92", " A94")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & SavingsAccount %in% c(" A61", " A62") & Property %in% c(" A124") & EmploymentSince %in% c(" A72", " A73", " A74", " A75")
+StatusAccount %in% c("A11", "A12") & SavingsAccount %in% c(" A61", " A62") & Purpose %in% c(" A40", " A44", " A46") & Age>=29.5 & EmploymentSince %in% c(" A71", " A75")
+Housing %in% c(" A151", " A153") & InstallmentRate>=2.5 & Telephone %in% c(" A191") & Property %in% c(" A121", " A122", " A124") & EmploymentSince %in% c(" A71", " A72", " A74")
+StatusAccount %in% c("A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & DurationMonth< 22.5 & Purpose %in% c(" A40", " A44", " A46") & Property %in% c(" A122", " A123", " A124") & EmploymentSince %in% c(" A72", " A75")
+StatusAccount %in% c("A11", "A12") & Property %in% c(" A122", " A123", " A124") & Purpose %in% c(" A41", " A410", " A42", " A43", " A48", " A49") & CreditAmount>=8150
+StatusAccount %in% c("A11", "A12") & Purpose %in% c(" A41", " A410", " A42", " A43", " A45", " A48", " A49") & Housing %in% c(" A151", " A153") & Purpose %in% c(" A45", " A48", " A49")

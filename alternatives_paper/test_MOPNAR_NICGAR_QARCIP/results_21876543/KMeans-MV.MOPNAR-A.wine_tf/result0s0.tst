@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+<rule id="0" rule_support="0.03" antecedent_support="0.04" consequent_support="0.09" confidence="0.67" lift="7.92" conviction="2.75" certainFactor="0.64" netConf="0.61" yulesQ="0.94" nAttributes="2"/>
+<rule id="1" rule_support="0.02" antecedent_support="0.03" consequent_support="0.09" confidence="0.75" lift="8.91" conviction="3.67" certainFactor="0.73" netConf="0.69" yulesQ="0.96" nAttributes="2"/>
+<rule id="2" rule_support="0.11" antecedent_support="0.11" consequent_support="0.27" confidence="1.0" lift="3.71" conviction="Infinity" certainFactor="1.0" netConf="0.82" yulesQ="1.0" nAttributes="2"/>
+<rule id="3" rule_support="0.07" antecedent_support="0.07" consequent_support="0.27" confidence="1.0" lift="3.71" conviction="Infinity" certainFactor="1.0" netConf="0.79" yulesQ="1.0" nAttributes="2"/>
+<rule id="4" rule_support="0.27" antecedent_support="0.27" consequent_support="0.35" confidence="1.0" lift="2.88" conviction="Infinity" certainFactor="1.0" netConf="0.9" yulesQ="1.0" nAttributes="2"/>
+<rule id="5" rule_support="0.21" antecedent_support="0.22" consequent_support="0.27" confidence="0.98" lift="3.62" conviction="27.76" certainFactor="0.97" netConf="0.9" yulesQ="1.0" nAttributes="2"/>
+<rule id="6" rule_support="0.74" antecedent_support="0.74" consequent_support="1.0" confidence="1.0" lift="1.01" conviction="Infinity" certainFactor="1.0" netConf="0.03" yulesQ="1.0" nAttributes="2"/>
+<rule id="7" rule_support="0.52" antecedent_support="0.53" consequent_support="0.64" confidence="0.97" lift="1.53" conviction="11.45" certainFactor="0.92" netConf="0.71" yulesQ="0.98" nAttributes="2"/>
+<rule id="8" rule_support="0.05" antecedent_support="0.05" consequent_support="0.21" confidence="1.0" lift="4.82" conviction="Infinity" certainFactor="1.0" netConf="0.83" yulesQ="1.0" nAttributes="2"/>
+<rule id="9" rule_support="0.02" antecedent_support="0.07" consequent_support="0.02" confidence="0.28" lift="16.19" conviction="1.36" certainFactor="0.27" netConf="0.28" yulesQ="1.0" nAttributes="2"/>
+<rule id="10" rule_support="0.02" antecedent_support="0.04" consequent_support="0.02" confidence="0.34" lift="19.78" conviction="1.48" certainFactor="0.33" netConf="0.33" yulesQ="0.98" nAttributes="2"/>
+<rule id="11" rule_support="0.34" antecedent_support="0.35" consequent_support="0.63" confidence="0.97" lift="1.56" conviction="11.67" certainFactor="0.92" netConf="0.53" yulesQ="0.95" nAttributes="2"/>
+<rule id="12" rule_support="0.66" antecedent_support="0.66" consequent_support="0.74" confidence="1.0" lift="1.37" conviction="Infinity" certainFactor="1.0" netConf="0.78" yulesQ="1.0" nAttributes="2"/>
+<rule id="13" rule_support="0.64" antecedent_support="0.67" consequent_support="0.66" confidence="0.95" lift="1.46" conviction="6.91" certainFactor="0.86" netConf="0.9" yulesQ="1.0" nAttributes="2"/>
+<rule id="14" rule_support="0.73" antecedent_support="0.74" consequent_support="0.82" confidence="1.0" lift="1.22" conviction="24.11" certainFactor="0.96" netConf="0.66" yulesQ="1.0" nAttributes="2"/>
+<rule id="15" rule_support="0.03" antecedent_support="0.03" consequent_support="0.09" confidence="0.81" lift="9.5" conviction="4.58" certainFactor="0.79" netConf="0.74" yulesQ="0.97" nAttributes="3"/>
+<rule id="16" rule_support="0.36" antecedent_support="0.36" consequent_support="0.53" confidence="1.0" lift="1.92" conviction="Infinity" certainFactor="1.0" netConf="0.75" yulesQ="1.0" nAttributes="3"/>
+<rule id="17" rule_support="0.17" antecedent_support="0.17" consequent_support="0.27" confidence="1.0" lift="3.71" conviction="Infinity" certainFactor="1.0" netConf="0.88" yulesQ="1.0" nAttributes="3"/>
+<rule id="18" rule_support="0.21" antecedent_support="0.21" consequent_support="0.27" confidence="1.0" lift="3.71" conviction="Infinity" certainFactor="1.0" netConf="0.93" yulesQ="1.0" nAttributes="3"/>
+<rule id="19" rule_support="0.17" antecedent_support="0.17" consequent_support="0.27" confidence="1.0" lift="3.71" conviction="Infinity" certainFactor="1.0" netConf="0.88" yulesQ="1.0" nAttributes="3"/>
+<rule id="20" rule_support="0.02" antecedent_support="0.02" consequent_support="0.02" confidence="1.0" lift="59.34" conviction="Infinity" certainFactor="1.0" netConf="1.0" yulesQ="1.0" nAttributes="3"/>
+<rule id="21" rule_support="0.42" antecedent_support="0.43" consequent_support="0.64" confidence="0.99" lift="1.56" conviction="27.39" certainFactor="0.97" netConf="0.61" yulesQ="0.99" nAttributes="3"/>
+<rule id="22" rule_support="0.03" antecedent_support="0.03" consequent_support="0.17" confidence="1.0" lift="6.14" conviction="Infinity" certainFactor="1.0" netConf="0.87" yulesQ="1.0" nAttributes="3"/>
+<rule id="23" rule_support="0.11" antecedent_support="0.17" consequent_support="0.17" confidence="0.66" lift="3.89" conviction="2.42" certainFactor="0.59" netConf="0.59" yulesQ="0.92" nAttributes="3"/>
+<rule id="24" rule_support="0.04" antecedent_support="0.04" consequent_support="0.18" confidence="1.0" lift="5.75" conviction="Infinity" certainFactor="1.0" netConf="0.86" yulesQ="1.0" nAttributes="3"/>
+<rule id="25" rule_support="0.03" antecedent_support="0.03" consequent_support="0.12" confidence="1.0" lift="8.48" conviction="Infinity" certainFactor="1.0" netConf="0.91" yulesQ="1.0" nAttributes="3"/>
+<rule id="26" rule_support="0.03" antecedent_support="0.03" consequent_support="0.12" confidence="1.0" lift="8.48" conviction="Infinity" certainFactor="1.0" netConf="0.91" yulesQ="1.0" nAttributes="3"/>
+<rule id="27" rule_support="0.7" antecedent_support="0.7" consequent_support="0.74" confidence="1.0" lift="1.37" conviction="Infinity" certainFactor="1.0" netConf="0.89" yulesQ="1.0" nAttributes="3"/>
+<rule id="28" rule_support="0.64" antecedent_support="0.66" consequent_support="0.68" confidence="0.97" lift="1.44" conviction="9.54" certainFactor="0.9" netConf="0.86" yulesQ="1.0" nAttributes="3"/>
+<rule id="29" rule_support="0.67" antecedent_support="0.71" consequent_support="0.68" confidence="0.96" lift="1.42" conviction="6.79" certainFactor="0.86" netConf="0.94" yulesQ="1.0" nAttributes="3"/>
+<rule id="30" rule_support="0.71" antecedent_support="0.71" consequent_support="0.79" confidence="1.0" lift="1.29" conviction="Infinity" certainFactor="1.0" netConf="0.74" yulesQ="1.0" nAttributes="3"/>
+<rule id="31" rule_support="0.58" antecedent_support="0.6" consequent_support="0.66" confidence="0.98" lift="1.5" conviction="12.31" certainFactor="0.92" netConf="0.8" yulesQ="0.99" nAttributes="3"/>
+<rule id="32" rule_support="0.43" antecedent_support="0.44" consequent_support="0.53" confidence="0.98" lift="1.87" conviction="18.39" certainFactor="0.95" netConf="0.8" yulesQ="0.99" nAttributes="4"/>
+<rule id="33" rule_support="0.1" antecedent_support="0.12" consequent_support="0.2" confidence="0.85" lift="4.46" conviction="5.4" certainFactor="0.82" netConf="0.75" yulesQ="0.96" nAttributes="4"/>
+<rule id="34" rule_support="0.11" antecedent_support="0.13" consequent_support="0.2" confidence="0.83" lift="4.33" conviction="4.66" certainFactor="0.79" netConf="0.73" yulesQ="0.96" nAttributes="4"/>
+<rule id="35" rule_support="0.03" antecedent_support="0.03" consequent_support="0.11" confidence="1.0" lift="9.89" conviction="Infinity" certainFactor="1.0" netConf="0.92" yulesQ="1.0" nAttributes="4"/>
+<rule id="36" rule_support="0.02" antecedent_support="0.02" consequent_support="0.02" confidence="1.0" lift="89.0" conviction="Infinity" certainFactor="1.0" netConf="1.0" yulesQ="1.0" nAttributes="4"/>
+<rule id="37" rule_support="0.3" antecedent_support="0.3" consequent_support="0.5" confidence="1.0" lift="2.03" conviction="Infinity" certainFactor="1.0" netConf="0.72" yulesQ="1.0" nAttributes="5"/>
+<rule id="38" rule_support="0.04" antecedent_support="0.04" consequent_support="0.17" confidence="1.0" lift="5.94" conviction="Infinity" certainFactor="1.0" netConf="0.87" yulesQ="1.0" nAttributes="5"/>
+</values>

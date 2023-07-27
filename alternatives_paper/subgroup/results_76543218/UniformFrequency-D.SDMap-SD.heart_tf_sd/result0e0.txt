@@ -1,0 +1,40 @@
+Rule 0: FastingBloodSugar = 0 AND Sex = 1 AND ChestPainType = 3 AND MajorVessels = 1 THEN Class = True
+[  0.04  0.96  ]
+
+
+Rule 1: ChestPainType = 3 AND Slope = 1 AND Thal = 2 AND ExerciseInduced = 1 THEN Class = True
+[  0.04  0.96  ]
+
+
+Rule 2: Slope = 1 AND MajorVessels = 1 THEN Class = True
+[  0.10  0.90  ]
+
+
+Rule 3: FastingBloodSugar = 0 AND ChestPainType = 3 AND MajorVessels = 1 THEN Class = True
+[  0.07  0.93  ]
+
+
+Rule 4: Sex = 1 AND ChestPainType = 3 AND MajorVessels = 1 THEN Class = True
+[  0.03  0.97  ]
+
+
+Rule 5: FastingBloodSugar = 0 AND Slope = 1 AND Thal = 2 AND ExerciseInduced = 1 THEN Class = True
+[  0.07  0.93  ]
+
+
+Rule 6: ChestPainType = 3 AND MajorVessels = 1 THEN Class = True
+[  0.07  0.93  ]
+
+
+Rule 7: FastingBloodSugar = 0 AND Sex = 1 AND ResElectrocardiographic = 2 AND ExerciseInduced = 1 THEN Class = True
+[  0.18  0.82  ]
+
+
+Rule 8: FastingBloodSugar = 0 AND ResElectrocardiographic = 2 AND Slope = 1 AND Thal = 2 THEN Class = True
+[  0.12  0.88  ]
+
+
+Rule 9: ResElectrocardiographic = 2 AND Slope = 1 AND ExerciseInduced = 1 THEN Class = True
+[  0.15  0.85  ]
+
+

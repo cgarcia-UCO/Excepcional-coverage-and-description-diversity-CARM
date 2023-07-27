@@ -1,0 +1,78 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable StatusAndSex = A93
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A91
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable StatusAndSex = A93
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A93
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A11
+	Variable CreditHistory = A31
+	Variable Purpose = A49
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable StatusAndSex = A91
+	Variable Job = A173
+	Variable NPeopleMain = Label 1 	 (1.0 1.5 2.0)
+	Variable Telephone = A192
+	Variable ForeignWorker = A202
+   Consecuent: True
+

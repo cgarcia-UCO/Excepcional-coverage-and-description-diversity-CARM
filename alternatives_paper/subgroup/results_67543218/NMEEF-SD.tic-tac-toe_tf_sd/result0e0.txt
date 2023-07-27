@@ -1,0 +1,5 @@
+GENERATED RULE 0
+	Antecedent
+		Variable MiddleMiddle = x
+	Consecuent: False
+

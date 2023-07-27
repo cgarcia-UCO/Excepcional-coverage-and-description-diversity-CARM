@@ -1,0 +1,1 @@
+18  null../results/KMeans-MV.MOPNAR-A.chess_tf/result0s0.tra

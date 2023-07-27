@@ -1,0 +1,608 @@
+ProTime< 44 & Fatigue< 1.5 & Anorexia>=1.5 & Sex< 1.5
+ProTime< 44 & Age>=32.5 & Fatigue< 1.5 & Sex< 1.5
+ProTime< 44 & Anorexia>=1.5 & Sex< 1.5 & AlbuMin< 3.9
+ProTime< 44 & Anorexia>=1.5 & LiverBig>=1.5 & AlbuMin< 3.9
+ProTime< 44 & Anorexia>=1.5 & LiverBig>=1.5 & ProTime>=25
+ProTime< 44 & Anorexia>=1.5 & Sex< 1.5 & ProTime>=25
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Age< 61
+ProTime< 44 & LiverBig>=1.5 & ProTime>=26 & AlkPhosphate< 170.5
+ProTime< 44 & Fatigue< 1.5 & Anorexia>=1.5 & AlkPhosphate< 170.5
+ProTime< 44 & Age>=32.5 & Fatigue< 1.5 & AlkPhosphate< 170.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & Sex< 1.5 & Fatigue< 1.5
+AlbuMin< 3.85 & Age>=32.5 & LiverBig>=1.5 & Age< 62
+ProTime< 44 & LiverBig>=1.5 & ProTime>=26
+ProTime< 44 & Fatigue< 1.5 & Anorexia>=1.5
+ProTime< 44 & Age>=32.5 & Fatigue< 1.5
+ProTime< 44 & Histology>=1.5 & ProTime>=26
+ProTime< 44 & AlbuMin< 3.9 & Sex< 1.5 & ProTime>=29.5
+ProTime< 44 & Fatigue< 1.5 & Sex< 1.5 & ProTime>=29.5
+ProTime< 44 & Fatigue< 1.5 & LiverBig>=1.5 & ProTime>=29.5
+Anorexia>=1.5 & ProTime>=25 & ProTime< 40.5
+ProTime< 44 & LiverBig>=1.5 & ProTime>=29.5
+ProTime< 44 & LiverBig>=1.5 & ProTime>=30
+ProTime< 44 & Fatigue< 1.5 & Sex< 1.5 & ProTime>=30
+ProTime< 44 & Age>=32.5 & Malaise< 1.5
+ProTime< 44 & Anorexia>=1.5 & Malaise< 1.5
+ProTime< 44 & AlbuMin< 3.9 & AlkPhosphate< 157.5
+ProTime< 44 & Anorexia>=1.5 & AlbuMin< 3.9 & AlkPhosphate< 159.5
+ProTime< 44 & Anorexia>=1.5 & ProTime>=25 & AlkPhosphate< 159.5
+ProTime< 44 & AlbuMin< 3.9 & AlkPhosphate< 159.5
+ProTime< 44 & ProTime>=26 & Sex< 1.5
+ProTime< 44 & Anorexia>=1.5 & Sex< 1.5
+ProTime< 44 & Anorexia>=1.5 & LiverBig>=1.5
+ProTime< 44 & Anorexia>=1.5 & ProTime>=25
+ProTime< 44 & Fatigue< 1.5 & Sex< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & Sex< 1.5 & Sgot< 84.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate< 170.5
+ProTime< 44 & Sex< 1.5 & ProTime>=30
+Bilirubin>=1.35 & Age>=38.5 & Sex< 1.5
+ProTime>=26 & Sex< 1.5 & ProTime< 38.5
+Histology>=1.5 & Age>=32 & Age< 49.5 & Anorexia>=1.5 & Fatigue< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Age>=32 & Age< 49.5 & Fatigue< 1.5
+ProTime< 44 & ProTime>=26 & AlkPhosphate< 128
+ProTime< 44 & Anorexia>=1.5 & ProTime>=25 & ProTime< 35.5
+ProTime< 44 & Anorexia>=1.5 & AlbuMin< 3.9 & ProTime< 35.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate< 128
+ProTime>=26 & Steroid< 1.5 & ProTime< 40.5
+ProTime< 44 & Anorexia>=1.5 & Sex< 1.5 & Spiders< 1.5
+ProTime< 44 & Anorexia>=1.5 & ProTime>=25 & AlkPhosphate< 135.5
+Histology>=1.5 & Age>=32 & Age< 49.5 & Anorexia>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Age>=32 & Age< 49.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & Malaise< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & Sgot< 84.5
+ProTime>=26 & ProTime< 40.5
+ProTime>=25 & ProTime< 40.5
+Anorexia>=1.5 & ProTime< 40.5
+ProTime< 44 & Fatigue< 1.5 & ProTime>=30
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Age< 49.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Age< 49.5
+AlbuMin< 3.85 & Histology>=1.5 & AlkPhosphate< 126.5
+ProTime< 44 & ProTime>=26 & Malaise< 1.5
+ProTime>=26 & ProTime< 38.5
+Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5 & AlkPhosphate< 135
+Histology>=1.5 & Sex< 1.5 & Spiders< 1.5 & AlkPhosphate< 126.5
+Histology>=1.5 & Age>=32 & Age< 49.5 & Age>=41
+Histology>=1.5 & LiverBig>=1.5 & Malaise< 1.5 & AlkPhosphate< 135
+AlbuMin< 3.85 & Histology>=1.5 & AlkPhosphate< 111
+ProTime< 44 & ProTime>=26 & ProTime< 35.5
+Histology>=1.5 & Age>=41 & Age< 49.5
+ProTime< 44 & Anorexia>=1.5 & Sgot>=61.5
+ProTime< 44 & Anorexia>=1.5 & Steroid< 1.5 & LiverBig>=1.5
+ProTime< 44 & Fatigue< 1.5 & Sgot< 107.5 & AlkPhosphate< 170.5
+ProTime< 44 & Anorexia>=1.5 & Bilirubin>=1.05
+ProTime< 44 & Age>=32.5 & Bilirubin>=1.1
+ProTime< 44 & Steroid< 1.5 & Malaise< 1.5
+ProTime< 44 & ProTime>=25 & AlkPhosphate< 135.5
+Age>=41.5 & Age< 49.5 & Spiders< 1.5
+AlkPhosphate< 236.5 & Age>=41.5 & Age< 49.5 & Spiders< 1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Sex< 1.5 & Malaise< 1.5
+Bilirubin>=1.35 & AlkPhosphate>=81.5 & AlkPhosphate< 126.5
+Bilirubin>=1.35 & Anorexia>=1.5 & AlkPhosphate>=81.5 & AlkPhosphate< 126.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Sex< 1.5 & Sgot< 119
+Bilirubin>=1.35 & Age>=38.5 & Age< 50.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & Age>=41 & Fatigue< 1.5
+ProTime< 44 & ProTime>=26 & Ascites< 1.5
+ProTime< 44 & Anorexia>=1.5 & Ascites< 1.5
+ProTime< 44 & Fatigue< 1.5 & ProTime>=29.5 & ProTime< 35.5
+Spiders< 1.5 & Age>=40 & Age< 49.5
+ProTime< 44 & Age>=32.5 & Ascites< 1.5
+ProTime>=26 & Sgot>=61.5 & ProTime< 38.5
+ProTime>=29.5 & ProTime< 35.5
+ProTime< 35.5 & ProTime>=29.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Sex< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Fatigue< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Malaise< 1.5 & Anorexia>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Fatigue< 1.5
+Histology>=1.5 & Malaise< 1.5 & Anorexia>=1.5
+ProTime< 44 & Malaise< 1.5
+Bilirubin>=1.35 & Age>=38.5
+ProTime< 44 & AlkPhosphate< 159.5
+ProTime< 44 & Fatigue< 1.5 & Sgot< 107.5
+Histology>=1.5 & Bilirubin>=1.35 & Age>=42.5
+Histology>=1.5 & Anorexia>=1.5 & AlkPhosphate< 126.5 & Spiders< 1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Antivirals>=1.5 & Fatigue< 1.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & Age>=41
+Histology>=1.5 & LiverBig>=1.5 & AlkPhosphate< 126.5 & Spiders< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Anorexia>=1.5 & Spiders< 1.5 & AlkPhosphate< 126.5
+Histology>=1.5 & Bilirubin>=1.35 & AlkPhosphate< 161.5
+Histology>=1.5 & Bilirubin>=1.35 & Sgot< 192
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & Malaise< 1.5 & Anorexia>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Malaise< 1.5 & Sgot>=54.5 & Anorexia>=1.5
+AlbuMin< 3.85 & Age>=32.5 & Bilirubin< 2.15 & Age< 49.5 & Sgot< 84.5
+Malaise< 1.5 & Steroid< 1.5 & Age>=32.5 & Anorexia>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Spiders< 1.5 & AlkPhosphate< 126.5
+AlbuMin< 3.85 & Malaise< 1.5 & Sgot>=54.5 & Anorexia>=1.5
+AlbuMin< 3.85 & Anorexia>=1.5 & Ascites< 1.5
+LiverBig>=1.5 & Anorexia>=1.5 & Ascites< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 49.5 & Sgot< 84.5
+ProTime< 44 & Fatigue< 1.5 & Steroid< 1.5
+Fatigue< 1.5 & ProTime< 35.5
+Age>=32.5 & Age< 60 & Ascites< 1.5
+Steroid< 1.5 & ProTime< 40.5
+ProTime< 44 & Anorexia>=1.5 & Spiders< 1.5
+ProTime< 44 & Steroid< 1.5 & LiverBig>=1.5
+ProTime< 44 & Anorexia>=1.5 & AlkPhosphate< 135.5
+Ascites< 1.5 & Sgot< 84.5
+Age>=41.5 & Age< 49.5 & Fatigue< 1.5
+AlkPhosphate< 236.5 & Spiders< 1.5 & AlkPhosphate< 124 & AlkPhosphate>=81.5
+AlkPhosphate< 236.5 & Age>=41.5 & Age< 49.5 & Fatigue< 1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Malaise< 1.5
+Histology>=1.5 & AlkPhosphate< 126.5 & Spiders< 1.5 & AlkPhosphate>=81.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Malaise< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Malaise< 1.5
+Ascites< 1.5 & Age>=29 & Age< 52
+AlbuMin< 3.85 & AlbuMin>=2.65 & AlkPhosphate< 236.5 & AlkPhosphate< 126.5 & Spiders< 1.5
+ProTime< 44 & AlbuMin< 3.9 & AlbuMin< 3.45 & Ascites< 1.5
+ProTime< 44 & Fatigue< 1.5 & Ascites< 1.5
+Anorexia>=1.5 & Sgot< 192 & Bilirubin>=1.65
+AlbuMin< 3.85 & Age< 49.5 & Age>=40
+ProTime>=26 & ProTime< 34
+ProTime< 44 & Ascites< 1.5
+Sgot>=61.5 & ProTime< 38.5
+AlkPhosphate< 236.5 & Age>=41.5 & Varices< 1.5 & Age< 50.5
+Varices< 1.5 & Age>=42.5 & Age< 50.5
+Histology>=1.5 & Anorexia>=1.5 & Sex< 1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & AlkPhosphate>=85.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Fatigue< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & LiverFirm>=1.5 & Fatigue< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Steroid< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & LiverFirm>=1.5
+Age>=41.5 & Varices< 1.5 & Age< 50.5
+Anorexia>=1.5 & Sex< 1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Bilirubin>=1.35 & Age>=38.5 & Age< 50
+Histology>=1.5 & Age< 49.5 & Age>=46
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Bilirubin>=1.1
+ProTime>=30 & ProTime< 34
+ProTime< 44 & Anorexia>=1.5 & Bilirubin>=1.45
+Malaise< 1.5 & Anorexia>=1.5 & Sgot>=34 & Steroid< 1.5 & Sgot>=50.5
+Malaise< 1.5 & Anorexia>=1.5 & Sgot>=34 & Sgot>=54 & Sex< 1.5
+Ascites< 1.5 & Anorexia>=1.5
+Malaise< 1.5 & Anorexia>=1.5 & Sgot>=54 & Age>=31.5
+Malaise< 1.5 & Anorexia>=1.5 & Sgot>=54 & Sex< 1.5
+Malaise< 1.5 & Steroid< 1.5 & Anorexia>=1.5 & Sgot>=50.5
+AlbuMin< 3.85 & Sex< 1.5 & Anorexia>=1.5 & Spiders< 1.5
+Histology>=1.5 & Spiders< 1.5 & AlkPhosphate< 126.5
+Ascites< 1.5 & Age>=29
+Bilirubin>=1.35 & Age>=42.5
+Anorexia>=1.5 & Ascites< 1.5
+Age>=32.5 & Ascites< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & Bilirubin>=1.1
+ProTime< 44 & Sgot>=61.5
+ProTime< 44 & Sex< 1.5 & Spiders< 1.5
+ProTime< 44 & Anorexia>=1.5 & Steroid< 1.5
+ProTime< 44 & AlkPhosphate< 135.5
+ProTime< 44 & Bilirubin>=1.05
+ProTime< 44 & Bilirubin>=1.1
+Varices>=1.5 & Malaise< 1.5 & Steroid< 1.5 & Age>=32.5 & Anorexia>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Spiders< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & LiverBig>=1.5 & AlbuMin>=3.2
+Spiders< 1.5 & AlkPhosphate< 116 & Age>=38
+Spiders< 1.5 & Sex< 1.5 & Anorexia>=1.5 & Malaise< 1.5
+Spiders< 1.5 & Sex< 1.5 & Anorexia>=1.5 & Sgot< 72.5
+Histology>=1.5 & Sgot< 86 & Bilirubin>=1.1
+Spiders< 1.5 & Anorexia>=1.5 & LiverFirm>=1.5
+Spiders< 1.5 & Anorexia>=1.5 & Malaise< 1.5 & Steroid< 1.5
+Age>=41.5 & Age< 49.5 & Age>=46
+AlkPhosphate< 236.5 & Age>=41.5 & Age< 49.5 & Age>=46
+AlkPhosphate< 236.5 & Age>=41.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 124
+Bilirubin>=1.35 & Sex< 1.5 & Sgot< 82
+Histology>=1.5 & Sex< 1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Sex< 1.5 & Spiders< 1.5 & Steroid< 1.5
+Histology>=1.5 & Sgot< 80.5 & AlkPhosphate>=57.5 & Sgot>=54
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Steroid< 1.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Sgot>=54
+Histology>=1.5 & LiverBig>=1.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 127
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Steroid< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Sgot>=54
+Histology>=1.5 & Bilirubin>=1.35 & Malaise< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Malaise< 1.5 & Anorexia>=1.5 & Spiders< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & LiverBig>=1.5 & Spiders< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Bilirubin< 2.15 & Age< 49.5 & Age>=40
+ProTime< 44 & AlbuMin< 3.9 & AlbuMin< 3.45 & AlbuMin< 3.35 & ProTime< 34
+Age< 49.5 & Age>=46
+Anorexia>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Anorexia>=1.5 & LiverFirm>=1.5 & Spiders< 1.5
+Ascites< 1.5 & Age>=29 & Age< 48.5
+Spiders< 1.5 & LiverFirm>=1.5 & Anorexia>=1.5
+Ascites< 1.5 & Anorexia>=1.5 & SpleenPalpable>=1.5
+Spiders< 1.5 & AlkPhosphate< 116 & LiverFirm>=1.5
+Spiders< 1.5 & AlkPhosphate< 116 & Bilirubin>=1.2
+AlbuMin< 3.85 & Steroid< 1.5 & LiverBig>=1.5 & Spiders< 1.5
+ProTime< 44 & Fatigue< 1.5 & Sex< 1.5 & LiverFirm< 1.5
+ProTime< 44 & LiverBig>=1.5 & LiverFirm< 1.5
+Bilirubin>=1.65 & Age>=42.5
+Age>=41.5 & Spiders< 1.5 & LiverFirm>=1.5
+AlbuMin< 3.85 & Sgot>=54.5 & Sgot< 84.5
+ProTime< 44 & Bilirubin>=1.45
+AlkPhosphate< 236.5 & Age>=41.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5 & Age>=40
+LiverBig>=1.5 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5 & Antivirals>=1.5
+Varices>=1.5 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5 & Antivirals>=1.5
+Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5 & Anorexia>=1.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 116 & LiverFirm>=1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Sgot< 192 & Bilirubin>=2.25
+Histology>=1.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 127 & Steroid< 1.5
+Histology>=1.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 127 & LiverFirm>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & Steroid< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sgot>=54 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Steroid< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Sgot>=54 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & LiverFirm>=1.5 & Malaise< 1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & LiverFirm>=1.5 & Spiders< 1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & LiverFirm>=1.5 & Sgot>=49.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & Varices< 1.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Steroid>=1.5 & Varices< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Steroid>=1.5 & Varices< 1.5
+Ascites< 1.5 & Age>=29 & Varices< 1.5
+Ascites< 1.5 & Anorexia>=1.5 & Bilirubin>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Spiders< 1.5 & Anorexia>=1.5 & LiverFirm>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Malaise< 1.5 & Sgot>=54.5 & Sgot< 84.5
+AlbuMin< 3.85 & Age>=32.5 & Bilirubin>=2.15
+AlbuMin< 3.85 & Histology>=1.5 & AlbuMin< 2.8
+ProTime< 44 & ProTime>=26 & Ascites>=1.5 & Steroid< 1.5 & Malaise< 1.5
+ProTime< 44 & ProTime>=26 & Ascites>=1.5 & Steroid< 1.5 & ProTime< 40.5
+ProTime< 44 & AlbuMin< 3.9 & AlbuMin>=3.45
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & AlbuMin>=3.45 & AlbuMin< 3.9
+ProTime< 44 & Fatigue< 1.5 & Spiders< 1.5 & ProTime< 35.5 & ProTime>=29.5
+Age>=41.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5 & Antivirals>=1.5
+Anorexia>=1.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & LiverFirm>=1.5 & Malaise< 1.5
+Histology>=1.5 & Sgot< 80.5 & LiverFirm>=1.5 & Sgot>=49.5
+Histology>=1.5 & Sgot< 80.5 & Steroid>=1.5 & Varices< 1.5
+Bilirubin>=1.35 & Age>=42.5 & Age< 50
+Bilirubin>=1.35 & AlkPhosphate< 118.5 & AlkPhosphate>=82.5
+AlbuMin< 3.85 & Spiders< 1.5 & Anorexia>=1.5 & LiverFirm>=1.5
+AlbuMin< 3.85 & Malaise< 1.5 & Sgot>=54.5 & Sgot< 84.5
+Histology>=1.5 & AlbuMin< 2.8
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 50.5
+ProTime< 44 & Ascites>=1.5 & Steroid< 1.5 & Malaise< 1.5
+ProTime< 44 & AlbuMin>=3.45 & AlbuMin< 3.9
+ProTime< 44 & AlbuMin< 3.9 & AlbuMin>=3.5
+LiverBig>=1.5 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5
+LiverBig>=1.5 & Sex< 1.5 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5
+Spiders< 1.5 & Anorexia>=1.5 & Sex< 1.5 & Steroid< 1.5
+AlkPhosphate< 236.5 & Varices< 1.5 & AlkPhosphate< 173.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 116 & LiverBig>=1.5
+Histology>=1.5 & Varices< 1.5 & AlkPhosphate< 173.5
+Histology>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 127
+Histology>=1.5 & Anorexia>=1.5 & Spiders< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Fatigue< 1.5 & Varices>=1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Sgot>=54
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Sgot>=54
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Steroid< 1.5
+Histology>=1.5 & Sgot< 80.5 & Varices>=1.5 & Steroid< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Anorexia>=1.5 & Varices< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Varices>=1.5 & Steroid< 1.5 & AlkPhosphate< 127
+Histology>=1.5 & LiverBig>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Spiders< 1.5 & AlbuMin>=3 & Varices>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & Spiders< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & AlbuMin>=2.8 & LiverFirm>=1.5
+ProTime< 44 & Fatigue< 1.5 & Spiders< 1.5 & Sgot>=42 & Steroid< 1.5
+ProTime< 44 & Fatigue< 1.5 & Spiders< 1.5 & Steroid< 1.5
+Varices< 1.5 & AlkPhosphate< 173.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Age< 51.5 & Sgot>=46.5
+LiverBig>=1.5 & Anorexia>=1.5 & Varices< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & LiverFirm>=1.5
+ProTime< 44 & Spiders< 1.5 & Steroid< 1.5
+ProTime< 44 & Fatigue< 1.5 & LiverFirm>=1.5
+Age>=41.5 & Varices< 1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Steroid< 1.5
+AlbuMin< 3.85 & Steroid< 1.5 & Spiders< 1.5
+ProTime< 44 & Sex< 1.5 & LiverFirm< 1.5
+Varices< 1.5 & Anorexia>=1.5 & SpleenPalpable>=1.5
+Varices< 1.5 & Sgot< 169 & LiverFirm< 1.5
+Varices< 1.5 & Anorexia>=1.5 & Sgot< 107.5
+Varices>=1.5 & Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5 & Age< 50
+Varices>=1.5 & Malaise< 1.5 & Anorexia>=1.5 & Sgot>=54 & Sgot< 86
+AlkPhosphate< 236.5 & Malaise< 1.5 & AlkPhosphate< 124 & AlkPhosphate>=81.5 & Sgot>=50.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 116 & Steroid< 1.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 116 & Malaise< 1.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Spiders< 1.5 & AlkPhosphate< 116 & AlkPhosphate>=77
+Bilirubin>=1.35 & Sgot< 192 & Bilirubin>=2.25
+Histology>=1.5 & Malaise< 1.5 & AlkPhosphate< 135 & AlkPhosphate< 85.5 & LiverFirm>=1.5
+Histology>=1.5 & AlkPhosphate< 126.5 & AlkPhosphate>=85.5
+Histology>=1.5 & Sex< 1.5 & AlkPhosphate< 126.5 & AlkPhosphate>=85.5
+Histology>=1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Varices>=1.5 & AlkPhosphate< 111 & Fatigue< 1.5 & AlkPhosphate>=79
+Histology>=1.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Anorexia>=1.5 & AlkPhosphate< 126.5 & AlkPhosphate>=85.5
+Histology>=1.5 & Anorexia>=1.5 & Fatigue< 1.5 & LiverFirm>=1.5 & Spiders< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Fatigue< 1.5 & Spiders< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5 & Varices>=1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot< 80.5 & Varices< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Varices< 1.5 & Steroid>=1.5
+Histology>=1.5 & LiverBig>=1.5 & AlkPhosphate< 126.5 & AlkPhosphate>=85.5
+Histology>=1.5 & LiverBig>=1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Varices>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Anorexia>=1.5 & AlkPhosphate< 126.5 & AlkPhosphate>=85.5
+Ascites< 1.5 & Varices< 1.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Sgot>=61.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Steroid< 1.5 & LiverBig>=1.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & LiverBig>=1.5 & ProTime>=25
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & ProTime>=25 & ProTime< 40.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Steroid< 1.5 & ProTime< 40.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Sex< 1.5 & ProTime>=25
+ProTime< 44 & Fatigue< 1.5 & Ascites>=1.5 & Steroid< 1.5
+ProTime< 44 & Fatigue< 1.5 & Ascites>=1.5 & AlbuMin>=3.45
+Steroid< 1.5 & Sgot>=47.5 & Sgot< 84.5 & Age< 50
+Malaise< 1.5 & Anorexia>=1.5 & Sgot>=54 & Sgot< 86
+Spiders< 1.5 & Anorexia>=1.5 & Malaise< 1.5 & Sgot< 99
+Spiders< 1.5 & AlkPhosphate< 116 & Malaise< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5 & LiverFirm>=1.5
+Spiders< 1.5 & AlkPhosphate< 116 & AlkPhosphate>=82.5
+AlbuMin< 3.85 & LiverBig>=1.5 & SpleenPalpable< 1.5
+ProTime< 44 & Anorexia>=1.5 & Sgot>=76.5
+Ascites>=1.5 & Steroid< 1.5 & ProTime< 40.5
+ProTime< 44 & Fatigue< 1.5 & AlbuMin>=3.5
+ProTime< 44 & Fatigue< 1.5 & AlbuMin>=3.45
+Sgot< 192 & Bilirubin>=2.25
+Anorexia>=1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Sgot< 80.5 & Steroid>=1.5 & Varices< 1.5
+AlbuMin< 2.8
+Histology>=1.5 & Sgot< 86 & Varices< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & Varices< 1.5
+LiverBig>=1.5 & Fatigue< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5 & Sgot>=61.5
+Malaise< 1.5 & Steroid< 1.5 & Sgot>=50.5 & Sgot< 84.5 & Antivirals>=1.5
+Malaise< 1.5 & Sgot>=34 & Sgot>=54.5 & Sgot< 84.5 & Antivirals>=1.5
+Spiders< 1.5 & Sex< 1.5 & Sgot< 38
+Spiders< 1.5 & LiverBig>=1.5 & Sgot>=41.5 & Steroid< 1.5 & Sgot< 94
+Varices>=1.5 & Malaise< 1.5 & Sgot>=54 & Sgot< 84.5 & Antivirals>=1.5
+Varices>=1.5 & Malaise< 1.5 & Anorexia>=1.5 & Age>=32.5 & Age< 45.5
+Varices< 1.5 & Anorexia>=1.5 & Malaise< 1.5
+Varices>=1.5 & Spiders< 1.5 & Age>=40 & Age< 49.5
+Varices>=1.5 & Spiders< 1.5 & Steroid< 1.5 & Malaise< 1.5 & Sgot< 94
+Varices>=1.5 & Spiders< 1.5 & Steroid< 1.5 & LiverBig>=1.5 & Sgot< 94
+AlkPhosphate< 236.5 & AlkPhosphate>=81.5 & AlkPhosphate>=84.5 & Fatigue< 1.5 & Sgot< 30.5
+AlkPhosphate< 236.5 & Malaise< 1.5 & AlkPhosphate< 124 & AlkPhosphate>=81.5 & LiverFirm< 1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & Bilirubin>=2.6
+Histology>=1.5 & Malaise< 1.5 & AlkPhosphate< 135 & AlkPhosphate>=85.5
+Histology>=1.5 & Varices>=1.5 & AlkPhosphate< 111 & Fatigue< 1.5 & SpleenPalpable< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Fatigue< 1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5 & Varices< 1.5
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Steroid>=1.5 & Sgot< 26.5
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Steroid>=1.5 & Sgot< 26.5
+Histology>=1.5 & LiverBig>=1.5 & Fatigue< 1.5 & Steroid>=1.5 & Varices< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Fatigue< 1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Steroid>=1.5 & Sgot< 26.5
+Ascites>=1.5 & Bilirubin>=1.35 & Age>=38.5 & Age< 50
+Ascites< 1.5 & LiverFirm< 1.5 & SpleenPalpable>=1.5
+Ascites>=1.5 & Histology>=1.5 & Spiders< 1.5 & Age>=40 & Age< 49.5
+Ascites< 1.5 & Bilirubin>=2.4
+Ascites>=1.5 & AlkPhosphate< 236.5 & Bilirubin>=1.35 & AlkPhosphate< 118.5 & AlkPhosphate>=82.5
+AlbuMin< 3.85 & AlbuMin< 2.65
+AlbuMin< 3.85 & AlbuMin>=2.65 & AlkPhosphate< 236.5 & AlkPhosphate< 126.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & AlbuMin>=2.65 & AlbuMin>=3.7
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & AlbuMin< 2.65
+AlbuMin< 3.85 & Histology>=1.5 & AlkPhosphate>=111 & AlbuMin< 2.8
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Steroid>=1.5 & Varices< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & LiverFirm< 1.5 & Varices< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & LiverFirm< 1.5 & Sgot< 50.5
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Steroid>=1.5 & Bilirubin>=1.1
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Steroid>=1.5 & Sgot< 41
+ProTime< 44 & ProTime>=26 & Ascites>=1.5 & Sgot>=61.5 & ProTime< 38.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Sex< 1.5 & Spiders< 1.5
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & ProTime>=25 & AlkPhosphate< 135.5
+ProTime< 44 & Fatigue< 1.5 & Spiders>=1.5
+ProTime< 44 & Fatigue< 1.5 & Ascites>=1.5 & Sgot>=61.5 & ProTime< 38.5
+Steroid< 1.5 & Sgot>=50.5 & Sgot< 84.5 & Antivirals>=1.5
+Malaise< 1.5 & Anorexia>=1.5 & Age>=32.5 & Age< 45.5
+Spiders< 1.5 & Steroid< 1.5 & Malaise< 1.5 & Sgot< 94
+Anorexia>=1.5 & Fatigue< 1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Anorexia>=1.5 & Malaise< 1.5 & Varices< 1.5
+Histology>=1.5 & Fatigue< 1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Ascites< 1.5 & SpleenPalpable>=1.5 & LiverFirm< 1.5
+AlbuMin< 2.65
+AlbuMin< 3.85 & Histology>=1.5 & Sgot< 86 & Varices< 1.5
+AlbuMin< 3.85 & Steroid>=1.5 & Sgot< 41
+Ascites>=1.5 & Sgot>=61.5 & ProTime< 38.5
+LiverFirm< 1.5 & ProTime< 34
+Sex< 1.5 & Sgot< 161.5 & Sgot< 153.5 & Sgot< 24 & Sgot>=18.5
+LiverBig>=1.5 & SpleenPalpable< 1.5 & Anorexia>=1.5 & Sgot>=61.5
+LiverBig>=1.5 & LiverFirm>=1.5 & Sgot< 80.5 & Sgot>=66.5
+LiverBig>=1.5 & Sex< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5 & Sgot>=61.5
+LiverBig>=1.5 & Sex< 1.5 & Sgot< 30.5 & Sgot>=18.5 & Sgot< 25.5
+Malaise< 1.5 & Anorexia>=1.5 & Steroid< 1.5 & LiverFirm< 1.5
+Spiders< 1.5 & Sex< 1.5 & Sgot>=38 & Steroid< 1.5 & Sgot< 94
+Spiders< 1.5 & LiverBig>=1.5 & Sgot< 41.5
+Varices>=1.5 & Sgot>=47.5 & Sgot< 80.5 & Sgot>=66.5 & LiverFirm>=1.5
+Varices>=1.5 & Spiders< 1.5 & Anorexia>=1.5 & Malaise< 1.5 & Sgot< 99
+Varices>=1.5 & Spiders< 1.5 & Steroid< 1.5 & Sgot< 93.5
+AlkPhosphate< 236.5 & Varices>=1.5 & SpleenPalpable< 1.5 & AlkPhosphate< 120 & Fatigue< 1.5
+Histology>=1.5 & Varices>=1.5 & Steroid< 1.5 & AlkPhosphate< 127 & AlkPhosphate>=79
+Histology>=1.5 & Malaise< 1.5 & Varices< 1.5
+Histology>=1.5 & Malaise< 1.5 & AlkPhosphate< 135 & AlkPhosphate< 85.5 & Spiders< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Spiders>=1.5 & LiverFirm< 1.5 & Antivirals>=1.5
+Histology>=1.5 & LiverBig>=1.5 & Malaise< 1.5 & Varices< 1.5
+Ascites>=1.5 & Histology>=1.5 & Spiders< 1.5 & LiverFirm>=1.5
+Ascites>=1.5 & Spiders< 1.5 & LiverFirm>=1.5 & Anorexia>=1.5
+Ascites>=1.5 & Spiders< 1.5 & Sex< 1.5 & Anorexia>=1.5 & Malaise< 1.5
+Ascites>=1.5 & Spiders< 1.5 & Steroid< 1.5 & LiverBig>=1.5 & Varices>=1.5
+Ascites>=1.5 & Histology>=1.5 & Malaise< 1.5 & Age>=41
+Ascites>=1.5 & Histology>=1.5 & Malaise< 1.5 & Anorexia>=1.5
+Ascites>=1.5 & Histology>=1.5 & Spiders< 1.5 & Anorexia>=1.5 & Malaise< 1.5
+Ascites>=1.5 & Bilirubin>=1.35 & Anorexia>=1.5 & Malaise< 1.5
+Ascites>=1.5 & AlkPhosphate< 236.5 & Histology>=1.5 & Age>=41 & Age< 49.5
+Ascites>=1.5 & AlkPhosphate< 236.5 & Spiders< 1.5 & AlkPhosphate< 116 & Malaise< 1.5
+Ascites>=1.5 & AlkPhosphate< 236.5 & Spiders< 1.5 & AlkPhosphate< 116 & LiverFirm>=1.5
+Ascites>=1.5 & AlkPhosphate< 236.5 & Spiders< 1.5 & AlkPhosphate< 116 & Bilirubin>=1.2
+Ascites>=1.5 & AlkPhosphate< 236.5 & Spiders< 1.5 & AlkPhosphate< 116 & AlkPhosphate>=82.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & LiverBig>=1.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Ascites< 1.5 & AlbuMin>=2.95
+AlbuMin< 3.85 & AlbuMin>=2.65 & LiverFirm>=1.5 & AlbuMin>=2.95 & AlbuMin< 3.35
+AlbuMin< 3.85 & AlbuMin>=2.65 & Spiders< 1.5 & Anorexia>=1.5 & Ascites< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Sex< 1.5 & LiverBig>=1.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Sex< 1.5 & Spiders< 1.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Malaise< 1.5 & AlbuMin>=3.55
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & AlbuMin>=3.2 & LiverFirm>=1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Steroid< 1.5 & Anorexia>=1.5 & Ascites< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Bilirubin< 4.05 & AlbuMin>=3.45 & Bilirubin>=1.35
+ProTime< 44 & ProTime>=26 & Ascites>=1.5 & Sex< 1.5 & ProTime< 38.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & Sex< 1.5 & LiverFirm< 1.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & LiverBig>=1.5 & LiverFirm< 1.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & LiverBig>=1.5 & ProTime>=30
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & Sex< 1.5 & ProTime>=30
+ProTime< 44 & Anorexia>=1.5 & ProTime>=25 & ProTime>=35.5 & Bilirubin>=1.05
+ProTime< 44 & Anorexia>=1.5 & AlbuMin< 3.9 & ProTime>=35.5 & Bilirubin>=1.05
+LiverFirm>=1.5 & Sgot< 80.5 & Sgot>=66.5
+LiverBig>=1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5 & Sgot>=61.5
+Spiders< 1.5 & Sgot>=38 & Steroid< 1.5 & Sgot< 94
+Anorexia>=1.5 & LiverFirm< 1.5 & Malaise< 1.5 & Steroid< 1.5
+Sgot< 80.5 & Sgot>=66.5 & LiverFirm>=1.5
+Varices< 1.5 & Sgot< 42
+Bilirubin>=1.35 & Spiders< 1.5 & Varices>=1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & LiverFirm>=1.5
+Bilirubin< 2.6 & SpleenPalpable>=1.5 & Varices< 1.5
+Bilirubin>=1.35 & Anorexia>=1.5 & SpleenPalpable< 1.5
+Bilirubin>=1.35 & Sgot< 192 & SpleenPalpable< 1.5
+Malaise< 1.5 & AlkPhosphate< 85.5 & Spiders< 1.5
+Malaise< 1.5 & Steroid< 1.5 & Anorexia>=1.5 & LiverFirm< 1.5
+Ascites>=1.5 & Histology>=1.5 & Anorexia>=1.5 & Malaise< 1.5
+Ascites< 1.5 & Anorexia>=1.5 & LiverFirm>=1.5
+AlbuMin< 3.85 & Sex< 1.5 & Spiders< 1.5 & SpleenPalpable< 1.5
+Steroid< 1.5 & Anorexia>=1.5 & Ascites< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & AlbuMin>=3.55
+ProTime< 44 & ProTime>=26 & Spiders>=1.5
+ProTime< 44 & Anorexia>=1.5 & ProTime>=35.5 & Bilirubin>=1.05
+Fatigue< 1.5 & Varices< 1.5 & SpleenPalpable>=1.5
+Histology>=1.5 & Sgot< 80.5 & AlkPhosphate>=135
+AlbuMin< 3.85 & Sgot< 86 & Varices< 1.5
+Ascites>=1.5 & AlkPhosphate>=236.5
+AlkPhosphate>=236.5
+Spiders>=1.5 & LiverFirm< 1.5 & LiverBig>=1.5 & Sgot< 110.5 & Malaise< 1.5
+Spiders< 1.5 & Anorexia>=1.5 & LiverFirm< 1.5 & Malaise< 1.5 & Sgot>=156.5
+Malaise< 1.5 & Anorexia>=1.5 & Sgot< 34
+Fatigue< 1.5 & Sex< 1.5 & Sgot< 161.5 & Sgot>=153.5
+Sex< 1.5 & Sgot< 161.5 & Sgot>=153.5
+Sgot< 161.5 & Sgot>=156.5
+Fatigue< 1.5 & Sgot< 161.5 & Sgot>=156.5
+Anorexia>=1.5 & Sgot< 161.5 & Sgot>=156.5
+Anorexia>=1.5 & Sex< 1.5 & Sgot< 161.5 & Sgot>=151
+Anorexia>=1.5 & Fatigue< 1.5 & Sgot< 161.5 & Sgot>=156.5
+Anorexia>=1.5 & Fatigue< 1.5 & Sex< 1.5 & SpleenPalpable< 1.5 & Steroid< 1.5
+Anorexia>=1.5 & Fatigue< 1.5 & Sex< 1.5 & SpleenPalpable< 1.5 & LiverFirm>=1.5
+LiverBig>=1.5 & Sex< 1.5 & LiverFirm< 1.5 & Sgot< 30.5
+LiverBig>=1.5 & SpleenPalpable>=1.5 & Steroid>=1.5 & Sgot< 34 & LiverFirm< 1.5
+LiverBig>=1.5 & Steroid>=1.5 & Sgot< 30.5 & LiverFirm< 1.5
+LiverBig>=1.5 & Anorexia>=1.5 & Sgot< 161.5 & Sgot>=156.5
+LiverBig>=1.5 & LiverFirm< 1.5 & Sgot< 161.5 & Sgot>=156.5
+LiverBig>=1.5 & Sgot< 161.5 & Sgot>=156.5
+LiverBig>=1.5 & Sex< 1.5 & Anorexia>=1.5 & Sgot< 161.5 & Sgot>=151
+LiverBig>=1.5 & Fatigue< 1.5 & Sgot< 161.5 & Sgot>=156.5
+Malaise< 1.5 & LiverBig>=1.5 & Sgot< 36.5
+Malaise< 1.5 & Sgot>=34 & Sgot>=54.5 & Sgot< 84.5 & Sgot>=69.5
+Malaise< 1.5 & Anorexia>=1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+Spiders< 1.5 & Sgot< 72.5 & Sgot>=66.5
+Spiders>=1.5 & LiverFirm< 1.5 & Sgot< 110.5 & Sgot>=72
+Spiders>=1.5 & LiverFirm< 1.5 & LiverBig>=1.5 & Sgot< 110.5 & Sgot>=67.5
+Varices>=1.5 & Malaise< 1.5 & Age>=32.5 & Sgot>=54 & SpleenPalpable< 1.5
+Varices>=1.5 & Malaise< 1.5 & Sgot>=54 & Sgot< 84.5 & Sgot>=69.5
+Varices>=1.5 & Malaise< 1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+Varices>=1.5 & Malaise< 1.5 & Steroid< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5
+Varices>=1.5 & Malaise< 1.5 & Steroid< 1.5 & Age>=32.5 & Age>=55.5
+Varices>=1.5 & Spiders< 1.5 & LiverBig>=1.5 & Sgot< 72.5 & Sgot>=66.5
+Varices< 1.5 & Spiders>=1.5
+Varices>=1.5 & Spiders< 1.5 & Sgot< 72.5 & Sgot>=66.5
+Varices>=1.5 & Spiders< 1.5 & Anorexia>=1.5 & Sgot< 72.5 & Sgot>=61.5
+Varices>=1.5 & Spiders< 1.5 & Sex< 1.5 & Sgot< 72.5 & Sgot>=66.5
+AlkPhosphate< 236.5 & Malaise< 1.5 & Anorexia>=1.5 & Sgot< 34
+AlkPhosphate< 236.5 & AlkPhosphate>=81.5 & AlkPhosphate< 84.5
+AlkPhosphate< 236.5 & Malaise< 1.5 & Anorexia>=1.5 & AlkPhosphate< 173 & SpleenPalpable< 1.5
+AlkPhosphate< 236.5 & Varices>=1.5 & Malaise< 1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+AlkPhosphate< 236.5 & Varices>=1.5 & SpleenPalpable< 1.5 & AlkPhosphate< 120 & AlkPhosphate>=92.5
+AlkPhosphate< 236.5 & Age>=41.5 & Varices>=1.5 & SpleenPalpable< 1.5 & Age< 49.5
+AlkPhosphate< 236.5 & Age>=41.5 & Varices>=1.5 & Fatigue< 1.5 & Age< 46
+Bilirubin>=1.35 & Malaise< 1.5 & Bilirubin< 1.55
+Bilirubin>=1.35 & Sex< 1.5 & Bilirubin< 1.55
+Bilirubin>=1.35 & Sex< 1.5 & Sgot>=82 & Sgot< 192 & Bilirubin>=2.25
+Histology>=1.5 & Spiders>=1.5 & Antivirals>=1.5 & Fatigue< 1.5 & Steroid>=1.5
+Histology>=1.5 & AlkPhosphate< 126.5 & AlkPhosphate< 85.5 & AlkPhosphate>=57.5 & AlkPhosphate< 66.5
+Histology>=1.5 & Sex< 1.5 & Antivirals>=1.5 & SpleenPalpable< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sex< 1.5 & SpleenPalpable< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Varices>=1.5 & Steroid< 1.5 & AlkPhosphate< 127 & SpleenPalpable< 1.5
+Histology>=1.5 & Varices>=1.5 & LiverFirm>=1.5 & SpleenPalpable< 1.5
+Histology>=1.5 & Varices>=1.5 & AlkPhosphate< 111 & AlkPhosphate>=92.5
+Histology>=1.5 & Malaise< 1.5 & Varices>=1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+Histology>=1.5 & Anorexia>=1.5 & Sex< 1.5 & SpleenPalpable< 1.5 & LiverFirm>=1.5
+Histology>=1.5 & Sgot>=80.5 & Sgot>=148.5 & Sgot< 165
+Histology>=1.5 & Sgot< 80.5 & Sex< 1.5 & Spiders>=1.5 & Sgot>=72
+Histology>=1.5 & Sgot< 80.5 & Anorexia>=1.5 & Malaise>=1.5 & AlkPhosphate>=135
+Histology>=1.5 & LiverBig>=1.5 & Varices>=1.5 & AlkPhosphate< 111 & AlkPhosphate>=92.5
+Histology>=1.5 & LiverBig>=1.5 & Varices>=1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+Histology>=1.5 & LiverBig>=1.5 & Sgot< 80.5 & Malaise>=1.5 & AlkPhosphate>=135
+Ascites>=1.5 & Malaise< 1.5 & Steroid< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5
+Ascites>=1.5 & Malaise< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5
+Ascites>=1.5 & Histology>=1.5 & Age>=36 & Age< 49.5 & Age>=46
+Ascites>=1.5 & Histology>=1.5 & Malaise< 1.5 & LiverFirm>=1.5
+Ascites>=1.5 & Bilirubin>=1.35 & Sex< 1.5 & Bilirubin< 1.55
+Ascites< 1.5 & Bilirubin< 2.4 & SpleenPalpable>=1.5 & LiverFirm< 1.5
+Ascites>=1.5 & AlkPhosphate< 236.5 & Bilirubin>=1.35 & Age>=42.5 & Age< 50
+AlbuMin< 3.85 & AlbuMin>=2.65 & Bilirubin< 4.05 & AlkPhosphate>=236.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Bilirubin>=4.05
+AlbuMin< 3.85 & AlbuMin>=2.65 & AlkPhosphate>=236.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Sgot< 191 & Sgot>=148.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Ascites>=1.5 & AlbuMin>=3.45 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & LiverFirm>=1.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & SpleenPalpable>=1.5 & AlbuMin>=3.75 & Antivirals< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & SpleenPalpable< 1.5 & AlbuMin>=3.45
+AlbuMin< 3.85 & AlbuMin>=2.65 & AlbuMin>=3.75 & Antivirals< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Anorexia>=1.5 & SpleenPalpable< 1.5 & AlbuMin>=3.45
+AlbuMin< 3.85 & AlbuMin>=2.65 & Anorexia>=1.5 & AlbuMin>=3.75 & Antivirals< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Spiders< 1.5 & AlbuMin>=3 & Ascites< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Spiders< 1.5 & AlbuMin>=3 & AlbuMin< 3.35
+AlbuMin< 3.85 & AlbuMin>=2.65 & LiverBig>=1.5 & Sgot< 192 & Sgot>=148.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Malaise< 1.5 & Antivirals< 1.5
+AlbuMin< 3.85 & AlbuMin>=2.65 & Bilirubin< 4.05 & AlbuMin>=3.45 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & Age>=32.5 & Age< 60 & Malaise>=1.5 & Ascites< 1.5
+AlbuMin< 3.85 & Histology>=1.5 & AlbuMin>=2.8 & AlbuMin>=3.7
+ProTime>=44 & Bilirubin>=1.65 & Sgot< 56
+ProTime< 44 & Age>=32.5 & Malaise>=1.5 & Ascites< 1.5
+ProTime< 44 & Anorexia>=1.5 & Malaise>=1.5 & Ascites< 1.5
+ProTime< 44 & ProTime>=26 & AlkPhosphate>=128 & Ascites< 1.5
+ProTime< 44 & ProTime>=26 & Ascites>=1.5 & Antivirals< 1.5
+ProTime< 44 & Anorexia>=1.5 & AlbuMin< 3.9 & ProTime>=35.5 & AlbuMin>=3.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & Spiders>=1.5
+ProTime< 44 & Fatigue< 1.5 & Spiders< 1.5 & Sgot< 42
+ProTime< 44 & Fatigue< 1.5 & Spiders< 1.5 & Sgot>=42 & Sgot>=137.5
+ProTime< 44 & Fatigue< 1.5 & Ascites>=1.5 & Antivirals< 1.5
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & AlbuMin< 2.65
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & LiverFirm< 1.5 & ProTime< 34
+ProTime< 44 & Fatigue< 1.5 & AlkPhosphate>=128 & ProTime>=30 & ProTime< 34
+ProTime< 44 & Anorexia>=1.5 & Ascites>=1.5 & Bilirubin>=1.45
+Spiders< 1.5 & Anorexia>=1.5 & Malaise< 1.5 & Sgot>=156.5
+Sex< 1.5 & Sgot< 161.5 & Sgot>=151
+Malaise< 1.5 & Sgot< 84.5 & Sgot>=69.5
+Malaise< 1.5 & Steroid< 1.5 & Anorexia>=1.5 & SpleenPalpable< 1.5
+Malaise< 1.5 & Steroid< 1.5 & Age>=55.5
+Spiders< 1.5 & Anorexia>=1.5 & Sgot< 72.5 & Sgot>=61.5
+SpleenPalpable< 1.5 & AlkPhosphate< 120 & AlkPhosphate>=92.5
+Age>=41.5 & SpleenPalpable< 1.5 & Age< 49.5
+Age>=41.5 & Fatigue< 1.5 & Age< 46
+Sgot>=82 & Sgot< 192 & Bilirubin>=2.25
+Histology>=1.5 & AlkPhosphate< 111 & AlkPhosphate>=92.5
+Malaise< 1.5 & Varices>=1.5 & Steroid< 1.5 & SpleenPalpable< 1.5
+Histology>=1.5 & Sgot< 80.5 & Spiders>=1.5 & Sgot>=72
+Histology>=1.5 & Sgot< 80.5 & Malaise>=1.5 & AlkPhosphate>=135
+AlbuMin< 3.85 & Bilirubin>=4.05
+AlbuMin< 3.85 & AlbuMin>=3.45 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & LiverFirm>=1.5 & SpleenPalpable< 1.5
+AlbuMin< 3.85 & AlbuMin>=3.75 & Antivirals< 1.5
+AlbuMin< 3.85 & SpleenPalpable< 1.5 & AlbuMin>=3.45
+AlbuMin< 3.85 & Sgot< 192 & Sgot>=148.5
+Age>=32.5 & Age< 60 & Malaise>=1.5 & Ascites< 1.5
+ProTime< 44 & Malaise>=1.5 & Ascites< 1.5
+ProTime< 44 & ProTime>=26 & Antivirals< 1.5
+ProTime< 44 & AlbuMin< 3.9 & ProTime>=35.5 & AlbuMin>=3.5
+ProTime< 44 & Spiders< 1.5 & Sgot< 42
+ProTime< 44 & Sgot>=137.5
+ProTime< 44 & Fatigue< 1.5 & Antivirals< 1.5
+Age>=32.5 & Malaise>=1.5 & Ascites< 1.5

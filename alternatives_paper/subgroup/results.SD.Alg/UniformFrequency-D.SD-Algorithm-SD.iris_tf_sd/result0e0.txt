@@ -1,0 +1,33 @@
+Rule 1: IF  PetalLength <= 5 AND PetalWidth <= 6 THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 2: IF  PetalLength <= 5 THEN Class -> False  
+[  0.99  0.01  ]
+
+Rule 3: IF  PetalWidth <= 4 THEN Class -> False  
+[  1.00  0.00  ]
+
+Rule 4: IF  SepalLength <= 4 THEN Class -> False  
+[  0.97  0.03  ]
+
+Rule 5: IF  SepalWidth > 6 THEN Class -> False  
+[  0.81  0.19  ]
+
+Rule 6: IF  PetalWidth > 6 AND PetalLength <> 6 THEN Class -> True  
+[  0.02  0.98  ]
+
+Rule 7: IF  PetalWidth > 6 THEN Class -> True  
+[  0.04  0.96  ]
+
+Rule 8: IF  PetalLength > 6 THEN Class -> True  
+[  0.08  0.92  ]
+
+Rule 9: IF  SepalLength > 6 THEN Class -> True  
+[  0.26  0.74  ]
+
+Rule 10: IF  SepalWidth <= 6 THEN Class -> True  
+[  0.61  0.39  ]
+
+
+
+Time: 0.246

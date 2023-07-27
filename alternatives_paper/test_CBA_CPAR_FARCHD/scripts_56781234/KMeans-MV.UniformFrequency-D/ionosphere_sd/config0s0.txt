@@ -1,0 +1,6 @@
+algorithm = Uniform Frequency Discretizer
+inputData = "../datasets/KMeans-MV.ionosphere_sd/KMeans-MVs0.ionosphere_sd1tra.dat" "../datasets/KMeans-MV.ionosphere_sd/KMeans-MVs0.ionosphere_sd1tst.dat" 
+outputData = "../datasets/KMeans-MV.UniformFrequency-D.ionosphere_sd/KMeans-MV.UniformFrequency-Ds0.ionosphere_sd1tra.dat" "../datasets/KMeans-MV.UniformFrequency-D.ionosphere_sd/KMeans-MV.UniformFrequency-Ds0.ionosphere_sd1tst.dat" "../datasets/KMeans-MV.UniformFrequency-D.ionosphere_sd/result1s0e0.txt"  
+
+seed = 56781234
+numIntervals = 10

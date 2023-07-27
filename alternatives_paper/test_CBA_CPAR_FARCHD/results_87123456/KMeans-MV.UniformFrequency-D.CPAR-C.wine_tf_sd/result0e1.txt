@@ -1,0 +1,89 @@
+@Number of rules: 86 Number of Antecedents by rule: 1.0705882352941176
+
+1: Hue IS 5: False
+2: Hue IS 5: False
+3: Hue IS 5: False
+4: Hue IS 7: False
+5: OD280/OD315 IS 4: False
+6: OD280/OD315 IS 4: False
+7: Hue IS 7: False
+8: OD280/OD315 IS 4: False
+9: Hue IS 7: False
+10: ColorIntensity IS 2: False
+11: flavanoids IS 6: False
+12: OD280/OD315 IS 6: False
+13: Ash IS 0: False
+14: TotalPhenols IS 5: False
+15: ColorIntensity IS 2: False
+16: flavanoids IS 6: False
+17: ColorIntensity IS 2: False
+18: OD280/OD315 IS 6: False
+19: Hue IS 0: True
+20: OD280/OD315 IS 0: True
+21: OD280/OD315 IS 0: True
+22: OD280/OD315 IS 0: True
+23: Hue IS 0: True
+24: Hue IS 0: True
+25: OD280/OD315 IS 0: True
+26: Hue IS 0: True
+27: OD280/OD315 IS 0: True
+28: OD280/OD315 IS 0: True
+29: Hue IS 8: False
+30: Hue IS 9: False
+31: Proline IS 0: False
+32: TotalPhenols IS 9: False
+33: ColorIntensity IS 0: False
+34: OD280/OD315 IS 9: False
+35: Proline IS 9: False
+36: Alcohol IS 0: False
+37: flavanoids IS 4: False
+38: Proline IS 8: False
+39: ColorIntensity IS 1: False
+40: ColorIntensity IS 0: False
+41: flavanoids IS 9: False
+42: AlcalinityOfAsh IS 1: False
+43: Hue IS 8: False
+44: ColorIntensity IS 0: False
+45: ColorIntensity IS 1: False
+46: flavanoids IS 9: False
+47: OD280/OD315 IS 9: False
+48: flavanoids IS 4: False
+49: Hue IS 8: False
+50: Alcohol IS 0: False
+51: OD280/OD315 IS 9: False
+52: flavanoids IS 1: True
+53: flavanoids IS 1: True
+54: flavanoids IS 1: True
+55: flavanoids IS 1: True
+56: flavanoids IS 1: True
+57: OD280/OD315 IS 8: False
+58: flavanoids IS 7: False
+59: OD280/OD315 IS 7: False
+60: flavanoids IS 8: False
+61: OD280/OD315 IS 8: False
+62: flavanoids IS 8: False
+63: flavanoids IS 7: False
+64: OD280/OD315 IS 7: False
+65: OD280/OD315 IS 8: False
+66: OD280/OD315 IS 5: False
+67: MalicAcid IS 2: False
+68: OD280/OD315 IS 5: False
+69: AlcalinityOfAsh IS 0: False
+70: Hue IS 6: False
+71: flavanoids IS 1 AND Hue IS 1: True
+72: AlcalinityOfAsh IS 2: False
+73: flavanoids IS 0: True
+74: flavanoids IS 0: True
+75: flavanoids IS 0: True
+76: flavanoids IS 0: True
+77: flavanoids IS 0: True
+78: flavanoids IS 0: True
+79: flavanoids IS 0: True
+80: TotalPhenols IS 0 AND Hue IS 1: True
+81: ColorIntensity IS 8 AND Hue IS 1: True
+82: Magnesium IS 0 AND Proanthocyanins IS 5: False
+83: Proanthocyanins IS 5: False
+84: AlcalinityOfAsh IS 9 AND Hue IS 1: True
+85: Proanthocyanins IS 2 AND Hue IS 1: True
+
+

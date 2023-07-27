@@ -1,0 +1,35 @@
+GENERATED RULE 0
+   Antecedent
+	Variable Left-weight = Label 1 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable Right-distance = Label 1 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable Left-distance = Label 1 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 3
+   Antecedent
+	Variable Right-weight = Label 1 	 (1.0 3.0 5.0)
+   Consecuent: False
+
+GENERATED RULE 4
+   Antecedent
+	Variable Right-distance = Label 2 	 (3.0 5.0 7.0)
+   Consecuent: False
+
+GENERATED RULE 5
+   Antecedent
+	Variable Right-distance = Label 0 	 (-1.0 1.0 3.0)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Left-weight = Label 1 	 (1.0 3.0 5.0)
+   Consecuent: True
+

@@ -1,0 +1,1 @@
+2  ../datasets/KMeans-MV.glass_tf/KMeans-MVs0.glass_tf1tra.dat../results/KMeans-MV.QAR_CIP_NSGAII-A.glass_tf/result0s0.tra

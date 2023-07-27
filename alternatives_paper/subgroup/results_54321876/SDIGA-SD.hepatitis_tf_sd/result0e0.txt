@@ -1,0 +1,10 @@
+GENERATED RULE 0
+   Antecedent
+	Variable AlbuMin = Label 1 	 (2.1 4.25 6.4)
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable Sex = Label 0 	 (0.5 1.0 1.5)
+   Consecuent: True
+

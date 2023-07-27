@@ -1,0 +1,98 @@
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A64
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: False
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A64
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable Telephone = A192
+   Consecuent: False
+
+GENERATED RULE 0
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A64
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+   Consecuent: True
+
+GENERATED RULE 1
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 0 	 (-0.5 1.0 2.5)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable Telephone = A192
+   Consecuent: True
+
+GENERATED RULE 2
+   Antecedent
+	Variable StatusAccount = A12
+	Variable CreditHistory = A33
+	Variable Purpose = A43
+	Variable CreditAmount = Label 1 	 (250.0 9337.0 18424.0)
+	Variable SavingsAccount = A64
+	Variable InstallmentRate = Label 1 	 (1.0 2.5 4.0)
+	Variable ResidenceSince = Label 0 	 (-0.5 1.0 2.5)
+	Variable Age = Label 2 	 (47.0 75.0 103.0)
+	Variable InstallmentPlans = A142
+	Variable NCredits = Label 1 	 (1.0 2.5 4.0)
+	Variable Job = A172
+	Variable NPeopleMain = Label 2 	 (1.5 2.0 2.5)
+	Variable Telephone = A192
+   Consecuent: True
+
