@@ -2,14 +2,14 @@
 This repository contains the rules produced by the algorithms tested in the submission "Exceptional coverage and description diversity in non-dominated class association rules", together with the scripts that process them and generate the tables and figures.
 
 ## Figures and tables in the submission
-1. Open Original_results.html
+1. Open `Original_results.html`
 
 ## Figures and tables generated from the available data (no colorectal dataset)
-1. Open Generated_results.html
+1. Open `Generated_results.html`
 
 ## You really want you generate the figures yourself
 
-You just have to create a virtual environment, install the required libraries, and run the python scripts. Afterwards, you can open Generated_results.html, for the results generated with the available data (no colorectal dataset).
+You just have to create a virtual environment, install the required libraries, and run the python scripts. Afterwards, you can open `Generated_results.html`, for the results generated with the available data (no colorectal dataset).
 
 ```bash
 virtualenv venv
