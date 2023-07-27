@@ -25,7 +25,7 @@ python scripts/results2latex.py
 
 **IMPORTANT NOTICE:** This sofware has been successfully tested on three ubuntu 22.04 systems. In any case, be aware that the software is provided "as is", without warranty of any kind, express or implied. Please, read the license.
 
-In addition, be aware that the program tries to apply the non-parametric version of the Scott-Knott-ESD statistical test (available at https://github.com/klainfo/ScottKnottESD). It is highly recommended that you follow the instructions at https://github.com/klainfo/ScottKnottESD - "Install from python (by calling R package via rpy2)", before running `apriori2latex.py` or `results2latex.py`, to make these two scripts ablo to compute the test. But nevertheless, these script can try to locate the required packages, or ask you if they should try to install them locally. For such installation, the software checks that the following tools are installed (this needs to use the python package apt):
+In addition, be aware that the program tries to apply the non-parametric version of the Scott-Knott-ESD statistical test (available at https://github.com/klainfo/ScottKnottESD). It is highly recommended that you follow the instructions at https://github.com/klainfo/ScottKnottESD - "Install from python (by calling R package via rpy2)", before running `apriori2latex.py` or `results2latex.py`, to make these two scripts able to compute the test. But nevertheless, these script can try to locate the required packages, or ask you if they should try to install them locally. For such installation, the software checks that the following tools are installed (this needs to use the python package apt):
 - R (r-base and r-base-core)
 - cmake
 - libcurl4-openssl-dev
