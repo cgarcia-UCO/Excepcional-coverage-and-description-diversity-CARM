@@ -1,5 +1,6 @@
 # Exceptional coverage and description diversity in non-dominated class association rules
 This repository contains the rules produced by the algorithms tested in the submission "Exceptional coverage and description diversity in non-dominated class association rules", together with the scripts that process them and generate the tables and figures.
+<a href="https://zenodo.org/badge/latestdoi/600094467"><img src="https://zenodo.org/badge/600094467.svg" alt="DOI"></a>
 
 ## Figures and tables in the submission
 1. Open `Original_results.html`
